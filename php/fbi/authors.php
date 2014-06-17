@@ -71,13 +71,24 @@
 <?php
 
 include("connect.php");
-
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+require_once("../common.php");
 
 if(isset($_GET['letter']))
 {
 	$letter=$_GET['letter'];
+
+	if(!(isValidLetter($letter)))
+	{
+		echo "Invalid URL";
+		
+		echo "</div></div>";
+		include("include_footer.php");
+		echo "<div class=\"clearfix\"></div></div>";
+		include("include_footer_out.php");
+		echo "</body></html>";
+		exit(1);
+	}
+
 	if($letter == '')
 	{
 		$letter = 'A';
@@ -88,6 +99,8 @@ else
 	$letter = 'A';
 }
 
+$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+$rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from author where authorname like '$letter%' and type like '%$type_code%' order by authorname";
 

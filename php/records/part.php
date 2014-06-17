@@ -43,12 +43,25 @@
 <?php
 
 include("connect.php");
-
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+require_once("../common.php");
 
 $volume=$_GET['vol'];
 $year=$_GET['year'];
+
+if(!(isValidVolume($volume) && isValidYear($year)))
+{
+	echo "Invalid URL";
+	
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
+}
+
+$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+$rs = mysql_select_db($database,$db) or die("No Database");
 
 echo "<div class=\"page_title\"><span class=\"motif rec_motif\"></span>Volume&nbsp;".intval($volume)."&nbsp;(".$year.") <span class=\"it\">(Records)</span></div>";
 ?>

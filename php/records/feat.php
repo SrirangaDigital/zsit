@@ -43,12 +43,27 @@
 <?php
 
 include("connect.php");
-
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+require_once("../common.php");
 
 $feat_name=$_GET['feature'];
 $featid=$_GET['featid'];
+
+$feat_name = entityReferenceReplace($feat_name);
+
+if(!(isValidFeature($feat_name) && isValidFeatid($featid)))
+{
+	echo "Invalid URL";
+	
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
+}
+
+$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+$rs = mysql_select_db($database,$db) or die("No Database");
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 

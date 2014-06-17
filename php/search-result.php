@@ -52,6 +52,7 @@
 <?php
 
 include("cas/connect.php");
+require_once("common.php");
 
 $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 $rs = mysql_select_db($database,$db) or die("No Database");
@@ -67,6 +68,10 @@ if(isset($_POST['check']))
 	$text=$_POST['text'];
 	$title=$_POST['title'];
 
+	$text = entityReferenceReplace($text);
+	$author = entityReferenceReplace($author);
+	$title = entityReferenceReplace($title);
+	
 	$author = preg_replace("/[\t]+/", " ", $author);
 	$author = preg_replace("/[ ]+/", " ", $author);
 	$author = preg_replace("/^ /", "", $author);
@@ -93,7 +98,10 @@ if(isset($_POST['check']))
 	}
 	
 	$cfl = 0;
-
+	
+	$author = addslashes($author);
+	$title = addslashes($title);
+	
 	if($text=='')
 	{
 		$iquery{"rec"}="(SELECT titleid, title, authid, authorname, page, 'type', featid from article_records WHERE authorname REGEXP '$author' and title REGEXP '$title')";
@@ -149,7 +157,9 @@ if(isset($_POST['check']))
 			$stext = $text;
 			$dtext = $stext = preg_replace("/ /", "|", $text);
 		}
-
+		
+		$stext = addslashes($stext);
+		
 		$iquery{"rec"}="(SELECT * FROM
 							(SELECT * FROM
 								(SELECT * FROM
@@ -277,7 +287,7 @@ if(isset($_POST['check']))
 	}
 	
 	$result = mysql_query($query);
-
+	
 	$num_results = mysql_num_rows($result);
 
 	if ($num_results > 0)

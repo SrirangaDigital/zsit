@@ -43,15 +43,31 @@
 
 <?php
 include("connect.php");
+require_once("../common.php");
 
 $book_id = $_GET['book_id'];
 $type = $_GET['type'];
 $book_title = $_GET['book_title'];
 
+$book_title = entityReferenceReplace($book_title);
+
+if(!(isValidId($book_id) && isValidType($type) && isValidTitle($book_title)))
+{
+	echo "Invalid URL";
+	
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
+}
+
 $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 $rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from sfs_book_toc where book_id=$book_id and type='$type' order by slno";
+
 $result = mysql_query($query);
 $num_rows = mysql_num_rows($result);
 
@@ -70,7 +86,6 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 
 //~ $plus_link = "+";
 //~ $bullet = ".";
-
 
 $query_aux = "select * from sfs_books_list where book_id=$book_id and type='sfs'";
 $result_aux = mysql_query($query_aux);

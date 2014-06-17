@@ -52,12 +52,27 @@
 <?php
 
 include("bulletin/connect.php");
-
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+require_once("common.php");
 
 $authid=$_GET['authid'];
 $authorname=$_GET['author'];
+
+$authorname = entityReferenceReplace($authorname);
+
+if(!(isValidAuthid($authid) && isValidAuthor($authorname)))
+{
+	echo "Invalid URL";
+	
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
+}
+
+$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+$rs = mysql_select_db($database,$db) or die("No Database");
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
@@ -78,7 +93,7 @@ UNION ALL (select type, book_id, title, page from tcm_books_list where authid li
 UNION ALL (select type, book_id, title, page from zlg_book_toc where authid like '%$authid%')
 UNION ALL (select 'type', titleid, title, page from article_bulletin where authid like '%$authid%')";
 
-//echo $query;
+// echo $query;
 
 $result = mysql_query($query);
 

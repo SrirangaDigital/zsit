@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cas SYSTEM "cas.dtd">
+
+<cas>
+	<book bid="001">
+		<s1 page="0000d" title="Preface" author=""></s1>
+		<s1 page="0000e" title="Acknowledgements" author=""></s1>
+		<s1 page="0001" title="The Park :" author="Lamba, B. S.">
+			<s2 page="0001" title="Location" author=""></s2>
+			<s2 page="0002" title="Accessibility" author=""></s2>
+			<s2 page="0002" title="Topography" author=""></s2>
+			<s2 page="0003" title="Major Glaciers &amp; Stream System" author=""></s2>
+			<s2 page="0004" title="Treks and Campsites" author=""></s2>
+			<s2 page="0009" title="Geology" author=""></s2>
+			<s2 page="0017" title="Climate" author=""></s2>
+			<s2 page="0018" title="Vegetation" author=""></s2>
+			<s2 page="0021" title="Fauna" author=""></s2>
+		</s1>
+		<s1 page="0022" title="Appendices" author="">
+			<s2 page="0022" title="Appendix I&#8212;Mammals" author=""></s2>
+			<s2 page="0025" title="Appendix II&#8212;Birds" author=""></s2>
+		</s1>
+		<s1 page="" title="Plates" author=""></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0000d" title="Preface" author=""></s1>
+		<s1 page="0000e" title="Acknowledgements" author=""></s1>
+		<s1 page="0001" title="The Park :" author="Lamba, B. S.">
+			<s2 page="0001" title="(i) Location" author=""></s2>
+			<s2 page="0001" title="(ii) Topography" author=""></s2>
+			<s2 page="0002" title="(iii) Climate" author=""></s2>
+			<s2 page="0004" title="(iv) Soil Geology" author=""></s2>
+			<s2 page="0005" title="(v) Vegetation" author=""></s2>
+		</s1>
+		<s1 page="0006" title="Fauna :" author="Lamba, B. S.">
+			<s2 page="0006" title="Salient Features" author="">
+				<s3 page="0006" title="(A) Mammals" author=""></s3>
+				<s3 page="0007" title="(B) Birds" author=""></s3>
+				<s3 page="0007" title="(C) Reptiles" author=""></s3>
+			</s2>
+		</s1>
+		<s1 page="0008" title="Appendix I &#8212; Mammals" author=""></s1>
+		<s1 page="0019" title="Appendix II &#8212; Birds" author=""></s1>
+		<s1 page="0082" title="Appendix III&#8212;Reptiles" author="">
+			<s2 page="0082" title="Snakes" author=""></s2>
+			<s2 page="0084" title="Lizards" author=""></s2>
+			<s2 page="0085" title="Crocodiles" author=""></s2>
+			<s2 page="0086" title="Tortoises" author=""></s2>
+		</s1>
+		<s1 page="0087" title="Plates" author=""></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0000d" title="Editor's Preface"  author=""></s1>
+		<s1 page="0001" title="Introduction" author="Mandal, A. K.;Nandi, N. C."></s1>
+		<s1 page="0002" title="Brief Review of the Previous Work" author=""></s1>
+		<s1 page="0005" title="Physical Feature, Soil, Climate, Etc.," author="">
+			<s2 page="0005" title="Physical Features" author=""></s2>
+			<s2 page="0007" title="Estuary" author=""></s2>
+			<s2 page="0008" title="Soil" author=""></s2>
+			<s2 page="0009" title="Climate" author=""></s2>
+			<s2 page="0011" title="Hydrology" author=""></s2>
+		</s1>
+		<s1 page="0011" title="Vegetation" author=""></s1>
+		<s1 page="0013" title="Fauna" author="">
+			<s2 page="0057" title="Littoral or Suptra-Littoral Forest" author="">
+				<s3 page="0057" title="Fauna" author=""></s3>
+				<s3 page="0058" title="Tree Community" author=""></s3>
+				<s3 page="0062" title="Ground dwellers" author=""></s3>
+			</s2>
+			<s2 page="0065" title="Intertidal Mudflat Fauna" author=""></s2>
+			<s2 page="0069" title="Estuarine Fauna" author=""></s2>
+			<s2 page="0077" title="Parasite-Fauna" author=""></s2>
+		</s1>
+		<s1 page="0079" title="Adaptations" author="">
+			<s2 page="0080" title="Anatomical Specialisation" author=""></s2>
+			<s2 page="0082" title="Physiological Specialisation" author=""></s2>
+			<s2 page="0082" title="Behavioural Specialisation" author=""></s2>
+		</s1>
+		<s1 page="0085" title="Discussion" author=""></s1>
+		<s1 page="0094" title="Acknowledgements" author=""></s1>
+		<s1 page="0097" title="References" author=""></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="Introduction" author="Das, A. K.;Roy, M. K. Dev"></s1>
+		<s1 page="0002" title="Earlier Works" author=""></s1>
+		<s1 page="0002" title="Physiography and Study Areas" author=""></s1>
+		<s1 page="0015" title="Material and Methods" author=""></s1>
+		<s1 page="0016" title="Mangrove Fauna" author=""></s1>
+		<s1 page="0109" title="Quantitative Study" author=""></s1>
+		<s1 page="0124" title="Faunal Zonations" author=""></s1>
+		<s1 page="0125" title="General Remarks" author=""></s1>
+		<s1 page="0153" title="Acknowledgements" author=""></s1>
+		<s1 page="0154" title="Summary" author=""></s1>
+		<s1 page="0155" title="References" author=""></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0000f" title="Foreword" author=""></s1>
+		<s1 page="0001" title="Introduction" author="Arora, G. S."></s1>
+		<s1 page="0009" title="Mammals (Mammalia)" author="Sinha, N. K."></s1>
+		<s1 page="0025" title="Birds (Aves)" author="Narang, M. L."></s1>
+		<s1 page="0055" title="Amphibia" author="Ray, Pranjalendu;Tilak, Raj"></s1>
+		<s1 page="0077" title="Turtles and Tortoises (Reptilia : Testudines)" author="Husain, Akhlaq;Tilak, Raj"></s1>
+		<s1 page="0087" title="Lizards (Reptilia : Sauria)" author="Chopra, R. N."></s1>
+		<s1 page="0091" title="Snakes (Reptilia : Serpentes)" author="Husain, Akhlaq;Tilak, Raj"></s1>
+		<s1 page="0115" title="Fishes (Pisces)" author="Husain, Akhlaq;Tilak, Raj"></s1>
+		<s1 page="0195" title="Odonata" author="Prasad, M.;Singh, Asket"></s1>
+		<s1 page="0217" title="Termites (Insecta : Isoptera)" author="Verma, S. C."></s1>
+		<s1 page="0237" title="Some Ecological Observations on the Centipede !!Cormocephalus dentipes!! Pocock, with comments on the sexual dimorphism in the species and on the status of !!C. Pseudonudipes!! Jangi and Dass" author="Khanna, Vinod"></s1>
+		<s1 page="0245" title="Lepidoptera : Butterflies" author="Arora, G. S."></s1>
+		<s1 page="0301" title="Hymenoptera (Insecta)" author="Gupta, S. K."></s1>
+		<s1 page="0309" title="Chilopoda : Scolopendridae" author="Khanna, Vinod"></s1>
+		<s1 page="0317" title="Scorpions (Scorpiones)" author="Biswas, A. T."></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0001" title="Indravati Tiger Reserve : An overview" author="Ghose, R. K."></s1>
+		<s1 page="0011" title="Insecta : Orthoptera" author="Shishodia, M. S."></s1>
+		<s1 page="0019" title="Insecta : Hemiptera" author="Biswas, B;Ghosh, L. K."></s1>
+		<s1 page="0031" title="Insecta : Odonata" author="Mitra, Tridib Ranjan"></s1>
+		<s1 page="0045" title="Insecta : Lepidoptera" author="Chaudhury, M."></s1>
+		<s1 page="0053" title="Arachnida : Spiders" author="Gajbe, U. A."></s1>
+		<s1 page="0057" title="Crustacea : Ostracoda" author="Harshy, D. K."></s1>
+		<s1 page="0061" title="Pisces" author="Sen, T. K."></s1>
+		<s1 page="0071" title="Amphibia" author="Chanda, S. K."></s1>
+		<s1 page="0077" title="Reptilia" author="Sanyal, D. P."></s1>
+		<s1 page="0085" title="Aves" author="Saha, S. S."></s1>
+		<s1 page="0093" title="Mammalia" author="Ghose, R. K."></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0001" title="Kanha Tiger Reserve : an overview" author="Ghose, R. K."></s1>
+		<s1 page="0009" title="Insecta : Isoptera" author="Chhotani, O. B."></s1>
+		<s1 page="0015" title="Insecta : Lepidoptera" author="Singh, R. K."></s1>
+		<s1 page="0019" title="Insecta : Orthoptera" author="Tandon, S. K.;Shishodia, M. S.;Dey, Anita"></s1>
+		<s1 page="0027" title="Arachnida : Spiders" author="Gajbe, U. A."></s1>
+		<s1 page="0031" title="Crustacea : Ostracoda" author="Harshey, D. K."></s1>
+		<s1 page="0033" title="Mollusca" author="Agrawal, H. P."></s1>
+		<s1 page="0041" title="Pisces" author="Sen, T. K."></s1>
+		<s1 page="0047" title="Amphibia" author="Chanda, S. K."></s1>
+		<s1 page="0051" title="Reptilia" author="Sanyal, D. P.;Sur, S."></s1>
+		<s1 page="0063" title="Aves" author="Ghosal, D. K."></s1>
+		<s1 page="0093" title="Mammalia" author="Ghose, R. K.;Bhattacharyya, T. P."></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0001" title="Fauna of Sunderbans Tiger Reserve" author=""></s1>
+		<s1 page="0047" title="Fauna of Manas Tiger Reserve" author=""></s1>
+		<s1 page="0083" title="Fauna of Palamau Tiger Reserve" author=""></s1>
+		<s1 page="0105" title="Fauna of Simlipal Tiger Reserve" author=""></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0000f" title="!!Foreword!!" author=""></s1>
+		<s1 page="0000g" title="!!Acknowledgements!!" author=""></s1>
+		<s1 page="0000h" title="!!Contributing Authors!!" author=""></s1>
+		<s1 page="0001" title="Contents" author="">
+			<s2 page="0001" title="Fauna of Nanda Devi Biosphere Reserve : An overview" author="Kumar, Arun;Tak, P. C.;Arora, G. S."></s2>
+			<s2 page="0007" title="Biogeography" author="Tak, P. C.">
+				<s3 page="0007" title="Location" author=""></s3>
+				<s3 page="0007" title="Villages" author=""></s3>
+				<s3 page="0007" title="Boundary" author=""></s3>
+				<s3 page="0008" title="Admn. zones" author=""></s3>
+				<s3 page="0008" title="Climate" author=""></s3>
+				<s3 page="0009" title="Geology" author=""></s3>
+				<s3 page="0009" title="Vegetation" author=""></s3>
+				<s3 page="0010" title="State of forest cover" author=""></s3>
+				<s3 page="0010" title="Accessibility" author=""></s3>
+				<s3 page="0011" title="Topography" author=""></s3>
+				<s3 page="0012" title="Major glacial and stream systems" author=""></s3>
+				<s3 page="0012" title="Treks and camp sites" author=""></s3>
+				<s3 page="0013" title="Areas surveyed" author=""></s3>
+				<s3 page="0015" title="Figures 1-10" author=""></s3>
+			</s2>
+		</s1>
+		<s1 page="0025" title="Faunal Diversity" author="">
+			<s2 page="0025" title="Invertebrata" author="">
+				<s3 page="0025" title="Mollusca" author="Rao, K. V. Surya;Mitra, S. C."></s3>
+				<s3 page="0029" title="Fossil Ammonite" author="Chatterjee, T. K."></s3>
+				<s3 page="0031" title="Annelida" author="Halder, K. R.;Ghosh, G. C."></s3>
+				<s3 page="0035" title="Arachnida" author="Biswas, B. K.;Biswas, A. T."></s3>
+				<s3 page="0041" title="Insecta" author="">
+					<s4 page="0041" title="Thysanura" author="Hazra, A. K."></s4>
+					<s4 page="0043" title="Collembola" author="Hazra, A. K."></s4>
+					<s4 page="0045" title="Odonata" author="Kumar, Arun"></s4>
+					<s4 page="0049" title="Orthoptera" author="Shishodia, M. S."></s4>
+					<s4 page="0055" title="Dermaptera" author="Srivastava, G. K."></s4>
+					<s4 page="0059" title="Hemiptera" author="Ghosh, L. K."></s4>
+					<s4 page="0065" title="Neuroptera" author="Ghosh, S. K."></s4>
+					<s4 page="0067" title="Lepidoptera" author="Arora, G. S."></s4>
+					<s4 page="0089" title="Trichoptera" author="Mozumdar, M."></s4>
+					<s4 page="0091" title="Diptera" author="Parui, P.;Mukherjee, M."></s4>
+					<s4 page="0097" title="Hymenoptera" author="Gupta, S. K."></s4>
+				</s3>
+				<s3 page="0105" title="Chilopoda" author="Khanna, Vinod"></s3>
+			</s2>
+			<s2 page="0107" title="Vertebrata" author="">
+				<s3 page="0107" title="Pisces" author="Husain, A."></s3>
+				<s3 page="0109" title="Amphibia" author="Ray, P."></s3>
+				<s3 page="0115" title="Reptilia" author="Husain, A.;Ray, P."></s3>
+				<s3 page="0129" title="Aves" author="Tak, P. C."></s3>
+				<s3 page="0151" title="Mammalia" author="Tak, P. C."></s3>
+				<s3 page="0163" title="Threatened Fauna" author="Kumar, Arun;Sati, J. P.;Tak, P. C."></s3>
+				<s3 page="0165" title="Faunal Analysis" author="Kumar, Arun;Sati, J. P.;Tak, P. C."></s3>
+			</s2>
+		</s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="Faunal Composition with special reference to Mammals" author="Chakraborty, S.;Bhattacharyya, T. P.;De, J. K."></s1>
+		<s1 page="0043" title="Amphibia" author="Ray, Sukumar"></s1>
+		<s1 page="0051" title="Reptilia" author="Sur, S.;Gayen, N. C.;Dasgupta, G.;Raha, S."></s1>
+		<s1 page="0065" title="Insecta : Hemiptera" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0079" title="Parasitic Nematades" author="Sarkar, S. R. Dey"></s1>
+	</book>
+	<book bid="011">
+		<s1 page="0001" title="1. Nilgiri Biosphere Reserve - An Overview" author="Cherian, P. T."></s1>
+		<s1 page="0007" title="2. Physiography, Climate, Vegetation and Faunal Exploration" author="Yazdani, G. M."></s1>
+		<s1 page="0013" title="3. Protozoa" author="Nair, K. N."></s1>
+		<s1 page="0025" title="4. Rotifera" author="Patil, S. G."></s1>
+		<s1 page="0029" title="5. Ostracoda" author="Patil, S. G."></s1>
+		<s1 page="0031" title="6. Cladocera (Crustacea)" author="Raghunathan, M. B.;Rane, P. D."></s1>
+		<s1 page="0039" title="7. Centipedes (Chilopoda : Scolopendridae)" author="Yadav, B. E."></s1>
+		<s1 page="0045" title="8. Millipede (Diplopoda)" author="Bai, M. Mary"></s1>
+		<s1 page="0055" title="9. Scorpion" author="Indra, T. J."></s1>
+		<s1 page="0059" title="10. Insecta : Orthoptera" author="Shishodia, M. S.;Kulkarni, P. P."></s1>
+		<s1 page="0065" title="11. Insecta : Grylloidea" author="Shishodia, M. S.;Vasanth, M."></s1>
+		<s1 page="0073" title="12. Insecta : Odonata" author="Prasad, M.;Kulkarni, P. P."></s1>
+		<s1 page="0085" title="13. Insecta : Leafhoppers (Homoptera : Cicadelidae)" author="Rao, K. Ramachandra"></s1>
+		<s1 page="0111" title="14. Insecta : Aquatic and Semi-Aquatic Heteroptera" author="Thirumalai, G."></s1>
+		<s1 page="0129" title="15. Insecta : Scarabid (Coleoptera)" author="Biswas, S.;Mulay, S. V."></s1>
+		<s1 page="0143" title="16. Insecta : Lepidoptera : Rhopalocera" author="Radhakrishnan, C.;Lakshminarayana, K. V."></s1>
+		<s1 page="0159" title="17. Insecta : Gallmidges (Diptera : Cecidomyiidae)" author="Sharma, R. M."></s1>
+		<s1 page="0165" title="18. Insecta : Agromyzidae (Diptera)" author="Cherian, P. T."></s1>
+		<s1 page="0171" title="19. Insecta : Chloropidae : Diptera" author="Cherian, P. T."></s1>
+		<s1 page="0183" title="20. Insecta : Tephritdae : Diptera" author="Radhakrishnan, C."></s1>
+		<s1 page="0193" title="21. Insecta : Chalcidoidea (Hymenoptera)" author="Sureshan, P. M."></s1>
+		<s1 page="0205" title="22. Insecta : Proctotrupoidea (Hymenoptera)" author="Sureshan, P. M."></s1>
+		<s1 page="0207" title="23. Pisces" author="Yazdani, G. M.;Devi, K. Reema;Raghunathan, M. B.;Singh, D. F."></s1>
+		<s1 page="0225" title="24. Amphibia" author="Ravichandran, M. S."></s1>
+		<s1 page="0239" title="25. Reptilia" author="Murthy, T. S. N."></s1>
+		<s1 page="0245" title="26. Aves" author="Mahabal, Anil;Vasanth, M."></s1>
+		<s1 page="0311" title="27. Mammalia" author="Pradhan, M. S.;Kurup, G. U."></s1>
+	</book>
+	<book bid="012">
+		<s1 page="0001" title="Introduction" author="Pradhan, M. S."></s1>
+		<s1 page="0002" title="Acknowledgement" author=""></s1>
+		<s1 page="0003" title="Mammalia" author="">
+			<s2 page="0003" title="Bonnet Macaque" author=""></s2>
+			<s2 page="0003" title="Rhesus Macaque" author=""></s2>
+			<s2 page="0004" title="Hanuman Langur" author=""></s2>
+			<s2 page="0005" title="Fulvous Fruit-Bat" author=""></s2>
+			<s2 page="0005" title="Indian FruitBat or Flying Fox" author=""></s2>
+			<s2 page="0006" title="Jungle Cat" author=""></s2>
+			<s2 page="0006" title="Leopard of Panther" author=""></s2>
+			<s2 page="0007" title="Common Palm Civet or Taddy Cat" author=""></s2>
+			<s2 page="0008" title="Common Mongoose" author=""></s2>
+			<s2 page="0008" title="Striped Hyena" author=""></s2>
+			<s2 page="0009" title="Jackal" author=""></s2>
+			<s2 page="0010" title="Indian Fox" author=""></s2>
+			<s2 page="0010" title="Wild Boar" author=""></s2>
+			<s2 page="0011" title="Chital of Spotted Deer" author=""></s2>
+			<s2 page="0012" title="Sambar" author=""></s2>
+			<s2 page="0012" title="Barking Deer" author=""></s2>
+			<s2 page="0013" title="Mouse Deer of Indian Chevrotain" author=""></s2>
+			<s2 page="0014" title="Indian Hare" author=""></s2>
+			<s2 page="0014" title="Indian Porcupine" author=""></s2>
+			<s2 page="0015" title="Stripped Squirels" author=""></s2>
+			<s2 page="0016" title="Rats, Bandicoots and Mice" author=""></s2>
+		</s1>
+		<s1 page="0016" title="Aves" author="">
+			<s2 page="0016" title="Little Grebe or Dabchick" author=""></s2>
+			<s2 page="0017" title="Darter or Snake Bird" author=""></s2>
+			<s2 page="0018" title="Egrets and Herons" author=""></s2>
+			<s2 page="0018" title="White Necked Stork" author=""></s2>
+			<s2 page="0019" title="Common Teal" author=""></s2>
+			<s2 page="0019" title="Montagu's Harrier" author=""></s2>
+			<s2 page="0020" title="Pariah Kite" author=""></s2>
+			<s2 page="0021" title="Crested Serpant Eagle" author=""></s2>
+			<s2 page="0021" title="Ospray" author=""></s2>
+			<s2 page="0022" title="Indian White-Backed Vulture" author=""></s2>
+			<s2 page="0022" title="Jungle Fowl" author=""></s2>
+			<s2 page="0023" title="Indian Peafowl" author=""></s2>
+			<s2 page="0024" title="Sandpipers" author=""></s2>
+			<s2 page="0024" title="Koel" author=""></s2>
+			<s2 page="0025" title="Hoopoe" author=""></s2>
+			<s2 page="0025" title="Blue Rock Pigeon" author=""></s2>
+			<s2 page="0026" title="Doves" author=""></s2>
+			<s2 page="0026" title="Parakeets" author=""></s2>
+			<s2 page="0027" title="Owls and Owlets" author=""></s2>
+			<s2 page="0028" title="Indian Nightjar" author=""></s2>
+			<s2 page="0028" title="Kingfisher" author=""></s2>
+			<s2 page="0029" title="Bee-eater" author=""></s2>
+			<s2 page="0029" title="Indian Roller or Blue Jay" author=""></s2>
+			<s2 page="0030" title="Maharatta or Yellow Fronted Pied Woodpecker" author=""></s2>
+			<s2 page="0030" title="Indian Pilta" author=""></s2>
+			<s2 page="0031" title="Drongoes" author=""></s2>
+			<s2 page="0032" title="Common and Other Myna" author=""></s2>
+			<s2 page="0032" title="Indian Tree Pie" author=""></s2>
+			<s2 page="0033" title="Redvented Bulbul" author=""></s2>
+			<s2 page="0033" title="Babblers" author=""></s2>
+			<s2 page="0034" title="Paradise Flycatcher and Other Related Types" author=""></s2>
+			<s2 page="0035" title="Ashy Wren Warbler and Other Related Types" author=""></s2>
+			<s2 page="0035" title="Indian and Magpie Robins" author=""></s2>
+			<s2 page="0036" title="Yellow Headed and other Wagtails" author=""></s2>
+			<s2 page="0036" title="Tickells and Thickbilled Flowerpecker" author=""></s2>
+			<s2 page="0037" title="Purple Sunbird" author=""></s2>
+			<s2 page="0037" title="Baya or Weaver Bird" author=""></s2>
+			<s2 page="0038" title="Spotted Munia" author=""></s2>
+		</s1>
+		<s1 page="0039" title="Reptilia" author="">
+			<s2 page="0039" title="Mugger or Marsh Crocodile" author=""></s2>
+			<s2 page="0039" title="Indian Starred Tortoise" author=""></s2>
+			<s2 page="0040" title="Rock Gecko" author=""></s2>
+			<s2 page="0041" title="Common Garden Lizard" author=""></s2>
+			<s2 page="0041" title="Common Indian Skink" author=""></s2>
+			<s2 page="0042" title="Indian Chamelon" author=""></s2>
+			<s2 page="0042" title="Common Indian Monitor" author=""></s2>
+			<s2 page="0043" title="Russel's or Common Sand Boa" author=""></s2>
+			<s2 page="0044" title="Rat Snake or Dhaman" author=""></s2>
+			<s2 page="0044" title="Common Trinket Snake" author=""></s2>
+			<s2 page="0045" title="Common Green Whip Snake" author=""></s2>
+			<s2 page="0045" title="Checkered Keel Back" author=""></s2>
+			<s2 page="0046" title="Common Wolf Snake" author=""></s2>
+			<s2 page="0047" title="Common Krait" author=""></s2>
+			<s2 page="0047" title="Indian Kobra" author=""></s2>
+			<s2 page="0048" title="Russel's Viper" author=""></s2>
+			<s2 page="0049" title="Saw Scaled Viper" author=""></s2>
+		</s1>
+		<s1 page="0049" title="Amphibia" author="">
+			<s2 page="0049" title="Common Indian Toad" author=""></s2>
+			<s2 page="0050" title="Skipper Frog" author=""></s2>
+			<s2 page="0051" title="Indian Bull Frog" author=""></s2>
+		</s1>
+		<s1 page="0052" title="Table" author="">
+			<s2 page="0052" title="Table containing other faunal species of SGNP" author=""></s2>
+		</s1>
+		<s1 page="0054" title="References" author=""></s1>
+		<s1 page="0055" title="Plates (1 - 5)" author=""></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0001" title="1. Eravikulam National Park - An Overview" author="Radhakrishnan, C."></s1>
+		<s1 page="0007" title="2. Insecta : Odonata" author="Prasad, M.;Kulkarni, P. P."></s1>
+		<s1 page="0011" title="3. Insecta : Orthoptera" author="Shishodia, M. S.;Kulkarni, P. P."></s1>
+		<s1 page="0017" title="4. Insecta : Hemiptera (Aquatic ans Semiaquatic)" author="Thirumalai, G.;Sharma, R. M."></s1>
+		<s1 page="0021" title="5. Insecta : Hymenoptera : Chalcidoidea" author="Sureshan, P. M."></s1>
+		<s1 page="0035" title="6. Insecta : Lepidoptera : Rhopalocera" author="Radhakrishnan, C.;Sharma, R. M."></s1>
+		<s1 page="0041" title="7. Insecta : Diptera : Tephritidae" author="Radhakrishnan, C."></s1>
+		<s1 page="0045" title="8. Araneae : Arachnida" author="Bastwade, D. B."></s1>
+		<s1 page="0049" title="9. Gordioidae : Nematomorpha" author="Radhakrishnan, C."></s1>
+		<s1 page="0051" title="10. Mollusca" author="Patil, S. G."></s1>
+		<s1 page="0053" title="10. Zoocecidia (Plant Galls)" author="Sharma, R. M."></s1>
+		<s1 page="0057" title="10. Pisces" author="Gopi, K. C.;Yadav, B. E."></s1>
+		<s1 page="0063" title="24. Amphibia" author="Radhakrishnan, C."></s1>
+		<s1 page="0067" title="25. Reptilia" author="Pradhan, M. S."></s1>
+		<s1 page="0073" title="26. Aves" author="Zacharia, V. J."></s1>
+		<s1 page="0079" title="27. Mammalia" author="Pradhan, M. S."></s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="A Profile of Chandaka-Dampara Wildlife Sanctuary" author="Tiwari, S. K.;Alfred, J.R.B.;Dutta, S. K.">
+			<s2 page="0001" title="Introduction" author=""></s2>
+			<s2 page="0001" title="Location" author=""></s2>
+			<s2 page="0001" title="Topography" author=""></s2>
+			<s2 page="0001" title="Drainage" author=""></s2>
+			<s2 page="0002" title="Geology, Rock and Soil" author=""></s2>
+			<s2 page="0002" title="Natural, Physiographic, Historical and Archeological features" author=""></s2>
+			<s2 page="0002" title="Climate" author=""></s2>
+			<s2 page="0003" title="Seasons" author=""></s2>
+			<s2 page="0004" title="Vegetation" author=""></s2>
+			<s2 page="0005" title="Fauna" author=""></s2>
+			<s2 page="0007" title="The People" author=""></s2>
+			<s2 page="0007" title="Agriculture and Land use pattern" author=""></s2>
+			<s2 page="0007" title="Tourism" author=""></s2>
+			<s2 page="0008" title="References" author=""></s2>
+		</s1>
+		<s1 page="0009" title="Mammalia" author=""></s1>
+		<s1 page="0029" title="Aves" author=""></s1>
+		<s1 page="0087" title="Reptilia" author=""></s1>
+		<s1 page="0105" title="Amphibia" author=""></s1>
+		<s1 page="0113" title="Fishes" author=""></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0001" title="Introduction" author="Venkataraman, K.;Srinivasan, M.;Satyanarayana, Ch.;Prabakar, D."></s1>
+		<s1 page="0002" title="Description of the Study Area" author=""></s1>
+		<s1 page="0005" title="Materials and Methods" author=""></s1>
+		<s1 page="0005" title="Systematics" author="">
+			<s2 page="0005" title="1. Phylum : Chaetognatha" author=""></s2>
+			<s2 page="0006" title="2. Phylum : Cnidaria" author="">
+				<s3 page="0006" title="A. Corals" author=""></s3>
+				<s3 page="0010" title="B. Gorgonids" author=""></s3>
+				<s3 page="0011" title="C. Sea anemones" author=""></s3>
+			</s2>
+			<s2 page="0012" title="3. Phylum : Arthropoda" author="">
+				<s3 page="0012" title="A. Prawns" author=""></s3>
+				<s3 page="0014" title="B. Lobsters" author=""></s3>
+				<s3 page="0014" title="C. Crabs (Brachyura)" author=""></s3>
+			</s2>
+			<s2 page="0016" title="4. Phylum : Mollusca" author="">
+				<s3 page="0016" title="A. Gastropods" author=""></s3>
+				<s3 page="0019" title="B. Bivalves" author=""></s3>
+				<s3 page="0021" title="C. Cephalopods" author=""></s3>
+			</s2>
+			<s2 page="0022" title="5. Phylum : ECHINODERMATA" author=""></s2>
+			<s2 page="0029" title="6. Phylum : Chordata" author=""></s2>
+		</s1>
+		<s1 page="0066" title="Discussion" author=""></s1>
+		<s1 page="0071" title="Summary" author=""></s1>
+		<s1 page="0071" title="Acknowledgements" author=""></s1>
+		<s1 page="0072" title="References" author=""></s1>
+		<s1 page="0076" title="Table 1" author=""></s1>
+		<s1 page="0077" title="Table 2" author=""></s1>
+		<s1 page="0078" title="Plates" author=""></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0000d" title="!!Preface!!" author=""></s1>
+		<s1 page="0000e" title="!!Acknowledgements!!" author=""></s1>
+		<s1 page="0001" title="Asola-Bhatti WLS an Overview" author="Khanna, Vinod;Sati, J. P."></s1>
+		<s1 page="0019" title="Invertebrates" author="">
+			<s2 page="0019" title="Chilopoda" author="Khanna, Vinod"></s2>
+		</s1>
+		<s1 page="0023" title="Insecta" author="">
+			<s2 page="0023" title="Odonata" author="Kumar, Arun"></s2>
+			<s2 page="0027" title="Hymenoptera" author="Gupta, S. K."></s2>
+			<s2 page="0031" title="Lepidoptera" author="Kumar, Parmod;Gupta, S. K."></s2>
+		</s1>
+		<s1 page="0039" title="Vertebrates" author="">
+			<s2 page="0039" title="Pisces" author="Hussain, Akhlaq"></s2>
+			<s2 page="0043" title="Amphibia" author="Hussain, Akhlaq"></s2>
+			<s2 page="0047" title="Reptilia" author="Hussain, Akhlaq"></s2>
+			<s2 page="0051" title="Aves" author="Tak, P. C.;Sati, J. P."></s2>
+			<s2 page="0061" title="Mammalia" author="Sati, J. P.;Sinha, N. K."></s2>
+		</s1>
+	</book>
+	<book bid="017">
+		<s1 page="0001" title="Introduction" author="Chandra, Kailash;Rajan, P. T."></s1>
+		<s1 page="0001" title="Location" author=""></s1>
+		<s1 page="0002" title="Vegetation" author=""></s1>
+		<s1 page="0005" title="Climate" author=""></s1>
+		<s1 page="0005" title="Temperature" author=""></s1>
+		<s1 page="0005" title="Humidity" author=""></s1>
+		<s1 page="0005" title="Rainfall" author=""></s1>
+		<s1 page="0005" title="Fauna" author=""></s1>
+		<s1 page="0008" title="Threats and Conservation" author=""></s1>
+		<s1 page="0010" title="Annexure - I : Fauna of Mount Harriett National Park, South Andaman" author=""></s1>
+		<s1 page="0011" title="Annexure - II : Faunal Diversity of Mount Harriett National Park" author=""></s1>
+		<s1 page="0134" title="Summary" author=""></s1>
+		<s1 page="0135" title="Acknowledgements" author=""></s1>
+		<s1 page="0135" title="References" author=""></s1>
+	</book>
+	<book bid="018">
+		<s1 page="0001" title="Gobind Pashu Vihar&#8212;An Overview" author="Gupta, S. K."></s1>
+		<s1 page="0005" title="Insecta : Odonata" author="Kumar, Arun;Sharma, Gaurav"></s1>
+		<s1 page="0009" title="Insecta : Lepidoptera" author="Kumar, Pramod;Gupta, S. K."></s1>
+		<s1 page="0021" title="Insecta : Hymenoptera" author="Gupta, S. K."></s1>
+		<s1 page="0029" title="Chilopoda" author="Khanna, Vinod"></s1>
+		<s1 page="0033" title="Pisces" author="Husain, Akhlaq"></s1>
+		<s1 page="0035" title="Amphibia" author="Husain, Akhlaq"></s1>
+		<s1 page="0037" title="Reptilia" author="Husain, Akhlaq"></s1>
+		<s1 page="0041" title="Aves" author="Tak, P. C.;Sati, J. P.;Kumar, Pramod"></s1>
+		<s1 page="0055" title="Mammalia" author="Sati, J. P.;Sinha, N. K."></s1>
+		<s1 page="0065" title="Summary of Fauna" author=""></s1>
+		<s1 page="0084" title="Plates" author=""></s1>
+	</book>
+	<book bid="019">
+		<s1 page="0001" title="Desert National Park - An overview" author="Rathore, N. S."></s1>
+		<s1 page="0033" title="Plant and Soil Nematodes" author="Baqri, Q. H.;Bohra, P."></s1>
+		<s1 page="0039" title="Mollusca" author="Rao, K. V. Surya;Mitra, S. C.;Manna, R. N."></s1>
+		<s1 page="0045" title="Insecta : Thysanura" author="Hazra, A. K.;Biswas, M.;Mitra, S. K."></s1>
+		<s1 page="0051" title="Insecta : Odonata" author="Prasad, M."></s1>
+		<s1 page="0059" title="Insecta : Orthoptera" author="Shishodia, M. S."></s1>
+		<s1 page="0067" title="Insecta : Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0069" title="Insecta : Mantoidea" author="Shishodia, M. S."></s1>
+		<s1 page="0071" title="Insecta : Isoptera" author="Rathore, N. S.;Tak, N."></s1>
+		<s1 page="0079" title="Insecta : Diptera" author="Kumar, S."></s1>
+		<s1 page="0081" title="Insecta : Lepidoptera" author="Maulik, D. R."></s1>
+		<s1 page="0085" title="Insecta : Hymenoptera" author="Tak, N.;Rathore, N. S."></s1>
+		<s1 page="0091" title="Insecta : Hymenoptera : Aculeata" author="Tiwari, R. N.;Kundu, B. G.;Roychowdhury, S.;Ghosh, S. N."></s1>
+		<s1 page="0101" title="Arachnida : Scorpions" author="Bastawade, D. B."></s1>
+		<s1 page="0105" title="Acarina : Metastigmata" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0109" title="Amphibia" author="Chanda, S. K."></s1>
+		<s1 page="0111" title="Reptilia" author="Sharma, R. C.;Rathore, N. S."></s1>
+		<s1 page="0119" title="Aves" author="Kankane, P. L."></s1>
+		<s1 page="0131" title="Mammalia" author="Kankane, P. L."></s1>
+		<s1 page="136" title="Plates" author=""></s1>
+	</book>
+	<book bid="020">
+		<s1 page="0001" title="1. An overview" author="Mahabal, Anil S."></s1>
+		<s1 page="0009" title="2. Mammalia" author="Pradhan, M. S."></s1>
+		<s1 page="0061" title="3. Aves" author="Mahabal, Anil S."></s1>
+		<s1 page="0093" title="4. Reptilia" author="Pradhan, M. S."></s1>
+		<s1 page="0123" title="5. Amphibia" author="Kamble, Satish S."></s1>
+		<s1 page="0129" title="6. Pisces" author="Yadav, B. E."></s1>
+		<s1 page="0141" title="7. Mollusca" author="Patil, S. G."></s1>
+		<s1 page="0159" title="8. Crustacea : Cladocera" author="Rane, P. D."></s1>
+		<s1 page="0175" title="9. Insecta :" author="">
+			<s2 page="0175" title="Odonata" author="Kulkarni, P. P.;Prasad, M.;Talmale, S. S."></s2>
+			<s2 page="0207" title="Orthoptera" author="Kulkarni, P. P.;Shishodia, M. S."></s2>
+			<s2 page="0227" title="Mantodea" author="Sureshan, P. M.;Ghate, H. V.;Radhakrishnan, C."></s2>
+			<s2 page="0233" title="Aquatic and Semi-aquatic Hemiptera" author="Thirumalai, G.;Kumar, R. Suresh;Sharma, R. M."></s2>
+			<s2 page="0251" title="Lepidoptera : Rhopalocera : Grypocera" author="Sharma, R. M.;Radhakrishnan, C."></s2>
+		</s1>
+		<s1 page="0275" title="10. Chilopoda : Centipede" author="Yadav, B. E."></s1>
+		<s1 page="0285" title="11. Scorpionida, Araneae and Solifugi" author="Bastawade, D. B."></s1>
+		<s1 page="0313" title="12. Plates" author=""></s1>
+	</book>
+	<book bid="021">
+		<s1 page="0001" title="Introduction" author="Hatter, S. J. S.;Sen, Nibedita;Mathew Rosamma;Sharma, Sumita"></s1>
+		<s1 page="0002" title="System Accounts" author=""></s1>
+		<s1 page="0064" title="Discussion" author=""></s1>
+		<s1 page="0065" title="Acknowledgement" author=""></s1>
+		<s1 page="0065" title="References" author=""></s1>
+	</book>
+	<book bid="022">
+		<s1 page="0001" title="Introduction" author="Bhattacharyya, T. P.;Ghosh, M. K."></s1>
+		<s1 page="0001" title="Camps" author=""></s1>
+		<s1 page="0002" title="Physical Features" author=""></s1>
+		<s1 page="0002" title="Flora" author=""></s1>
+		<s1 page="0003" title="Faunal Composition" author=""></s1>
+		<s1 page="0004" title="Systematic Account" author=""></s1>
+		<s1 page="0047" title="Discussion" author=""></s1>
+		<s1 page="0048" title="Recommendation" author=""></s1>
+		<s1 page="0048" title="Summary" author=""></s1>
+		<s1 page="0049" title="Acknowledgement" author=""></s1>
+		<s1 page="0049" title="References" author=""></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0001" title="Introduction" author="Rao, N. V. Subba;Sastry, D. R. K."></s1>
+		<s1 page="0001" title="Physiography" author=""></s1>
+		<s1 page="0004" title="Biodiversity" author=""></s1>
+		<s1 page="0005" title="Historical Review" author=""></s1>
+		<s1 page="0005" title="Present Status" author="">
+			<s2 page="0005" title="Flora" author=""></s2>
+			<s2 page="0006" title="Fauna" author=""></s2>
+			<s2 page="0010" title="Fishery" author=""></s2>
+		</s1>
+		<s1 page="0014" title="Socio-Economics of Fishermen" author=""></s1>
+		<s1 page="0014" title="General Observations" author=""></s1>
+		<s1 page="0015" title="Environment" author="">
+			<s2 page="0015" title="Flora" author=""></s2>
+			<s2 page="0016" title="Fauna" author=""></s2>
+		</s1>
+		<s1 page="0019" title="Summary" author=""></s1>
+		<s1 page="0020" title="Acknowledgements" author=""></s1>
+		<s1 page="0020" title="References" author=""></s1>
+		<s1 page="0034" title="Inventory of Fauna of Gulf of Kachchh" author=""></s1>
+	</book>
+	<book bid="024">
+		<s1 page="0001" title="An Overview" author="Mahabal, Anil"></s1>
+		<s1 page="0011" title="Mammalia" author="Pradhan, M. S."></s1>
+		<s1 page="0115" title="Aves" author="Mahabal, Anil"></s1>
+		<s1 page="0165" title="Reptilia" author="Pradhan, M. S."></s1>
+		<s1 page="0223" title="Amphibians" author="Kamble, Satish S."></s1>
+		<s1 page="0231" title="Pisces" author="Yadav, B. E."></s1>
+		<s1 page="0297" title="Insecta : Odonata" author="Kulkarni, P. P.;Prasad, M."></s1>
+		<s1 page="0317" title="Insecta : Orthoptera" author="Kulkarni, P. P.;Shishodia, M. S."></s1>
+		<s1 page="0341" title="Insecta : Hemiptera (Aquatic and Semi Aquatic)" author="Thirumalai, G.;Sharma, R. M."></s1>
+		<s1 page="0359" title="Insecta : Homoptera : Aphidoidea : Aphids" author="Kulkarni, P. P."></s1>
+		<s1 page="0369" title="Insecta : Diptera : Cecidomyiidae (Gallmidges)" author="Sharma, R. M."></s1>
+		<s1 page="0377" title="Insecta : Lepidoptera (Rhopalocera and Grypocera)" author="Sharma, R. M.;Radhakrishnan, C."></s1>
+		<s1 page="0401" title="Chilopoda : Scolopendridae" author="Yadav, B. E."></s1>
+		<s1 page="0411" title="Arachnida : Scorpionida and Solifugae" author="Bastawade, D. B."></s1>
+		<s1 page="0421" title="Arachnida : Araneae (Spiders)" author="Bastawade, D. B."></s1>
+		<s1 page="0437" title="Freshwater Mollusca" author="Patil, S. G."></s1>
+		<s1 page="0451" title="Cladocera : Crustacea" author="Rane, P. D."></s1>
+	</book>
+	<book bid="025">
+		<s1 page="0001" title="1. An Overview" author="Mahabal, Anil S."></s1>
+		<s1 page="0011" title="2. Mammalia" author="Pradhan, M. S."></s1>
+		<s1 page="0065" title="3. Aves" author="Mahabal, Anil S."></s1>
+		<s1 page="0099" title="4. Reptilia" author="Pradhan, M. S."></s1>
+		<s1 page="0129" title="5. Amphibia" author="Kamble, Satish S."></s1>
+		<s1 page="0137" title="6. Pisces" author="Yadav, B. E."></s1>
+		<s1 page="0161" title="7. Mollusca" author="Patil, S. G."></s1>
+		<s1 page="0177" title="8. Crustacea : Cladocera" author="Rane, P. D."></s1>
+		<s1 page="0197" title="9. Insecta" author="">
+			<s2 page="0197" title="Odonata" author="Kulkarni, P. P.;Prasad, M.;Talmale, S. S."></s2>
+			<s2 page="0227" title="Mantodea" author="Sureshan, P. M.;Ghate, H. V.;Radhakrishnan, C."></s2>
+			<s2 page="0233" title="Aquatic and Semi-aquatic Hemiptera" author="Thirumalai, G.;Sharma, R. M.;Namboodiri, M. P. Sreedharan"></s2>
+			<s2 page="0255" title="Lepidoptera : Rhopalocera : Grypocera" author="Sharma, R. M.;Radhakrishnan, C."></s2>
+			<s2 page="" title="" author=""></s2>
+		</s1>
+		<s1 page="0279" title="10. Chilopoda : Centipede" author="Yadav, B. E."></s1>
+		<s1 page="0283" title="11. Scorpionida, Araneae and Solifugi" author="Bastawade, D. B."></s1>
+	</book>
+	<book bid="026">
+		<s1 page="0001" title="1. An Overview" author="Pradhan, M. S."></s1>
+		<s1 page="0009" title="2. Molluscs" author="Patil, S. G."></s1>
+		<s1 page="0019" title="3. Insecta : Odonata" author="Kulkarni, P. P.;Talmale, S. S.;Prasad, M."></s1>
+		<s1 page="0041" title="4. Insecta : Mantodea" author="Sureshan, P. M.;Ghate, H. V.;Radhakrishnan, C."></s1>
+		<s1 page="0051" title="5. Insecta : Aphidoidea : Aphididae" author="Kulkarni, P. P."></s1>
+		<s1 page="0065" title="6. Insecta : Zoocecidia (Plant Galls)" author="Sharma, R. M."></s1>
+		<s1 page="0071" title="7. Insecta : Lepidoptera : Rhopalocera : Grypocera" author="Sharma, R. M.;Chaturvedi, Naresh"></s1>
+		<s1 page="0125" title="8. Chilopoda : Scolopendromorpha" author="Yadav, B. E.;Sureshan, P. M."></s1>
+		<s1 page="0131" title="9. Arachnida : Scorpionida and Amblypygi" author="Bastawade, D. B."></s1>
+		<s1 page="0139" title="10. Arachnida : Araneae (Spiders)" author="Bastawade, D. B.;Khandal, Dharmendra"></s1>
+		<s1 page="0185" title="11. Arachnida : Phalangida (Palpatores and Laniatores)" author="Bastawade, D. B.;Das, N. P. I."></s1>
+	</book>
+	<book bid="027">
+		<s1 page="0001" title="An Overview" author="Thirumalai, G.;Krishnan, S."></s1>
+		<s1 page="0005" title="Rotifera" author="Raghunathan, M. B."></s1>
+		<s1 page="0009" title="Mollusca" author="Ramakrishna;Mitra, S. C.;Aravind, N. A."></s1>
+		<s1 page="0013" title="Crustacea : Cladocera" author="Raghunathan, M. B."></s1>
+		<s1 page="0017" title="Crustacea : Decapoda : Gecarcinucidae (Crabs)" author="Srivastava, O. P.;Krishnan, S."></s1>
+		<s1 page="0021" title="Insecta : Odonata" author="Emiliyamma, K. G.;Radhakrishnan, C."></s1>
+		<s1 page="0027" title="Insecta : Orthoptera" author="Mandal, S. K.;Hazra, A. K."></s1>
+		<s1 page="0035" title="Insecta : Hemiptera" author="Ghosh, M.;Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0059" title="Insecta : Hemiptera (Aquatic and Semi-Aquatic)" author="Thirumalai, G.;Kumar, R. Suresh"></s1>
+		<s1 page="0083" title="Insecta : Coleoptera" author="Mukhopadyay, P."></s1>
+		<s1 page="0091" title="Insecta : Coleoptera : Scarabaeoidea : Scarabaeidae (Dung Beetles)" author="Rajan, Priyadarsanan Dharma"></s1>
+		<s1 page="0137" title="Insecta : Diptera : Tephritidae" author="Radhakrishnan, C."></s1>
+		<s1 page="0141" title="Insecta : Lepidoptera : Rhopalocera" author="Radhakrishnan, C.;Palot, M. J."></s1>
+		<s1 page="0153" title="Insecta : Hymenoptera : Formicidae" author="Rajan, Priyadarsanan Dharma;Zacharias, Merry;Ali, T. M. Mustak"></s1>
+		<s1 page="0189" title="Insecta : Hymenoptera (Apocrita)" author="Sureshan, P. M.;Radhakrishnan, C."></s1>
+		<s1 page="0197" title="Scorpion" author="Indra, T. J."></s1>
+		<s1 page="0201" title="Araneae : Arachnida (Spiders)" author="Bastawade, D. B.;Baghyalakshmi, V."></s1>
+		<s1 page="0207" title="Pisces" author="Devi, K. Rema;Indra, T. J.;Krishnan, S."></s1>
+		<s1 page="0223" title="Amphibia" author="Ravichandran, M. S.;Krishnan, S."></s1>
+		<s1 page="0233" title="Reptilia" author="Murthy, T. S. N.;Thirumalai, G."></s1>
+		<s1 page="0239" title="Aves" author="Aravind, N. A.;Rao, Dinesh"></s1>
+		<s1 page="0259" title="Mammals" author="Aravind, N. A."></s1>
+	</book>
+	<book bid="028">
+		<s1 page="0001" title="1. Introduction" author="Ramakrishna;Siddiqui, S. Z.;Sethy, P.;Dash, S."></s1>
+		<s1 page="0002" title="2. Location &amp; Geomorphology" author="">
+			<s2 page="0002" title="2.1 Location, Linkage &amp; Area of Similipal Biosphere Reserve" author=""></s2>
+			<s2 page="0002" title="2.2 Status &amp; Sanctuaries Around" author=""></s2>
+			<s2 page="0003" title="2.3 Geomorphic Profile" author=""></s2>
+			<s2 page="0003" title="2.4 Drainage Pattern" author=""></s2>
+			<s2 page="0004" title="2.5 Soil Pattern" author=""></s2>
+			<s2 page="0005" title="2.6 Mineral Wealth" author=""></s2>
+			<s2 page="0006" title="2.7 Climatic Conditions" author=""></s2>
+		</s1>
+		<s1 page="0010" title="3. Field Studies &amp; Methodology, GBA Approach" author=""></s1>
+		<s1 page="0012" title="4. Vegetative Profile" author=""></s1>
+		<s1 page="0015" title="5. Faunal Profile" author="">
+			<s2 page="0015" title="Invertebrates" author=""></s2>
+			<s2 page="0027" title="Vertebrates" author=""></s2>
+			<s2 page="0028" title="5.1 Mammals" author=""></s2>
+			<s2 page="0028" title="5.2 Avifauna" author=""></s2>
+			<s2 page="0029" title="5.3 Reptiles" author=""></s2>
+			<s2 page="0030" title="5.4 Amphibia" author=""></s2>
+			<s2 page="0031" title="5.5 Fishes" author=""></s2>
+		</s1>
+		<s1 page="0034" title="6. Summary" author=""></s1>
+		<s1 page="0037" title="7. Human Habitations" author="">
+			<s2 page="0037" title="a. Settlement &amp; Population" author=""></s2>
+			<s2 page="0037" title="b. Tribes &amp; Forest Produce" author=""></s2>
+			<s2 page="0038" title="c. Livestock" author=""></s2>
+		</s1>
+		<s1 page="0039" title="8. Threats &amp; Conservation Measures" author="">
+			<s2 page="0039" title="a. Forest Fire" author=""></s2>
+			<s2 page="0039" title="b. Poisoning &amp; Poaching" author=""></s2>
+		</s1>
+		<s1 page="0041" title="9. Tourist and Tourism" author=""></s1>
+		<s1 page="0045" title="References" author=""></s1>
+		<s1 page="0053" title="Appendix" author=""></s1>
+	</book>
+	<book bid="029">
+		<s1 page="0001" title="I. Introduction" author="Ramakrishna;Siddiqui, S. Z.;Sahu, P."></s1>
+		<s1 page="0004" title="II. Material and Methods" author=""></s1>
+		<s1 page="0005" title="III. Observations/Discussions" author=""></s1>
+		<s1 page="0022" title="IV. Conclusions" author=""></s1>
+		<s1 page="0023" title="V. References" author=""></s1>
+		<s1 page="0027" title="VI. Appendix" author=""></s1>
+	</book>
+	<book bid="030">
+		<s1 page="0001" title="Introduction" author="Ramakrishna;Chandra, Kailash;Nema, D. K.;Alfred, J. R. B."></s1>
+		<s1 page="0001" title="Climate" author=""></s1>
+		<s1 page="0002" title="National Parks of Madhya Pradesh &amp; Chattishgarh" author="">
+			<s2 page="0002" title="Kanha National Park" author=""></s2>
+			<s2 page="0002" title="Pench National Park" author=""></s2>
+			<s2 page="0003" title="Bandhavgarh National Park" author=""></s2>
+			<s2 page="0003" title="Satpura National Park" author=""></s2>
+			<s2 page="0004" title="Madhav National Park" author=""></s2>
+			<s2 page="0004" title="Indravati National Park" author=""></s2>
+			<s2 page="0004" title="Van Vihar National Park" author=""></s2>
+		</s1>
+		<s1 page="0005" title="Faunal Components of National Parks in Madhya Pradesh and Chhattisgarh" author="">
+			<s2 page="0005" title="Invertebrates" author=""></s2>
+			<s2 page="0010" title="Vertebrates" author=""></s2>
+		</s1>
+		<s1 page="0012" title="List of Animals Recorded from National Parks of Madhya Pradesh and Chhattisgarh" author=""></s1>
+		<s1 page="0088" title="Acknowledgements" author=""></s1>
+		<s1 page="0089" title="References" author=""></s1>
+	</book>
+	<book bid="031">
+		<s1 page="0001" title="Introduction" author="Bhattacharyya, T. P.;Sett, A. K.;Sakthivel, R.;Anand, S."></s1>
+		<s1 page="0001" title="Study Area" author=""></s1>
+		<s1 page="0002" title="Historical Background" author=""></s1>
+		<s1 page="0002" title="Climate" author=""></s1>
+		<s1 page="0002" title="Soil" author=""></s1>
+		<s1 page="0003" title="Methodology" author=""></s1>
+		<s1 page="0003" title="Systematic Account" author=""></s1>
+		<s1 page="0059" title="Discussion" author=""></s1>
+		<s1 page="0060" title="Recommendation" author=""></s1>
+		<s1 page="0061" title="Acknowledgements" author=""></s1>
+		<s1 page="0061" title="Reference" author=""></s1>
+	</book>
+	<book bid="032">
+		<s1 page="0001" title="1. Fauna of Kudremukh National Park - An Overview" author="Radhakrishnan, C."></s1>
+		<s1 page="0011" title="2. Insecta : Mantodea" author="Mukherjee, T. K.;Hazra, A. K."></s1>
+		<s1 page="0015" title="3. Insecta : Orthoptera" author="Mandal, S. K.;Mandal, G. P.;Hazra, A. K."></s1>
+		<s1 page="0027" title="4. Insecta : Odonata" author="Emiliyamma, K. G.;Radhakrishnan, C."></s1>
+		<s1 page="0049" title="5. Insecta : Scelionidae : Hymenoptera" author="Rajmohana, K."></s1>
+		<s1 page="0071" title="6. Insecta : Rhopalocera : Lepidoptera" author="Radhakrishnan, C.;Palot, Muhamed Jafer"></s1>
+		<s1 page="0097" title="7. Stream Insects" author="Subramanian, K. A."></s1>
+		<s1 page="0115" title="8. Pisces" author="Gopi, K. C."></s1>
+		<s1 page="0133" title="9. Amphibia" author="Dinesh, K. P.;Radhakrishnan, C."></s1>
+		<s1 page="0157" title="10. Reptilia" author="Radhakrishnan, C.;Palot, Muhamed Jafer"></s1>
+		<s1 page="0161" title="11. Aves" author="Palot, Muhamed Jafer"></s1>
+		<s1 page="0193" title="12. Mammalia" author="Palot, Muhamed Jafer;Radhakrishnan, C."></s1>
+	</book>
+	<book bid="033">
+		<s1 page="0001" title="1. Fauna of Bannerghatta National Park &#8212; An Overview" author="Thirumalai, G.;Krishnan, S."></s1>
+		<s1 page="0005" title="2. Rotifera" author="Raghunathan, M. B.;Sureshkumar, R."></s1>
+		<s1 page="0013" title="3. Crustacea : Cladocera" author="Raghunathan, M. B.;Sureshkumar, R."></s1>
+		<s1 page="0021" title="4. Crustacea : Copepoda" author="Raghunathan, M. B.;Valarmathi, K."></s1>
+		<s1 page="0025" title="5. Crustacea : Freshwater Prawns" author="Raghunathan, M. B.;Valarmathi, K."></s1>
+		<s1 page="0033" title="6. Crustacea : Brachyura : Crabs" author="Srivastava, O. P."></s1>
+		<s1 page="0039" title="7. Insecta : Odonata" author="Emiliyamma, K. G.;Radhakrishnan, C."></s1>
+		<s1 page="0043" title="8. Insecta : Mantodea" author="Mukherjee, T. K.;Hazra, A. K."></s1>
+		<s1 page="0045" title="9. Insecta : Hemiptera (Aquatic and Semi Aquatic Bugs)" author="Thirumalai, G."></s1>
+		<s1 page="0063" title="10. Insecta : Lepidoptera : Rhopalocera" author="Radhakrishnan, C.;Palot, Md. Jafer"></s1>
+		<s1 page="0067" title="11. Insecta : Diptera" author="Mitra, Bulganin;Parui, T."></s1>
+		<s1 page="0077" title="12. Insecta : Hymenoptera (Apocrita)" author="Sureshan, P. M."></s1>
+		<s1 page="0081" title="13. Arachnida : Scorpionida" author="Indra, T. J."></s1>
+		<s1 page="0085" title="14. Gastropoda" author="Punithavelu, V. R.;Raghunathan, M. B."></s1>
+		<s1 page="0089" title="15. Pisces" author="Devi, K. Rema;Indra, T. J.;Krishnan, S."></s1>
+		<s1 page="0103" title="16. Amphibia" author="Kumar, A. Anand;Ravichandran, M. S.;Ramakrishna"></s1>
+		<s1 page="0111" title="17. Reptilia" author="Aengals, R."></s1>
+		<s1 page="0123" title="18. Aves" author="Thirumalai, G.;Krishnan, S.;Valarmathi, K.;Devi, K. Rema"></s1>
+		<s1 page="0135" title="19. Mammalia" author="Valarmathi, K.;Krishnan, S."></s1>
+	</book>
+	<book bid="034">
+		<s1 page="0001" title="An Overview" author="Sharma, R. M."></s1>
+		<s1 page="0011" title="Annelida : Oligochaeta" author="Paliwal, R."></s1>
+		<s1 page="0023" title="Crustacea : Isopoda" author="Devroy, M. K."></s1>
+		<s1 page="0025" title="Mollusca" author="Patil, S. G."></s1>
+		<s1 page="0029" title="Chilopoda : Scolopendromorpha" author="Khanna, Vinod"></s1>
+		<s1 page="0033" title="Scorpionida" author="Bastawade, D. B."></s1>
+		<s1 page="0037" title="Arachnida : Araneae" author="Bastawade, D. B."></s1>
+		<s1 page="0045" title="Insecta : Orthoptera" author="Shishodia, M. S."></s1>
+		<s1 page="0051" title="Insecta : Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0053" title="Insecta : Hymenoptera : Formicidae" author="Tak, Neena;Rathore, N. S."></s1>
+		<s1 page="0061" title="Insecta : Hymenoptera : Aculeata" author="Gupta, S. K."></s1>
+		<s1 page="0065" title="Insecta : Lepidoptera : Rhopalocera" author="Sharma, R. M."></s1>
+		<s1 page="0075" title="Insecta : Diptera" author="Mitra, Bulganin;Parui, P.;Mukherjee, M.;Sharma, R. M."></s1>
+		<s1 page="0085" title="Insecta : Coleoptera" author="Mukhopadhyay, P.;Sharma, R. M."></s1>
+		<s1 page="0089" title="Pisces" author="Mehta, H. S.;Sharma, Indu"></s1>
+		<s1 page="0093" title="Herpetofauna" author="Saikia, Uttam;Sharma, R. M.;Sharma, D. K."></s1>
+		<s1 page="0097" title="Aves" author="Tak, P. C.;Paliwal, R."></s1>
+		<s1 page="0137" title="Mammalia" author="Sharma, D. K.;Tak, P. C.;Saikia, Uttam"></s1>
+	</book>
+	<book bid="035">
+		<s1 page="0000d" title="!!Preface!!" author=""></s1>
+		<s1 page="0000e" title="!!Acknowledgements!!" author=""></s1>
+		<s1 page="0001" title="Fauna of Corbett Tiger Reserve : An Overview" author="Khanna, Vinod;Tak, P. C.;Bhutia, P. T."></s1>
+		<s1 page="0033" title="Habitat Preference Assessment of the Tiger and its Prey Ungulates in the Corbett Tiger Reserve" author="Kushwaha, S. P. S.;Quadri, Arshia;Singh, Aditya;Khan, Afifullah"></s1>
+		<s1 page="0063" title="Mammalia" author="Sati, J. P.;Tak, P. C."></s1>
+		<s1 page="0083" title="Aves" author="Tak, P. C.;Sati, J. P."></s1>
+		<s1 page="0143" title="Reptilia" author="Bahuguna, Archana"></s1>
+		<s1 page="0159" title="Amphibia" author="Mehta, H. S."></s1>
+		<s1 page="0165" title="Pisces" author="Uniyal, D. P."></s1>
+		<s1 page="0183" title="Plant and Soil Nematodes" author="Rizvi, A. N."></s1>
+		<s1 page="0189" title="Chilopoda : Scolopendromorpha" author="Khanna, Vinod"></s1>
+		<s1 page="0195" title="Insecta (Various Orders)" author="Khanna, Vinod"></s1>
+		<s1 page="0205" title="Insecta : Plalepidoptera" author="Kumar, Parmod"></s1>
+		<s1 page="0221" title="Bibliography on the Corbett Tiger Reserve" author="Khanna, Vinod;Tak, P. C.;Bhutia, P. T."></s1>
+	</book>
+	<book bid="036">
+		<s1 page="0001" title="1. An Overview" author="Chakraborty, Rina"></s1>
+		<s1 page="0037" title="2. Mammalia" author="Chakraborty, Rina"></s1>
+		<s1 page="0069" title="3. Aves" author="Chakraborty, Rina"></s1>
+		<s1 page="0181" title="4. Reptilia" author="Chakraborty, Rina;Gayen, N. C.;Kar, S."></s1>
+		<s1 page="0209" title="5. Amphibia" author="Deuti, K."></s1>
+		<s1 page="0221" title="6. Pisces : Freshwater Fishes" author="Kar, Subrata"></s1>
+	</book>
+	<book bid="037">
+		<s1 page="0001" title="1. An Overview" author="Mahabal, Anil"></s1>
+		<s1 page="0017" title="2. Mammalia" author="Pradhan, M. S.;Talmale, S. S."></s1>
+		<s1 page="0029" title="3. Aves" author="Mahabal, Anil;Vyawahare, P. M.;Patil, Sachin R."></s1>
+		<s1 page="0101" title="4. Reptilia" author="Pradhan, M. S."></s1>
+		<s1 page="0107" title="5. Amphibians" author="Kamble, Satish S."></s1>
+		<s1 page="0113" title="6. Mollusca" author="Patil, S. G."></s1>
+		<s1 page="0125" title="7. Rotifera" author="Patil, S. G."></s1>
+		<s1 page="0129" title="8. Ostracods" author="Patil, S. G.;Talmale, S. S."></s1>
+		<s1 page="0133" title="9. Arachnida : Scorpionida, Araneae and Opiliones" author="Bastawade, D. B."></s1>
+		<s1 page="0155" title="10. Chilopoda : Scolopendromorpha" author="Sureshan, P. M.;Yadav, B. E."></s1>
+		<s1 page="0159" title="11. Insecta : Odonata" author="Kulkarni, P. P.;Talmale, S. S."></s1>
+		<s1 page="0169" title="12. Pteromalidae : Chalcidoidea : Hymenoptera : Insecta" author="Sureshan, P. M."></s1>
+		<s1 page="0181" title="13. Insecta : Lepidoptera : Rhopalocera and Grypocera" author="Sharma, R. M."></s1>
+		<s1 page="0191" title="14. Ecological Profile of Impact - Crater Lake, Lonar" author="Siddiqi, S. Z."></s1>
+	</book>
+	<book bid="038">
+		<s1 page="0001" title="1. Faunal Resources of Tal Chhapar Wildlife Sanctuary : An Overview" author="Bohra, Padma"></s1>
+		<s1 page="0011" title="2. Plant and Soil Nematodes" author="Bohra, Padma;Sharma, Vinita"></s1>
+		<s1 page="0017" title="3. Insecta : Isoptera" author="Rathore, N. S.;Mandal, M."></s1>
+		<s1 page="0023" title="4. Insecta : Hymenoptera : Formicidae" author="Tak, Neena"></s1>
+		<s1 page="0029" title="5. Insecta : Coleoptera : Scarabaeidae" author="Sewak, Ram"></s1>
+		<s1 page="0041" title="6. Herpetofauna" author="Kumar, Sanjeev;Gaur, Shalini"></s1>
+		<s1 page="0049" title="7. Aves" author="Kumar, Sanjeev"></s1>
+		<s1 page="0057" title="8. Mammals" author="Kumar, Sanjeev"></s1>
+	</book>
+	<book bid="039">
+		<s1 page="0001" title="1. An Overview" author="Chandra, Kailash"></s1>
+		<s1 page="0009" title="2. Mammalia" author="Harshey, D. K.;Chandra, Kailash"></s1>
+		<s1 page="0043" title="3. Aves" author="Chandra, Kailash;Mahabal, Anil"></s1>
+		<s1 page="0117" title="4. Reptilia" author="Chandra, Kailash"></s1>
+		<s1 page="0129" title="5. Amphibia" author="Chanda, P. K.;Ray, S."></s1>
+		<s1 page="0135" title="6. Pisces : Freshwater Fishes" author="Sharma, H. S."></s1>
+		<s1 page="0175" title="7. Plant Mites" author="Gupta, Y. N."></s1>
+		<s1 page="0185" title="8. Solifugae" author="Gajbe, Pawan"></s1>
+		<s1 page="0187" title="9. Araneae" author="Gajbe, Pawan"></s1>
+		<s1 page="0203" title="10. Insecta : Odonata" author="Prasad, Mahabir;Mishra, S. K."></s1>
+		<s1 page="0213" title="11. Insecta : Orthoptera" author="Gupta, Sunil Kumar;Shishodia, M. S."></s1>
+		<s1 page="0247" title="12. Insecta : Hemiptera" author="Chandra, Kailash"></s1>
+		<s1 page="0259" title="13. Insecta : Coleoptera" author="Chandra, Kailash"></s1>
+		<s1 page="0301" title="14. Insecta : Lepidoptera : Rhopalocera" author="Singh, R. K.;Koshta, M. L."></s1>
+		<s1 page="0337" title="15. Insecta : Lepidoptera : Heterocera" author="Chandra, Kailash"></s1>
+		<s1 page="0355" title="16. Mollusca" author="Patil, S. G."></s1>
+		<s1 page="0363" title="17. Annelida : Oligochaeta" author="Paliwal, Rahul"></s1>
+		<s1 page="0375" title="18. Appendix" author=""></s1>
+	</book>
+	<book bid="040">
+		<s1 page="0001" title="1. An Overview" author="Chandra, Kailash"></s1>
+		<s1 page="0025" title="2. Insecta : Odonata" author="Mishra, S. K."></s1>
+		<s1 page="0039" title="3. Insecta : Orthoptera" author="Gupta, Sunil Kumar"></s1>
+		<s1 page="0059" title="4. Insecta : Mantodea" author="Chandra, Kailash"></s1>
+		<s1 page="0063" title="5. Insecta : Hemiptera (Aquatic and Semi-aquatic)" author="Thirumalai, G.;Sharma, R. M."></s1>
+		<s1 page="0071" title="6. Insecta : Neuroptera" author="Chandra, Kailash;Thilak, J."></s1>
+		<s1 page="0075" title="7. Insecta : Diptera : Cecidomyiidae (Gall Midges)" author="Sharma, R. M."></s1>
+		<s1 page="0081" title="8. Insecta : Coleoptera : Scarabaeidae" author="Chandra, Kailash"></s1>
+		<s1 page="0089" title="9. Insecta : Lepidoptera : rhopalocera and Grypocera" author="Chandra, K.;Sharma, R. M.;Koshta, M. L."></s1>
+		<s1 page="0131" title="10. Insecta : Lepidoptera : Heterocera" author="Chandra, Kailash"></s1>
+		<s1 page="0141" title="11. Acari : Tetranychidae (Mites)" author="Gupta, Y. N."></s1>
+		<s1 page="0147" title="12. Pisces" author="Thilak, J."></s1>
+		<s1 page="0161" title="13. Appendix-Amphibia" author=""></s1>
+		<s1 page="0163" title="14. Reptilia" author="Chandra, Kailash;Gupta, R. P."></s1>
+		<s1 page="0179" title="15. Aves" author="Chandra, Kailash;Gupta, R. P."></s1>
+		<s1 page="0271" title="16. Mammalia" author="Harshey, D. K."></s1>
+	</book>
+	<book bid="041">
+		<s1 page="0001" title="1. An Overview" author="Mehta, H. S.;Sidhu, Avtar Kaur;Sharma, Indu"></s1>
+		<s1 page="0013" title="2. Annelida : Oligochaeta" author="Paliwal, Rahul"></s1>
+		<s1 page="0021" title="3. Insecta : Odonata" author="Babu, R.;Mehta, H. S."></s1>
+		<s1 page="0029" title="4. Insecta : Orthoptera" author="Saini, Kamal;Mehta, H. S."></s1>
+		<s1 page="0041" title="5. Insecta : Lepidoptera : Rhopalocera" author="Sidhu, Avtar Kaur;Mehta, H. S."></s1>
+		<s1 page="0049" title="6. Pisces : Freshwater Fishes" author="Sharma, Indu;Mehta, H. S."></s1>
+		<s1 page="0059" title="7. Amphibia" author="Mehta, H. S.;Sharma, Indu"></s1>
+		<s1 page="0065" title="8. Reptilia" author="Saikia, Uttam;Sharma, D. K."></s1>
+		<s1 page="0081" title="9. Aves" author="Sharma, D. K.;Paliwal, R.;Saikai, Uttam"></s1>
+		<s1 page="0103" title="10. Mammalia" author="Sharma, D. K.;Saikia, Uttam"></s1>
+	</book>
+	<book bid="042">
+		<s1 page="0001" title="An Overview" author="Mahabal, Anil"></s1>
+		<s1 page="0017" title="2. Mamallia" author="Pradhan, M. S.;Talmale, S. S."></s1>
+		<s1 page="0065" title="3. Aves" author="Mahabal, Anil;Patil, Sachin R."></s1>
+		<s1 page="0183" title="4. Reptilia" author="Pradhan, M. S.;Thakur, Sanjay"></s1>
+		<s1 page="0193" title="5. Amphibia" author="Kamble, Satish S."></s1>
+		<s1 page="0199" title="6. Pisces : Freshwater Fishes" author="Yadav, B. E.;Jadhav, S. S."></s1>
+		<s1 page="0215" title="7. Arachnida : Scorpiones" author="Bastawade, D. B."></s1>
+		<s1 page="0223" title="8. Chilopoda : Scolopendromorpha : Scolopendridae" author="Yadav, B. E."></s1>
+		<s1 page="0231" title="9. Insecta : Odonata" author="Kulkarni, P. P.;Talmale, S. S."></s1>
+		<s1 page="0251" title="10. Insecta : Mantodea" author="Jadhav, S. S."></s1>
+		<s1 page="0257" title="11. Insecta : Lepidoptera : Rhopalocera" author="Sharma, R. M."></s1>
+		<s1 page="0263" title="12. Cladocera : Crustacea" author="Rane, P. D."></s1>
+		<s1 page="0273" title="13. Mollusca" author="Patil, S. G."></s1>
+	</book>
+	<book bid="043">
+		<s1 page="0001" title="1. Ranthambhore National Park : An Overview" author="Kumar, Sanjeev;Bohra, Padma"></s1>
+		<s1 page="0045" title="2. Plant and Soil Nematodes" author="Bohra, Padma;Baqri, Qaiser H."></s1>
+		<s1 page="0057" title="3. Arachnida : Scorpions" author="Bastawade; D. B."></s1>
+		<s1 page="0061" title="4. Chilopoda : Scolopendromorpha" author="Khanna, Vinod"></s1>
+		<s1 page="0067" title="5. Insecta : Odonata" author="Sharma, Gaurav"></s1>
+		<s1 page="0075" title="6. Insecta : Isoptera" author="Rathore, N. S.;Mandal, Madhumita"></s1>
+		<s1 page="0083" title="7. Insecta : Heteroptera (Aquatic and Semi Aquatic)" author="Thirumalai, G."></s1>
+		<s1 page="0093" title="8. Insecta : Coleoptera : Scarabaeidae" author="Sewak, Ram"></s1>
+		<s1 page="0119" title="9. Insecta : Diptera" author="Kumar, Sanjeev"></s1>
+		<s1 page="0123" title="10. Insecta : Lepidoptera : Heterocera" author="Chandra, Kailash;Nema, D. K.;Kumar, Sanjeev"></s1>
+		<s1 page="0133" title="11. Insecta : Hymenoptera : Formicidae" author="Tak, Neena"></s1>
+		<s1 page="0145" title="12. Ichthyofauna" author="Jaiswal, Deepa; Rao, C. A. N.;Kumar, Sanjeev;Mohd. Hakeel"></s1>
+		<s1 page="0159" title="13. Amphibia" author="Kumar, Sanjeev;Gaur, Shalini"></s1>
+		<s1 page="0163" title="14. Reptilia" author="Kumar, Sanjeev;Gaur, Shalini;Khandal, D."></s1>
+		<s1 page="0181" title="15. Aves" author="Kumar, Sanjeev;Sivaperuman, C."></s1>
+		<s1 page="0199" title="16. Mammalia" author="Kumar, Sanjeev"></s1>
+		<s1 page="0221" title="Threats and Conservation" author="Kumar, Sanjeev"></s1>
+	</book>
+	<book bid="044">
+		<s1 page="0001" title="1. Faunal Diversity of Baghmara - An Overview" author="Hattar, S. J. S."></s1>
+		<s1 page="0005" title="2. Testate Amoebae (Protozoa : Sarcomastigophora : Rhizopoda)" author="Sharma, Sumita"></s1>
+		<s1 page="0011" title="3. Rotifera : Eurotatoria" author="Sharma, Sumita"></s1>
+		<s1 page="0025" title="4. Cladocera (Crustacea : Branchiopoda)" author="Sharma, Sumita"></s1>
+		<s1 page="0035" title="5. Insecta : Hymenoptera : Formicidae" author="Mathew, Rosamma"></s1>
+		<s1 page="0043" title="6. Pisces" author="Sen, Nibedita"></s1>
+		<s1 page="0069" title="7. Amphibia" author="Sen, Nibedita;Mathew, Rosamma"></s1>
+		<s1 page="0077" title="8. Reptilia" author="Mathew, Rosamma"></s1>
+		<s1 page="0083" title="9. Appendix" author=""></s1>
+		<s1 page="0093" title="10. Plates" author=""></s1>
+	</book>
+	<book bid="045">
+		<s1 page="0001" title="Nokrek Biosphere Reserve-An Overview" author="Sen, Nibedita"></s1>
+		<s1 page="0005" title="Protozoa : Rhizopoda" author="Sharma, Sumita"></s1>
+		<s1 page="0013" title="Rotifera : Monogononta" author="Sharma, Sumita"></s1>
+		<s1 page="0025" title="Crustacea : Branchiopoda : Cladocera" author="Sharma, Sumita"></s1>
+		<s1 page="0037" title="Insecta : Hemiptera : Heteroptera" author="Lyngdoh, Jennifer"></s1>
+		<s1 page="0043" title="Insecta : Lepidoptera (Butterflies)" author="Kharongor, Ilona J."></s1>
+		<s1 page="0081" title="Pisces" author="Sen, Nibedita;Khynriam, Dimos"></s1>
+		<s1 page="0105" title="Amphibia" author="Sen, Nibedita;Mathew, Rosamma;Meetei, Asem Bipin"></s1>
+		<s1 page="0117" title="Reptilia" author="Mathew, Rosamma;Meetei, Asem Bipin"></s1>
+	</book>
+	<book bid="046">
+		<s1 page="0001" title="An Overview" author="Radhakrishnan, C."></s1>
+		<s1 page="0011" title="Insecta : Platygastridae (Hymenoptera : Platygastroidae)" author="Rajmohana, K."></s1>
+		<s1 page="0025" title="Insecta : Hymenoptera : Diapriidae" author="Rajmohana, K.;Bijoy, C."></s1>
+		<s1 page="0031" title="Insecta : Mantodea" author="Sureshan, P. M."></s1>
+		<s1 page="0037" title="Insecta : Odonata" author="Emiliyamma, K. G.;Radhakrishnan, C."></s1>
+		<s1 page="0067" title="Insecta : Lepidoptera : Rhopalocera" author="Palot, Muhamed Jafer;Radhakrishnan, C."></s1>
+		<s1 page="0097" title="Chilopoda : Scolopendromorpha" author="Sureshan, P. M.;Dhanya, B."></s1>
+		<s1 page="0101" title="Pisces" author="Gopi, K. C."></s1>
+		<s1 page="0117" title="Amphibia" author="Dinesh, K. P.;Radhakrishnan, C."></s1>
+		<s1 page="0153" title="Reptilia" author="Palot, Muhamed Jafer;Radhakrishnan, C."></s1>
+		<s1 page="0165" title="Aves" author="Palot, Muhamed Jafer"></s1>
+		<s1 page="0219" title="Mammalia" author="Palot, Muhamed Jafer;Radhakrishnan, C."></s1>
+	</book>
+</cas>

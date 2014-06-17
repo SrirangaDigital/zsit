@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fbi SYSTEM "fbi_books_list.dtd">
+
+<zsi>
+	<s1 title="Fauna of Orissa (Series 1)" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Orissa" author="" page="001-340" info="00:00:01:001" type="sfs" date="00-12-1987"></s2>
+		<s2 title="Fauna of Orissa" author="" page="001-318" info="00:00:02:002" type="sfs" date="00-10-1989"></s2>
+		<s2 title="Fauna of Orissa" author="" page="001-262" info="00:00:03:003" type="sfs" date="00-03-1991"></s2>
+		<s2 title="Fauna of Orissa" author="" page="001-194" info="00:00:04:004" type="sfs" date="00-06-1993"></s2>
+	</s1>
+	<s1 title="Fauna of Lakshadweep (Series 2)" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Lakshadweep" author="" page="001-413" info="00:00:00:005" type="sfs" date="00-07-1991"></s2>
+	</s1>
+	<s1 title="Fauna of West Bengal (Series 3)" author="" page="" info="" type="" date="">
+		<s2 title="Mammalia, Aves and Wildlife" author="" page="001-443" info="00:00:01:006" type="sfs" date="00-08-1992"></s2>
+		<s2 title="Reptiles, Amphibia Fishes, Hemichordata Archaeozoology" author="" page="001-381" info="00:00:02:007" type="sfs" date="00-11-1992"></s2>
+		<s2 title="Arachnida &#38; Acari" author="" page="001-500" info="00:00:03:008" type="sfs" date="00-11-1992"></s2>
+		<s2 title="Insecta" author="" page="001-548" info="00:00:04:009" type="sfs" date="00-08-1993"></s2>
+		<s2 title="Insecta: Hemiptera" author="" page="001-558" info="00:00:05:010" type="sfs" date="00-12-1994"></s2>
+		<s2 title="Insecta: Coleoptera" author="" page="001-447" info="00:00:6A:011" type="sfs" date="00-07-1995"></s2>
+		<s2 title="Insecta: Coleoptera" author="" page="449-866" info="00:00:6B:012" type="sfs" date="00-02-1996"></s2>
+		<s2 title="Insecta: Diptera and Lepidoptera" author="" page="001-792" info="00:00:07:013" type="sfs" date="00-07-1997"></s2>
+		<s2 title="Insecta: Hymenoptera" author="" page="001-442" info="00:00:08:014" type="sfs" date="00-03-1999"></s2>
+		<s2 title="Land, Freshwater &#38; Marine Molluscs" author="" page="001-268" info="00:00:09:015" type="sfs" date="00-09-1992"></s2>
+		<s2 title="Invertebrates" author="" page="001-489" info="00:00:10:016" type="sfs" date="00-03-1999"></s2>
+		<s2 title="Invertebrates" author="" page="001-609" info="00:00:11:017" type="sfs" date="00-03-1999"></s2>
+		<s2 title="Protozoa" author="" page="001-551" info="00:00:12:018" type="sfs" date="00-05-1993"></s2>
+	</s1>
+	<s1 title="Fauna of Meghalaya (Series 4)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates" author="" page="001-679" info="00:00:01:019" type="sfs" date="00-11-1995"></s2>
+		<s2 title="Acari" author="" page="001-128" info="00:00:02:020" type="sfs" date="00-03-1995"></s2>
+		<s2 title="Insecta" author="" page="001-455" info="00:00:03:021" type="sfs" date="00-11-1995"></s2>
+		<s2 title="Insecta (Hemiptera: Homoptera)" author="" page="001-485" info="00:00:04:022" type="sfs" date="00-06-1999"></s2>
+		<s2 title="Insecta" author="" page="001-666" info="00:00:05:023" type="sfs" date="00-06-2000"></s2>
+		<s2 title="Insecta (Diptera &#38; Lepidoptera)" author="" page="001-537" info="00:00:06:024" type="sfs" date="00-06-1999"></s2>
+		<s2 title="Insecta (Hymenoptera)" author="" page="001-621" info="00:00:07:025" type="sfs" date="00-06-2000"></s2>
+		<s2 title="Mollusca" author="" page="001-088" info="00:00:08:026" type="sfs" date="00-03-1995"></s2>
+		<s2 title="Invertebrates" author="" page="001-587" info="00:00:09:027" type="sfs" date="00-06-1999"></s2>
+		<s2 title="Protozoa" author="" page="001-103" info="00:00:10:028" type="sfs" date="00-03-1995"></s2>
+	</s1>
+	<s1 title="Fauna of Andhra Pradesh (Series 5)" author="" page="" info="" type="" date="">
+		<s2 title="Reptilia, Amphibia and Fishes" author="" page="001-334" info="00:00:01:029" type="sfs" date="00-08-1993"></s2>
+		<s2 title="Mammals and Marine &#38; Estuarine Fishes" author="" page="001-311" info="00:00:02:030" type="sfs" date="00-03-2004"></s2>
+		<s2 title="Insects" author="" page="001-544" info="00:00:03:031" type="sfs" date="00-05-2007"></s2>
+		<s2 title="Invertebrates" author="" page="001-248" info="00:00:04:032" type="sfs" date="00-01-2007"></s2>
+		<s2 title="Invertebrates" author="" page="001-572" info="00:00:05:033" type="sfs" date="00-07-2005"></s2>
+		<s2 title="Protozoa" author="" page="001-466" info="00:00:06:034" type="sfs" date="00-09-2004"></s2>
+		<s2 title="Marine Molluscs" author="" page="001-260" info="00:00:07:035" type="sfs" date="00-09-2007"></s2>
+		<s2 title="Aves (Birds)" author="" page="001-068" info="00:00:08:036" type="sfs" date="00-10-2008"></s2>
+	</s1>
+	<s1 title="Fauna of Delhi (Series 6)" author="" page="" info="" type="" date="">
+		<s2 title="Protozoa to Mammalia" author="" page="001-903" info="00:00:00:037" type="sfs" date="00-08-1997"></s2>
+	</s1>
+	<s1 title="Fauna of Tripura (Series 7)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates" author="" page="001-365" info="00:00:01:038" type="sfs" date="00-01-2002"></s2>
+		<s2 title="Insecta" author="" page="001-443" info="00:00:02:039" type="sfs" date="00-12-2000"></s2>
+		<s2 title="Insecta" author="" page="001-390" info="00:00:03:040" type="sfs" date="00-12-2000"></s2>
+		<s2 title="Invertebrates" author="" page="001-355" info="00:00:04:041" type="sfs" date="00-12-2000"></s2>
+	</s1>
+	<s1 title="Fauna of Gujarat (Series 8)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates" author="" page="001-464" info="00:00:01:042" type="sfs" date="00-06-2000"></s2>
+		<s2 title="Insects &#38; Lower Invertebrates" author="" page="001-427" info="00:00:02:043" type="sfs" date="00-11-2004"></s2>
+	</s1>
+	<s1 title="Fauna of Sikkim (Series 9)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates" author="" page="001-214" info="00:00:01:044" type="sfs" date="00-06-2006"></s2>
+		<s2 title="Insecta" author="" page="001-620" info="00:00:02:045" type="sfs" date="00-09-2003"></s2>
+		<s2 title="Insecta" author="" page="001-411" info="00:00:03:046" type="sfs" date="00-06-2003"></s2>
+		<s2 title="Insecta" author="" page="001-512" info="00:00:04:047" type="sfs" date="00-06-2003"></s2>
+		<s2 title="Invertebrates" author="" page="001-142" info="00:00:05:048" type="sfs" date="00-06-2003"></s2>
+	</s1>
+	<s1 title="Fauna of Manipur (Series 10)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates and Animal Fossils" author="" page="001-234" info="00:00:01:049" type="sfs" date="00-02-2005"></s2>
+		<s2 title="Insecta" author="" page="001-625" info="00:00:02:050" type="sfs" date="00-06-2004"></s2>
+		<s2 title="Invertebrates" author="" page="001-123" info="00:00:03:051" type="sfs" date="00-06-2004"></s2>
+	</s1>
+	<s1 title="Fauna of Bihar (Including Jharkhand) (Series 11)" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Bihar (Including Jharkhand)" author="" page="001-213" info="00:00:01:052" type="sfs" date="00-03-2004"></s2>
+	</s1>
+	<s1 title="Fauna of Nagaland (Series 12)" author="" page="" info="" type="" date="">
+		<s2 title="Protozoa to Mammalia" author="" page="001-620" info="00:00:00:053" type="sfs" date="00-03-2006"></s2>
+	</s1>
+	<s1 title="Fauna of Arunachal Pradesh (Series 13)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates" author="" page="001-390" info="00:00:01:054" type="sfs" date="00-03-2006"></s2>
+		<s2 title="Invertebrates" author="" page="001-518" info="00:00:02:055" type="sfs" date="00-01-2006"></s2>
+	</s1>
+	<s1 title="Fauna of Mizoram (Series 14)" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Mizoram" author="" page="001-691" info="00:00:01:056" type="sfs" date="00-07-2007"></s2>
+		<s2 title="Fauna of Mizoram" author="" page="001-032" info="00:00:02:057" type="sfs" date="00-10-2009"></s2>
+	</s1>
+	<s1 title="Fauna of Madhya Pradesh (including Chhattisgarh) (Series 15)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates, Arachnida, Acari" author="" page="001-564" info="00:00:01:058" type="sfs" date="00-02-2007"></s2>
+		<s2 title="Aves (Birds)" author="" page="001-152" info="00:00:02:059" type="sfs" date="00-07-2008"></s2>
+		<s2 title="Fauna of Madhya Pradesh (including Chhattisgarh)" author="" page="001-202" info="00:00:03:068" type="sfs" date="00-12-2011"></s2>
+	</s1>
+	<s1 title="Fauna of Goa (Series 16)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates and Invertebrates" author="" page="001-531" info="00:00:00:060" type="sfs" date="00-01-2008"></s2>
+	</s1>
+	<s1 title="Fauna of Tamil Nadu (Series 17)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates and Invertebrates" author="" page="001-256" info="00:00:01:061" type="sfs" date="00-03-2009"></s2>
+		<s2 title="Fauna of Tamil Nadu" author="" page="001-418" info="00:00:02:069" type="sfs" date="00-08-2011"></s2>
+	</s1>
+	<s1 title="Fauna of Uttarakhand (Series 18)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates" author="" page="001-621" info="00:00:01:062" type="sfs" date="00-05-2010"></s2>
+		<s2 title="Insecta" author="" page="001-748" info="00:00:02:063" type="sfs" date="00-01-2010"></s2>
+		<s2 title="Invertebrates" author="" page="001-307" info="00:00:03:064" type="sfs" date="00-01-2010"></s2>
+	</s1>
+	<s1 title="Fauna of Andaman and Nicobar Islands (Series 19)" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Andaman and Nicobar Islands" author="" page="001-236" info="00:00:01:065" type="sfs" date="00-08-2012"></s2>
+	</s1>
+	<s1 title="Fauna of Maharashtra (Series 20)" author="" page="" info="" type="" date="">
+		<s2 title="Vertebrates" author="" page="001-186" info="00:00:01:066" type="sfs" date="00-11-2012"></s2>
+		<s2 title="Invertebrates" author="" page="001-673" info="00:00:02:067" type="sfs" date="00-11-2012"></s2>
+	</s1>
+</zsi>

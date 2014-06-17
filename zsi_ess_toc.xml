@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ess SYSTEM "ess.dtd">
+
+<ess>
+	<book bid="001">
+		<s1 page="0001" title="Estuarine Ecosystem in India and Faunal Resources" author="Ghosh, A. K."></s1>
+		<s1 page="0007" title="Studies on the Ecology and Fauna of the Rushikulya Estuary, (Ganjam), Orissa" author="Rama Rao, Kaza V.;Rao, C. A. Nageswara;Nahar, S. C.;Rao, D. V.;Mohapatra, A."></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0001" title="A Faunal Appraisal of Hugli-Matla Estuarine Complex" author="Subba Rao, N. V."></s1>
+		<s1 page="0009" title="Medusae : Cnidaria" author="Haldar, Badri Prasad;Choudhury, Amalesh"></s1>
+		<s1 page="0031" title="Echiura and Sipuncula" author="Haldar, Badri Prasad"></s1>
+		<s1 page="0041" title="Molluscs" author="Subba Rao, N. V.;Dey, A.;Barua, S."></s1>
+		<s1 page="0093" title="Polychaetes" author="Misra, A."></s1>
+		<s1 page="0157" title="The Structure and Dynamics and Planktonic Copepods" author="Khan, Rashid A."></s1>
+		<s1 page="0179" title="Stomatopoda : Crustacea" author="Ghosh, H. C."></s1>
+		<s1 page="0191" title="Isopoda : Crustacea" author="Ghatak, S. S."></s1>
+		<s1 page="0199" title="Hermit Crabs (Crustacea : Decapoda)" author="Reddy, K. Narapu"></s1>
+		<s1 page="0217" title="Crustacea : Xanthidae" author="Deb, Maya"></s1>
+		<s1 page="0229" title="Crustacea : Decapoda : Grapsidae" author="Ghosh, Sunil Kumar"></s1>
+		<s1 page="0249" title="Portunidae : Decapoda : Crustacea" author="Bhadra, Sipra"></s1>
+		<s1 page="0263" title="Ocypodidae : Decapoda : Crustacea" author="Bairagi, N."></s1>
+		<s1 page="0289" title="Prawns and Shrimps (Crustacea : Decapoda)" author="Reddy, K. Narapu"></s1>
+		<s1 page="0315" title="Spider" author="Biswas, B. K."></s1>
+		<s1 page="0319" title="Chaetognatha" author="Haldar, Badri Prasad"></s1>
+		<s1 page="0327" title="Asteroidea, Ophiuroidea and Ehinoidea (Echinodermata)" author="Sastry, D. R. K."></s1>
+		<s1 page="0339" title="Holothuroidea : Echinodermata" author="Mukhopadhyaya, S. K."></s1>
+		<s1 page="0345" title="Intertidal Fishes" author="Mukherjee, P."></s1>
+		<s1 page="0389" title="Anura : Amphibia" author="Chanda, S. K."></s1>
+		<s1 page="0401" title="Reptilia" author="Sanyal, D. P.;Dattagupta, B.;Sur, S."></s1>
+		<s1 page="0417" title="Ecology of the Hugli-Matla Estuarine System" author="Khan, A. Rashid"></s1>
+		<s1 page="0465" title="Ecology of Kulti Estuary with Reference to Discharge of Calcutta Metropolitan Sewage" author="Khan, A. Rashid"></s1>
+		<s1 page="0497" title="The Pollution Problem of Hugli Estuarine System" author="Khan, A. Rashid"></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0000d" title="Foreword" author=""></s1>
+		<s1 page="0000e" title="Preface" author=""></s1> 
+		<s1 page="0001" title="An Overview" author="Mitra, S. K.;Venkateswarlu, T."></s1>
+		<s1 page="0017" title="Aves" author="Mohapatra, A."></s1>
+		<s1 page="0023" title="Fishes" author="Venkateswarlu, T.;Devi, K. Rema;Indra, T. J.;Pattanayak, J. G."></s1>
+		<s1 page="0115" title="Snakes" author="Venkateswarlu, T.;Pattanayak, J. G.;Nahar, S. C.;Mohapatra, A."></s1>
+		<s1 page="0121" title="Shore Line Insects" author="Nahar, S. C."></s1>	
+		<s1 page="0125" title="Hermit Crabs (Crustacea : Decapoda)" author="Reddy, K. Narapu;Murthy, P. Krishna"></s1>
+		<s1 page="0129" title="Crustacea" author="Deb, Maya"></s1>
+		<s1 page="0161" title="Mollusca" author="Rao, K. V. Surya;Maitra, S."></s1>
+		<s1 page="0199" title="Polychaeta : Annelida" author="Rao, C. A. Nageswara"></s1>
+		<s1 page="0211" title="Porifera" author="Pattanyak, J. G."></s1>
+		<s1 page="0215" title="Other Groups" author="Pattanayak, J. G.;Haldar, B. P."></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="An Overview" author="Rao, C. A. N."></s1>
+		<s1 page="0007" title="Porifera" author="Pattanayak, J. G."></s1>
+		<s1 page="0011" title="Sea-Anemones (Cnidaria : Actiniaria)" author="Bairagi, N."></s1>
+		<s1 page="0015" title="Scyphomedusae : Cnidaria" author="Haldar, Badari Prasad"></s1>
+		<s1 page="0021" title="Polychaeta : Annelida" author="Rao, C. A. N."></s1>
+		<s1 page="0033" title="Shore-Line Insects" author="Nahar, S. C."></s1>
+		<s1 page="0035" title="Brachyuran Crabs (Crustacea : Decapoda : Brachyura)" author="Roy, M. K. Dev;Bhadra, S."></s1>
+		<s1 page="0055" title="Mollusca" author="Mohapatra, A."></s1>
+		<s1 page="0083" title="Echinodermata" author="Sastry, D. R. K."></s1>
+		<s1 page="0085" title="Fishes" author="Krishnan, S.;Mishra, S. S."></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0001" title="Krishna Estuary - An Overview" author="Rao, C. A. Nageswara"></s1>
+		<s1 page="0009" title="Brachiopoda" author="Rao, C. A. Nageswara"></s1>
+		<s1 page="0013" title="Polychaeta" author="Rao, C. A. Nageswara"></s1>
+		<s1 page="0033" title="Crustacea-Hermit Crabs" author="Reddy, K. Narapu;Dey, M. K."></s1>
+		<s1 page="0043" title="Crustacea-Crabs" author="Rath, Shibananda;Roy, M. K. Dev"></s1>
+		<s1 page="0083" title="Crustacea-Prawns" author="Rath, Shibananda;Roy, M. K. Dev"></s1>
+		<s1 page="0105" title="Mollusca" author="Mohapatra, A."></s1>
+		<s1 page="0175" title="Echinodermata" author="Sastry, D. R. K."></s1>
+		<s1 page="0179" title="Fishes" author="Misra, S. S."></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0001" title="Introduction and Overview" author="Rao, C. A. Nageswara"></s1>
+		<s1 page="0007" title="Polychaeta" author="Rao, C. A. Nageswara"></s1>
+		<s1 page="0015" title="Prawns (Crustacea : Decapoda)" author="Rath, Shibananda;Roy, M. K. Dev"></s1>
+		<s1 page="0023" title="Crab (Crustacea : Decapoda : Brachyura)" author="Rath, Shibananda;Roy M. K. Dev"></s1>
+		<s1 page="0047" title="Mollusca" author="Mohapatra, A."></s1>
+		<s1 page="0073" title="Fishes" author="Mishra, S. S."></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0001" title="Appraisal" author="Rama Rao, Kaza V."></s1>
+		<s1 page="0011" title="Limnology" author="Siddiqi, S. Z.;Rama Rao, Kaza V."></s1>
+		<s1 page="0137" title="Protozoa" author="Das, A. K."></s1>
+		<s1 page="0211" title="Porifera" author="Pattanayak, J. G."></s1>
+		<s1 page="0227" title="Anthozoa : Coelenterata" author="Misra, A."></s1>
+		<s1 page="0235" title="Trematoda - Digenea" author="Dutta, I. B."></s1>
+		<s1 page="0279" title="Nematoda" author="Sarkar, S. R. Dey"></s1>
+		<s1 page="0319" title="Annelida : Polychaeta" author="Rao, C. A. Nageswara"></s1>
+		<s1 page="0337" title="Crustacea : Stomatopoda" author="Ghosh, H. C."></s1>
+		<s1 page="0345" title="Crustacea : Brachyura" author="Deb, Maya"></s1>
+		<s1 page="0367" title="Crustacea : Decapoda" author="Reddy, K. Narapu"></s1>
+		<s1 page="0391" title="Mollusca" author="Rao, N. V. Subba;Rao, K. V. Surya;Manna, R. N."></s1>
+		<s1 page="0469" title="Sipuncula and Echiura" author="Haldar, Badri Prasad"></s1>
+		<s1 page="0477" title="Echinodermata" author="Sastry, D. R. K."></s1>
+		<s1 page="0479" title="Protochordata" author="Dhandapani, P."></s1>
+		<s1 page="0483" title="Pisces" author="Rama Rao, Kaza V."></s1>
+		<s1 page="0507" title="Reptilia and Amphibia" author="Murthy, T. S. N."></s1>
+		<s1 page="0561" title="Aves" author="Chattopadhyay, S."></s1>
+		<s1 page="0601" title="Mammalia" author="Saha, Subhendu Sekhar"></s1>
+		<s1 page="0611" title="Mammalia : River Dolphin" author="Dhandapani, P."></s1>
+		<s1 page="0615" title="Phyto and Zooplankton" author="Srinivasan, M."></s1>
+		<s1 page="0631" title="Zooplankton" author="Srinivasan, M.;Ch. Satyanarayana"></s1>
+		<s1 page="0649" title="Zooplankton : In relation to Phytoplankton" author="Ch. Satyanarayana;Srinivasan, M."></s1>
+		<s1 page="0655" title="Meroplankton" author="Dhandapani, P."></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0001" title="Introduction" author="Julka, J. M."></s1>
+		<s1 page="0003" title="Physiography" author="Julka, J. M.;Mehta, H. S."></s1>
+		<s1 page="0007" title="Protozoa" author="Mukherjee, R. N.;Das, A. K."></s1>
+		<s1 page="0011" title="Porifera" author="Mehta, H. S.;Paliwal, R."></s1>
+		<s1 page="0013" title="Cnidaria" author="Julka, J. M.;Paliwal, R."></s1>
+		<s1 page="0015" title="Bryozoa" author="Julka, J. M."></s1>
+		<s1 page="0017" title="Mollusca" author="Rao, K. V. Surya;Mitra, S. C."></s1>
+		<s1 page="0021" title="Oligochaeta" author="Julka, J. M.;Paliwal, R."></s1>
+		<s1 page="0027" title="Hirudinea" author="Chandra, Mahesh"></s1>
+		<s1 page="0029" title="Arachnida : Araneae" author="Biswas, Bijan"></s1>
+		<s1 page="0031" title="Crustacea : Zooplankton" author="Venkataraman, K."></s1>
+		<s1 page="0039" title="Crustacea : Decapoda" author="Ghosh, H. C."></s1>
+		<s1 page="0041" title="Ephemeroptera" author="Srivastava, V. D."></s1>
+		<s1 page="0045" title="Odonata (Adults)" author="Kumar, Arun"></s1>
+		<s1 page="0055" title="Odonata (Larvae)" author="Kumar, Arun"></s1>
+		<s1 page="0063" title="Mantodea" author="Mukherjee, T. K.;Shishodia, M. S."></s1>
+		<s1 page="0067" title="Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0073" title="Orthoptera" author="Shishodia, M. S.;Tandon, S. K."></s1>
+		<s1 page="0091" title="Aquatic and Semi-Aquatic Hemiptera" author="Bal, Animesh;Basu, R. C."></s1>
+		<s1 page="0097" title="Aquatic Coleoptera" author="Biswas, S."></s1>
+		<s1 page="0105" title="Lepidoptera : Butterflies" author="Arora, G. S."></s1>
+		<s1 page="0121" title="Lepidoptera : Moths" author="Mondal, D. K.;Ghosh, S. K.;Majumdar, M."></s1>
+		<s1 page="0131" title="Hymenoptera : Aculeata" author="Ray, K. K.;Tiwari, R. N."></s1>
+		<s1 page="0135" title="Diptera" author="Parui, P.;Mukherjee, Manu"></s1>
+		<s1 page="0141" title="Pisces" author="Mehta, H. S."></s1>
+		<s1 page="0151" title="Amphibia" author="Mehta, H. S."></s1>
+		<s1 page="0163" title="Reptilia" author="Mehta, H. S."></s1>
+		<s1 page="0169" title="Avifauna" author="Mahabal, Anil"></s1>
+		<s1 page="0177" title="Mammalia" author="Sinha, N. K."></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0001" title="The Ujani Wetland : An Overview" author="Yazdani, G. M."></s1>
+		<s1 page="0005" title="Limnological Investigations - Abiotic Factors" author="Patil, S. G.;Singh, D. F."></s1>
+		<s1 page="0027" title="Limnological Investigations - Biotic Factors" author="Patil, S. G."></s1>
+		<s1 page="0063" title="Rotifera" author="Patil, S. G."></s1>
+		<s1 page="0071" title="Cladocera (Crustacea)" author="Rane, P. D."></s1>
+		<s1 page="0087" title="Freshwater Ostracoda" author="Patil, S. G."></s1>
+		<s1 page="0091" title="Insecta : Odonata" author="Kulkarni, P. P.;Prasad, M."></s1>
+		<s1 page="0105" title="Aquatic and semi-aquatic Heteroptera (Insecta)" author="Thirumalai G.;Sharma, R. M."></s1>
+		<s1 page="0117" title="Aquatic Coleoptera (Insecta)" author="Sharma, R. M."></s1>
+		<s1 page="0133" title="Mollusca" author="Rao, K. V. Surya;Mitra, S. C.;Maitra, S."></s1>
+		<s1 page="0143" title="Fishes" author="Yazdani, G. M.;Singh, D. F."></s1>
+		<s1 page="0157" title="Amphibia" author="Kamble, S. S."></s1>
+		<s1 page="0161" title="Higher Chordates" author="Pradhan, M. S."></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="Kaber Lake Wetland - An Overview" author="Alfred, J. R. B.;Ramakrishna"></s1>
+		<s1 page="0015" title="Limnology" author="Ramakrishna, Muley, E. V.;Pandey, A. K.;Siddiqui, S. Z."></s1>
+		<s1 page="0023" title="Nutrients" author="Siddiqui, S. Z.;Ramakrishna"></s1>
+		<s1 page="0029" title="Diurnal Variation &amp; Phytoplankton Diversity" author="Ramakrishna;Siddiqui, S. Z."></s1>
+		<s1 page="0039" title="Macrophytic Vegetation" author="Ramakrishna;Siddiqui, S. Z."></s1>
+		<s1 page="0047" title="Zooplankton" author="Siddiqui, S. Z.;Ramakrishna"></s1>
+		<s1 page="0057" title="Mollusca" author="Rao, K. V. Surya;Mitra, S. C.;Ramakrishna"></s1>
+		<s1 page="0065" title="Insecta : Odonata" author="Ramakrishna"></s1>
+		<s1 page="0069" title="Insecta : Coleoptera" author="Biswas, S."></s1>
+		<s1 page="0077" title="Insecta : Hemiptera : Water Bugs" author="Bal, Animesh;Basu, R. C."></s1>
+		<s1 page="0089" title="Pisces" author="Ramarao, Kaza V.;Singh, K. P.;Ramakrishna"></s1>
+		<s1 page="0107" title="Amphibia" author="Sarkar, A. K.;Ray, S."></s1>
+		<s1 page="0113" title="Reptilia" author="Sanyal, D. P.;Talukdar, S. K.;Duttagupta, G."></s1>
+		<s1 page="0117" title="Aves" author="Ramakrishna;Siddiqui, S. Z.;Muley, E. V.;Vasanth, M."></s1>
+		<s1 page="0131" title="Environmental Assessment of Kabar Lake" author="Alfred, J. R. B.;Ramakrishna"></s1>
+	</book>
+	<book bid="011">
+		<s1 page="0001" title="Introduction" author="Tak, P. C.;Sati, J. P."></s1>
+		<s1 page="0007" title="Fauna" author="">
+			<s2 page="0007" title="Invertebrata" author="">
+				<s3 page="0007" title="Annelida" author="Halder, K. R.;Mondal, C. K."></s3>
+				<s3 page="0011" title="Odonata" author="Kumar, Arun;Sharma, Gaurav"></s3>
+				<s3 page="0015" title="Coleoptera (Aquatic beetles)" author="Mukhopadhyay, P.;Ghosh, S. K."></s3>
+				<s3 page="0019" title="Mollusca (Freshwater)" author="Mitra, S. C.;Dey, A.;Ramakrishna"></s3>
+			</s2>
+			<s2 page="0023" title="Vertebrata" author="">
+				<s3 page="0023" title="Pisces" author="Husain, Akhlaq"></s3>
+				<s3 page="0027" title="Amphibia" author="Husain, Akhlaq"></s3>
+				<s3 page="0029" title="Reptilia" author="Husain, Akhlaq"></s3>
+				<s3 page="0031" title="Aves" author="Tak, P. C.;Sati, J. P."></s3>
+				<s3 page="0039" title="Mammalia" author="Sati, J. P.;Sinha, N. K."></s3>
+			</s2>
+			<s2 page="0043" title="Species Richness and Seasonal Population Change in Waterfowls" author="Tak, P. C.;Sati, J. P.;Kumar, Arun"></s2>
+			<s2 page="0053" title="Assessment and Monitoring of a Migratory Waterfowl Habitat Using Remote Sensing Techniques" author="Kumar, Arun"></s2>
+		</s1>
+	</book>
+	<book bid="012">
+		<s1 page="0001" title="Sambharlake : An Overview" author="Kumar, Sanjeev"></s1>
+		<s1 page="0043" title="Limnology" author="Kumar, Sanjeev"></s1>
+		<s1 page="0065" title="Zooplankton" author="Kumar, Sanjeev"></s1>
+		<s1 page="0083" title="Crustacea" author="Kumar, Sanjeev"></s1>
+		<s1 page="0097" title="Insecta:" author="">
+			<s2 page="0107" title="Dermaptera" author="Srivastava, G. K."></s2>
+			<s2 page="0111" title="Dictyoptera" author="Shishodia, M. S."></s2>
+			<s2 page="0113" title="Diptera : Chironomidae" author="Kumar, Sanjeev"></s2>
+			<s2 page="0119" title="Coleoptera" author="Mukhopadhyay, P.;Chakraborty, S. K.;Biswas, D. N.;Halder, S. K.;Ghosh, S. K.;Chakraborty, P.;Sengupta, S."></s2>
+			<s2 page="0133" title="Coleoptera : Scarabacidae" author="Chatterjee, S. K.;Mukhopadhyay, P."></s2>
+		</s1>
+		<s1 page="0141" title="Aves" author="Kumar, Sanjeev"></s1>
+		<s1 page="0151" title="Flamingos and Breeding" author="Kumar, Sanjeev"></s1>
+		<s1 page="0181" title="Mammals" author="Kumar, Sanjeev"></s1>
+		<s1 page="0187" title="Threats and Conservation" author="Kumar, Sanjeev"></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0001" title="Nathsagar Wetland and Jaikwadi Bird Sanctuary - An Overview" author="Mahabal, Anil S."></s1>
+		<s1 page="0007" title="Hydrobiological Investigations" author="Patil, S. G."></s1>
+		<s1 page="0063" title="The Freshwater Ostracoda" author="Patil, S. G.;Talmale, S. S."></s1>
+		<s1 page="0077" title="Cladocera : Crustacea" author="Rane, P. D."></s1>
+		<s1 page="0101" title="Freshwater Mollusca" author="Patil, S. G.;Ramakrishna"></s1>
+		<s1 page="0115" title="Insecta : Odonata" author="Kulkarni, P. P.;Talmale, S. S."></s1>
+		<s1 page="0129" title="Aquatic and Semiaquatic Hemiptera (Insecta)" author="Thirumalai, G.;Sharma, R. M.;Valarmathi, K."></s1>
+		<s1 page="0137" title="Pisces" author="Yadav, B. E."></s1>
+		<s1 page="0145" title="Reptilia" author="Pradhan, M. S."></s1>
+		<s1 page="0155" title="Amphibia" author="Kamble, Satish S."></s1>
+		<s1 page="0161" title="Aves" author="Mahabal, Anil S."></s1>
+		<s1 page="0183" title="Mammalia" author="Pradhan, M. S."></s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="Pichhola Lake : An Overview" author="Rathore, N. S.;Kumar, S."></s1>
+		<s1 page="0035" title="Limnology" author="Kumar, S.;Rathore, N. S."></s1>
+		<s1 page="0055" title="Zooplankton" author="Kumar, S.;Rathore, N. S."></s1>
+		<s1 page="0067" title="Crustacea : Decapoda" author="Ghosh, S. K."></s1>
+		<s1 page="0071" title="Chilopoda : Scolopendromorpha" author="Khanna, Vinod"></s1>
+		<s1 page="0074" title="Insecta:" author="">
+			<s2 page="0075" title="Thysanura" author="Hazra, A. K.;Biswas, M."></s2>
+			<s2 page="0079" title="Odonata" author="Prasad, M."></s2>
+			<s2 page="0085" title="Orthoptera" author="Shishodia, M. S."></s2>
+			<s2 page="0093" title="Dermaptera" author="Srivastava"></s2>
+			<s2 page="0097" title="Dictyoptera : Blattaria" author="Mandal, S. K.;Shishodia, M. S."></s2>
+			<s2 page="0101" title="Isoptera" author="Rathore, N. S.;Tak, N."></s2>
+			<s2 page="0109" title="Diptera : Chironomidae" author="Kumar, S."></s2>
+			<s2 page="0113" title="Coleoptera" author="Mukhopadhyay, P.;Chakraborty, S. K.;Biswas, D. N.;Halder, S. K.;Ghosh, S. K.;Chakraborty, P.;Sengupta, S."></s2>
+			<s2 page="0127" title="Hymenoptera : Formicidae" author="Tak, N.;Rathore, N. S.;Kumar, S."></s2>
+		</s1>
+		<s1 page="0131" title="Mollusca" author="Mitra, S. C.;Dey, A.;Barua, S."></s1>
+		<s1 page="0139" title="Pisces" author="Kumar, S.;Rathore, N. S."></s1>
+		<s1 page="0167" title="Amphibia" author="Rathore, N. S.;Kumar, S."></s1>
+		<s1 page="0171" title="Reptilia" author="Kumar, S.;Rathore, N. S."></s1>
+		<s1 page="0181" title="Aves" author="Kumar, S.;Rathore, N. S."></s1>
+		<s1 page="0209" title="Mammalia" author="Kumar, S.;Rathore, N. S."></s1>
+		<s1 page="0217" title="Threats and Strategies for Conservation" author="Kumar, S.;Rathore, N. S."></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0001" title="Fauna of Kopili Hydro electric Project Site - An Overview" author="Hattar, S. J. S."></s1>
+		<s1 page="0005" title="Freshwater Monogonont Rotifers (Rotifera : Eurotatoria : Monogononta)" author="Sharma, Sumita"></s1>
+		<s1 page="0023" title="Freshwater Cladocerans (Crustacea : Branchiopoda : Cladocera)" author="Sharma, Sumita"></s1>
+		<s1 page="0035" title="Crustacea (Decapoda : Gecarcinucidae : Palaemonidae : Atyidae)" author="Ghatak, S. S.;Ghosh, S. K.;Roy, M. K. Dev"></s1>
+		<s1 page="0039" title="Insecta : Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0045" title="Insecta : Hemiptera (Water Bugs)" author="Bal, A."></s1>
+		<s1 page="0051" title="Insecta : Aquatic Coleoptera (Family : Gyrinidae, Dytiscidae and Hydrophilidae)" author="Mukhopadhyay, P.;Ghosh, S. K."></s1>
+		<s1 page="0059" title="Mollusca" author="Mitra, S. C.;Hafiz, M.;Ramakrishna"></s1>
+		<s1 page="0069" title="Amphibia" author="Sen, N."></s1>
+		<s1 page="0073" title="Reptilia" author="Mathew, R."></s1>
+		<s1 page="0077" title="Pisces" author="Sen, N."></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0001" title="Faunal Diversity of Vembanad Lake : An Overview" author="Khan, R. A.;Nandi, N. C.;Roy, M. K. Dev.;Radhakrishnan, C."></s1>
+		<s1 page="0025" title="General Ecology" author="Nandi, N. C.;Khan, R. A.;Roy, M. K. Dev"></s1>
+		<s1 page="0039" title="Vertebrate Diversity of Environs" author="Radhakrishnan, C.;Gopi, K. C.;Palot, Muhamed Jafer"></s1>
+		<s1 page="0069" title="Invertebrate Diversity" author="Roy, M. K. Dev;Nandi, N. C.;Khan, R. A."></s1>
+		<s1 page="0129" title="Macrobenthos" author="Nandi, N. C.;Roy, M. K. Dev"></s1>
+		<s1 page="0149" title="Fisheries and Socioeconomic Aspects" author="Nandi, N. C.;Roy, M. K. Dev"></s1>
+		<s1 page="0181" title="Conservation and Management Aspects" author="Khan, R. A.;Radhakrishnan, C.;Nandi, N. C.;Roy, M. K. Dev"></s1>
+	</book>
+	<book bid="017">
+		<s1 page="0000f" title="Preface" author=""></s1>
+		<s1 page="0001" title="1. Introduction" author=""></s1>
+		<s1 page="0007" title="2. Study Area" author="">
+			<s2 page="0007" title="2.1. Nal Sarovar Lake" author=""></s2>
+			<s2 page="0008" title="2.2. Status" author=""></s2>
+			<s2 page="0011" title="2.3. History" author=""></s2>
+			<s2 page="0011" title="2.4. Climate" author=""></s2>
+			<s2 page="0011" title="2.5. Geology and Hydrology" author=""></s2>
+			<s2 page="0017" title="2.6. Soil" author=""></s2>
+			<s2 page="0018" title="2.7. Habitat" author=""></s2>
+		</s1>
+		<s1 page="0018" title="3. Review of Literature" author=""></s1>
+		<s1 page="0020" title="4. Limnology" author=""></s1>
+		<s1 page="0025" title="5. Flora" author=""></s1>
+		<s1 page="0031" title="6. Fauna" author="">
+			<s2 page="0034" title="6.1. Invertebrate Fauna" author="">
+				<s3 page="0034" title="6.1.1. Zooplankton" author=""></s3>
+				<s3 page="0038" title="6.1.2. Insecta" author=""></s3>
+			</s2>
+			<s2 page="0040" title="6.2. Vertebrate Fauna" author="">
+				<s3 page="0040" title="6.2.1. Ichthyofauna" author=""></s3>
+				<s3 page="0041" title="6.2.2. Amphibia" author=""></s3>
+				<s3 page="0045" title="6.2.3. Reptilia" author=""></s3>
+				<s3 page="0052" title="6.2.4. Aves" author=""></s3>
+				<s3 page="0067" title="6.2.5. Mammalia" author=""></s3>
+			</s2>
+		</s1>
+		<s1 page="0081" title="7. Threats and Conservation" author=""></s1>
+		<s1 page="0093" title="8. Summary" author=""></s1>
+		<s1 page="0095" title="9. References" author=""></s1>
+		<s1 page="0100" title="10. Appendices" author="">
+			<s2 page="0100" title="10.1. Appendix 1 : List of Important Wetlands in India" author=""></s2>
+			<s2 page="0103" title="10.2. Appendix 2 : Insecta : Heteroptera (Aquatic and Semi aquatic)" author="Thirumalai, G."></s2>
+			<s2 page="0113" title="10.3. Appendix 3 : Ichthyofauna" author="Jaiswal, D.;Rao, C. A. N.;Kumar, S.;Mohd, Hakeel"></s2>
+			<s2 page="0129" title="10.4. Appendix 4 : Reed dwelling avian species at Nal sarovar" author=""></s2>
+			<s2 page="0130" title="10.5. Appendix 5 : Passerine birds in and around Wetland Nal sarovar" author=""></s2>
+			<s2 page="0135" title="10.6. Appendix 6 : Mammalian species" author=""></s2>
+		</s1>
+	</book>
+	<book bid="018">
+		<s1 page="0001" title="Overview" author=""></s1>
+		<s1 page="0007" title="Earthworm : Oligochaeta" author=""></s1>
+		<s1 page="0013" title="Insecta : Odonata" author=""></s1>
+		<s1 page="0021" title="Rhopalocera : Lepidoptera (Insecta)" author=""></s1>
+		<s1 page="0043" title="Orthoptera (Insecta)" author=""></s1>
+		<s1 page="0065" title="Pisces" author=""></s1>
+		<s1 page="0093" title="Amphibia" author=""></s1>
+		<s1 page="0099" title="Reptilia" author=""></s1>
+		<s1 page="0109" title="Aves" author=""></s1>
+	</book>
+	<book bid="019">
+		<s1 page="0001" title="Introduction &amp; Limnology" author="Chandrasekhar, S. V. A.;Nageswara Rao, C. A."></s1>
+		<s1 page="0029" title="Zooplankton" author="Chandrasekhar, S. v. A."></s1>
+		<s1 page="0037" title="Aquatic Insects (Hemiptera &amp; Coleoptera)" author="Deepa, J.;Rao, C. A. N."></s1>
+		<s1 page="0051" title="Crustacea" author="Ghatak, S. S.;Ghosh, S. K.;Roy, M. K. Dev"></s1>
+		<s1 page="0057" title="Mollusca" author="Rao, K. V. Surya"></s1>
+		<s1 page="0075" title="Ichthyofauna" author="Rao, C. A. N.;Hakeel, Mohd.;Deepa, J."></s1>
+		<s1 page="0099" title="Herpetofauna" author="Srinivasulu, C.;Srinivasulu, Bhargavi"></s1>
+		<s1 page="0113" title="Aves" author="Srinivasulu, C.;Srinivasulu, Bhargavi"></s1>
+		<s1 page="0169" title="Mammalia" author="Srinivasulu, C.;Srinivasulu, Bhargavi"></s1>
+		<s1 page="0182" title="Plates" author=""></s1>
+	</book>
+	<book bid="020">
+		<s1 page="0001" title="Introduction" author="Arora, G. S.;Kumar, Arun;Tak, P. C."></s1>
+		<s1 page="0011" title="Mollusca" author="Rao, N. V. Subba;Mitra, S. C."></s1>
+		<s1 page="0017" title="Oligochaeta" author="Julka, J. M."></s1>
+		<s1 page="0023" title="Crustacea : Decapoda" author="Krishnamurty, P."></s1>
+		<s1 page="0025" title="Odonata" author="Kumar, Arun"></s1>
+		<s1 page="0035" title="Plecoptera" author="Das, B. C."></s1>
+		<s1 page="0037" title="Orthoptera" author="Tandon, S. K.;Shishodia, M. S."></s1>
+		<s1 page="0043" title="Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0047" title="Isoptera" author="Verma, S. C."></s1>
+		<s1 page="0051" title="Hemiptera" author="Varshney, R. K."></s1>
+		<s1 page="0055" title="Coleoptera" author="Biswas, S."></s1>
+		<s1 page="0061" title="Lepidoptera" author="Arora, G. S.;Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0075" title="Trichoptera" author="Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0081" title="Hymenoptera" author="Gupta, S. K."></s1>
+		<s1 page="0091" title="Hymenoptera : Ichneumonidae" author="Jonathan, J. K."></s1>
+		<s1 page="0111" title="Chilopoda : Scolopendromorpha : Scolopendridae" author="Khanna, Vinod"></s1>
+		<s1 page="0115" title="Arachnida : Scorpiones" author="Biswas, A. T."></s1>
+		<s1 page="0117" title="Pisces" author="Husian, Akhlaq"></s1>
+		<s1 page="0151" title="Amphibia" author="Ray, Pranjalendu"></s1>
+		<s1 page="0159" title="Reptilia" author="Husain, Akhlaq;Ray, Pranjalendu"></s1>
+		<s1 page="0169" title="Aves" author="Tak, P. C."></s1>
+		<s1 page="0201" title="Mammalia" author="Sinha, N. K."></s1>
+		<s1 page="0215" title="Tables" author=""></s1>
+	</book>
+	<book bid="021">
+		<s1 page="0001" title="Fauna of Western Himalaya - An Overview" author="Mehta, H. S."></s1>
+		<s1 page="0007" title="Protozoa" author="Das, A. K.;Chattopadhyay, Piyali"></s1>
+		<s1 page="0023" title="Plant and Soil Nematodes" author="Baqri, Qaiser H.;Bohra, Padma"></s1>
+		<s1 page="0039" title="Mollusca" author="Rao, K. V. Surya;Mitra, S. C."></s1>
+		<s1 page="0053" title="Annelida : Oligochaeta" author="Julka, J. M.;Paliwal, R."></s1>
+		<s1 page="0061" title="Insecta : Collembola" author="Hazra, A. K.;Mandal, G. P.;Mitra, S. K."></s1>
+		<s1 page="0067" title="Insecta : Thysanura" author="Hazra, A. K.;Biswas, M.;Mitra, S. K."></s1>
+		<s1 page="0075" title="Insecta : Odonata" author="Kumar, Arun"></s1>
+		<s1 page="0099" title="Insecta : Plecoptera (Stone Flies)" author="Das, B. C."></s1>
+		<s1 page="0103" title="Insecta : Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0111" title="Insecta : Hemiptera" author="Ghosh, L. K.;Biswas, B.;Ghosh, M."></s1>
+		<s1 page="0141" title="Insecta : Coleoptera : Scarabaeidae" author="Chandra, Kailash"></s1>
+		<s1 page="0157" title="Insecta : Lepidoptera (Butterflies)" author="Arora, G. S.;Mehta, H. S.;Walia, V. K."></s1>
+		<s1 page="0181" title="Insecta : Lepidoptera : Geometridae (Moths)" author="Walia, V. K."></s1>
+		<s1 page="0191" title="Insecta : Hymenoptera : Ichneumonidae" author="Jonathan, J. K."></s1>
+		<s1 page="0221" title="Chilopoda : Scolopendridae" author="Khanna, Vinod"></s1>
+		<s1 page="0231" title="Ticks (Acari : Ixodida)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0237" title="Soil Dwelling Mites (Acari)" author="Sanyal, A. K.;Sengupta, D."></s1>
+		<s1 page="0247" title="Parasitic Mite (Acari)" author="Sanyal, A. K.;Bhattacharya, A. K."></s1>
+		<s1 page="0255" title="Pisces" author="Mehta, H. S.;Uniyal, Devi Prasad"></s1>
+		<s1 page="0269" title="Amphibia" author="Mehta, H. S."></s1>
+		<s1 page="0275" title="Aves" author="Mahabal, Anil"></s1>
+		<s1 page="0341" title="Mammals" author="Chakraborty, S.;Mehta, H. S.;Pratihar, S."></s1>
+	</book>
+	<book bid="022">
+		<s1 page="0001" title="Overview" author="Sidhu, Avtar Kaur;Sharma, Indu;Saikia, Uttam;Saini, Kamal"></s1>
+		<s1 page="0013" title="Protozoa" author="Bindu, L."></s1>
+		<s1 page="0031" title="Insecta : Orthoptera" author="Saini, Kamal"></s1>
+		<s1 page="0041" title="Lepidoptera : Rhopalocera" author="Sidhu, Avtar Kaur"></s1>
+		<s1 page="0071" title="Lepidoptera : Heterocera" author="Sidhu, Avtar Kaur;Kaur, Simranjeet;Sharma, Indu"></s1>
+		<s1 page="0083" title="Insecta : Heteroptera" author="Biswas, Biswabrota;Bal, Animesh"></s1>
+		<s1 page="0087" title="Reptilia" author="Saikia, Uttam"></s1>
+		<s1 page="0095" title="Aves" author="Saikia, Uttam"></s1>
+		<s1 page="0107" title="Mammalia" author="Sharma, Indu;Saikia, Uttam"></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0001" title="Marine Fauna of Chennai Coast - An Overview" author="Venkataraman, K."></s1>
+		<s1 page="0021" title="Porifera" author="Sivaleela, G."></s1>
+		<s1 page="0029" title="Chaetognatha" author="Srinivasan, M."></s1>
+		<s1 page="0043" title="Hydromedusae" author="Venkataraman, K."></s1>
+		<s1 page="0047" title="Scyphomedusae" author="Venkataraman, K."></s1>
+		<s1 page="0053" title="Siphonophores" author="Venkataraman, K."></s1>
+		<s1 page="0057" title="Cirripedies" author="Krishnamoorthy, P."></s1>
+		<s1 page="0061" title="Amphipoda" author="Venkataraman, K."></s1>
+		<s1 page="0065" title="Macrura" author="Satyanarayana, Ch.;Venkataraman, K."></s1>
+		<s1 page="0083" title="Brachyura" author="Krishnamoorthy, P."></s1>
+		<s1 page="0111" title="Cephalopoda" author="Jothinayagam, J. T."></s1>
+		<s1 page="0115" title="Echinodermata" author="Sivaswamy, S."></s1>
+		<s1 page="0119" title="Fishes" author="Krishnan, S.;Mishra, S. S.;Prabhakar, D."></s1>
+		<s1 page="0289" title="Reptiles" author="Satishkumar, V. M."></s1>
+	</book>
+	<book bid="024">
+		<s1 page="0001" title="Introduction and Limnology" author="Chandrasekhar, S. V. A.;Rao, C. A. Nageswara;Deepa, J."></s1>
+		<s1 page="0027" title="Rotifera : Wyra Lake" author="Chandrasekhar, S. V. A."></s1>
+		<s1 page="0035" title="Cladocera : Wyra Lake" author="Chandrasekhar, S. V. A."></s1>
+		<s1 page="0041" title="Aquatic Insects (Hemiptera and Coleoptera)" author="Deepa, J."></s1>
+		<s1 page="0059" title="Insecta : Odonata" author="Bhargavi;Srinivasulu, C.;Deepa, J."></s1>
+		<s1 page="0069" title="Crustacea" author="Ghatak, S. S.;Ghosh, S. K.;Roy, M. K. Dev"></s1>
+		<s1 page="0075" title="Freshwater Molluscs" author="Rao, K. V. Surya;Venkatesan, K.;Rao, C. A. N."></s1>
+		<s1 page="0097" title="Ichthyofauna" author="Rao, C. A. N.;Deepa, J.;Hakeel, Mohd.;Chandrasekhar, S. V. A."></s1>
+		<s1 page="0117" title="Herpetofauna" author="Srinivasulu, C."></s1>
+		<s1 page="0125" title="Aves" author="Srinivasulu, C."></s1>
+	</book>
+</ess> 

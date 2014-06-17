@@ -1,0 +1,955 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fbi SYSTEM "fbi_sysindex.dtd">
+
+<fi>
+	<book bid="001">
+		<s1 page="0000e" title="Editor's Preface"></s1>
+		<s1 page="0000g" title="Author's Preface"></s1>
+		<s1 page="0000h" title="Abbreviations"></s1>
+		<s1 page="0000i" title="List of Tables"></s1>
+		<s1 page="0000m" title="Systematic Contents"></s1>
+		<s1 page="0001" title="Order Rodentia"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0011" title="Systematic Account (in Part)"></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0000b" title="Editor's Preface"></s1>
+		<s1 page="0000c" title="Author's Preface"></s1>
+		<s1 page="0000e" title="Systematic Contents"></s1>
+		<s1 page="0639" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0000c" title="Foreword"></s1>
+		<s1 page="0000d" title="Editor's Preface"></s1>
+		<s1 page="0000e" title="Author's Preface"></s1>
+		<s1 page="0000h" title="Abbreviations"></s1>
+		<s1 page="0000i" title="Systematic Contents"></s1>
+		<s1 page="0001" title="Orthoptera: Grylloidea"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="General Characters of the Grylloidea"></s1>
+		<s1 page="0005" title="Key to the Families">
+			<s2 page="0006" title="1. Family Gryllotalpidae"></s2>
+			<s2 page="0012" title="2. Family Gryllidae"></s2>
+			<s2 page="0180" title="3. Family Myrmecophilidae"></s2>
+			<s2 page="0185" title="4. Family Mogoplistidae"></s2>
+			<s2 page="0206" title="5. Family Scleropteridae"></s2>
+			<s2 page="0213" title="6. Family Pentacentridae"></s2>
+			<s2 page="0227" title="7. Family Cacoplistidae"></s2>
+			<s2 page="0230" title="8. Family Pteroplistidae"></s2>
+			<s2 page="0234" title="9. Family Phalangopsidae"></s2>
+			<s2 page="0266" title="10. Family Oecanthidae"></s2>
+			<s2 page="0273" title="11. Family Trigonidiidae"></s2>
+			<s2 page="0306" title="12. Family Eneopteridae"></s2>
+		</s1>
+		<s1 page="0405" title="Addenda"></s1>
+		<s1 page="0411" title="Bibliography"></s1>
+		<s1 page="0415" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Habitats and Food"></s1>
+		<s1 page="0003" title="Collection, Preservation, Mounting and Rearing"></s1>
+		<s1 page="0005" title="General Morphology"></s1>
+		<s1 page="0021" title="Biology"></s1>
+		<s1 page="0023" title="Economic Importance"></s1>
+		<s1 page="0024" title="Classification"></s1>
+		<s1 page="0028" title="Interrelationship of Phytoseiidae With Other Related Families"></s1>
+		<s1 page="0030" title="Phylogeny"></s1>
+		<s1 page="0031" title="Systematic Account"></s1>
+		<s1 page="0326" title="References"></s1>
+		<s1 page="0346" title="Index"></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0000g" title="Systematic Contents"></s1>
+		<s1 page="0000i" title="Abbreviations"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Subfamily Lachninae"></s1>
+		<s1 page="0154" title="Host Plants of Lachninae"></s1>
+		<s1 page="0156" title="References"></s1>
+		<s1 page="0165" title="Index to Genera and Species"></s1>
+		<s1 page="0169" title="Plates"></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0000k" title="Systematic Contents"></s1>
+		<s1 page="0000n" title="Abbreviations"></s1>
+		<s1 page="0000o" title="Introduction"></s1>
+		<s1 page="0001" title="Subfamily Pemphiginae"></s1>
+		<s1 page="0010" title="Tribe Eriosomatini"></s1>
+		<s1 page="0154" title="Tribe Pemphigini"></s1>
+		<s1 page="0325" title="Tribe Fordini"></s1>
+		<s1 page="0413" title="References"></s1>
+		<s1 page="0421" title="Host Plants of Pemphiginae"></s1>
+		<s1 page="0425" title="Index to Genera and Species"></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0000m" title="Systematic Contents"></s1>
+		<s1 page="0000q" title="Abbreviations"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Subfamily Phloemyzinae"></s1>
+		<s1 page="0006" title="Subfamily Anoeciinae"></s1>
+		<s1 page="0114" title="Subfamily Hormaphidinae"></s1>
+		<s1 page="0411" title="References"></s1>
+		<s1 page="0423" title="Host Plant Index"></s1>
+		<s1 page="0425" title="Index to The Genera And Species"></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0000k" title="Systematic Contents"></s1>
+		<s1 page="0000o" title="Abbreviations"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Subfamily Drepanosiphinae"></s1>
+		<s1 page="0323" title="Host Plants of Drepanosiphinae"></s1>
+		<s1 page="0323" title="References"></s1>
+		<s1 page="0331" title="Addendum"></s1>
+		<s1 page="0333" title="Index to Genera and Species"></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="1. Introduction">
+			<s2 page="0001" title="History"></s2>
+			<s2 page="0001" title="Phylogeny"></s2>
+			<s2 page="0002" title="Biology"></s2>
+			<s2 page="0003" title="Host Plant Association"></s2>
+		</s1>
+		<s1 page="0004" title="2. Taxonomy"></s1>
+		<s1 page="0007" title="3. List of Genera, Species and Subspecies from Indian Region"></s1>
+		<s1 page="0010" title="4. Sources of Materials for Present Study"></s1>
+		<s1 page="0011" title="5. Abbreviations used in the Text"></s1>
+		<s1 page="0012" title="6. Tribe Cervaphidini">
+			<s2 page="0012" title="i. Key to the identification of genera"></s2>
+			<s2 page="0013" title="ii. Genus !!Anomalosiphum!! Takahashi"></s2>
+			<s2 page="0019" title="iii. Genus !!Cervaphis!! van der Goot"></s2>
+			<s2 page="0044" title="iv. Genus !!Schoutedenia!! Rubsaamen"></s2>
+			<s2 page="0055" title="v. Genus !!Sumatraphis!! Takahashi"></s2>
+		</s1>
+		<s1 page="0060" title="7. Tribe Greenideini">
+			<s2 page="0060" title="i. Key to the identification of genera"></s2>
+			<s2 page="0061" title="ii. Genus !!Allotrichosiphum!! Takahashi"></s2>
+			<s2 page="0064" title="iii. Genus !!Brevitrichosiphon!! Raychaudhuri, Ghosh, Banerjee and Ghosh"></s2>
+			<s2 page="0067" title="iv. Genus !!Eutrichosiphum!! Essig and Kuwava"></s2>
+			<s2 page="0168" title="v. Genus !!Greenidea!! Schouteden"></s2>
+			<s2 page="0247" title="vi. Genus !!Greenideoida!! van der Goot"></s2>
+			<s2 page="0267" title="vii. Genus !!Mollitrichosiphum!! Suenaga"></s2>
+		</s1>
+		<s1 page="0300" title="8. List of Predators and Parasites of Greenideinae"></s1>
+		<s1 page="0303" title="9. Chromosomes of Greenideinae"></s1>
+		<s1 page="0304" title="10. List of Recorded Hosts of Greenideinae"></s1>
+		<s1 page="0314" title="11. References"></s1>
+		<s1 page="0325" title="12. Index"></s1>
+	</book>	
+	<book bid="011">
+		<s1 page="0000e" title="Editor's Preface"></s1>
+		<s1 page="0000g" title="Systematic Contents"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Morphology"></s1>
+		<s1 page="0027" title="Methods of Examination and Technique"></s1>
+		<s1 page="0030" title="Examination Methods and Technique for Cercariae"></s1>
+		<s1 page="0031" title="History of Classification of Trematoda"></s1>
+		<s1 page="0052" title="Classification of Subclass Digenea"></s1>
+		<s1 page="0054" title="Systematic Account"></s1>
+		<s1 page="0400" title="References"></s1>
+		<s1 page="0409" title="Alphabetical Index"></s1>
+	</book>	
+	<book bid="012">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Amphistomes recorded from India"></s1>
+		<s1 page="0006" title="General account of amphistomes"></s1>
+		<s1 page="0008" title="Importance of amphistomes"></s1>
+		<s1 page="0009" title="Amphistomiasis"></s1>
+		<s1 page="0011" title="Life history in general"></s1>
+		<s1 page="0013" title="Life history of amphistomes"></s1>
+		<s1 page="0016" title="Effects of parasitisation by cercariae on snails"></s1>
+		<s1 page="0017" title="Cercariae in general"></s1>
+		<s1 page="0020" title="Amphistome cercariae"></s1>
+		<s1 page="0022" title="Material and methods"></s1>
+		<s1 page="0023" title="Classiflcation of amphistome cercariae"></s1>
+		<s1 page="0024" title="Key to groups"></s1>
+		<s1 page="0024" title="Pigmentata group and key to Indian species"></s1>
+		<s1 page="0025" title="!!Cercaria bhaleraoi!! Mukherjee, 1960"></s1>
+		<s1 page="0026" title="Life history of !!Ceylonocotyle dicranocoelium!! (Fischoeder, 1901) Nasmark, 1937"></s1>
+		<s1 page="0028" title="Cercaria of !!Ceylonocotyle dicranocoelium!! Jain, 1977"></s1>
+		<s1 page="0029" title="Life history of !!Ceylonocotyle scoliocoelium!! (Fischoeder, 1901) Nasmark, 1937"></s1>
+		<s1 page="0031" title="Cercaria of !!Ceylonocotyle scoliocoelium!! Mukherjee, 1960"></s1>
+		<s1 page="0033" title="!!Cercaria chauhani!! Pandey and Jain, 1971"></s1>
+		<s1 page="0033" title="Cercaria of !!Cotylophoron cotylophorum!! Srivastava, 1939"></s1>
+		<s1 page="0036" title="Life history of !!Cotylophoron indicum!! Stitles and Goldberger, 1910"></s1>
+		<s1 page="0038" title="Cercaria of !!Cotylophoron indicum!! Mukherjee, 1960"></s1>
+		<s1 page="0040" title="Life history of !!Fischoederius elongatus!! (Poirer, 1883) Stitles and Goldberger, 1910"></s1>
+		<s1 page="0041" title="Cercaria of !!Fischoederius elongatus!! Rao and Ayyar, 1932"></s1>
+		<s1 page="0043" title="Life history of !!Gastrothylax crumenifer!! (Creplin, 1847)"></s1>
+		<s1 page="0045" title="Cercaria of !!Gastrothylax crumenifer!! Tandon, 1957"></s1>
+		<s1 page="0045" title="Life history of !!Gigantocotyle explanatum!! (Creplin, 1847) Nasmark, 1937"></s1>
+		<s1 page="0048" title="Cercaria of !!Gigantocotyle explanatum!! Singh, 1958"></s1>
+		<s1 page="0050" title="!!Cercariae indicae XXXII!! Sewell, 1922"></s1>
+		<s1 page="0051" title="!!Cercariae indoplanorbisi!! Peter and Srivastava, 1955"></s1>
+		<s1 page="0052" title="!!Cercariae kareilliensis!! Mukherjee, 1972"></s1>
+		<s1 page="0053" title="Cercaria of !!Srivastavaia lewerti!! (Singh, 1970) n. comb."></s1>
+		<s1 page="0054" title="Neopigmentata group and !!Cercaria!! sp. !!I. kerala!! Mohandas, 1976."></s1>
+		<s1 page="0056" title="Indica group and key to Indian species"></s1>
+		<s1 page="0056" title="Life history of !!Gastrodiscoides hominis!! (Lewis and McConnell, 1876) Leiper, 1913"></s1>
+		<s1 page="0058" title="Cercaria of !!Gastrodiscoides hominis!! Dutt and Srivastava, 1966"></s1>
+		<s1 page="0059" title="Life history of !!Olveria indica!! Thapar and Sinha, 1945."></s1>
+		<s1 page="0061" title="Cercaria of !!Olveria indica!! Thapar, 1961"></s1>
+		<s1 page="0062" title="Neodiplocotylea group and key to Indian species."></s1>
+		<s1 page="0062" title="!!Cercaria fursolensis!! Singh and Malaki, 1963"></s1>
+		<s1 page="0063" title="Life history of !!Gastrodiscus secundus!! Looss, 1907"></s1>
+		<s1 page="0066" title="Cercaria of !!Gastrodiscus secundus!! Peter and Mudaliar, 1948."></s1>
+		<s1 page="0067" title="Cercaria of !!Pseudodiscus collinsi!! Peter and Srivastava, 1960"></s1>
+		<s1 page="0069" title="Diplocotylea group and key to Indian species."></s1>
+		<s1 page="0069" title="!!Cercaria bareillyi!! Peter and Srivastava, 1955."></s1>
+		<s1 page="0071" title="!!Cercaria helicorbisi!! Kumar, Dutt and Jain, 1968."></s1>
+		<s1 page="0072" title="!!Cercariae indicae XXI!! Sewell, 1922"></s1>
+		<s1 page="0074" title="!!Cercaria kylasami!! Rao, 1932"></s1>
+		<s1 page="0075" title="!!Cercaria mathurapurensis!! Mukherjee, 1960"></s1>
+		<s1 page="0077" title="Vector snails of amphistomes"></s1>
+		<s1 page="0079" title="References"></s1>
+		<s1 page="0085" title="Index"></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0001" title="I. Introduction"></s1>
+		<s1 page="0002" title="II. Indian Schizothoracinae-Historical Background"></s1>
+		<s1 page="0016" title="III. Classification">
+			<s2 page="0019" title="The taxonomic status of the sub-family Schizothoracinae"></s2>
+		</s1>
+		<s1 page="0019" title="IV. Morphology and Terminology">
+			<s2 page="0020" title="The generic characters">
+				<s3 page="0020" title="1. The mouth"></s3>
+				<s3 page="0022" title="2. The sucker"></s3>
+				<s3 page="0024" title="3. Barbels"></s3>
+				<s3 page="0027" title="4. Pharyngeal teeth"></s3>
+				<s3 page="0028" title="5. The dorsal fin and its spine"></s3>
+				<s3 page="0030" title="6. Scales"></s3>
+				<s3 page="0031" title="7. Oral valves"></s3>
+				<s3 page="0031" title="8. Alimentary canal"></s3>
+				<s3 page="0031" title="9. The brain"></s3>
+				<s3 page="0034" title="10. Heart and blood vascular system"></s3>
+				<s3 page="0034" title="11. Urinogenital system"></s3>
+				<s3 page="0036" title="12. Fecundity"></s3>
+				<s3 page="0036" title="13. Breeding period and behaviour"></s3>
+				<s3 page="0037" title="14. Habitat"></s3>
+				<s3 page="0038" title="15. Food">
+					<s4 page="0039" title="Feeding mechanism"></s4>
+				</s3>
+			</s2>
+		</s1>
+		<s1 page="0039" title="V. Morphometric measurement and meristic characters">
+			<s2 page="0039" title="Morphometric characters"></s2>
+			<s2 page="0044" title="Meristic characters"></s2>
+		</s1>
+		<s1 page="0046" title="VI. Systematic list and description of Indian Schizothoracinae"></s1>
+		<s1 page="0195" title="VII. Adaptation of Schizotharacinae of torrential streams"></s1>
+		<s1 page="0197" title="VIII. Zoogeographical considerations"></s1>
+		<s1 page="0201" title="IX. References"></s1>
+		<s1 page="0213" title="Addendum">
+			<s2 page="0213" title="Schizothoracinae of Pakistan"></s2>
+			<s2 page="0216" title="Schizothoracinae of Nepal"></s2>
+			<s2 page="0220" title="References"></s2>
+			<s2 page="0221" title="Index"></s2>
+		</s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="Parapleurolophocerca cercariae"></s1>
+		<s1 page="0002" title="!!Cercaria bhimtalensis!! Malaki and Singh"></s1>
+		<s1 page="0005" title="!!Cercariae indicae XXXI!! Sewell"></s1>
+		<s1 page="0007" title="!!Cercariae indicae L!! Sewell"></s1>
+		<s1 page="0008" title="!!Cercaria sp. IV Kerala!! Mohandas"></s1>
+		<s1 page="0010" title="Echinostomes"></s1>
+		<s1 page="0011" title="Life history of Echinostomes"></s1>
+		<s1 page="0012" title="Echinostome cercariae"></s1>
+		<s1 page="0013" title="Coronata group"></s1>
+		<s1 page="0015" title="!!Cercaria andhraensis!! Ganapati and Hanumantha Rao"></s1>
+		<s1 page="0016" title="!!Cercaria beaveri!! Pandey and Agrawal"></s1>
+		<s1 page="0019" title="!!Cercaria chillavanensis!! Agrawal and Sharma"></s1>
+		<s1 page="0021" title="!!Cercaria chinahatensis!! Srivastava"></s1>
+		<s1 page="0023" title="!!Cercaria dharmatallensis!! Mukherjee and Ghosh"></s1>
+		<s1 page="0024" title="!!Cercaria dietzi!! Singh"></s1>
+		<s1 page="0026" title="Cercaria of !!Echinochasmus bagulai!! Ramalingam"></s1>
+		<s1 page="0028" title="Cercaria of !!Echinoparyphium hymani!! Singh"></s1>
+		<s1 page="0030" title="Cercaria of !!Echinoparyphium lanceolatum!! Singh"></s1>
+		<s1 page="0031" title="Cercaria of !!Echinoparyphium vitellocompactum!! Singh"></s1>
+		<s1 page="0033" title="!!Cercariae indicae XX!! Sewell"></s1>
+		<s1 page="0035" title="!!Cercaria itoi!! Pandey and Agrawal"></s1>
+		<s1 page="0037" title="!!Cercaria komiyai!! Pandey and Agrawal"></s1>
+		<s1 page="0039" title="!!Cercaria megaglandulata!! Agrawal"></s1>
+		<s1 page="0042" title="!!Cercaria narindapurensis!! Pandey and Singh"></s1>
+		<s1 page="0044" title="!!Cercaria nawabanjensis!! Pandey and Singh"></s1>
+		<s1 page="0046" title="!!Cercaria oviglandulata!! Pandey"></s1>
+		<s1 page="0048" title="!!Cercaria sp. VII Kerala!! Mohandas"></s1>
+		<s1 page="0050" title="!!Cercaria unnaoensis IV!! Pandey, Singh and Lal"></s1>
+		<s1 page="0051" title="!!Cercaria unnaoensis V!! Pandey, Singh and Lal"></s1>
+		<s1 page="0053" title="Echinata group"></s1>
+		<s1 page="0054" title="!!Cercariae indicae XII!! Sewell"></s1>
+		<s1 page="0056" title="!!Cercariae indicae XXIII!! Sewell"></s1>
+		<s1 page="0059" title="!!Cercaria mehrai!! Faruqui"></s1>
+		<s1 page="0062" title="!!Cercaria sp. VIII Kerala!! Mohandas"></s1>
+		<s1 page="0064" title="Echinatoides group"></s1>
+		<s1 page="0065" title="Cercaria of !!Echinostoma ivaniosi!! Mohandas"></s1>
+		<s1 page="0067" title="Cercaria of !!Echinostoma revolutum!! Patnaik and Ray"></s1>
+		<s1 page="0069" title="!!Cercaria granulosa!! Baugh"></s1>
+		<s1 page="0071" title="!!Cercaria indicae XLVIII!! Sewell"></s1>
+		<s1 page="0073" title="!!Cercaria mainpurensis!! Pandey"></s1>
+		<s1 page="0075" title="!!Cercaria nairi!! Peter"></s1>
+		<s1 page="0078" title="!!Cercaria sp. VI Kerala!! Mohandas"></s1>
+		<s1 page="0079" title="!!Cercaria spinosa!! Pandey and Singh"></s1>
+		<s1 page="0082" title="!!Cercaria tandani!! Pandey and Singh"></s1>
+		<s1 page="0084" title="!!Cercaria tetraglandulata!! Srivastava"></s1>
+		<s1 page="0087" title="!!Cercaria triglandulata!! Baugh"></s1>
+		<s1 page="0089" title="!!Cercaria unnaoensis III!! Pandey and Lal"></s1>
+		<s1 page="0091" title="Megacaudata group"></s1>
+		<s1 page="0091" title="!!Cercaria megacauda!! Baugh"></s1>
+		<s1 page="0094" title="!!Cercaria rithorensis!! Mukherjee"></s1>
+		<s1 page="0096" title="References"></s1>
+		<s1 page="0099" title="Index"></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0000c" title="Editor's Preface"></s1>
+		<s1 page="0001" title="I. Introduction">
+			<s2 page="0004" title="Acknowledgements"></s2>
+			<s2 page="0006" title="Historical review"></s2>
+			<s2 page="0011" title="Methods"></s2>
+			<s2 page="0014" title="Evaluation of systematic characters"></s2>
+			<s2 page="0018" title="Arrangement of descriptions"></s2>
+			<s2 page="0018" title="zoogeography and Evolution"></s2>
+		</s1>
+		<s1 page="0035" title="Systematic Account"></s1>
+		<s1 page="0240" title="III. References"></s1>
+		<s1 page="0253" title="IV. Index"></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0000c" title="Editor's Preface"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0002" title="Acknowledgements"></s2>
+			<s2 page="0004" title="Historical Review and Critique"></s2>
+			<s2 page="0010" title="Material and Methods"></s2>
+			<s2 page="0013" title="Evaluation of systematic characters"></s2>
+			<s2 page="0015" title="Zoogeography and Evolution"></s2>
+		</s1>
+		<s1 page="0030" title="Systematic Account"></s1>
+		<s1 page="0106" title="Literature Cited"></s1>
+		<s1 page="0114" title="Index"></s1>
+		<s1 page="0116" title="Plates"></s1>
+	</book>
+	<book bid="017">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="1. Chalcidoidea"></s2>
+			<s2 page="0003" title="2. Historical"></s2>
+			<s2 page="0004" title="3. Characters of Taxonomic Importance"></s2>
+			<s2 page="0016" title="4. Classification"></s2>
+			<s2 page="0016" title="5. Key to Families"></s2>
+		</s1>
+	</book>
+	<book bid="018">
+		<s1 page="0000c" title="Systematic Contents"></s1>
+		<s1 page="1475" title="Bibliography"></s1>
+		<s1 page="1533" title="Host-Parasite Index"></s1>
+		<s1 page="1569" title="Index"></s1>
+	</book>
+	<book bid="019">
+		<s1 page="0000i" title="Editor's Preface"></s1>
+		<s1 page="0000k" title="Author's Preface"></s1>
+		<s1 page="0000m" title="Abbreviations"></s1>
+		<s1 page="0000o" title="Systematic Contents"></s1>
+		<s1 page="0001" title="Family I: Gyrinidae">
+			<s2 page="0001" title="Introduction"></s2>
+			<s2 page="0002" title="Phylogeny"></s2>
+			<s2 page="0003" title="Taxonomic characters"></s2>
+			<s2 page="0010" title="Life history"></s2>
+			<s2 page="0012" title="Parasitism"></s2>
+			<s2 page="0012" title="Respiration"></s2>
+			<s2 page="0013" title="Feeding habits"></s2>
+		</s1>
+		<s1 page="0014" title="Key to aquatic families of Adephaga">
+			<s2 page="0014" title="Systematic Account"></s2>
+		</s1>
+		<s1 page="0109" title="Family II: Haliplidae">
+			<s2 page="0109" title="Introduction"></s2>
+			<s2 page="0109" title="Phylogeny"></s2>
+			<s2 page="0111" title="Taxonomic characters"></s2>
+			<s2 page="0111" title="Food &amp; Feeding habits"></s2>
+			<s2 page="0111" title="Life history"></s2>
+		</s1>
+		<s1 page="0112" title="Larvae">
+			<s2 page="0112" title="Respiration"></s2>
+			<s2 page="0113" title="Oviposition"></s2>
+			<s2 page="0113" title="Systematic Account"></s2>
+		</s1>
+		<s1 page="0129" title="Bibliography"></s1>
+		<s1 page="0138" title="Index to Species"></s1>
+		<s1 page="0141" title="Text Figures 1-57"></s1>
+		<s1 page="0199" title="Plates I-III"></s1>
+	</book>
+	<book bid="020">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Systematic Contents"></s1>
+		<s1 page="0493" title="References"></s1>
+		<s1 page="0499" title="Figures"></s1>
+		<s1 page="0562" title="Systematic Index"></s1>
+	</book>
+	<book bid="021">
+		<s1 page="0000k" title="Editor's Preface"></s1>
+		<s1 page="0000m" title="Author's Preface"></s1>
+		<s1 page="0000o" title="Systematic Index"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Faunal Boundary"></s1>
+		<s1 page="0003" title="Collection, Examination and Preservation of Specimens"></s1>
+		<s1 page="0006" title="Morphology"></s1>
+		<s1 page="0012" title="Host-Parasite Relationship"></s1>
+		<s1 page="0019" title="Ecology"></s1>
+		<s1 page="0022" title="Ontogeny"></s1>
+		<s1 page="0034" title="Description of Species"></s1>
+		<s1 page="0816" title="References"></s1>
+		<s1 page="0835" title="List of Synonyms"></s1>
+		<s1 page="0837" title="List of Hosts and their Parasites"></s1>
+		<s1 page="0867" title="Addendum"></s1>
+		<s1 page="0885" title="Index"></s1>
+	</book>
+	<book bid="022">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Annotated List of Species"></s1>
+		<s1 page="0007" title="Morphology">
+			<s2 page="0007" title="Terminology for various Morphological structures"></s2>
+			<s2 page="0014" title="General Morphological Characters of Taxonomic Significance"></s2>
+			<s2 page="0018" title="Internal Structures of taxonomic importance"></s2>
+		</s1>
+		<s1 page="0021" title="Reproduction and Development"></s1>
+		<s1 page="0028" title="Habitat"></s1>
+		<s1 page="0036" title="Material and Method"></s1>
+		<s1 page="0040" title="Classification"></s1>
+		<s1 page="0042" title="Keys to Suborders and Familes"></s1>
+		<s1 page="0043" title="Systematic Section of Siphonophora of Indian Seas">
+			<s2 page="0044" title="(1) Sub Order Cystonectae"></s2>
+			<s2 page="0054" title="(2) Sub Order Physonectae"></s2>
+			<s2 page="0118" title="(3) Sub Order Calycophorae"></s2>
+		</s1>
+		<s1 page="0344" title="Systematic Section of Siphonophora of Indian Ocean"></s1>
+		<s1 page="0393" title="Remarks"></s1>
+		<s1 page="0398" title="Phylogeny"></s1>
+		<s1 page="0404" title="List of Species of Siphonophora not Collected from The Indian Ocean"></s1>
+		<s1 page="0407" title="References"></s1>
+		<s1 page="0437" title="Alphabetical Index for Sub Orders, Families, Genera, and Species"></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Classification"></s1>
+		<s1 page="0005" title="Morphology and Terminology"></s1>
+		<s1 page="0008" title="Morphometric Measurements"></s1>
+		<s1 page="0010" title="Biology and Ecology"></s1>
+		<s1 page="0015" title="Collection, Preservation and Study"></s1>
+		<s1 page="0018" title="Review of Earlier Indian Works"></s1>
+		<s1 page="0031" title="Systematic List of presently Described Cladoceran Taxa"></s1>
+		<s1 page="0229" title="General Remarks"></s1>
+		<s1 page="0233" title="References"></s1>
+		<s1 page="0257" title="Index"></s1>
+	</book>
+	<book bid="024">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Abbreviation used"></s1>
+		<s1 page="0003" title="Systematic list"></s1>
+		<s1 page="0006" title="General external morphology"></s1>
+		<s1 page="0014" title="Measurements"></s1>
+		<s1 page="0014" title="Classification"></s1>
+		<s1 page="0016" title="Key to the super-generic Taxa represented from Indian subcontinent"></s1>
+		<s1 page="0019" title="Zoogeography"></s1>
+		<s1 page="0035" title="Systematic Account"></s1>
+		<s1 page="0241" title="References"></s1>
+		<s1 page="0251" title="Glossary"></s1>
+		<s1 page="0255" title="Addenda"></s1>
+		<s1 page="0263" title="Index"></s1>
+	</book>
+	<book bid="025">
+		<s1 page="0000d" title="I. Preface"></s1>
+		<s1 page="0001" title="II. Introduction"></s1>
+		<s1 page="0002" title="III. Historical Review"></s1>
+		<s1 page="0006" title="IV. General Morphology and Ultrastructure"></s1>
+		<s1 page="0010" title="V. Life-Cycle"></s1>
+		<s1 page="0013" title="VI. Eimeriids of Poultry and Domestic Livestock"></s1>
+		<s1 page="0029" title="VII. Host-Parasite Relationship"></s1>
+		<s1 page="0033" title="VIII. Phylogeny"></s1>
+		<s1 page="0034" title="Systematic Index"></s1>
+		<s1 page="0037" title="X. Genera of the Family Along with the Number of Species Recorded from Indian Subcontinent"></s1>
+		<s1 page="0038" title="Systematic Account"></s1>
+		<s1 page="0350" title="XII. Host-Parasite Index"></s1>
+		<s1 page="0363" title="XIII. Parasite-Host Index"></s1>
+		<s1 page="0389" title="XIV. Reference"></s1>
+		<s1 page="0447" title="XV. Glossary"></s1>
+		<s1 page="0449" title="XVI. Subject Index"></s1>
+		<s1 page="0461" title="Errata"></s1>
+	</book>
+	<book bid="026">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Definition of Isoptera"></s2>
+			<s2 page="0005" title="Brief History of Termite Study"></s2>
+			<s2 page="0007" title="Characters Useful in Taxonomy">
+				<s3 page="0007" title="Useful Characters from External Morphology">
+					<s4 page="0007" title="1. General"></s4>
+					<s4 page="0008" title="2. The Head"></s4>
+					<s4 page="0017" title="3. The Cervix or Neck."></s4>
+					<s4 page="0020" title="4. The Thorax and Wings.">
+						<s5 page="0020" title="(i) The main sclerites"></s5>
+						<s5 page="0021" title="(ii) The legs"></s5>
+						<s5 page="0024" title="(iii) The wings."></s5>
+					</s4>
+					<s4 page="0039" title="5. The Abdomen and Genitalia">
+						<s5 page="0041" title="(i) The male"></s5>
+						<s5 page="0041" title="(ii) The female"></s5>
+					</s4>
+					<s4 page="0047" title="6. Chaetotaxy"></s4>
+					<s4 page="0050" title="7. Termite Measurements and Indices">
+						<s5 page="0050" title="(i) General"></s5>
+						<s5 page="0052" title="(ii) The more important measurements"></s5>
+						<s5 page="0053" title="(iii) The more important indices"></s5>
+						<s5 page="0054" title="(iv) Definitions of the more important measurements"></s5>
+						<s5 page="0072" title="(v) Definitions of the more important indices"></s5>
+					</s4>
+				</s3>
+				<s3 page="0075" title="Useful Characters from Internal Morphology">
+					<s4 page="0075" title="1. The Alimentary Canal"></s4>
+					<s4 page="0076" title="2. The Tergal and Sternal glands"></s4>
+					<s4 page="0076" title="3. Egg Size, Shape and Structure">
+						<s5 page="0076" title="(i) Size and shape"></s5>
+						<s5 page="0078" title="(ii) Structure"></s5>
+					</s4>
+				</s3>
+			</s2>
+			<s2 page="0080" title="Taxoromic Value of Secondary Structure"></s2>
+			<s2 page="0081" title="Polymorphism, Sexual Dimorphism and Sex Ratios">
+				<s3 page="0081" title="1. Polymorphism"></s3>
+				<s3 page="0084" title="2. Sexual Dimorphism"></s3>
+				<s3 page="0088" title="3. Sex Ratios"></s3>
+			</s2>
+			<s2 page="0089" title="Biology and Ecology">
+				<s3 page="0089" title="1. Life-history"></s3>
+				<s3 page="0091" title="2. Habitats.">
+					<s4 page="0091" title="(i) Termite nests and mounds"></s4>
+					<s4 page="0093" title="(ii) The wood-dwellers"></s4>
+					<s4 page="0093" title="(iii) Temperature and humidity"></s4>
+				</s3>
+				<s3 page="0094" title="3. Inquilines"></s3>
+				<s3 page="0094" title="4. Termitophiles"></s3>
+			</s2>
+			<s2 page="0094" title="Distribution and Zoogeography">
+				<s3 page="0094" title="1. Distribution"></s3>
+				<s3 page="0100" title="2. Zoogeography"></s3>
+			</s2>
+		</s1>
+		<s1 page="0105" title="Systematic Account"></s1>
+	</book>
+	<book bid="027">
+		<s1 page="0000e" title="!!Foreword!!"></s1>
+		<s1 page="0000f" title="!!Preface to Volume II!!"></s1>
+		<s1 page="0000g" title="!!Acknowledgements!!"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="General"></s2>
+			<s2 page="0002" title="Some Important Findings in Indian Termite Fauna"></s2>
+			<s2 page="0004" title="Some Taxonomic Lacunae and Gaps"></s2>
+			<s2 page="0005" title="Abbreviations Used"></s2>
+		</s1>
+		<s1 page="0006" title="Systematic Account"></s1>
+		<s1 page="0770" title="!!Bibliography!!"></s1>
+		<s1 page="0794" title="!!Subject Index!!"></s1>
+	</book>
+	<book bid="028">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Classification"></s1>
+		<s1 page="0006" title="Biogeography and Origin"></s1>
+		<s1 page="0007" title="Terminology and Taxonomic Characters"></s1>
+		<s1 page="0029" title="Biology and Ecology"></s1>
+		<s1 page="0040" title="Economic Importance"></s1>
+		<s1 page="0044" title="Methods of Collection, Preservation and Dissection"></s1>
+		<s1 page="0375" title="References"></s1>
+		<s1 page="0393" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="029">
+		<s1 page="0000c" title="Editor's Preface"></s1>
+		<s1 page="0000e" title="Author's Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Oniscoidea"></s1>
+		<s1 page="0005" title="Adaptation to terrestrial habitats"></s1>
+		<s1 page="0006" title="General Structure">
+			<s2 page="0008" title="Cephalon or Head"></s2>
+			<s2 page="0009" title="Thorax"></s2>
+			<s2 page="0010" title="Abdomen"></s2>
+		</s1>
+		<s1 page="0011" title="Collection and preservation"></s1>
+		<s1 page="0011" title="Origin and distribution"></s1>
+		<s1 page="0012" title="Food and Feeding habits"></s1>
+		<s1 page="0012" title="Economic Importance"></s1>
+		<s1 page="0013" title="Classification"></s1>
+		<s1 page="0122" title="Bibliography"></s1>
+		<s1 page="0131" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="030">
+		<s1 page="0000e" title="Editor's Preface"></s1>
+		<s1 page="0001" title="I. Introduction">
+			<s2 page="0001" title="Acknowledgements"></s2>
+			<s2 page="0002" title="Methods"></s2>
+			<s2 page="0003" title="Abbreviations"></s2>
+		</s1>
+		<s1 page="0003" title="Systematic Account"></s1>
+		<s1 page="0124" title="III. Bibliography"></s1>
+		<s1 page="0136" title="IV. Index"></s1>
+	</book>
+	<book bid="031">
+		<s1 page="0001" title="General Introduction"></s1>
+		<s1 page="0004" title="Bioecology">
+			<s2 page="0004" title="Habits"></s2>
+			<s2 page="0005" title="Feeding sites and feeding beharious"></s2>
+			<s2 page="0005" title="Mating and oviposition"></s2>
+			<s2 page="0007" title="Duration of egg stage"></s2>
+			<s2 page="0008" title="Hatching"></s2>
+			<s2 page="0008" title="Number of instars and their duration"></s2>
+			<s2 page="0008" title="Ecdysis"></s2>
+			<s2 page="0008" title="Host plant relationships"></s2>
+			<s2 page="0011" title="Communal Life"></s2>
+			<s2 page="0011" title="Attendance by ants"></s2>
+			<s2 page="0014" title="Protective coloration and mimicry"></s2>
+			<s2 page="0015" title="Parental care"></s2>
+			<s2 page="0016" title="Natural enemies"></s2>
+			<s2 page="0017" title="Ecological factors"></s2>
+		</s1>
+		<s1 page="0017" title="Phylogeny">
+			<s2 page="0019" title="Migration"></s2>
+		</s1>
+		<s1 page="0020" title="Economic Importance"></s1>
+		<s1 page="0021" title="Collection and Preservation"></s1>
+		<s1 page="0023" title="General External Morphology and Terminology"></s1>
+		<s1 page="0028" title="Classification and Systematic Account"></s1>
+		<s1 page="0323" title="Membracids&#8212;Host-Plants List"></s1>
+		<s1 page="0328" title="References"></s1>
+		<s1 page="0530" title="Subject Index"></s1>
+	</book>
+	<book bid="032">
+		<s1 page="0000g" title="!!Forward!!"></s1>
+		<s1 page="0000i" title="!!Author's Preface!!"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Historical Review"></s1>
+		<s1 page="0003" title="Ecology"></s1>
+		<s1 page="0005" title="Interrelationships"></s1>
+		<s1 page="0005" title="Distribution"></s1>
+		<s1 page="0005" title="Methods of Collection and Preservation"></s1>
+		<s1 page="0005" title="Morphological Characters of Taxonomic Importance"></s1>
+		<s1 page="0009" title="Systematic Contents"></s1>
+		<s1 page="0252" title="References">
+			<s2 page="0252" title="General"></s2>
+			<s2 page="0267" title="Leptogasterini, Laphriini, Atomosini, Stichopogonini and Ommatini"></s2>
+		</s1>
+		<s1 page="0272" title="Abbreviations"></s1>
+		<s1 page="0273" title="Index"></s1>
+	</book>
+	<book bid="033">
+		<s1 page="0000g" title="!!Foreward!!"></s1>
+		<s1 page="0000i" title="!!Preface!!"></s1>
+		<s1 page="0000k" title="!!Acknowledgements!!"></s1>
+		<s1 page="0001" title="I. Introduction">
+			<s2 page="0002" title="Morphology of the adults and immature stages"></s2>
+			<s2 page="0029" title="Biology"></s2>
+			<s2 page="0029" title="Phylogeny"></s2>
+			<s2 page="0032" title="Zoogeographical distribution"></s2>
+		</s1>
+		<s1 page="0041" title="II. Classification"></s1>
+		<s1 page="0333" title="III. References"></s1>
+		<s1 page="0364" title="Index"></s1>
+	</book>
+	<book bid="034">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Preface"></s1>
+		<s1 page="0000g" title="Acknowledgements"></s1>
+		<s1 page="0000j" title="Systematic Contents"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Family Sarcophagidae"></s1>
+		<s1 page="0009" title="Subfamily Miltogrammatinae"></s1>
+		<s1 page="0153" title="Subfamily Paramacronychiinae"></s1>
+		<s1 page="0160" title="Subfamily Sarcophaginae"></s1>
+		<s1 page="0566" title="References"></s1>
+		<s1 page="0595" title="Abbreviations"></s1>
+		<s1 page="0598" title="Index"></s1>
+	</book>
+	<book bid="035">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Author's preface"></s1>
+		<s1 page="0000g" title="Acknowledgements"></s1>
+		<s1 page="0000h" title="Abbreviations"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Progress of work in India and adjoining Countries"></s1>
+		<s1 page="0003" title="Phylogeny"></s1>
+		<s1 page="0006" title="Distribution and Zoogeography"></s1>
+		<s1 page="0011" title="Affinities of the reptitles of India"></s1>
+		<s1 page="0013" title="Class reptilia"></s1>
+		<s1 page="0013" title="Main characters of reptitles"></s1>
+		<s1 page="0032" title="Systematic Account"></s1>
+		<s1 page="0153" title="Bibliography"></s1>
+		<s1 page="0182" title="Glossary"></s1>
+		<s1 page="0190" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="036">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Author's Preface"></s1>
+		<s1 page="0000g" title="Acknowledgements"></s1>
+		<s1 page="0000h" title="Abbreviations"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Phylogeny and Zoogeography"></s1>
+		<s1 page="0023" title="Systematic Account"></s1>
+		<s1 page="0410" title="Reference"></s1>
+		<s1 page="0425" title="Alpabetical Index"></s1>
+	</book>
+	<book bid="037">
+		<s1 page="0000d" title="Foreword"></s1>
+		<s1 page="0000e" title="Author's Preface"></s1>
+		<s1 page="0000f" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0007" title="General Account and Snake Families"></s1>
+		<s1 page="0027" title="Phylogeny"></s1>
+		<s1 page="0027" title="Zoogeography"></s1>
+		<s1 page="0031" title="Systematic Account"></s1>
+		<s1 page="0370" title="References"></s1>
+	</book>
+	<book bid="038">
+		<s1 page="0000e" title="Foreword"></s1>
+		<s1 page="0000f" title="Preface"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Systematic List"></s1>
+		<s1 page="0005" title="Abbreviations Used"></s1>
+		<s1 page="0007" title="Classification"></s1>
+		<s1 page="0010" title="Key to the Super-Generic Taxa from the Indian Subcontinent"></s1>
+		<s1 page="0213" title="References"></s1>
+		<s1 page="0224" title="Addenda to Part I"></s1>
+		<s1 page="0226" title="Addenda to Part II"></s1>
+		<s1 page="0230" title="Index"></s1>
+	</book>
+	<book bid="039">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Review of Literature"></s1>
+		<s1 page="0005" title="Material and Methods"></s1>
+		<s1 page="0007" title="Morphological Characters of Taxonomic Importance"></s1>
+		<s1 page="0015" title="The Present Position of the Family Scoliidae"></s1>
+		<s1 page="0018" title="Systematic Account"></s1>
+		<s1 page="0254" title="Distribution Table"></s1>
+		<s1 page="0266" title="Bibliography"></s1>
+		<s1 page="0275" title="Index"></s1>
+	</book>
+	<book bid="040">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="General"></s2>
+			<s2 page="0002" title="Recognition"></s2>
+			<s2 page="0003" title="Taxonomic Position"></s2>
+			<s2 page="0003" title="Diagnosis of the Families"></s2>
+		</s1>
+		<s1 page="0004" title="General Morphology"></s1>
+		<s1 page="0011" title="Biology">
+			<s2 page="0011" title="Food and Feeding Habits"></s2>
+			<s2 page="0012" title="Social Organization"></s2>
+			<s2 page="0013" title="Gallery System"></s2>
+			<s2 page="0014" title="Development"></s2>
+		</s1>
+		<s1 page="0015" title="Ecology">
+			<s2 page="0015" title="Ecological Role in the Forest"></s2>
+			<s2 page="0015" title="Host-Susceptibility to Attack"></s2>
+			<s2 page="0015" title="Competion for Food"></s2>
+			<s2 page="0015" title="Host Selection and Dispersal"></s2>
+			<s2 page="0016" title="Relationship with Fungi and Diseases"></s2>
+			<s2 page="0016" title="Factors Influencing Larval Development"></s2>
+			<s2 page="0016" title="Food and Space"></s2>
+		</s1>
+		<s1 page="0016" title="Economic Importance"></s1>
+		<s1 page="0017" title="Control">
+			<s2 page="0017" title="Direct Control"></s2>
+			<s2 page="0019" title="Indirect Control"></s2>
+		</s1>
+		<s1 page="0020" title="Zoogeography"></s1>
+		<s1 page="0255" title="Bibliography"></s1>
+		<s1 page="0263" title="Taxonomic Index"></s1>
+	</book>
+	<book bid="041">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Anatomical Section"></s1>
+		<s1 page="0008" title="Internal Anatomy"></s1>
+		<s1 page="0009" title="Alimentary Canal"></s1>
+		<s1 page="0015" title="Vascular System"></s1>
+		<s1 page="0017" title="Respiration and Respiratory Organs"></s1>
+		<s1 page="0018" title="Intestinal Respiration"></s1>
+		<s1 page="0018" title="Nephridial System"></s1>
+		<s1 page="0020" title="Nervous System"></s1>
+		<s1 page="0021" title="Sense Organs"></s1>
+		<s1 page="0022" title="Reproductive Organs"></s1>
+		<s1 page="0031" title="A Sexual Reproduction"></s1>
+		<s1 page="0033" title="Classification"></s1>
+		<s1 page="0035" title="Systematic Index"></s1>
+		<s1 page="0262" title="Summary"></s1>
+		<s1 page="0262" title="Acknowledgements"></s1>
+		<s1 page="0264" title="References"></s1>
+		<s1 page="0287" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="042">
+		<s1 page="0000j" title="Abbreviations"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Tribe Aphidini"></s1>
+		<s1 page="0006" title="Systematic List"></s1>
+		<s1 page="0161" title="Aphid-Host Plant Catalogue"></s1>
+		<s1 page="0219" title="References"></s1>
+		<s1 page="0227" title="Addendum"></s1>
+		<s1 page="0228" title="Index to Genera and Species"></s1>
+		<s1 page="0229" title="Figure-Plates"></s1>
+	</book>
+	<book bid="043">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Systematic Contents"></s1>
+		<s1 page="0154" title="References"></s1>
+		<s1 page="0156" title="Index"></s1>
+	</book>
+	<book bid="044">
+		<s1 page="0001" title="General Introduction"></s1>
+		<s1 page="0001" title="General Ecology, Habits of some Spiders of the family Oxyopidae"></s1>
+		<s1 page="0002" title="General taxonomic characters of spiders with special reference to the family Oxyopidae"></s1>
+		<s1 page="0006" title="Key to the families of Indian Spiders"></s1>
+		<s1 page="0011" title="Systematic Contents"></s1>
+		<s1 page="0099" title="Glossary of Anatomical Terms of Spiders"></s1>
+		<s1 page="0107" title="Bibliography"></s1>
+		<s1 page="0116" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="045">
+		<s1 page="0000g" title="Foreword"></s1>
+		<s1 page="0000i" title="Preface"></s1>
+		<s1 page="0000j" title="Acknowledgement"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Key to the Subfamilies and Tribes of Family Scolytidae"></s1>
+		<s1 page="0005" title="Systematic Account"></s1>
+		<s1 page="0224" title="References"></s1>
+		<s1 page="0235" title="Taxonomic Index"></s1>
+		<s1 page="0242" title="Appendix-I"></s1>
+	</book>
+	<book bid="046">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Historical Account"></s1>
+		<s1 page="0010" title="Anatomical section"></s1>
+		<s1 page="0011" title="Functional morphology"></s1>
+		<s1 page="0013" title="Tegument or body wall organization"></s1>
+		<s1 page="0015" title="Lacunar system"></s1>
+		<s1 page="0016" title="Nervous system"></s1>
+		<s1 page="0020" title="Excretory system"></s1>
+		<s1 page="0022" title="Reproductive system"></s1>
+		<s1 page="0025" title="Physiology"></s1>
+		<s1 page="0025" title="Biogeography"></s1>
+		<s1 page="0025" title="Phylogeny"></s1>
+		<s1 page="0026" title="Classification"></s1>
+		<s1 page="0028" title="Systematic Account"></s1>
+		<s1 page="0540" title="Hosts and parasites"></s1>
+		<s1 page="0571" title="References"></s1>
+		<s1 page="0615" title="Index"></s1>
+	</book>
+	<book bid="047">
+		<s1 page="0483" title="Systematic Account (Concluded)">
+			<s2 page="0483" title="Subfamily Murinae"></s2>
+		</s1>
+		<s1 page="0851" title="Appendix"></s1>
+		<s1 page="0869" title="Bibliography"></s1>
+		<s1 page="0873" title="Index"></s1>
+	</book>
+	<book bid="048">
+		<s1 page="0000d" title="Editor's Preface"></s1>
+		<s1 page="0000e" title="Introduction"></s1>
+		<s1 page="0000p" title="Systematic Index"></s1>
+		<s1 page="0001" title="Pisces"></s1>
+		<s1 page="0001" title="Elasmobranchii"></s1>
+		<s1 page="0227" title="Holocephali"></s1>
+		<s1 page="0236" title="A Field Key to the Pisces : Elasmobranchii &amp; Holocephali (Excluding Dipnoi and Teleostomi) of the Indian Region"></s1>
+		<s1 page="0248" title="References"></s1>
+		<s1 page="0254" title="Alphabetical Index of Vernacular Names"></s1>
+		<s1 page="0257" title="Alphabetical Index of Scientific Names"></s1>
+	</book>
+	<book bid="049">
+		<s1 page="0000d" title="Editor's Note"></s1>
+		<s1 page="0000e" title="Introduction"></s1>
+		<s1 page="0000q" title="Systematic Index"></s1>
+		<s1 page="0001" title="Class Teleostomi"></s1>
+		<s1 page="0001" title="Subclass !!Crossopterygii!!"></s1>
+		<s1 page="0002" title="Subclass !!Actinopterygii!!"></s1>
+		<s1 page="0006" title="Order Clupeiformes"></s1>
+		<s1 page="0280" title="Order Bathyclupeiformes"></s1>
+		<s1 page="0283" title="Order Galaxiiformes"></s1>
+		<s1 page="0285" title="Order Scopeliformes"></s1>
+		<s1 page="0377" title="Order Ateleopiformes"></s1>
+		<s1 page="0380" title="A Field Key to Orders of Teleostomi : Clupeiformes, Bathyclupeiformes, Galaxiiformes, Scopeliformes and Ateleopiformes of the Indian Region"></s1>
+		<s1 page="0406" title="References"></s1>
+		<s1 page="0415" title="Alphabetical Index of Vernacular Names"></s1>
+		<s1 page="0418" title="Alphabetical Index of Scientific Names"></s1>
+	</book>
+	<book bid="050">
+		<s1 page="0000d" title="Introduction"></s1>
+		<s1 page="0000l" title="Systematic Index"></s1>
+		<s1 page="0001" title="Order Cypriniformes"></s1>
+		<s1 page="0002" title="Division Siluri"></s1>
+		<s1 page="0314" title="A Field Key to Division Siluri of Order Cypriniformes with a Table of Identification of its Suborder, Superfamily, Families, Subfamilies, Genera, Subgenera, Species and Subspecies"></s1>
+		<s1 page="0340" title="References"></s1>
+		<s1 page="0348" title="Alphabetical Index of Vernacular Names"></s1>
+		<s1 page="0353" title="Alphabetical Index of Scientific Names"></s1>
+	</book>
+	<book bid="051">
+		<s1 page="0001" title="General Ecology, Habits and Orb-Weaving Mechanism of Some Spiders of the Family Araneidae"></s1>
+		<s1 page="0024" title="General Taxonomic Characters of Spiders with Special Reference to the Family Araneidae"></s1>
+		<s1 page="0032" title="Families and Higher Categories of Spiders"></s1>
+		<s1 page="0036" title="Key to the Families of Indian Spiders"></s1>
+		<s1 page="0042" title="Systematic Contents"></s1>
+		<s1 page="0281" title="Bibliography"></s1>
+		<s1 page="0291" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="052">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Origin, Habits and Habitats, Feeding, Activities and Reproductive Biology of Scorpions"></s1>
+		<s1 page="0012" title="General Taxonomic Characters of Scorpions"></s1>
+		<s1 page="0026" title="Key to the Families of Indian Scorpions"></s1>
+		<s1 page="0032" title="Systematic Contents"></s1>
+		<s1 page="0653" title="Bibliography"></s1>
+		<s1 page="0669" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="053">
+		<s1 page="0001" title="Taxonomic Characters of Spiders"></s1>
+		<s1 page="0011" title="Morphometric Measurements"></s1>
+		<s1 page="0011" title="Habitat, Food and Feeding Habits"></s1>
+		<s1 page="0016" title="Families and Higher Categories of Spiders"></s1>
+		<s1 page="0019" title="Key to the Families of Indian Spiders"></s1>
+		<s1 page="0026" title="Systematic Contents"></s1>
+		<s1 page="0241" title="Bibliography"></s1>
+		<s1 page="0245" title="Alphabetical Index"></s1>
+	</book>
+	<book bid="054">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Historical Review"></s1>
+		<s1 page="0003" title="Habit-Habitat and Bionomics"></s1>
+		<s1 page="0005" title="Economic Importance"></s1>
+		<s1 page="0007" title="Distribution and Zoogeography"></s1>
+		<s1 page="0022" title="Phylogenetic Consideration"></s1>
+		<s1 page="0025" title="Characters Studied">
+			<s2 page="0025" title="Adult"></s2>
+			<s2 page="0032" title="Larva"></s2>
+		</s1>
+		<s1 page="0034" title="Systematic Account"></s1>
+		<s1 page="0255" title="References"></s1>
+		<s1 page="0260" title="Index"></s1>
+	</book>
+	<book bid="055">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Purpose and Scope"></s1>
+		<s1 page="0002" title="Historical Resume"></s1>
+		<s1 page="0003" title="Biology and Economic Importance"></s1>
+		<s1 page="0004" title="Distribution"></s1>
+		<s1 page="0004" title="Classification"></s1>
+		<s1 page="0392" title="Summary"></s1>
+		<s1 page="0393" title="Acknowledgements"></s1>
+		<s1 page="0394" title="References"></s1>
+		<s1 page="0411" title="Host-Parasite Index"></s1>
+		<s1 page="0431" title="Index to Genera and Species"></s1>
+		<s1 page="0441" title="Plates"></s1>
+	</book>
+	<book bid="056">
+		<s1 page="0000d" title="Editor's Preface"></s1>
+		<s1 page="0000h" title="Systematic Index"></s1>
+		<s1 page="0001" title="Introduction">
+			<s2 page="0003" title="Morphology"></s2>
+			<s2 page="0010" title="Reproduction"></s2>
+			<s2 page="0011" title="Habits"></s2>
+			<s2 page="0012" title="Geographical Distribution"></s2>
+			<s2 page="0013" title="Collection and Preservation"></s2>
+			<s2 page="0015" title="Classification"></s2>
+		</s1>
+		<s1 page="0479" title="Bibliography"></s1>
+		<s1 page="0499" title="Alphabetical Index"></s1>
+	</book>
+</fi>

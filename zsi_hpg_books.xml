@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hpg SYSTEM "hpg.dtd">
+
+<hpg>
+	<s1 title="Taxonomy of Indian Thysanoptera" author="Ananthakrishnan, T. N.;Sen, S." page="0001-0234" info="00:00:00:001" type="hpg" date="28-06-1980"></s1>
+	<s1 title="The Fresh Water Fishes of India, Pakistan, Bangladesh, Barma and Srilanka" author="Jayaram, K. C." page="0001-0475" info="00:00:00:002" type="hpg" date="00-12-1981"></s1>
+	<s1 title="Commercial Sea Fishes of India" author="Talwar, P. K.;Kacker" page="0001-0997" info="00:00:00:003" type="hpg" date="04-06-1984"></s1>
+	<s1 title="Handbook Indian Spiders" author="Tikader, B. K." page="0001-0251" info="00:00:00:004" type="hpg" date="00-07-1987"></s1>
+	<s1 title="Handbook Freshwater Molluscs of India" author="Rao, N. V. Subba" page="0001-0289" info="00:00:00:005" type="hpg" date="00-09-1989"></s1>
+	<s1 title="Collection and Preservation of Animals" author="" page="0001-0236" info="00:00:00:006" type="hpg" date="00-11-1990"></s1>
+	<s1 title="Handbook India Lizards" author="Tikader, B. K.;Sharma, R. C." page="0001-0250" info="00:00:00:007" type="hpg" date="00-12-1992"></s1>
+	<s1 title="Leeches of India" author="Chandra, Mahesh" page="0001-0117" info="00:00:00:008" type="hpg" date="00-06-1991"></s1>
+	<s1 title="Indian Testudines" author="Tikader, B. K.;Sharma, R. C." page="0001-0156" info="02:00:00:009" type="hpg" date="00-11-1995"></s1>
+	<s1 title="Whales, Dolphins &amp; Dugongs" author="Agrawal, V. C.;Alfred, J. R. B." page="0001-0140" info="00:00:00:010" type="hpg" date="00-09-1999"></s1>
+	<s1 title="Field guide to Grouper and Snapper Fishes of A &amp; N Islands" author="Rajan, P. T." page="0001-0103" info="00:00:00:011" type="hpg" date="00-012-2001"></s1>
+	<s1 title="Handbook on Sharks of Indian Waters (Diversity, Fishery Status, Trade &amp; Conservation)" author="Venkataraman, K.;Milton, M. C. John;Raghuram, K. P." page="0001-0109" info="00:00:00:012" type="hpg" date="00-01-2003"></s1>
+	<s1 title="A field guide to marine food fishes of A &amp; N Island" author="Rajan, P. T." page="0001-0260" info="00:00:00:013" type="hpg" date="00-01-2003"></s1>
+	<s1 title="Marine Turtles of India" author="Venkataraman, K.;Milton, M. C. John" page="0001-0087" info="00:00:00:014" type="hpg" date="00-09-2003"></s1>
+	<s1 title="Guide to Reef Fishes of A &amp; N Islands" author="Rao, D. V." page="0001-0555" info="00:00:00:015" type="hpg" date="00-01-2004"></s1>
+	<s1 title="Hard Corals of India" author="Venkataraman, K.;Satyanarayana, Ch.;Alfred, J. R. B.;Wolstenholme, J." page="0001-0266" info="00:00:00:016" type="hpg" date="00-11-2003"></s1>
+	<s1 title="Field guide to the fishes of Acanthuridae and Siganidae (Surgeonfishes and Rabbit fishes) of A &amp; N Islands" author="Devi, Kamla;Rao, D. V." page="0001-0042" info="00:00:00:017" type="hpg" date="00-09-2003"></s1>
+	<s1 title="A pictorial guide to Butterfly and Anemone Fishes of A &amp; N Islands" author="Rao, D. V.;Devi, Kalma" page="0001-0078" info="00:00:00:018" type="hpg" date="00-01-2004"></s1>
+	<s1 title="Reef-dwelling fishes of India : Parrotfishes (Family Scaridae)" author="Barman, R. P.;Mishra, S. S." page="0001-0063" info="00:00:00:019" type="hpg" date="00-02-2005"></s1>
+	<s1 title="Shorebirds of Kerala (including Gulls and Terns)" author="Sashikumar, C.;Palot, Muhamed Jafer;Meppayur, Sathyan;Radhakrishnan, C." page="0001-0165" info="00:00:00:020" type="hpg" date="00-08-2004"></s1>
+	<s1 title="Indian Land Snails" author="Mitra, S. C.;Dey, A.;Ramakrishna" page="0001-0344" info="00:00:00:021" type="hpg" date="00-01-2005"></s1>
+	<s1 title="Indian Wetland Birds" author="Kumar, Arun;Tak, P. C.;Sati, J. P.;Alfred, J. R. B." page="0001-0480" info="00:00:00:022" type="hpg" date="00-03-2005"></s1>
+	<s1 title="Birds of Chennai" author="Thirumalai, G.;Krishnan, S." page="0001-0196" info="00:00:00:023" type="hpg" date="00-07-2005"></s1>
+	<s1 title="Dragonflies and Damselflies of Kerala" author="Emiliyama, K. G.;Radhakrishnan, C.;Palot, Md. Jafar" page="0001-0067" info="00:00:00:024" type="hpg" date="00-05-2005"></s1>
+	<s1 title="Common Indian Dragonflies of India (Insecta : Odonata)" author="Mitra, T. R." page="0001-0136" info="00:00:00:025" type="hpg" date="00-01-2006"></s1>
+	<s1 title="Indian Short-horned Grasshopper Pests (Accoridoidea : Orthoptera)" author="Mandal, S. K.;Dey, A.;Hazra, A. K." page="0001-0057" info="00:00:00:026" type="hpg" date="00-03-2007"></s1>
+	<s1 title="Indian Acanthocephala" author="Bhattacharya, Subhendu Bikas" page="0001-0225" info="00:00:00:027" type="hpg" date="00-03-2007"></s1>
+	<s1 title="Mangrove Associate Molluscs of Sunderbans" author="Dey, A." page="0001-0096" info="00:00:00:028" type="hpg" date="00-05-2006"></s1>
+	<s1 title="Mammals of Kerala" author="Cheruvat, Dineshan;Radhakrishnan, C.;Palot, Muhammed Jafar" page="0001-0154" info="00:00:00:029" type="hpg" date="00-09-2006"></s1>
+	<s1 title="Indian Freshwater Molluscs" author="Ramakrishna;Dey, Anirudha" page="0001-0399" info="00:00:00:030" type="hpg" date="00-05-2007"></s1>
+	<s1 title="Spiders of Sunderbans, West Bengal" author="Majumder, S. c." page="0001-0137" info="00:00:00:031" type="hpg" date="00-02-2007"></s1>
+	<s1 title="Indian Thysanura" author="Hazra, A. K.;Mondal, G. P." page="0001-0043" info="00:00:00:032" type="hpg" date="00-06-2007"></s1>
+	<s1 title="Indian Collembola" author="Hazra, A. K.;Mondal, G. P." page="0001-0034" info="00:00:00:033" type="hpg" date="00-07-2007"></s1>
+	<s1 title="Marine Reptilies of India" author="Murthy, T. S. N." page="0001-0075" info="00:00:00:034" type="hpg" date="00-06-2007"></s1>
+	<s1 title="Myxosporian Parasites of Indian Fishes" author="Kalavati, C.;Nandi, N. C." page="0001-0294" info="00:00:00:035" type="hpg" date="00-09-2007"></s1>
+	<s1 title="Hymenoptera : Formicidae" author="Sheela, S." page="0001-0055" info="00:00:00:036" type="hpg" date="00-01-2008"></s1>
+	<s1 title="Flower visiting flies of Kolkata and surroundings (Diptera : Insecta)" author="Mitra, Bulganin;Banerjee, Dhriti;Mukherjee, Manu;Bhattacharya, K.;Parui, P." page="0001-0056" info="00:00:00:037" type="hpg" date="00-04-2008"></s1>
+	<s1 title="Hemipteran Pests in India" author="Ghosh, L. K." page="0001-0453" info="00:00:00:038" type="hpg" date="00-04-2008"></s1>
+	<s1 title="Common Butterflies of Uttarakhand" author="Kumar, Parmod" page="0001-0136" info="00:00:00:039" type="hpg" date="00-08-2008"></s1>
+	<s1 title="Hard Corals of Gulf of Kachchh" author="Satyanarayana;Ramakrishna" page="0001-0114" info="00:00:00:040" type="hpg" date="00-03-2009"></s1>
+	<s1 title="Pictorial Handbook on Dragon and Damsel flies (Odonata : Insecta) of Mangroves of Sundarbans" author="Mitra, Amit;Mitra, Bulganin" page="0001-0056" info="00:00:00:041" type="hpg" date="00-05-2009"></s1>
+	<s1 title="Pictorial Guide to the Fishes of the Family Nemipteridae of India" author="Barman, R. P.;Mishra, S. S." page="0001-0050" info="00:00:00:042" type="hpg" date="00-09-2009"></s1>
+	<s1 title="Handbook on Butterflies of Himachal Pradesh" author="Arora, G. S.;Mehta, H. S.;Walia, V. K." page="0001-0160" info="00:00:00:043" type="hpg" date="00-10-2009"></s1>
+	<s1 title="Field Guide to Coral and Coral Associates of A &amp; N Islands" author="Rao, D. V." page="0001-0283" info="00:00:00:044" type="hpg" date="00-01-2010"></s1>
+	<s1 title="Pictorial Guide to the Amphibians of North East India" author="Mathew, Roshamma;Sen, N." page="0001-0144" info="00:00:00:045" type="hpg" date="00-01-2010"></s1>
+	<s1 title="Guide to the Ophistobranchs of Andaman and Nicobar Islands" author="Ramakrishna;Sreeraj, C. R.;Raghunathan, C.;Sivaperuman, C.;Kumar, J. S. Yogesh;Raghuraman, R.;Immaunuel, Titus;Rajan, P. T." page="0001-0198" info="00:00:00:046" type="hpg" date="00-07-2010"></s1>
+	<s1 title="Guide to the Fungiids of Andaman and Nicobar Islands" author="Ramakrishna;Raghunathan, C.;Mondal, Tamal;Sivaperuman, C." page="0001-0106" info="00:00:00:047" type="hpg" date="00-09-2010"></s1>
+	<s1 title="Guide to the Chaetodontidae (Butterfly Fishes) and Scaridae (Parrot Fishes) of Andaman and Nicobar Islands" author="Rajan, P. T." page="0001-0094" info="00:00:00:048" type="hpg" date="00-09-2010"></s1>
+	<s1 title="Pictorial Handbook on Plant and Soil Nematodes of Rajasthan" author="Bohra, Padma" page="0001-0244" info="00:00:00:049" type="hpg" date="00-11-2011"></s1>
+	<s1 title="Handbook on Diversity in Some of the Indian Butterflies (Insecta : Lepidoptera)" author="Gupta, I. J.;Majumdar, Mridula" page="0001-0324" info="00:00:00:050" type="hpg" date="00-02-2012"></s1>
+	<s1 title="Scleractinia of Andaman and Nicobar Islands" author="Venkataraman, K.;Raghunathan, C.;Raghuraman, R.;Sivaperuman, C.;Sreeraj, C. R.;Immanuel, Titus;Yogesh Kumar, J. S." page="0001-0304" info="00:00:00:051" type="hpg" date="00-11-2012"></s1>
+</hpg>

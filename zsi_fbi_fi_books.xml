@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fbi SYSTEM "fbi_books_list.dtd">
+
+<zsi>
+	<s1 title="Vertebrata" author="" page="" info="" type="" date="">
+		<s2 title="Mammalia" author="" page="" info="" type="" date="">
+			<s3 title="Primates, Carnivora, Insectivora, Chiroptera, Rodentia, Ungulata, Cetacea, Sirenia, Edentata" author="Blanford, W.T." page="001-617" info="01:00:00:084" type="fbi" date="31-08-1888"></s3>
+			<s3 title="Primates and Carnivora, Families Felidae and Viverridae" author="Pocock, R.I." page="001-464" info="02:01:00:085" type="fbi" date="31-03-1939"></s3>
+			<s3 title="Carnivora, Suborders AEluroidea and Arctoidea" author="Pocock, R.I." page="001-504" info="02:02:00:086" type="fbi" date="15-09-1941"></s3>
+			<s3 title="Mammalia-Rodentia" author="Ellerman, J.R." page="001-482" info="00:03:01:001" type="fi" date="00-00-1961"></s3>
+			<s3 title="Mammalia-Rodentia" author="Ellerman, J.R." page="483-884" info="00:03:02:047" type="fi" date="00-00-1961"></s3>
+		</s2>
+		<s2 title="Birds" author="" page="" info="" type="" date="">
+			<s3 title="Passeres" author="Oates, Eugene W." page="001-556" info="01:01:00:001" type="fbi" date="30-12-1889"></s3>
+			<s3 title="Passeres, concluded" author="Oates, Eugene W." page="001-407" info="01:02:00:002" type="fbi" date="08-12-1890"></s3>
+			<s3 title="Eurylaemi, Pic, Zygodactyli, Anisodactyli, Macrochires, Trogones, Coccyges, Psittaci, Striges, Accipitres" author="Blanford, W.T." page="001-450" info="01:03:00:003" type="fbi" date="02-10-1895"></s3>
+			<s3 title="Columbae, Pterocletes, Gallinae, Hemipodii, Grallae, Limicolae, Gaviae, Steganopodes, Tubinares, Herodiones, Phoenicopteri, Pygopodes" author="Blanford, W.T." page="001-500" info="01:04:00:004" type="fbi" date="25-04-1898"></s3>
+			<s3 title="Passeres, Fam. I. Corvidae --- VIII Troglodytidae" author="Baker, E.C. Stuart" page="001-479" info="02:01:00:005" type="fbi" date="24-08-1922"></s3>
+			<s3 title="Passeres, Fam. IX. Cinclidae --- XVII. Regulidae" author="Baker, E.C. Stuart" page="001-561" info="02:02:00:006" type="fbi" date="30-04-1924"></s3>
+			<s3 title="Passeres, Fam. XVIII. Irenidae --- XXXIII. Eurylaimidae" author="Baker, E.C. Stuart" page="001-489" info="02:03:00:007" type="fbi" date="20-03-1926"></s3>
+			<s3 title="Coraciiformes" author="Baker, E.C. Stuart" page="001-471" info="02:04:00:008" type="fbi" date="28-07-1927"></s3>
+			<s3 title="Accipitres, Columbae, Pterocletes, Gallinae, Hemipodii" author="Baker, E.C. Stuart" page="001-469" info="02:05:00:009" type="fbi" date="21-03-1928"></s3>
+			<s3 title="Grallae, Charadriiformes, Steganopodes, Tubinares, Herodiones, Phoenicopteri, Anseres, Pygopodes" author="Baker, E.C. Stuart" page="001-499" info="02:06:00:010" type="fbi" date="26-03-1929"></s3>
+			<s3 title="Synonymical Catalogue, Passeres---Grallae" author="Baker, E.C. Stuart" page="001-484" info="02:07:00:011" type="fbi" date="30-03-1930"></s3>
+			<s3 title="Synonymical Catalogue, Grallae---Pygopodes; Corrigenda and Addenda; Index" author="Baker, E.C. Stuart" page="485-801" info="02:08:00:012" type="fbi" date="25-09-1930"></s3>
+		</s2>
+		<s2 title="Reptilia and Batrachia" author="" page="" info="" type="" date="">
+			<s3 title="empty" author="Boulenger, George A." page="001-541" info="01:00:00:013" type="fbi" date="04-09-1890"></s3>
+			<s3 title="Loricata, Testudines" author="Smith, Malcolm A." page="001-185" info="02:01:00:014" type="fbi" date="27-03-1931"></s3>
+			<s3 title="Sauria" author="Smith, Malcolm A." page="001-440" info="02:02:00:015" type="fbi" date="07-02-1935"></s3>
+			<s3 title="Serpentes" author="Smith, Malcolm A." page="001-583" info="02:03:00:016" type="fbi" date="31-12-1943"></s3>
+			<s3 title="Reptilia: Testudines and Crocodilians" author="Sharma, R.C." page="001-196" info="00:01:00:035" type="fi" date="00-00-2002"></s3>
+			<s3 title="Reptilia: Sauria" author="Sharma, R.C." page="001-430" info="00:02:00:036" type="fi" date="00-00-2005"></s3>
+			<s3 title="Reptilia (Serpentes)" author="Sharma, R.C." page="000-000" info="00:00:00:037" type="fi" date="00-00-0000"></s3>
+		</s2>
+		<s2 title="Fishes" author="" page="" info="" type="" date="">
+			<s3 title="Chondropterygii, Teleostei, (Physostomi; Acanthopterygii; Percidae)" author="Day, Francis" page="001-548" info="01:01:00:017" type="fbi" date="11-07-1889"></s3>
+			<s3 title="Teleostei (Acanthopterygii excl. Percidae; Anacanthini; Lophobranchii; Plectognathi), Leptocardii" author="Day, Francis" page="001-509" info="01:02:00:018" type="fbi" date="21-09-1889"></s3>
+			<s3 title="Pisces-Schizothoracinae" author="Tilak, Raj" page="001-229" info="00:00:00:013" type="fi" date="00-00-1987"></s3>
+			<s3 title="Pisces (Cobitoidea: Homalopteridae)" author="Menon, A.G.K." page="001-259" info="00:04:01:015" type="fi" date="00-00-1987"></s3>
+			<s3 title="Pisces (Cobitoidae: Cobitidae)" author="Menon, A.G.K." page="001-113" info="00:04:02:016" type="fi" date="00-00-1992"></s3>
+			<s3 title="Pisces-Perciformes: Scienidae" author="Talwar, P.K." page="001-144" info="00:00:00:030" type="fi" date="00-00-1995"></s3>
+			<s3 title="Pisces-Elasmobranchii and Holocephali" author="Misra, K. S." page="001-276" info="02:01:00:048" type="fi" date="00-03-1969"></s3>
+			<s3 title="Pisces-Teleostomi : Clupeiformes, Bathyclupeiformes, Galaxiiformes, Scopeliformes and Ateleopiformes" author="Misra, K. S." page="001-438" info="02:02:00:049" type="fi" date="00-03-1976"></s3>
+			<s3 title="Pisces-Teleostomi : Cypriniformes; Siluri" author="Misra, K. S." page="001-367" info="02:03:00:050" type="fi" date="00-03-1976"></s3>
+		</s2>
+	</s1>
+	<s1 title="Arthropoda" author="" page="" info="" type="" date="">
+		<s2 title="Lepidoptera" author="" page="" info="" type="" date="">
+			<s3 title="Moths" author="" page="" info="" type="" date="">
+				<s4 title="Fam. 1, Saturniidae --- 23, Hypsidae" author="Hampson, G.F." page="001-527" info="00:01:00:019" type="fbi" date="10-01-1893"></s4>
+				<s4 title="Fam. 24, Arctiidae; 25, Agaristidae; 26, Noctuidae" author="Hampson, G.F." page="001-609" info="00:02:00:020" type="fbi" date="09-03-1894"></s4>
+				<s4 title="Fam. 26, Noctuidae (subfam, Focillinae, Deltoidinae): 27, Epicopiidae; 28, Uraniidae; 29, Epiplemidae; 30, Geometridae" author="Hampson, G.F." page="001-546" info="00:03:00:021" type="fbi" date="21-02-1895"></s4>
+				<s4 title="Fam. 31, Pyralidae; additions and corrections to Fam. 1-30" author="Hampson, G.F." page="001-594" info="00:04:00:022" type="fbi" date="01-12-1896"></s4>
+				<s4 title="Sphingidae" author="Bell, R.D.;Scott, F.B." page="001-537" info="00:05:00:053" type="fbi" date="15-06-1937"></s4>
+			</s3>
+			<s3 title="Butterflies" author="" page="" info="" type="" date="">
+				<s4 title="Nymphalidae, Nemeobiidae" author="Bingham, C.T." page="001-511" info="01:01:00:023" type="fbi" date="02-03-1905"></s4>
+				<s4 title="Papilionidae, Pieridae, Lycaenidae (part)" author="Bingham, C.T." page="001-480" info="01:02:00:024" type="fbi" date="25-03-1907"></s4>
+				<s4 title="Papilionidae, Pieridae" author="Talbot, C." page="001-600" info="02:01:00:080" type="fbi" date="08-03-1939"></s4>
+				<s4 title="Danaidae, Satyridae, Amathusiidae, Aeraeidae" author="Talbot, C." page="001-506" info="02:02:00:081" type="fbi" date="31-12-1947"></s4>
+			</s3>
+		</s2>
+		<s2 title="Coleoptera" author="" page="" info="" type="" date="">
+			<s3 title="Adephaga" author="" page="" info="" type="" date="">
+				<s4 title="General Introduction, and Cicindelidae and Paussidae" author="Fowler, W.W" page="001-529" info="00:00:00:025" type="fbi" date="18-02-1912"></s4>
+				<s4 title="Carabidae: Vol. I. Carabinae" author="Andrewes, H.E." page="001-431" info="00:01:00:026" type="fbi" date="15-05-1929"></s4>
+				<s4 title="Carabidae: Vol . II. Harpalinae---I" author="Andrewes, H.E." page="001-323" info="00:02:00:027" type="fbi" date="23-10-1935"></s4>
+				<s4 title="Coleoptera:Gyrinidae and Halipalidae" author="Vazirani, T.G." page="001-140" info="00:00:00:019" type="fi" date="00-00-1984"></s4>
+			</s3>
+			<s3 title="Staphylinoidea" author="" page="" info="" type="" date="">
+				<s4 title="Subfam. Micropeplinae, Oxytelinae, Oxyporinae, Megalopinae, Steninae" author="Cameron, Malcolm" page="001-471" info="00:01:00:028" type="fbi" date="31-03-1930"></s4>
+				<s4 title="Subfam. Paederinae" author="Cameron, Malcolm" page="001-257" info="00:02:00:029" type="fbi" date="28-02-1931"></s4>
+				<s4 title="Subfam. Staphylininae, Trichophyinae, Termitodiscinae, Pygosteninae, Tachyporinae" author="Cameron, Malcolm" page="001-443" info="00:03:00:030" type="fbi" date="30-03-1932"></s4>
+				<s4 title="Subfam. Pseudoperinthinae and Aleocharinae (part)" author="Cameron, Malcolm" page="001-410" info="00:04:01:031" type="fbi" date="11-08-1939"></s4>
+				<s4 title="Aleocharinae" author="Cameron, Malcolm" page="411-691" info="00:00:02:032" type="fbi" date="11-08-1939"></s4>
+			</s3>
+			<s3 title="Calvicornia" author="" page="" info="" type="" date="">
+				<s4 title="Erotylidae, Languriidae, and Endomychidae" author="Arrow, G.J." page="001-416" info="00:00:00:033" type="fbi" date="21-03-1925"></s4>
+				<s4 title="Calvicornia : Coleoptera - Family Silvanidae" author="Sengupta, Tapan;Pal, Tarun Kumar" page="001-262" info="00:00:00:054" type="fi" date="00-07-1996"></s4>
+			</s3>
+			<s3 title="Phytophaga" author="" page="" info="" type="" date="">
+				<s4 title="Cerambycidae" author="Gahan, C.J." page="001-329" info="00:00:00:034" type="fbi" date="09-11-1906"></s4>
+				<s4 title="Chrysomelidae:Eupodes, Camptosomes, Cyclica" author="Jacoby, Martin" page="001-534" info="00:01:00:035" type="fbi" date="14-03-1908"></s4>
+				<s4 title="Chrysomelidae:Hispinae and Cassidinae" author="Maulik, S." page="001-439" info="00:02:00:036" type="fbi" date="09-08-1919"></s4>
+				<s4 title="Chrysomelidae:Chrysomelinae and Halticinae" author="Maulik, S." page="001-442" info="00:03:00:037" type="fbi" date="20-05-1926"></s4>
+				<s4 title="Chrysomelidae:Galerucinae" author="Maulik, S." page="001-648" info="00:04:00:038" type="fbi" date="30-01-1936"></s4>
+			</s3>
+			<s3 title="Rhynchophora" author="" page="" info="" type="" date="">
+				<s4 title="Curculionidae. Brachyderinae, Otiorrhynchinae" author="Marshall, Guy A.K." page="001-367" info="00:00:01:039" type="fbi" date="28-11-1916"></s4>
+			</s3>
+			<s3 title="Lamellicornia" author="" page="" info="" type="" date="">
+				<s4 title="Cetoniinae, Dynastinae" author="Arrow, G.J." page="001-322" info="00:00:01:040" type="fbi" date="13-09-1910"></s4>
+				<s4 title="Rutelinae, Desmonycinae, Euchirinae" author="Arrow, G.J." page="001-387" info="00:00:02:041" type="fbi" date="06-05-1917"></s4>
+				<s4 title="Coprinae" author="Arrow, G.J." page="001-428" info="00:00:03:042" type="fbi" date="15-12-1931"></s4>
+				<s4 title="Lucanidae and Passalidae" author="Arrow, G.J." page="001-274" info="00:00:04:043" type="fbi" date="28-04-1950"></s4>
+				<s4 title="Coleoptera (Curculionidae:Eremninae)" author="Pajni, H.R." page="001-568" info="00:00:00:020" type="fi" date="00-00-1990"></s4>
+				<s4 title="Scolytidae: Coleoptera" author="Maiti, Praboth K.;Saha, Nivedita" page="001-268" info="00:00:01:040" type="fi" date="00-00-2004"></s4>
+				<s4 title="Scolytidae:Coleoptera (Bark and Ambrosia Beetles)" author="Maiti, Prabodh K.;Saha, Nivedita" page="001-245" info="00:00:02:045" type="fi" date="00-00-2009"></s4>
+			</s3>
+		</s2>
+		<s2 title="Hymenoptera" author="" page="" info="" type="" date="">	
+			<s3 title="Wasps and Bees. Fossores, Diploptera, Anthophila" author="Bingham, C.T." page="001-579" info="00:01:00:044" type="fbi" date="29-03-1897"></s3>
+			<s3 title="Ants and Cuckoo-Wasps. Formicidae, Chrysididae" author="Bingham, C.T." page="001-506" info="00:02:00:045" type="fbi" date="07-04-1903"></s3>
+			<s3 title="Ichneumonidae: I. Ichneumones Deltoidei Pimplinae, Tryphoninae, Ophioninae" author="Morley, Claude" page="001-531" info="00:03:00:046" type="fbi" date="28-03-1913"></s3>
+			<s3 title="Hymenoptera:Scoliidae" author="Gupta, S.K.;Jonathan, J.K." page="001-277" info="00:00:00:039" type="fi" date="00-00-2003"></s3>
+			<s3 title="Eulophinae (Hymenoptera:Eulophidae)" author="Narendran, T. C." page="001-442" info="00:00:00:055" type="fi" date="00-02-2011"></s3>
+		</s2>
+		<s2 title="Diptera" author="" page="" info="" type="" date="">
+			<s3 title="Nematocera, excluding Cecidomyiidae, Chironomidae, and Culicidae" author="Brunetti, E." page="001-581" info="00:01:00:047" type="fbi" date="17-12-1912"></s3>
+			<s3 title="Brachycera, Vol.I. Stratiomyiidae, Leptidae, Nemestrinidae, Cyrtidae, Bombyliidae, Therevidae, Scenopinidae, Mydaidae, Empidae, Lonchopteridae, Platypezidae" author="Brunetti, E." page="001-401" info="00:02:00:048" type="fbi" date="28-05-1920"></s3>
+			<s3 title="Brachycera, Vol.II. Pipunculidae, Syrphidae, Conopidae, Aestridae" author="Brunetti, E." page="001-401" info="00:02:00:054" type="fbi" date="28-05-1920"></s3>
+			<s3 title="Pipunculidae, Syrphidae, Conopidae, CEstridae" author="Brunetti, E." page="001-424" info="00:03:00:049" type="fbi" date="01-03-1923"></s3>
+			<s3 title="Culicidae, tribe Anophelini" author="Christophers, S.R." page="001-371" info="00:04:00:050" type="fbi" date="27-10-1933"></s3>
+			<s3 title="Culicidae, tribes Megarhinini and Culicini" author="Barraud, P.J." page="001-463" info="00:05:00:051" type="fbi" date="14-03-1934"></s3>
+			<s3 title="Calliphoride" author="White, R. Senior;Daphne, Aubertin;Smart, J." page="001-288" info="00:06:00:052" type="fbi" date="28-03-1940"></s3>
+			<s3 title="Tabanidae" author="Austen, Major E.E." page="000-000" info="00:07:00:000" type="fbi" date="00-00-0000"></s3>
+			<s3 title="Diptera-Muscidae" author="Emden, Van F.I." page="001-647" info="00:07:01:002" type="fi" date="00-00-1965"></s3>
+			<s3 title="Diptera (Asilidae)" author="Joseph, A.N.T.;Parui, P." page="001-278" info="00:08:01:032" type="fi" date="00-00-1998"></s3>
+			<s3 title="Diptera:Chloropidae" author="Cherian, P.T." page="001-369" info="00:09:01:033" type="fi" date="00-00-2002"></s3>
+			<s3 title="Diptera:Sarcophagidae" author="Nandi, B.C." page="001-608" info="00:10:00:034" type="fi" date="00-00-2002"></s3>
+		</s2>
+		<s2 title="Aphaniptera" author="" page="" info="" type="" date="">
+			<s3 title="A Volume on the Fleas" author="Sharif, M." page="000-000" info="00:00:00:000" type="fbi" date="00-00-0000"></s3>
+		</s2>
+		<s2 title="Rhynchota" author="" page="" info="" type="" date="">
+			<s3 title="Heteroptera Pentatomidae, Coreidae, Berytidae" author="Distant, W.L." page="001-438" info="00:01:00:055" type="fbi" date="18-08-1902"></s3>
+			<s3 title="Heteroptera Fam. 4, Lygaeidae-16, Cansidae" author="Distant, W.L." page="001-503" info="00:02:00:056" type="fbi" date="00-00-1903"></s3>
+			<s3 title="Heteroptera-Homoptera Anthocoridae, Polyctenidae, Cryptocerata, Cicadidae, Fulgoridae" author="Distant, W.L." page="001-503" info="00:03:00:057" type="fbi" date="19-03-1906"></s3>
+			<s3 title="Homoptera Membracidae, Cercopidae, Jassidae and Appendix to Pentatomidae, Coreidae, and Berytidae" author="Distant, W.L." page="001-501" info="00:04:00:058" type="fbi" date="00-00-1907"></s3>
+			<s3 title="Heteroptera: Appendix Lygaeidae to Crytocerata" author="Distant, W.L." page="001-362" info="00:05:00:059" type="fbi" date="24-01-1911"></s3>
+			<s3 title="Homoptera: Appendix Cicadidae, Fulgoridae, Membracidae, Cercopidae Jassidae (pt.)" author="Distant, W.L." page="001-248" info="00:06:00:060" type="fbi" date="31-03-1916"></s3>
+			<s3 title="Homoptera: Appendix Jassidae (pt.); Heteroptera: Addenda Pentatomidae, Coreidae, Berytidae, Lygaeidae" author="Distant, W.L." page="001-210" info="00:07:00:061" type="fbi" date="09-05-1918"></s3>
+			<s3 title="Homoptera:Aphidoidea (Chaitophorinae)" author="Ghosh, A.K." page="001-124" info="00:00:01:005" type="fi" date="00-00-1980"></s3>
+			<s3 title="Homoptera:Aphidoidea (Lachninae)" author="Ghosh, A.K." page="001-167" info="00:00:02:006" type="fi" date="00-00-1982"></s3>
+			<s3 title="Homoptera:Aphidoidea (pemphiginae)" author="Ghosh, A.K." page="001-429" info="00:00:03:007" type="fi" date="00-00-1984"></s3>
+			<s3 title="Homoptera:Aphidoidea (Phloemyzinae, Anociinae and Hormaphidinae)" author="Ghosh, A.K." page="001-429" info="00:00:04:008" type="fi" date="00-00-1988"></s3>
+			<s3 title="Homoptera:Aphidoidea (Drepanosiphinae)" author="Ghosh, A.K.;Quednau, F.W." page="001-336" info="00:00:05:009" type="fi" date="00-00-1990"></s3>
+			<s3 title="Homoptera:Aphidoidea (Greenideinae)" author="Ghosh, A.K.;Agarwala, B.K." page="001-330" info="00:00:06:010" type="fi" date="00-00-1993"></s3>
+			<s3 title="Chalcidoidea (Hymenoptera)" author="Mani, M.S." page="0001-1067" info="00:00:01:017" type="fi" date="00-00-1989"></s3>
+			<s3 title="Chalcidoidea (Hymenoptera)" author="Mani, M.S." page="1069-1633" info="00:00:02:018" type="fi" date="00-00-1989"></s3>
+			<s3 title="Homoptera-Mambracidae" author="Ananthasubramanian, K.S." page="001-534" info="00:00:00:031" type="fi" date="00-00-1996"></s3>
+			<s3 title="Homoptera:Aphidoidea" author="Ghosh, A.K.;Ghosh, L.K." page="001-244" info="00:00:07_1:042" type="fi" date="00-00-2006"></s3>
+		</s2>
+		<s2 title="Orthoptera" author="" page="" info="" type="" date="">
+			<s3 title="Acridiidae" author="Kirby, W.F." page="001-276" info="00:00:00:062" type="fbi" date="09-06-1914"></s3>
+			<s3 title="Orthoptera-Grylloidea" author="Chopard, L." page="001-421" info="00:02:00:003" type="fi" date="00-00-1969"></s3>
+		</s2>
+		<s2 title="Dermaptera" author="" page="" info="" type="" date="">
+			<s3 title="(Earwings)" author="Burr, Malcolm" page="001-217" info="00:00:00:063" type="fbi" date="03-02-1910"></s3>
+			<s3 title="Dermaptera (Pygidicranoidea)" author="Srivastava, G.K." page="001-268" info="00:00:01:024" type="fi" date="00-00-1988"></s3>
+			<s3 title="Dermaptera" author="Srivastava, G.K." page="001-235" info="00:02:02:038" type="fi" date="00-00-2003"></s3>
+		</s2>
+		<s2 title="Odonata" author="" page="" info="" type="" date="">
+			<s3 title="Coenagriidae" author="Fraser, F.C." page="001-423" info="00:01:00:064" type="fbi" date="01-03-1933"></s3>
+			<s3 title="Agriidae and Gomphidae" author="Fraser, F.C." page="001-398" info="00:02:00:065" type="fbi" date="29-10-1934"></s3>
+			<s3 title="Cordulegasteridae, AEshnidae, Libellulidae" author="Fraser, F.C." page="001-461" info="00:03:00:066" type="fbi" date="21-12-1936"></s3>
+		</s2>
+		<s2 title="Isoptera" author="" page="" info="" type="" date="">
+			<s3 title="Isoptera (Termites)" author="Roonwal, M.L.;Chhotani, O.B." page="001-672" info="00:01:00:026" type="fi" date="00-00-1989"></s3>
+			<s3 title="Isoptera (Termites)" author="Chhotani, O.B." page="001-801" info="00:02:00:027" type="fi" date="00-00-1997"></s3>
+		</s2>
+		<s2 title="Arachnida" author="" page="" info="" type="" date="">
+			<s3 title="Scorpiones, Uropygi, Amblypygi, Solifugae, Araneae (pt.)." author="Pocock, R.I." page="001-279" info="00:00:00:067" type="fbi" date="21-12-1900"></s3>
+			<s3 title="Acari:Phytoseiidae" author="Gupta, S.K." page="001-350" info="00:00:00:004" type="fi" date="00-00-1986"></s3>
+			<s3 title="Arachnida:Araneae:Oxyopidae" author="Gajbe, U.A." page="001-117" info="00:03:00:044" type="fi" date="00-00-2008"></s3>
+			<s3 title="Araneae - Thomisidae (Crab-Spiders); Lycosidae (Wolf-Spiders)" author="Tikader, B. K.;Malhotra, M. S." page="001-446" info="00:01:00:053" type="fi" date="00-04-1980"></s3>
+			<s3 title="Spiders-Aranea (Araneidae and Gnaphosidae)" author="Tikader, B. K." page="001-536" info="00:02:00:051" type="fi" date="00-03-1982"></s3>
+			<s3 title="Scorpions - Scorpionida : Archnida" author="Tikader, B. K.;Bastawade, D. B." page="001-668" info="00:03:00:052" type="fi" date="00-01-1983"></s3>
+		</s2>
+		<s2 title="Crustacea" author="" page="" info="" type="" date="">
+			<s3 title="Copepod parasites of marine fishes" author="Pillai, Krishna N." page="001-900" info="00:00:00:021" type="fi" date="00-00-1985"></s3>
+			<s3 title="Cladocera" author="Michael, George; Sharma, B.K." page="001-262" info="00:00:00:023" type="fi" date="00-00-1988"></s3>
+			<s3 title="Crustacea:Oniscidae" author="Ramakrishna, G." page="001-130" info="00:00:00:029" type="fi" date="00-00-1995"></s3>
+		</s2>
+	</s1>
+	<s1 title="Echinodermata" author="" page="" info="" type="" date=""></s1>
+	<s1 title="Mollusca" author="" page="" info="" type="" date="">
+		<s2 title="Testacellidae and Zonitidae" author="Blanford, W.T.;Godwin, H.H." page="001-311" info="00:01:00:068" type="fbi" date="07-12-1908"></s2>
+		<s2 title="Trochomorphidae-Janellidae" author="Gude, G.K." page="001-520" info="00:02:00:069" type="fbi" date="24-11-1914"></s2>
+		<s2 title="Land Operculates (Cyclophoridae, Truncatellidae, Assimineidae, Helicinidae)" author="Gude, G.K." page="001-386" info="00:03:00:070" type="fbi" date="05-04-1921"></s2>
+		<s2 title="Freshwater Gastropoda and Pelecypoda" author="Preston, H.B." page="001-244" info="00:04:00:071" type="fbi" date="31-03-1915"></s2>
+	</s1>
+	<s1 title="Worms" author="" page="" info="" type="" date="">
+		<s2 title="Oligochaeta" author="" page="" info="" type="" date="">
+			<s3 title="Oligochaeta" author="Stephenson, J." page="001-518" info="00:01:00:072" type="fbi" date="30-06-1923"></s3>
+			<s3 title="Megadrile Oligochaeta (Earthworm)" author="Julka, J.M." page="001-400" info="00:00:00:028" type="fi" date="00-00-1988"></s3>
+			<s3 title="Aquatic Oligochaeta" author="Naidu, Vanamala K." page="001-294" info="00:00:00:041" type="fi" date="00-00-2005"></s3>
+		</s2>
+		<s2 title="Polychaeta" author="" page="" info="" type="" date="">
+			<s3 title="Annelida : Polychaeta" author="Fauvel, Pierre" page="001-507" info="00:00:00:056" type="fi" date="00-00-1953"></s3>
+		</s2>
+		<s2 title="Hirudinea" author="" page="" info="" type="" date="">
+			<s3 title="Hirudinea" author="Harding, W.A.;Moore, Percy J." page="001-302" info="00:01:00:073" type="fbi" date="23-03-1927"></s3>
+		</s2>
+		<s2 title="Cestoda" author="" page="" info="" type="" date="">
+			<s3 title="Cestodaria, Eucestoda (exel. Taenioidea)" author="Southwell, T." page="001-391" info="00:01:00:074" type="fbi" date="29-05-1930"></s3>
+			<s3 title="Taenioidea" author="Southwell, T." page="001-262" info="00:02:00:075" type="fbi" date="29-12-1930"></s3>
+		</s2>
+		<s2 title="Trematoda" author="" page="" info="" type="" date="">
+			<s3 title="Platyhelminthes-Trematoda" author="Mehra, H.;Srivastava, C.B." page="001-418" info="00:02:00:011" type="fi" date="00-00-1980"></s3>
+			<s3 title="Larval Trematodes (Amphistome Cercariae)" author="Mukherjee, R.P." page="001-089" info="00:00:01:012" type="fi" date="00-00-1986"></s3>
+			<s3 title="Larval Trematodes (Parapleurolophocera and Echinostome Cercariae)" author="Mukherjee, R.P." page="001-098" info="00:00:02:014" type="fi" date="00-00-1992"></s3>
+		</s2>
+		<s2 title="Nematoda" author="" page="" info="" type="" date="">
+			<s3 title="Ascaroidea and Strongyloidea" author="Baylis, H.A." page="001-408" info="00:01:00:076" type="fbi" date="23-03-1936"></s3>
+			<s3 title="Filarioidea, Dioctophymoidea and Trichinelloidea" author="Baylis, H.A." page="001-274" info="00:02:00:077" type="fbi" date="18-08-1939"></s3>
+		</s2>
+	</s1>
+	<s1 title="Coelenterata" author="" page="" info="" type="" date="">
+		<s2 title="Freshwater Sponges, Hydroids and Polyzoa" author="Annandale, N." page="001-251" info="00:00:00:078" type="fbi" date="21-09-1911"></s2>
+		<s2 title="Siphonophora (Coelenterata:Hydrozoa)" author="Daniel, Ruby" page="001-440" info="00:00:00:022" type="fi" date="00-00-1985"></s2>
+	</s1>
+	<s1 title="Porifera" author="" page="" info="" type="" date=""></s1>
+	<s1 title="Protozoa" author="" page="" info="" type="" date="">
+		<s2 title="Protozoa:Ciliophora" author="Bhatia, B.L." page="001-493" info="00:00:00:079" type="fbi" date="07-08-1936"></s2>
+		<s2 title="Protozoa:Sporozoa" author="Bhatia, B.L." page="001-497" info="00:00:00:082" type="fbi" date="29-11-1938"></s2>
+		<s2 title="Protozoa:Eimeriidae" author="Mandal, A.K." page="001-462" info="00:00:00:025" type="fi" date="00-00-1987"></s2>
+	</s1>
+	<s1 title="Acanthocephala" author="" page="" info="" type="" date="">
+		<s2 title="Acanthocephala" author="Naidu, K. Vanamala" page="001-638" info="00:00:00:046" type="fi" date="00-01-2012"></s2>
+	</s1>
+</zsi>

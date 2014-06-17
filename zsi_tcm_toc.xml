@@ -1,0 +1,875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tcm SYSTEM "tcm.dtd">
+
+<tcm>
+	<book bid="001">
+		<s1 page="0000d" title="Preface"></s1>
+		<s1 page="0001" title="1. Introduction">
+			<s2 page="0001" title="Definition of galls"></s2>
+			<s2 page="0001" title="Basic aspects of thrips"></s2>
+			<s2 page="0001" title="Review of gall thrips and thrips gall studies"></s2>
+			<s2 page="0001" title="Nature of thrips and host plant relationships"></s2>
+			<s2 page="0001" title="Distribution"></s2>
+			<s2 page="0003" title="Gall association and succession"></s2>
+			<s2 page="0007" title="Polymorphism and range of diversity in gall thrips"></s2>
+		</s1>
+		<s1 page="0010" title="2. Thrips Galls&#8212; Their nature and classification">
+			<s2 page="0010" title="Major types (leaf rool&#8212;fold galls and non&#8212;leaf rool&#8212;fold galls)"></s2>
+			<s2 page="0010" title="Classification of galls under the above types"></s2>
+			<s2 page="0010" title="Other modifications"></s2>
+			<s2 page="0010" title="Modes of gall formation"></s2>
+			<s2 page="0010" title="Key to thrips galls"></s2>
+		</s1>
+		<s1 page="0017" title="Morphology of thrips galls">
+			<s2 page="0018" title="General effects of gall formation by thrips"></s2>
+			<s2 page="0018" title="A comparative idea of the nature of the affected tissues in different galls as typified by species of !!Maytenus, Cordia, Mimusops, Secamone, Calycopleries, Memecylon, Schefflera, Casearia, Loranthus, Terminalia and Pavetta!!"></s2>
+			<s2 page="0018" title="Discussion of the impact of gall formation by thrips with those galls of allied nature by other insects and mites"></s2>
+		</s1>
+		<s1 page="0032" title="Gall thrips genera of the world">
+			<s2 page="0032" title="List of genera of gall thrips"></s2>
+			<s2 page="0034" title="Key to genera of gall thrips of the world"></s2>
+		</s1>
+		<s1 page="0042" title="Indices">
+			<s2 page="0042" title="Alphabetical index of species of thrips along with their hosts"></s2>
+			<s2 page="0048" title="Plant family&#8211;Thrips index"></s2>
+			<s2 page="0056" title="Alphabetical index of host plant&#8212;gall thrips species"></s2>
+		</s1>
+		<s1 page="0062" title="References"></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0004" title="Taxonomic studies">
+			<s2 page="0004" title="Introduction">
+				<s3 page="0004" title="Systematic account"></s3>
+				<s3 page="0004" title="Tylenchus filiformis"></s3>
+				<s3 page="0005" title="Chitinotylenchus paragracilis"></s3>
+				<s3 page="0007" title="Ditylenchus dipsaci"></s3>
+				<s3 page="0008" title="Pseudhalenchus anchilisposomus"></s3>
+				<s3 page="0008" title="Tylenchorhynchus mashhoodi"></s3>
+				<s3 page="0009" title="Pratylenchus coffeae"></s3>
+				<s3 page="0010" title="Pratylenchus minyus"></s3>
+				<s3 page="0010" title="Hirschmanniella oryzae"></s3>
+				<s3 page="0011" title="Hoplolaimus dubius n.sp."></s3>
+				<s3 page="0014" title="Helicotylenchus indicus"></s3>
+				<s3 page="0015" title="Helicotylenchus retusus"></s3>
+				<s3 page="0015" title="Helicotylenchus indentatus n.sp."></s3>
+				<s3 page="0017" title="Meloidogyne incognita"></s3>
+				<s3 page="0017" title="Meloidogyne javanica"></s3>
+				<s3 page="0018" title="Rotylenchulus reniformis"></s3>
+				<s3 page="0019" title="Criconemoides ornatus"></s3>
+				<s3 page="0020" title="Aphelenchus avenae"></s3>
+				<s3 page="0020" title="Aphelenchoides saprophilus"></s3>
+				<s3 page="0022" title="Aphelenchoides asterocaudatus"></s3>
+				<s3 page="0023" title="Aphelenchoides sanwali n.sp."></s3>
+				<s3 page="0025" title="Seinura hechlerae n.sp."></s3>
+				<s3 page="0026" title="Paraphelenchus myceliophthorus"></s3>
+				<s3 page="0027" title="Metaphelenchus goldeni n.sp."></s3>
+				<s3 page="0029" title="Rhabditis (Indorhabditis) olitorius n.subgen., n.sp."></s3>
+				<s3 page="0030" title="Pelodera (Cruznema) dunensis"></s3>
+				<s3 page="0031" title="Panagrolaimus burdwanensis n.sp."></s3>
+				<s3 page="0033" title="Cephalobus persegnis"></s3>
+				<s3 page="0034" title="Acrobelet timmi n.sp."></s3>
+				<s3 page="0036" title="Chronogaster loofi n.sp."></s3>
+				<s3 page="0038" title="Prismatolaimus andressyi"></s3>
+				<s3 page="0038" title="Abunema indicum"></s3>
+				<s3 page="0040" title="Achromadora ruricola"></s3>
+				<s3 page="0041" title="Tripyla (Trischistoma) arenicola"></s3>
+				<s3 page="0042" title="Ironus longicaudatus"></s3>
+				<s3 page="0042" title="Crytonchus abnormis"></s3>
+				<s3 page="0043" title="Discolaimoides bulbiferus"></s3>
+				<s3 page="0044" title="Longidorella macramphis"></s3>
+				<s3 page="0044" title="Xiphinem (Xiphinema) americanum"></s3>
+				<s3 page="0045" title="Xiphinema (Elongiphinema) insigne"></s3>
+				<s3 page="0045" title="Neoactinolaimus thornei n.sp."></s3>
+				<s3 page="0047" title="Dorylaimellus parvulus"></s3>
+				<s3 page="0049" title="Dorylaimellus andrassyi"></s3>
+				<s3 page="0050" title="Alaimus siddiqii n.sp."></s3>
+				<s3 page="0052" title="Mylonchulus lacustris"></s3>
+				<s3 page="0052" title="Iotonchus trichurus"></s3>
+				<s3 page="0053" title="Hadronchus sp."></s3>
+				<s3 page="0053" title="Isolaimium sp."></s3>
+			</s2>
+			<s2 page="0054" title="General remarks"></s2>
+			<s2 page="0054" title="New subgenus, new species"></s2>
+			<s2 page="0054" title="Genera: Constituting first record from India"></s2>
+			<s2 page="0054" title="Species: Constituting first record from India"></s2>
+			<s2 page="0055" title="On Nematodes associated with jute crop"></s2>
+		</s1>
+		<s1 page="0057" title="Survey">
+			<s2 page="0057" title="Introduction"></s2>
+			<s2 page="0057" title="Materials and methods"></s2>
+			<s2 page="0058" title="Results"></s2>
+			<s2 page="0058" title="Discussion"></s2>
+		</s1>
+		<s1 page="0059" title="Population dynamics">
+			<s2 page="0059" title="Introduction"></s2>
+			<s2 page="0059" title="Materials and methods"></s2>
+			<s2 page="0060" title="Results">
+				<s3 page="0060" title="!!Hirschmanniella oryzae!!"></s3>
+				<s3 page="0060" title="!!Helicotylenchus indentatus n.sp.!!"></s3>
+				<s3 page="0061" title="!!Tylenchorhynchus mashhoodi!!"></s3>
+				<s3 page="0062" title="!!Dorylaims!!"></s3>
+				<s3 page="0062" title="!!Rhabditids!!"></s3>
+			</s2>
+			<s2 page="0062" title="Discussion">
+				<s3 page="0062" title="Rainfall"></s3>
+				<s3 page="0063" title="Temperature"></s3>
+				<s3 page="0064" title="Fallow"></s3>
+				<s3 page="0064" title="Crop management"></s3>
+			</s2>
+		</s1>
+		<s1 page="0067" title="Life cycle and related studies">
+			<s2 page="0067" title="Introduction"></s2>
+			<s2 page="0067" title="Materials and methods"></s2>
+			<s2 page="0068" title="Experimental results"></s2>
+			<s2 page="0068" title="Embryogenesis"></s2>
+			<s2 page="0069" title="Postembryonic development"></s2>
+			<s2 page="0074" title="Abundance of males, Sex&#8211;reversal and intersexes"></s2>
+			<s2 page="0076" title="Discussion">
+				<s3 page="0076" title="Embryogenesis"></s3>
+				<s3 page="0076" title="Life cycle"></s3>
+				<s3 page="0077" title="Abundance of males"></s3>
+				<s3 page="0077" title="Intersexes"></s3>
+			</s2>
+		</s1>
+		<s1 page="0079" title="Host&#8211;parasite relationships">
+			<s2 page="0079" title="Introduction"></s2>
+			<s2 page="0079" title="Materials and methods"></s2>
+			<s2 page="0081" title="Experimental Results">
+				<s3 page="0081" title="Penetration"></s3>
+				<s3 page="0081" title="Pathogenicity"></s3>
+				<s3 page="0082" title="Histopathology"></s3>
+			</s2>
+			<s2 page="0083" title="Discussion">
+				<s3 page="0083" title="Penetration"></s3>
+				<s3 page="0083" title="Pathogenic effects"></s3>
+				<s3 page="0083" title="Histopathology"></s3>
+			</s2>
+		</s1>
+		<s1 page="0088" title="Ovoviviparity in !!Meloidogyne incognita!!">
+			<s2 page="0088" title="Introduction"></s2>
+			<s2 page="0088" title="Observations"></s2>
+			<s2 page="0089" title="Discussion"></s2>
+		</s1>
+		<s1 page="0091" title="References"></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Acknowledgements"></s1>
+		<s1 page="0001" title="Taxonomy of chaetognatha"></s1>
+		<s1 page="0002" title="">List of species reported from west coast of India</s1>
+		<s1 page="0003" title="Key to the species"></s1>
+		<s1 page="0006" title="Description of species">
+			<s2 page="0006" title="!!Sagitta bedoti!!"></s2>
+			<s2 page="0008" title="!!Sagitta bipunctata!!"></s2>
+			<s2 page="0009" title="!!Sagitta bombayensis!!"></s2>
+			<s2 page="0011" title="!!Sagitta decipiens!!"></s2>
+			<s2 page="0013" title="!!Sagitta ferox!!"></s2>
+			<s2 page="0014" title="!!Sagitta hexaplera!!"></s2>
+			<s2 page="0016" title="!!Sagitta hispida!!"></s2>
+			<s2 page="0018" title="!!Sagitta inflata!!"></s2>
+			<s2 page="0020" title="!!Sagitta lyra!!"></s2>
+			<s2 page="0021" title="!!Sagitta macrocephala!!"></s2>
+			<s2 page="0023" title="!!Sagitta maxima!!"></s2>
+			<s2 page="0024" title="!!Sagitta minima!!"></s2>
+			<s2 page="0026" title="!!Sagitta neglecta!!"></s2>
+			<s2 page="0027" title="!!Sagitta pacifica!!"></s2>
+			<s2 page="0029" title="!!Sagitta pulchra!!"></s2>
+			<s2 page="0031" title="!!Sagitta regularis!!"></s2>
+			<s2 page="0032" title="!!Sagitta robusta!!"></s2>
+			<s2 page="0034" title="!!Pterosagitta draco!!"></s2>
+			<s2 page="0036" title="!!Krohnitta pacifica!!"></s2>
+			<s2 page="0037" title="!!Krohnitta subtilis!!"></s2>
+			<s2 page="0039" title="!!Eukrohnia fowleri!!"></s2>
+			<s2 page="0041" title="!!Eukrohnia minuta!!"></s2>
+		</s1>
+		<s1 page="0043" title="Possible use of chaetognaths as indicator organisms"></s1>
+		<s1 page="0046" title="References"></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0000c" title="Preface"></s1>
+		<s1 page="0000d" title="Acknowledgements"></s1>
+		<s1 page="0001" title="I. Introduction"></s1>
+		<s1 page="0002" title="II. Identity, Distribution and pest status of Termites of agriculture">
+			<s2 page="0003" title="(A) Field key for the identification of termite pests of agriculture"></s2>
+			<s2 page="0009" title="(B) Diagnosis, Distribution and pest status of more important termite pests"></s2>
+			<s2 page="0009" title="Family Kalotermitidae"></s2>
+			<s2 page="0025" title="Family Rhinotermitidae"></s2>
+			<s2 page="0035" title="Family Termitidae"></s2>
+		</s1>
+		<s1 page="0059" title="III. Termite damage to agriculture and their control">
+			<s2 page="0059" title="(A) General"></s2>
+			<s1 page="0060" title="(B) Damage to agricultural crops wheat; rice; maize, millets, pulses, etc.; vegetable, flowering, ornamental and medicinal plants; groundnut"></s2>
+			<s2 page="0064" title="(C) Damage to plantation crops sugarcane; tea; coconut; rubber"></s2>
+			<s2 page="0069" title="(D) Damage to fibre crops cotton; jute and sunn&#8211;hemp"></s2>
+			<s2 page="0071" title="(E) Damage to fruit trees"></s2>
+			<s2 page="0072" title="Damage to stored&#8211;products"></s2>
+		</s1>
+		<s1 page="0073" title="Summary and conclusions"></s1>
+		<s1 page="0074" title="References"></s1>
+		<s1 page="0083" title="Appendix&#8212;I. Termite pests of agriculture, plantation crops fruit trees, stored&#8211;products, etc.">
+			<s2 page="0083" title="(A) General list"></s2>
+			<s2 page="0084" title="(B) Crop&#8211;wise list"></s2>
+		</s1>
+	</book>
+	<book bid="005">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Material and methods"></s1>
+		<s1 page="0003" title="General organisation and structure"></s1>
+		<s1 page="0006" title="Description">
+			<s2 page="0006" title="Coccidia of domestic fowl"></s2>
+			<s2 page="0017" title="Coccidia of domestic Turkey"></s2>
+			<s2 page="0022" title="Coccidia of Domestic duck"></s2>
+			<s2 page="0024" title="Coccidia fo cattle"></s2>
+			<s2 page="0042" title="Coccidia of sheep and goats"></s2>
+			<s2 page="0053" title="Coccidia of domestic pig"></s2>
+		</s1>
+		<s1 page="0063" title="Coccidiosis of poultry and farm animals"></s1>
+		<s1 page="0067" title="Host&#8211;parasite relationship"></s1>
+		<s1 page="0068" title="Acknowledgement"></s1>
+		<s1 page="0069" title="Summary"></s1>
+		<s1 page="0069" title="References"></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0001" title="I. Introduction"></s1>
+		<s1 page="0002" title="II. Systematic account; Family arctiidae">
+			<s2 page="0003" title="(A) Subfamily Callimorphinae"></s2>
+			<s2 page="0003" title="Genus callimorpha latreille"></s2>
+			<s2 page="0003" title="1. !!C. principalis (Kollar)!!"></s2>
+			<s2 page="0005" title="2. !!C. plagiata (Walker)!!"></s2>
+			<s2 page="0006" title="(B) Subfamily Nyctemerinae"></s2>
+			<s2 page="0006" title="Genus Nyctemera Hübner"></s2>
+			<s2 page="0007" title="3. N. varians walker"></s2>
+			<s2 page="0008" title="4. N. cenis (Cramer)"></s2>
+			<s2 page="0008" title="5. N. adversata (Schaller)"></s2>
+			<s2 page="0009" title="6. N. (Arctata) carissima (Swinhoe) n.comb."></s2>
+			<s2 page="0010" title="(C) Subfamily Micrarctiinae"></s2>
+			<s2 page="0010" title="Genus Argina Hübner"></s2>
+			<s2 page="0011" title="7. !!A. argus!! (Kollar)"></s2>
+			<s2 page="0011" title="8. !!A. cribraria!! (Clerck)"></s2>
+			<s2 page="0011" title="(D) Subfamily Rhodogastriinae"></s2>
+			<s2 page="0012" title="Genus Rhodogastriinae Hübner"></s2>
+			<s2 page="0012" title="9. !!R. astreus!! (Drury)"></s2>
+			<s2 page="0012" title="(E) Subfamily Spilosominae"></s2>
+			<s2 page="0014" title="Genus Creatonotos Hübner"></s2>
+			<s2 page="0014" title="10. !!C. gangis!! (Linn.)"></s2>
+			<s2 page="0015" title="Genus Phissama moore"></s2>
+			<s2 page="0015" title="11. !!P. transiens!! (Walker)"></s2>
+			<s2 page="0016" title="Genus Aloa walker"></s2>
+			<s2 page="0016" title="12. !!A. lactinea!! (Creamer)"></s2>
+			<s2 page="0017" title="Genus alphaea walker"></s2>
+			<s2 page="0017" title="13. !!A. quadriramosa!! (Kollar)"></s2>
+			<s2 page="0018" title="Genus spilarctia butler"></s2>
+			<s2 page="0018" title="14. !!S. rubitincta!! (Moore)"></s2>
+			<s2 page="0019" title="15. !!S. obliqua!! (Walker)"></s2>
+			<s2 page="0019" title="16. !!S. casigneta!! (Kollar)"></s2>
+			<s2 page="0020" title="Genus areas walker"></s2>
+			<s2 page="0020" title="17. !!A. galactina!! (Hoeven)"></s2>
+			<s2 page="0021" title="Genus olrpa watson"></s2>
+			<s2 page="0021" title="18. !!O. ricini!! (Fabricius)"></s2>
+			<s2 page="0022" title="(F) Subfamily lithosiinae"></s2>
+			<s2 page="0024" title="Genus Garudinia moore"></s2>
+			<s2 page="0025" title="19. !!G. biplagiata hampson!!"></s2>
+			<s2 page="0025" title="Genus Tigrioides butler"></s2>
+			<s2 page="0025" title="20. !!T. leucanioides!! (Walker)"></s2>
+			<s2 page="0026" title="Genus Chrysorabdia butler"></s2>
+			<s2 page="0026" title="21. !!C. viridata!! (Walker)"></s2>
+			<s2 page="0027" title="Genus Strysopha nom. nov."></s2>
+			<s2 page="0028" title="22. !!S. tortricoides!! (Walker) n. comb."></s2>
+			<s2 page="0030" title="23. !!S. perdentata!! (Druce) n. comb."></s2>
+			<s2 page="0030" title="Genus Eilema Hübner"></s2>
+			<s2 page="0031" title="24. !!E. fumidisca!! (Hampson)"></s2>
+			<s2 page="0032" title="25. !!E. vicaria!! (Walker)"></s2>
+			<s2 page="0033" title="25a. !!E.!! sp."></s2>
+			<s2 page="0033" title="26. !!E. tetragona!! (Walker)"></s2>
+			<s2 page="0035" title="26a. !!E.!!sp."></s2>
+			<s2 page="0035" title="Genus Teulisna walker"></s2>
+			<s2 page="0036" title="27. !!T. plagiata!! walker"></s2>
+			<s2 page="0037" title="28. !!T. protuberans!! (Moore)"></s2>
+			<s2 page="0037" title="Genus Prabhasa moore"></s2>
+			<s2 page="0038" title="29. !!P.venosa!! moore"></s2>
+			<s2 page="0039" title="30. !!P.flavicosta!! moore"></s2>
+			<s2 page="0039" title="Genus Zadadra moore"></s2>
+			<s2 page="0040" title="31. !!Z. distorta!! (Moore)"></s2>
+			<s2 page="0040" title="Genus Hemonia walker"></s2>
+			<s2 page="0040" title="32. !!orbiferana!! walker"></s2>
+			<s2 page="0041" title="Genus Agylla walker"></s2>
+			<s2 page="0042" title="33. !!A. divisa!! (Moore)"></s2>
+			<s2 page="0042" title="34. !!A. maculata!! (Moore)"></s2>
+			<s2 page="0043" title="35. !!A. ramelana!! (Moore)"></s2>
+			<s2 page="0043" title="36. !!A. alboluteola!! rothschild"></s2>
+			<s2 page="0043" title="Genus Agrisius"></s2>
+			<s2 page="0044" title="37. !!A. gtivitta!! walker"></s2>
+			<s2 page="0044" title="Genus cyana walker"></s2>
+			<s2 page="0045" title="38. !!C. bianca!! walker"></s2>
+			<s2 page="0046" title="39. !!C. dudgeoni!! Hampson"></s2>
+			<s2 page="0046" title="39a. !!C.!! sp."></s2>
+			<s2 page="0046" title="39b. !!C.!! sp."></s2>
+			<s2 page="0047" title="39c. !!C.!! sp."></s2>
+			<s2 page="0047" title="Genus Asura walker"></s2>
+			<s2 page="0049" title="40. !!A. undulosa!! (Walker)"></s2>
+			<s2 page="0049" title="41. !!A. obsoleta!!(Moore)"></s2>
+			<s2 page="0049" title="42. !!A. frigida!! (Walker)"></s2>
+			<s2 page="0050" title="43. !!A. calamaria!! (Moore)"></s2>
+			<s2 page="0050" title="44. !!A. strigipennis!! (Herrich&#8211;Schäffer)"></s2>
+			<s2 page="0051" title="45. !!A. euprepioides!! (Walker)"></s2>
+			<s2 page="0051" title="46. !!A. conjunctana!! (Walker)"></s2>
+			<s2 page="0051" title="46a. !!A.!! sp."></s2>
+			<s2 page="0052" title="Genus Miltochrista Hübner"></s2>
+			<s2 page="0053" title="47. !!M. cardinalis!! Hampson"></s2>
+			<s2 page="0054" title="48. !!M. punicea!! (Moore)"></s2>
+			<s2 page="0054" title="49. !!M. cruciata!! (Walker)"></s2>
+			<s2 page="0055" title="50. !!M. cuneonotata!! (Walker)"></s2>
+			<s2 page="0055" title="51. !!M. inflexa!! (Moore)"></s2>
+			<s2 page="0056" title="52. !!M. (Varsine) gratiosa!! (Guérin&#8211;Méneville)"></s2>
+			<s2 page="0056" title="53. !!M. prominens!! (Moore)"></s2>
+			<s2 page="0057" title="54. !!M. magna!! Hampson"></s2>
+			<s2 page="0057" title="Genus Oeonistis Hübner"></s2>
+			<s2 page="0058" title="55. !!O. entella!! (Cramer)"></s2>
+		</s1>
+		<s1 page="0058" title="III. Summary"></s1>
+		<s1 page="0059" title="IV. Acknowledgements"></s1>
+		<s1 page="0059" title="V. References"></s1>
+		<s1 page="0064" title="VI. Index"></s1>
+		<s1 page="0065" title="Plates"></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Methods"></s1>
+		<s1 page="0006" title="Review of genera, species, and keys (♀ ♀)">
+			<s2 page="0009" title="Adialytus Förster, 1862">
+				<s3 page="0009" title="ambiguus (Haliday, 1834)"></s3>
+				<s3 page="0010" title="salicaphis (Fitch, 1855)"></s3>
+			</s2>
+			<s2 page="0010" title="Aphidius Nees, 1819">
+				<s3 page="0010" title="absinthii Marshall, 1896"></s3>
+				<s3 page="0011" title="areolatus Ashmead, 1906"></s3>
+				<s3 page="0011" title="cingulatus Ruthe, 1859"></s3>
+				<s3 page="0011" title="colemani Viereck, 1912"></s3>
+				<s3 page="0012" title="ervi Haliday, 1834"></s3>
+				<s3 page="0012" title="hortensis Marshall, 1896"></s3>
+				<s3 page="0012" title="matricariae Haliday, 1834"></s3>
+				<s3 page="0013" title="[pascuorum Marshall, 1896]"></s3>
+				<s3 page="0013" title="rosae Haliday, 1834"></s3>
+				<s3 page="0013" title="setiger Mackauer, 1961"></s3>
+				<s3 page="0013" title="[similis Starý & Carver, 1979]"></s3>
+				<s3 page="0014" title="smithi Sharma & Subba Rao, 1959"></s3>
+				<s3 page="0015" title="urticae Haliday, 1834 &#8212; group"></s3>
+				<s3 page="0015" title="uzbekistanicus Luzhetzki, 1960"></s3>
+				<s3 page="0015" title="sp."></s3>
+			</s2>
+			<s2 page="0017" title="Archaphidus Starý & Schlinger, 1967">
+				<s3 page="0017" title="Starý & Schlinger, 1967"></s3>
+			</s2>
+			<s2 page="0017" title="Areopraon Mackauer, 1959">
+				<s3 page="0017" title="lepellepi (Waterston, 1926)"></s3>
+				<s3 page="0017" title="sp."></s3>
+			</s2>
+			<s2 page="0018" title="Betuloxys Mackauer, 1959">
+				<s3 page="0018" title="assamensis (Starý, 1975)"></s3>
+				<s3 page="0018" title="hortorum (Starý, 1960)"></s3>
+				<s3 page="0018" title="intermedius (Shuja&#8211;Uddin, 1975)"></s3>
+				<s3 page="0019" title="takecallis (Starý, 1978)"></s3>
+			</s2>
+			<s2 page="0019" title="Cristicaudus Starý & Remaudière, 1982">
+				<s3 page="0019" title="nepalensis (Takada, 1970)"></s3>
+			</s2>
+			<s2 page="0020" title="Diaeretiella Starý, 1960">
+				<s3 page="0020" title="rapae (M' Intosh, 1855)"></s3>
+			</s2>
+			<s2 page="0021" title="Diaeretus Förster, 1862">
+				<s3 page="0021" title="leucopterus (Haliday, 1834)"></s3>
+			</s2>
+			<s2 page="0022" title="Ephedrus Haliday, 1833">
+				<s3 page="0022" title="[cerasicola Starý, 1962]"></s3>
+				<s3 page="0022" title="lacertosus (Haliday, 1833)"></s3>
+				<s3 page="0022" title="minor Stelfox, 1941"></s3>
+				<s3 page="0022" title="niger gautier, bonnamour, gaumont, 1929"></s3>
+				<s3 page="0022" title="persicae froggatt, 1904"></s3>
+				<s3 page="0023" title="plagiator (Nees, 1811)"></s3>
+				<s3 page="0023" title="srinagarensis Starý & Bhagat, 1978"></s3>
+				<s3 page="0023" title="sp."></s3>
+			</s2>
+			<s2 page="0024" title="Indaphidius Starý, 1979">
+				<s3 page="0025" title="curvicandatus Starý, 1979"></s3>
+			</s2>
+			<s2 page="0025" title="Kashmiria Starý & Bhagat 1978">
+				<s3 page="0025" title="aphidis Starý & Bhagat, 1978"></s3>
+			</s2>
+			<s2 page="0026" title="Lipolexos Förster, 1862">
+				<s3 page="0026" title="gracilis Förster, 1862"></s3>
+				<s3 page="0026" title="scutellaris Mackauer, 1962"></s3>
+			</s2>
+			<s2 page="0027" title="Lysaphidus Smith,1944">
+				<s3 page="0027" title="erysimi Starý, 1960"></s3>
+				<s3 page="0027" title="qadrii Shuja&#8211;Uddin, 1976"></s3>
+				<s3 page="0028" title="sp."></s3>
+			</s2>
+			<s2 page="0028" title="Lysiphlebia Starý & Schlinger, 1967">
+				<s3 page="0028" title="mirzai Shuja&#8211;Uddin, 1975"></s3>
+			</s2>
+			<s2 page="0028" title="Lysiphlebus Förster, 1862">
+				<s3 page="0028" title="Phlebus Starý, 1975"></s3>
+				<s3 page="0028" title="confusus Tremblay & Eady, 1978"></s3>
+				<s3 page="0029" title="delhiensis (Subba Rao & Sharma, 1960)"></s3>
+				<s3 page="0029" title="fabarum (Marshall, 1896)"></s3>
+				<s3 page="0029" title="testaceipes (Cresson, 1880)"></s3>
+				<s3 page="0030" title="sp."></s3>
+			</s2>
+			<s2 page="0030" title="Monoctonus Haliday, 1833">
+				<s3 page="0030" title="sp."></s3>
+			</s2>
+			<s2 page="0031" title="Parapraon Starý, 1982">
+				<s3 page="0031" title="necans (Mackauer, 1959)"></s3>
+				<s3 page="0031" title="pakistanum (Kirkland, 1979)"></s3>
+			</s2>
+			<s2 page="0031" title="Pauesia Quilis, 1931"></s2>
+			<s2 page="0031" title="Paraphidius Starý, 1958">
+				<s3 page="0031" title="antennata (Mukerji, 1950)"></s3>
+				<s3 page="0032" title="arcuata Starý & Raychaudhuri, 1982"></s3>
+				<s3 page="0032" title="gulmargensis Bhagat, 1981"></s3>
+				<s3 page="0032" title="himalayensis Bhagat, 1981"></s3>
+				<s3 page="0033" title="indica Starý 1977"></s3>
+				<s3 page="0033" title="pini (Haliday, 1834)"></s3>
+			</s2>
+			<s2 page="0034" title="Pauesia s. str.">
+				<s3 page="0034" title="laricis (Haliday, 1834)"></s3>
+				<s3 page="0034" title=" mashobrica Starý & Raychaudhuri, 1982"></s3>
+			</s2>
+			<s2 page="0034" title="Pauesiella Sedlag & Starý, 1980">
+				<s3 page="0035" title="hazratbalensis Bhagat, 1981"></s3>
+			</s2>
+			<s2 page="0035" title="Praon Haliday, 1833">
+				<s3 page="0035" title="abjectum (Haliday, 1833)"></s3>
+				<s3 page="0035" title="[absinthii Bignell, 1894]"></s3>
+				<s3 page="0036" title="[dorsale (Haliday, 1833)]"></s3>
+				<s3 page="0036" title="myzophagum Mackauer, 1959"></s3>
+				<s3 page="0036" title="stagona Takada & Rishi, 1980"></s3>
+				<s3 page="0036" title="volucre (Haliday, 1833)"></s3>
+				<s3 page="0036" title="sp."></s3>
+			</s2>
+			<s2 page="0037" title="Pseudopraon Starý, 1975">
+				<s3 page="0037" title="antiquum (Mackauer, 1967)"></s3>
+			</s2>
+			<s2 page="0038" title="Toxares Haliday, 1840">
+				<s3 page="0038" title="[deltiger (Haliday, 1833)]"></s3>
+				<s3 page="0039" title="macrosiphophagum Shuja&#8211;Uddin, 1974"></s3>
+				<s3 page="0039" title="[shigai Takada, 1965]"></s3>
+				<s3 page="0040" title="zakai Shuja&#8211;Uddin, 1974"></s3>
+			</s2>
+			<s2 page="0040" title="Trioxys Haliday, 1833"></s2>
+			<s2 page="0040" title="Binodoxys Mackauer, 1960">
+				<s3 page="0041" title="acalephae (Marshall, 1886)"></s3>
+				<s3 page="0041" title="basicurvus Shuja&#8211;Uddin, 1973"></s3>
+				<s3 page="0041" title="[brevicornis (Haliday, 1833)]"></s3>
+				<s3 page="0041" title="centaureae (Haliday, 1833)"></s3>
+				<s3 page="0042" title="eutrichosiphi Starý, 1975"></s3>
+				<s3 page="0042" title="greenideae Starý & van Harten, 1982"></s3>
+				<s3 page="0043" title="indicus Subba Rao & Sharma, 1959"></s3>
+				<s3 page="0044" title="kashmirensis (Takada & Rishi, 1880)"></s3>
+				<s3 page="0044" title="kumaonensis Starý & Raychaudhuri, 1982"></s3>
+				<s3 page="0045" title="rubicola Shuja&#8211;Uddin, 1973"></s3>
+				<s3 page="0045" title="shillongensis Starý, 1978"></s3>
+				<s3 page="0045" title="[sinensis (Mackauer, 1962)]"></s3>
+			</s2>
+			<s2 page="0047" title="Trioxys s.str.">
+				<s3 page="0047" title="[auctus (Haliday, 1833)]"></s3>
+				<s3 page="0047" title="pallidus (Haliday, 1833)"></s3>
+				<s3 page="0047" title="rishii Starý & Bhagat, 1978"></s3>
+				<s3 page="0047" title="sp."></s3>
+			</s2>
+		</s1>
+		<s1 page="0048" title="Zoogeography"></s1>
+		<s1 page="0050" title="Host &#8212;parasitoid catalogue"></s1>
+		<s1 page="0056" title="Parasitoid index"></s1>
+		<s1 page="0058" title="Subject index"></s1>
+		<s1 page="0061" title="References"></s1>
+		<s1 page="0075" title="Figures"></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Material and methods"></s1>
+		<s1 page="0004" title="Key to the identification of anuran trypanosomes in India"></s1>
+		<s1 page="0004" title="General organisation"></s1>
+		<s1 page="0005" title="Description of species of !!Trypanosoma!!">
+			<s2 page="0005" title="1. !!Trypanosoma rotatorium!!"></s2>
+			<s2 page="0016" title="2. !!Trypanosoma loricatum!!"></s2>
+			<s2 page="0022" title="3. !!Trypanosoma karyozeukton!!"></s2>
+			<s2 page="0024" title="4. !!Trypanosoma chattoni!!"></s2>
+			<s2 page="0027" title="5. !!Trypanosoma inopinatum!!"></s2>
+			<s2 page="0029" title="6. !!Trypanosoma ranarum!!"></s2>
+			<s2 page="0031" title="7. !!Trypanosoma taprobanica!! sp. nov."></s2>
+			<s2 page="0032" title="8. !!Trypanosoma malabarica!! sp. nov."></s2>
+			<s2 page="0034" title="9. !!Trypanosoma systoma!! sp. nov."></s2>
+		</s1>
+		<s1 page="0035" title="Pathogenesis"></s1>
+		<s1 page="0036" title="Host&#8212;parasite relationship"></s1>
+		<s1 page="0037" title="Summary"></s1>
+		<s1 page="0038" title="Acknowledgement"></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Material and method"></s1>
+		<s1 page="0002" title="Observation"></s1>
+		<s1 page="0043" title="Host specificity and pathology"></s1>
+		<s1 page="0045" title="Acknowledgement"></s1>
+		<s1 page="0045" title="Summary"></s1>
+		<s1 page="0046" title="References"></s1>
+		<s1 page="0052" title="Plates"></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Material and methods"></s1>
+		<s1 page="0004" title="Key to the identification of anuran haemogregarines in India"></s1>
+		<s1 page="0004" title="General organisation"></s1>
+		<s1 page="0005" title="Systematic description of the species of haemogregarina">
+			<s2 page="0006" title="1. Haemogregarina berestneff"></s2>
+			<s2 page="0011" title="2. Haemogregarina magna"></s2>
+			<s2 page="0016" title="3. Haemogregarina nucleobisecans"></s2>
+			<s2 page="0021" title="4. Haemogregarina perinucleophilum"></s2>
+			<s2 page="0024" title="5. Haemogregarina maculatus sp. nov."></s2>
+			<s2 page="0027" title="6. Haemogregarina pattioni"></s2>
+			<s2 page="0032" title="7. Haemogregarina kaloulae sp. nov."></s2>
+			<s2 page="0035" title="8. Haemogregarina andamanensis sp. nov."></s2>
+			<s2 page="0039" title="9. Haemogregarina pulchra sp. nov."></s2>
+			<s2 page="0041" title="10. Haemogregarina systoma sp. nov."></s2>
+			<s2 page="0044" title="11. Haemogregarina sp."></s2>
+		</s1>
+		<s1 page="0044" title="Taxonomic problem of anuran haemogregarines"></s1>
+		<s1 page="0048" title="Summary"></s1>
+		<s1 page="0049" title="Acknowledgement"></s1>
+		<s1 page="0049" title="References"></s1>
+	</book>
+	<book bid="011">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Literature review"></s1>
+		<s1 page="0005" title="Systematic position and diagnosis"></s1>
+		<s1 page="0008" title="Habit and habitats"></s1>
+		<s1 page="0008" title="Distribution and population"></s1>
+		<s1 page="0027" title="Reproduction"></s1>
+		<s1 page="0054" title="Aestivation"></s1>
+		<s1 page="0071" title="Awakening"></s1>
+		<s1 page="0072" title="Growth"></s1>
+		<s1 page="0074" title="Economic status"></s1>
+		<s1 page="0093" title="Control"></s1>
+		<s1 page="0100" title="Discussion"></s1>
+		<s1 page="0129" title="Acknowledgements"></s1>
+		<s1 page="0129" title="References"></s1>
+	</book>
+	<book bid="012">
+		<s1 page="0001" title="I. Introduction"></s1>
+		<s1 page="0003" title="II. Historical review"></s1>
+		<s1 page="0007" title="III. Material and methods"></s1>
+		<s1 page="0009" title="IV. Systematic part">
+			<s2 page="0009" title="A. Order hymenostomatida delage herouard"></s2>
+			<s2 page="0009" title="Suborder pleuronematina faure&#8211;fremiet"></s2>
+			<s2 page="0009" title="Family (i) pleuronematidae kent"></s2>
+			<s2 page="0009" title="Genus (1) !!cristigera!! roux">
+				<s3 page="0009" title="1. !!C. susamai!! sp. nov."></s3>
+			</s2>
+			<s2 page="0012" title="B. Order thigmotrichida chatton & lwoff"></s2>
+			<s2 page="0012" title="Suborder rhynchodina chatton & lwoff"></s2>
+			<s2 page="0012" title="Family (ii) ancistrocomidae chatton & lwoff"></s2>
+			<s2 page="0012" title="Subfamily ancistrocominae chatton & lwoff"></s2>
+			<s2 page="0013" title="Genus (2) !!Ancistrocoma!! chatton & lwoff">
+				<s3 page="0013" title="2. !!A. pelseneeri!! chatton & lwoff"></s3>
+				<s3 page="0015" title="3. !!A. thorsoni!! fenchel"></s3>
+				<s3 page="0017" title="4. !!A. dissimilis!! Kozloff"></s3>
+			</s2>
+			<s2 page="0021" title="Subfamily hypocomidinae raabe"></s2>
+			<s2 page="0021" title="Genus (3) !!Raabella!! chatton & lwoff">
+				<s3 page="0021" title="5. !!R. helensis!! chatton & lwoff"></s3>
+			</s2>
+			<s2 page="0023" title="Suborder arhynchodina Corliss"></s2>
+			<s2 page="0023" title="Family (iii) hemispeiridae König"></s2>
+			<s2 page="0023" title="Subfamily ancistrinae Issel"></s2>
+			<s2 page="0023" title="Genus (4) !!Ancistrumina!! Raabe">
+				<s3 page="0024" title="6. !!A. obtusae!! sp. nov."></s3>
+				<s3 page="0026" title="7. !!A. barbata!! (Issel)"></s3>
+			</s2>
+			<s2 page="0030" title="Genus (5) !!Fenchelia!! Raabe">
+				<s3 page="0030" title="8. !!F. sagarrica!! sp. nov."></s3>
+				<s3 page="0032" title="9. !!F. kapili!! sp. nov."></s3>
+			</s2>
+			<s2 page="0035" title="Genus (6) !!Protophrya!! Kofoid">
+				<s3 page="0036" title="10. !!P. indica!! sp. nov."></s3>
+			</s2>
+			<s2 page="0039" title="Genus (7) !!Boveria!! stevens">
+				<s3 page="0040" title="11. !!B. teredinidi!! nelson"></s2>
+			</s2>
+			<s2 page="0044" title="C. Order peritrichida stein"></s2>
+			<s2 page="0044" title="Suborder sessilina Kahl"></s2>
+			<s2 page="0044" title="Family (iv) scyphidiidae Kahl"></s2>
+			<s2 page="0044" title="Genus (8) !!Scyphidia!! Dujardin">
+				<s3 page="0044" title="12. !!S. (Gerda) ubiquita!! Hirshfield"></s3>
+				<s3 page="0048" title="13. !!S. (Gerda) bengalensis!! sp. nov."></s3>
+			</s2>
+			<s2 page="0051" title="Suborder mobilina Kahl"></s2>
+			<s2 page="0051" title="Family (v) urceolariidae Dujardin"></s2>
+			<s2 page="0051" title="Genus (9) !!Trichodina!! Ehrenberg">
+				<s3 page="0051" title="14. !!T. gangetica!! sp. nov."></s3>
+			</s2>
+		</s1>
+		<s1 page="0055" title="V. Discussion"></s1>
+		<s1 page="0060" title="VI. Summary"></s1>
+		<s1 page="0061" title="VII. Acknowledgement"></s1>
+		<s1 page="0062" title="VIII. References"></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0001" title="I. Review of species of hydra reported from various parts of the world"></s1>
+		<s1 page="0008" title="II. Understanding the extent of morphological differences"></s1>
+		<s1 page="0045" title="III. Understanding the ecotypic differences at cell level"></s1>
+		<s1 page="0069" title="IV. Understanding the behavioural differences"></s1>
+		<s1 page="0075" title="V. Understanding the physiological responses"></s1>
+		<s1 page="0109" title="VI. Some theoretical considerations about species problem in hydra"></s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0003" title="Geographical position of West Bengal"></s1>
+		<s1 page="0004" title="Treatment"></s1>
+		<s1 page="0005" title="Material and method"></s1>
+		<s1 page="0006" title="Measurements"></s1>
+		<s1 page="0006" title="Terminology of principle morphology"></s1>
+		<s1 page="0012" title="Bionomics">
+			<s2 page="0012" title="A. Life Histories">
+				<s3 page="0013" title="(a) Pre-copulation period"></s3>
+				<s3 page="0013" title="(b) Copulation"></s3>
+				<s3 page="0014" title="(c) Oviposition"></s3>
+				<s3 page="0017" title="(d) Fecundity"></s3>
+				<s3 page="0018" title="(e) Incubation and hatching"></s3>
+				<s3 page="0019" title="(f) Structure of egg-pods and eggs"></s3>
+				<s3 page="0021" title="(g) Moulting"></s3>
+				<s3 page="0022" title="(h) Nymphs"></s3>
+			</s2>
+			<s2 page="0023" title="B. Breeding cycles"></s3>
+			<s2 page="0023" title="C. Fertility, mortality and longevity"></s3>
+			<s2 page="0025" title="D. Seasonal occurrence, abundance etc."></s3>
+			<s2 page="0028" title="E. Food and habitat"></s3>
+			<s2 page="0030" title="F. Economic importance of grasshoppers"></s3>
+		</s1>
+		<s1 page="0032" title="Systematic account"></s1>
+		<s1 page="0032" title="Family acrididae"></s1>
+		<s1 page="0033" title="Key to subfamilies"></s1>
+		<s1 page="0034" title="I. Subfamily acridinae">
+			<s2 page="0035" title="Gen. (1) !!Acrida!! Linne">
+				<s3 page="0036" title="1. !!exaltata!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0038" title="Gen. (2) !!Phlaeoba!! Stal">
+				<s3 page="0039" title="2. !!antennata!! (Br.)"></s3>
+				<s3 page="0041" title="3. !!panteli!! (Bol.)"></s3>
+			</s2>
+			<s2 page="0044" title="Gen. (3) !!Ceracris!! Walker">
+				<s3 page="0044" title="4. !!nigricornis laeta!! (Bol.)"></s3>
+			</s2>
+			<s2 page="0046" title="Gen. (4) !!Holopercna!! Karsch">
+				<s3 page="0047" title="5. !!darjeelingensis!! (Bol.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0050" title="Subfamily Gomphocerinae">
+			<s2 page="0050" title="Gen. (5) !!Dnopherula!! Karsch"></s2>
+			<s2 page="0051" title="Sub. gen. !!Aulacobothrus!!">
+				<s3 page="0051" title="6. !!luteipes!! (Walk.)"></s3>
+				<s3 page="0053" title="7. !!physopoda!! (Navas)"></s3>
+				<s3 page="0053" title="8. !!rubripes!! (Navas)"></s3>
+			</s2>
+			<s2 page="0054" title="Gen. (6) !!Leva!! Bolivar">
+				<s3 page="0055" title="9. !!indica!! (Bol.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0057" title="Subfamily oedipodinae">
+			<s2 page="0059" title="Gen. (7) !!Aiolopus!! Fieber">
+				<s3 page="0060" title="10. !!thalassinus tamulus!! (Fabr.)"></s3>
+			</s2>
+			<s2 page="0061" title="Gen. (8) !!Dittopternis!! Saussure">
+				<s3 page="0062" title="11. !!venusta!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0064" title="Gen. (9) !!Heteropternis!! Stal">
+				<s3 page="0065" title="12. !!respondens!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0067" title="Gen. (10) !!Oedaleus!! Fieber">
+				<s3 page="0068" title="13. !!abruptus!! (Th.)"></s3>
+			</s2>
+			<s2 page="0070" title="Gen. (11) !!Gastrimargus!! Saussure">
+				<s3 page="0070" title="14. !!africanus africanus!! (Sauss.)"></s3>
+			</s2>
+			<s2 page="0072" title="Gen. (12) !!Acrotylus!! Fieber">
+				<s3 page="0073" title="15. !!humbertianus!! (Sauss.)"></s3>
+				<s3 page="0075" title="16. !!insubricus inficita!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0076" title="Gen. (13) !!Meristopteryx!! Saussure">
+				<s3 page="0077" title="17. !!rotundata!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0077" title="Gen. (14) !!Trilophidia!! Stal">
+				<s3 page="0078" title="18. !!annulata!! (Th.)"></s3>
+			</s2>
+			<s2 page="0080" title="Gen. (15) !!Chloebora!! Saussure">
+				<s3 page="0080" title="19. !!grossa!! (Sauss.)"></s3>
+			</s2>
+			<s2 page="0081" title="Gen. (16) !!Pternoscirta!! Saussure">
+				<s3 page="0082" title="20. !!bimaculata!! (Th.)"></s3>
+				<s3 page="0084" title="21. !!cinctifemur!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0085" title="Gen. (17) !!Sphingonotus!! Fieber">
+				<s3 page="0085" title="22. !!longipennis!! Sauss."></s3>
+			</s2>
+			<s2 page="0088" title="Gen. (18) !!Chondronotulus!! Uvarov">
+				<s3 page="0088" title="23. !!bengalensis!! (Sauss.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0090" title="IV. Subfamily hemiacridinae">
+			<s2 page="0090" title="Gen. (19) !!Gesonula!! Uvarov">
+				<s3 page="0091" title="24. !!punctifrons!! (St.)"></s3>
+			</s2>
+			<s2 page="0093" title="Gen. (20) !!Spathosternum!! Krauss">
+				<s3 page="0094" title="25. !!prasiniferum prasiniferum!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0096" title="Gen. (21) !!Leptacris!! Walker">
+				<s3 page="0096" title="26. !!vittata!! (Fabr.)"></s3>
+			</s2>
+			<s2 page="0098" title="Gen. (22) !!Hieroglyphus!! Krauss">
+				<s3 page="0099" title="27. !!banian!! (Fabr.)"></s3>
+				<s3 page="0101" title="28. !!nigrorepletus!! (Bol.)"></s3>
+				<s3 page="0103" tiele="29. !!oryzivorus!!" Carl></s3>
+			</s2>
+			<s2 page="0104" title="Gen. (23) !!Parahieroglyphus!! Carl">
+				<s3 page="0104" title="30. !!bilineatus!! (Bol.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0105" title="V. Subfamily oxyinae">
+			<s2 page="0105" title="Gen. (24) !!Oxya!! Serville">
+				<s3 page="0107" title="31. !!velox!! (Febr.)"></s3>
+				<s3 page="0109" title="32. !!fuscovittata!! (Mars.)"></s3>
+				<s3 page="0110" title="33. !!hyla hyla!! (Serv.)"></s3>
+				<s3 page="0113" title="34. !!japonica japonica!! (Th.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0114" title="VI. Subfamily coptacridinae">
+			<s2 page="0115" title="Gen. (25) !!Eucoptacra!! Bolivar">
+				<s3 page="0115" title="35. !!praemorsa!! (St.)"></s3>
+			</s2>
+			<s2 page="0117" title="Gen. (26) !!Epistaurus!! Bolivar">
+				<s3 page="0118" title="36. !!sinetyi!! (Bol.)"></s3>
+			</s2>
+			<s2 page="0120" title="Gen. (27) !!Circocephalus!! Willemse">
+				<s3 page="0121" title="37. !!indica!! Bhowmik and Halder"></s3>
+			</s2>
+		</s1>
+		<s1 page="0123" title="VII. Subfamily Tropidopolinae">
+			<s2 page="0123" title="Gen. (28) !!Tristria!! Stal">
+				<s3 page="0124" title="38. !!pulvinata!! (Uv.)"></s3>
+			</s2>
+			<s2 page="0126" title="Gen. (29) !!Oxyrrhepes!! Stal">
+				<s3 page="0126" title="39. !!obtusa!! (de Haan)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0128" title="VIII. Subfamily Cyrtacanthacridinae">
+			<s2 page="0128" title="Gen. (30) !!Pachyacris!! Uvarov">
+				<s3 page="0129" title="40. !!vinosa!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0131" title="Gen. (31) !!Patanga!! Uvarov">
+				<s3 page="0131" title="41. !!(Patanga) japonica!! (Bol.)"></s3>
+			</s2>
+			<s2 page="0133" title="Gen. (32) !!Cyrtacanthacris!! Walker">
+				<s3 page="0133" title="42. !!tartarica!! (Linn.)"></s3>
+			</s2>
+			<s2 page="0135" title="Gen. (33) !!Chondracris!! Uvarov">
+				<s3 page="0135" title="43. !!rosea!! (de Geer)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0137" title="IX. Subfamily Calliptaminae">
+			<s2 page="0137" title="Gen. (34) !!Peripolus!! Martinez">
+				<s3 page="0138" title="44. !!pedarius!! (St.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0140" title="X. Subfamily Catantopinae">
+			<s2 page="0141" title="Gen. (35) !!Mesambria!! Stal">
+				<s3 page="0141" title="45. !!dubia!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0144" title="Gen. (36) !!Paraconophyma!! Uvarov">
+				<s3 page="0145" title="46. !!scabra!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0146" title="Gen. (37) !!Gerenia!! Stal">
+				<s3 page="0147" title="47. !!bengalensis!! Bhowmik and Halder"></s3>
+			</s2>
+			<s2 page="0148" title="Gen. (38) !!Catantops!! Schaum">
+				<s3 page="0149" title="48. !!innotabilis!! (Walk.)"></s3>
+				<s3 page="0151" title="49. !!erubescens!! (Walk.)"></s3>
+			</s2>
+			<s2 page="0152" title="Gen. (39) !!Xenocatantops!! Dirsh and Uvarov">
+				<s3 page="0152" title="50. !!humilis!! (Serv.)"></s3>
+			</s2>
+			<s2 page="0154" title="Gen. (40) !!Stenocatantops!! Dirsh and Uvarov">
+				<s3 page="0154" title="51. !!splendens!! (Th.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0157" title="XI. Subfamily Eyprepocnemidinae">
+			<s2 page="0157" title="Gen. (41) !!Choroedocus!! Bolivar">
+				<s3 page="0158" title="52. !!robustus!! (Serv.)"></s3>
+			</s2>
+			<s2 page="0161" title="Gen. (42) !!Eupreponotus!! Uvarov">
+				<s3 page="0161" title="53. !!inflatus!! Uv."></s3>
+			</s2>
+			<s2 page="0164" title="Gen. (43) !!Heteracris!! Walker">
+				<s3 page="0164" title="54. !!pulcher!! (Bol.)"></s3>
+			</s2>
+			<s2 page="0166" title="Gen. (44) !!Eyprepocnemis!! Fieber">
+				<s3 page="0166" title="55. !!alacris alacris!! (Serv.)"></s3>
+			</s2>
+			<s2 page="0168" title="Gen. (45) !!Tylotropidius!! Stal">
+				<s3 page="0168" title="56. !!varicornis!! (Walk.)"></s3>
+			</s2>
+		</s1>
+		<s1 page="0170" title="Acknowledgements"></s1>
+		<s1 page="0170" title="References">
+			<s2 page="0170" title="(a) Other than systematics"></s2>
+			<s2 page="0174" title="(b) On systematics"></s2>
+		</s1>
+		<s1 page="0178" title="Appendix I."></s1>
+		<s1 page="0181" title="Plates"></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Material and methods"></s1>
+		<s1 page="0005" title="Characters of taxonomic significance"></s1>
+		<s1 page="0010" title="Key to the species described in the present work"></s1>
+		<s1 page="0014" title="Systematics"></s1>
+		<s1 page="0077" title="Discussion"></s1>
+		<s1 page="0079" title="Summary"></s1>
+		<s1 page="0080" title="References"></s1>
+		<s1 page="0086" title="Plates"></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0000c" title="Systematic contents"></s1>
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0005" title="Abbreviations"></s1>
+		<s1 page="0006" title="Systematic account"></s1>
+		<s1 page="0006" title="Classified list of aphids of Himachal pradesh"></s1>
+		<s1 page="0016" title="Key to the subframilies of the family aphididae">
+			<s2 page="0018" title="Subfamily anoeciinae"></s2>
+			<s2 page="0021" title="Aphidinae"></s2>
+			<s2 page="0135" title="Callipterinae"></s2>
+			<s2 page="0151" title="Greenideinae"></s2>
+			<s2 page="0156" title="Hormaphidinae"></s2>
+			<s2 page="0160" title="Lachninae"></s2>
+			<s2 page="0171" title="Pemphiginae"></s2>
+		</s1>
+		<s1 page="0181" title="Aphids not examined"></s1>
+		<s1 page="0185" title="Host plant&#8212;Aphid catalogue"></s1>
+		<s1 page="0209" title="Summary and conclusions"></s1>
+		<s1 page="0212" title="References"></s1>
+		<s1 page="0229" title="Index to genera, species and subspecies"></s1>
+		<s1 page="0235" title="Illustrations"></s1>
+		<s1 page="0279" title="Errata/Addenda"></s1>
+	</book>
+	<book bid="017">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0011" title="Materials and methods"></s1>
+		<s1 page="0014" title="General organisation"></s1>
+		<s1 page="0022" title="Observations"></s1>
+		<s1 page="0041" title="Critical remarks on the inclusion of the genera in the family schizopyrenidae"></s1>
+		<s1 page="0081" title="Summary"></s1>
+		<s1 page="0083" title="Acknowledgements"></s1>
+		<s1 page="0084" title="References"></s1>
+		<s1 page="0101" title="Plates"></s1>
+	</book>
+</tcm>

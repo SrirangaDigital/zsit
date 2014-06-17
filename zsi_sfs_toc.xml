@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sfs SYSTEM "fbi_sysindex.dtd">
+
+<sfs>
+	<book bid="001">
+		<s1 page="0001" title="General Information, with Lists of Faunistic Surveys Conducted and Collecting Localities in Orissa State, India" author="Tikader, B. K.;Chhotani, O. B."></s1>
+		<s1 page="0025" title="Protozoa (Freeliving)" author="Das, A. K.;Nair, K. N."></s1>
+		<s1 page="0053" title="Protozoa (Parasitic)" author="Nandi, N. C.;Mandal, A. K."></s1>
+		<s1 page="0065" title="Porifera" author="Soota, T. D."></s1>
+		<s1 page="0069" title="Polychaeta" author="Misra, A.;Chakraborty, R. K.;Soota, T. D."></s1>
+		<s1 page="0091" title="Tetrigidae : Orthoptera : Insecta (Grouse Locusts)" author="Shishodia, M. S."></s1>
+		<s1 page="0103" title="Insecta : Isoptera (A Check-List)" author="Bose, G.;Das, B. C."></s1>
+		<s1 page="0113" title="Insecta : Orthoptera : Grylloidea and Tridactyloidea" author="Shishodia, M. S.;Tandon, S. K."></s1>
+		<s1 page="0129" title="Insecta : Ephemeroptera" author="Srivastava, V. D.;Ray, K. K."></s1>
+		<s1 page="0135" title="Insecta : Odonata" author="Srivastava, V. D.;Das, S."></s1>
+		<s1 page="0161" title="Insecta : Homoptera : Coccoidea" author="Varshney, R. K.;Moharana, S."></s1>
+		<s1 page="0183" title="Insecta : Neuroptera : Planipennia : Myrmeleontidae&#8212;A Check-List" author="Ghosh, S. K."></s1>
+		<s1 page="0193" title="Insecta : Lepidoptera : Rhopalocera : Nymphalidae" author="Nandi, D. N."></s1>
+		<s1 page="0205" title="Insecta : Lepidoptera : Rhopalocera : Papilionidae : Papilioninae&#8212;A Checklist" author="Mandal, D. K.;Nandi, D. N."></s1>
+		<s1 page="0213" title="Insecta : Coleoptera : Chrysomelidae" author="Basu, C. R.;Halder, S. K."></s1>
+		<s1 page="0241" title="Insecta : Diptera" author="Parui, P.;Datta, M."></s1>
+		<s1 page="0257" title="Araneae-spiders (Families : Araneidae, Gnaphosidae and Salticidae)" author="Biswas, Bijan"></s1>
+		<s1 page="0273" title="Acarina : Metastigmata (Ticks)" author="Sanyal, A. K.;De, S. K.;Rao, A. T.;Acharjyo, L. N."></s1>
+		<s1 page="0289" title="Acari (Mites)" author="Gupta, S. K."></s1>
+		<s1 page="0305" title="Stomatopoda : Crustacea" author="Ghosh, H. C."></s1>
+		<s1 page="0319" title="Gastrotricha (Freshwater)" author="Sharma, B. K."></s1>
+		<s1 page="0323" title="Rotifera : Eurotatoria : Monogononta (Freshwater)" author="Sharma, B. K."></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0001" title="Intertidal Meiofauna" author="Rao, G. Chandrasekhara"></s1>
+		<s1 page="0079" title="Oligochaeta&#8212;A Checklist" author="Julka, J. M.;Senapati, B. K.;Paliwal, R."></s1>
+		<s1 page="0093" title="Insecta : Orthoptera : Acaridoidea" author="Tandon, S. K.;Shishodia, M. S."></s1>
+		<s1 page="0147" title="Insecta : Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0171" title="Insecta : Dictyoptera : Blattaria" author="Mukherjee, K. P."></s1>
+		<s1 page="0181" title="Insecta : Hemiptera" author="Ghosh, L. K.;Biswas, B.;Chakraborty, S. P.;Sen, G. C."></s1>
+		<s1 page="0225" title="Digenetic Trematodes of Vertebrates" author="Hafeezullah, M."></s1>
+		<s1 page="0253" title="Mollusca (Terrestrial)" author="Rao, N. V. Subba;Thakur, D. K.;Mitra, S. C."></s1>
+		<s1 page="0277" title="Mollusca (Freshwater)" author="Rao, N. V. Subba;Mitra, S. C.;Manna, R. N."></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0001" title="MARINE MOLLUSCS" author="Subba Rao, N. V.;Surya Rao, K. V.;Maitra, S."></s1>
+		<s1 page="0177" title="INSECTA : ORTHOPTERA : ACRIDIDAE" author="Bhowmik, H. K."></s1>
+		<s1 page="0191" title="INSECTA : HOMOPTERA : CICADELLIDAE" author="Ghosh, L. K.;Ghosh M."></s1>
+		<s1 page="0209" title="INSECTA : LEPIDOPTERA : HETEROCERA : NOCTUIDAE" author="Mandal, D. K.;Maulik D. R."></s1>
+		<s1 page="0227" title="INSECTA : LEPIDOPTERA : HETEROCERA : SPHINGIDAE AND GEOMETRIDAE" author="Mandal, D. K.;Maulik D. R."></s1>
+		<s1 page="0235" title="INSECTA : LEPIDOPTERA : RHOPALOCERA : NYMPHALIDAE : DANAINAE" author="Mandal, D. K.;Maulik D. R."></s1>
+		<s1 page="0239" title="INSECTA : COLEOPTERA : CICINDELIDAE" author="Saha, S. K.;Biswas S;Halder S. K."></s1>
+		<s1 page="0243" title="INSECTA : COLEOPTERA : SCARABAEIDAE" author="Biswas S;Chatterjee S. K."></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="FRESHWATER FISHES" author="Dutta, A. K.;Kunda, D. K.;Karmakar, A. K."></s1>
+		<s1 page="0039" title="AMPHIBIA" author="Sarkar, A. K."></s1>
+		<s1 page="0051" title="REPTILIA" author="Sanyal, D. P."></s1>
+		<s1 page="0075" title="BIRDS" author="Mazumdar, M.;Dasgupta, J. M."></s1>
+		<s1 page="0143" title="MAMMALIA" author="Das, P. K.;Lal, J. P.;Agrawal, V. C."></s1>
+		<s1 page="0181" title="INSECTA : LEPIDOPTERA : SATYRIDAE" author="Nandi, D. N."></s1>
+		<s1 page="0185" title="INSECTA : COLEOPTERA : CERAMBYCIDAE" author="Basak, P. K.;Biswas, S."></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0001" title="FAUNA OF LAKSHADWEEP : AN OVERVIEW" author="Ghosh, A. K."></s1>
+		<s1 page="0005" title="LAKSHADWEEP : GENERAL FEATURES" author="Rao G., Chandrasekhara"></s1>
+		<s1 page="0041" title="MEIOFAUNA" author="Rao G., Chandrasekhara"></s1>
+		<s1 page="0137" title="ANNELIDA : POLYCHAETA" author="Misra, A.;Chakraborty, R. K."></s1>
+		<s1 page="0167" title="SIPUNCULA" author="Haldar, Badri Prasad"></s1>
+		<s1 page="0185" title="ECHIURA" author="Haldar, B. P.;Gupta A. K., Datta"></s1>
+		<s1 page="0199" title="CRUSTACEA : STOMATOPODA" author="Ghosh, H. C."></s1>
+		<s1 page="0213" title="INSECTA : ORTHOPTERA" author="Hazra, A. K., Dey, A.;Tandon, S. K."></s1>
+		<s1 page="0217" title="INSECTA : LEPIDOPTERA" author="Mandal, D. K."></s1>
+		<s1 page="0257" title="INSECTA : ORTHOPTERA (ADDENDUM)" author="Bhowmik, H. K.;Sur, S."></s1>
+		<s1 page="0259" title="INSECTA : DERMAPTERA" author="Srivastava, G. K."></s1>
+		<s1 page="0263" title="INSECTA : DICTYOPTERA" author="Mukherjee, K. P.;Hazra, A. K."></s1>
+		<s1 page="0265" title="INSECTA : DIPTERA" author="Parui, P.;Datta, M."></s1>
+		<s1 page="0267" title="INSECTA : MANTODEA" author="Mukherjee, T. K.;Hazra, A. K."></s1>
+		<s1 page="0269" title="INSECTA : COLEOPTERA" author="Biswas, S.;Mukhopadhyay, P."></s1>
+		<s1 page="0273" title="MOLLUSCA" author="Rao K. V., Surya;Rao N. V., Subba"></s1>
+		<s1 page="0363" title="ECHINODERMATA : ASTEROIDEA, OPHIUROIDEA AND ECHINOIDEA" author="Sastry, D. R. K."></s1>
+		<s1 page="0399" title="ECHINODERMATA : HOLOTHURIOIDEA" author="Mukhopadhyay, S. K."></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0001" title="THE STATE OF WEST BENGAL : AN OVERVIEW" author="Ghosh, A. K."></s1>
+		<s1 page="0027" title="MAMMALIA" author="Agrawal, V. C.;Das, P. K.;Chakraborty, S.;Ghose, R. K.;Mandal, A. K.;Chakraborty, T. K.;Poddar, A. K.;Lal, J. P.;Bhattacharyya, T. P.;Ghosh, M. K."></s1>
+		<s1 page="0171" title="AVES" author="Majumdar, N.;Roy, C. S.;Ghosal, D. K.;Dasgupta, J. M.;Basuroy, S.;Datta, B. K."></s1>
+		<s1 page="0419" title="WILDLIFE AND ITS CONSERVATION IN WEST BENGAL" author="Saha, S. S.;Chattopadhyay, S.;Mukherjee, R. P.;Alfred, J. R. B."></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0001" title="REPTILIA" author="Ahmad, S.;Dasgupta, G."></s1>
+		<s1 page="0067" title="AMPHIBIA" author="Sarkar, A. K.;Biswas, M. K.;Ray, S."></s1>
+		<s1 page="0101" title="FRESHWATER FISH" author="Sen, T. K."></s1>
+		<s1 page="0243" title="MARINE AND ESTUARINE FISHES" author="Talwar, P. K.;Mukherjee, P.;Saha, D.;Paul, S. N.;Kar, S."></s1>
+		<s1 page="0343" title="HEMICHORDATA" author="Singh, Bhrigu Nath;Coudhury, Amalesh"></s1>
+		<s1 page="0349" title="ARCHAEOZOOLOGICAL REMAINS FROM WEST BENGAL, INDIA" author="Ghosh, M.;Saha, K. D.;Saha, U.;Roy, S.;Talukder, B."></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0001" title="SCORPIONS : ARACHNIDA" author="Ahmed, S."></s1>
+		<s1 page="0017" title="IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0061" title="ARACHNIDA : PLANT MITES (ACARI)" author="Gupta, S. K."></s1>
+		<s1 page="0213" title="ORIBATID MITES (ACARI)" author="Sanyal, A. K."></s1>
+		<s1 page="0357" title="ARANEAE : SPIDERS" author="Biswas, Bijan;Biswas, Kajal"></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0001" title="INSECTA : THYSANURA" author="Hazra, A. K."></s1>
+		<s1 page="0019" title="INSECTA : EPHEMEROPTERA" author="Srivastava, V. D."></s1>
+		<s1 page="0051" title="INSECTA : ODONATA" author="Srivastava, V. D."></s1>
+		<s1 page="0169" title="INSECTA : PLECOPTERA" author="Das, B. C.;Chatterjee, A.;Dutta, A. L."></s1>
+		<s1 page="0179" title="INSECTA : ORTHOPTERA : TETRIGOIDEA" author="Shishodia, M. S."></s1>
+		<s1 page="0227" title="INSECTA : ORTHOPTERA : GRYLLOIDEA" author="Shishodia, M. S.;Tandon, S. K."></s1>
+		<s1 page="0287" title="INSECTA : ORTHOPTERA : ACRIDOIDEA" author="Hazra, A. K.;Tandon, S. K.;Shishodia, M. S.;Dey, A.;Mondal, S. K."></s1>
+		<s1 page="0355" title="INSECTA : ORTHOPTERA : TETTIGONIDAE" author="Barman, R. S."></s1>
+		<s1 page="0369" title="INSECTA : DERMAPTERA" author="Srivastava, G. K."></s1>
+		<s1 page="0461" title="INSECTA : DICTYOPTERA : BLATTARIA" author="Mukherjee, K. P."></s1>
+		<s1 page="0475" title="INSECTA : MANTODEA" author="Mukherjee, T. K.;Hazra, A. K."></s1>
+		<s1 page="0511" title="INSECTA : ISOPTERA" author="Maiti, P. K.;Saha, Nivedita"></s1>
+		<s1 page="0525" title="INSECTA : PSOCOPTERA" author="Ray, K. K.;Srivastava, V. D."></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="INSECTA : HEMIPTERA : HOMOPTERA : CERCOPIDAE" author="Biswas, B.;Ghosh, M.;Basu, R. C."></s1>
+		<s1 page="0029" title="INSECTA : HEMIPTERA : CICADELLIDAE" author="Ghosh, L. K.;Ghosh, M."></s1>
+		<s1 page="0069" title="INSECTA : HEMIPTERA : HOMOPTERA : MEMBRACIDAE" author="Biswas, S.; Basu, R. C.;Ghosh, L. K."></s1>
+		<s1 page="0091" title="INSECTA : HEMIPTERA : PSYLLIDAE" author="Ghosh, L. K."></s1>
+		<s1 page="0113" title="INSECTA : HOMOPTERA : ALEYRODIDAE" author="Biswas, B.;Ghosh, L. K."></s1>
+		<s1 page="0125" title="INSECTA : HEMIPTERA : APHIDIDAE" author="Ghosh, L. K.;Basu, R. C."></s1>
+		<s1 page="0319" title="INSECTA : HOMOPTERA : COCCOIDEA" author="Varshney, R. K."></s1>
+		<s1 page="0369" title="INSECTA : HEMIPTERA : REDUVIIDAE" author="Biswas, B.;Sen, G. C.;Ghosh, L. K."></s1>
+		<s1 page="0413" title="INSECTA : HEMIPTERA : LYGAEIDAE" author="Chakraborty, S. P.;Ghosh, L. K."></s1>
+		<s1 page="0433" title="INSECTA : HEMIPTERA : HETEROPTERA : PYRRHOCORIDAE" author="Sen, G. C.;Biswas, B.;Basu, R. C."></s1>
+		<s1 page="0449" title="INSECTA : HEMIPTERA : COREOIDEA" author="Basu, R. C.;Mitra, S. C."></s1>
+		<s1 page="0469" title="INSECTA : HEMIPTERA : PENTATOMOIDEA - I" author="Chakraborty, S. P.;Ghosh, L. K.;Basu, R. C."></s1>
+		<s1 page="0495" title="INSECTA : HEMIPTERA : PENTATOMOIDEA - II" author="Ghosh, M.;Dutta, B.;Ghosh, L. K."></s1>
+		<s1 page="0511" title="INSECTA : HEMIPTERA : MESOVELIIDAE : HYDROMETRIDAE : VELIIDAE &amp; GERRIDAE" author="Bal, Animesh;Basu, R. C."></s1>
+		<s1 page="0535" title="INSECTA : HEMIPTERA : BELOSTOMATIDAE : NEPIDAE : NOTONECTIDAE AND PLEIDAE" author="Bal, Animesh;Basu, R. C."></s1>
+	</book>
+	<book bid="011">
+		<s1 page="0001" title="INSECTA : COLEOPTERA : ADEPHAGA : FAM. RHYSODIDAE, PAUSSIDAE &amp; CICINDELIDAE" author="Saha, S. K.;Halder, S. K.;Biswas, S."></s1>
+		<s1 page="0053" title="INSECTA : COLEOPTERA : ADEPHAGA : CARABIDAE : HARPALINI" author="Saha, S. K."></s1>
+		<s1 page="0077" title="INSECTA : COLEOPTERA : ADEPHAGA FAM : DYTISCIDAE" author="Biswas, S.;Mukhopadhyay, P.;Saha, S. K."></s1>
+		<s1 page="0121" title="INSECTA : COLEOPTERA : ADEPHAGA : FAMILY GYRINIDAE &amp; HALIPLIDAE" author="Biswas, S.;Mukhopadhyay, P.;Saha, S. K."></s1>
+		<s1 page="0143" title="INSECTA : COLEOPTERA : HYDROPHILIDAE" author="Biswas, B.;Mukhopdhyay"></s1>
+		<s1 page="0169" title="INSECTA : COLEOPTERA : HISTERIDAE" author="Chakraborty, S. K.;Biswas, S."></s1>
+		<s1 page="0201" title="INSECTA : COLEOPTERA : STAPHYLINIDAE" author="Biswas, D. N.;Biswas, S."></s1>
+		<s1 page="0363" title="COLEOPTERA : SCARABAEIDAE : CETONIINAE : DYNASTINAE : RUTELINAE" author="Chatterjee, S. K.;Biswas, S."></s1>
+	</book>
+	<book bid="012">
+		<s1 page="0449" title="COLEOPTERA : COCCINELLIDAE" author="Chakraborty, S. K.;Bhowmik, A. R.;Biswas, S."></s1>
+		<s1 page="0495" title="INSECTA : COLEOPTERA : FAMILY MELOIDAE" author="Saha, G. N.;Das, B. N."></s1>
+		<s1 page="0509" title="INSECTA : COLEOPTERA : TENEBRIONIDAE" author="Saha, G. N.;Das, B. N."></s1>
+		<s1 page="0559" title="INSECTA : COLEOPTERA : CHRYSOMELIDAE" author="Basu, C. R."></s1>
+		<s1 page="0775" title="INSECTA : COLEOPTERA : SCOLYTIDAE" author="Saha, Nivedita;Maiti, P. K."></s1>
+	</book>
+	<book bid="013">
+		<s1 page="0001" title="INSECTA : DIPTERA" author="Dutta, M.;Parui, P.;Mukherjee, M."></s1>
+		<s1 page="0077" title="INSECTA : DIPTERA : ASILIDAE" author="Joseph, A. N. T.;Parui, P."></s1>
+		<s1 page="0127" title="INSECTA : DIPTERA : SIMULIIDAE" author="Datta, M."></s1>
+		<s1 page="0163" title="INSECTA : DIPTERA : CHIRONOMIDAE" author="Chaudhuri, P. K.;Chattopadhyay, Sailesh"></s1>
+		<s1 page="0225" title="INSECTA : LEPIDOPTERA : ZYGAENIDAE" author="Bhattacharya, D. P."></s1>
+		<s1 page="0247" title="INSECTA : LEPIDOPTERA : ARCTIIDAE" author="Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0275" title="INSECTA : LEPIDOPTERA : HESPERIIDAE" author="Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0319" title="INSECTA : PYRALIDAE" author="Bhattacharya, D. P."></s1>
+		<s1 page="0409" title="INSECTA : LEPIDOPTERA : SATURNIIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0429" title="INSECTA : LEPIDOPTERA : LYCAENIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0491" title="INSECTA : LEPIDOPTERA : HETEROCERA : GEOMETRIDAE" author="Mandal, D. K.;Ghosh, S. K."></s1>
+		<s1 page="0533" title="INSECTA : LEPIDOPTERA : AMATHUSIIDAE : ACRAEIDAE : NYMPHALIDAE : RIODINIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0613" title="INSECTA : LEPIDOPTERA : HETEROCERA : SPHINGIDAE, LASIOCAMPIDAE, LYMANTRIIDAE &amp; RATARDIDAE" author="Mandal, D. K.;Maulik, D. R."></s1>
+		<s1 page="0689" title="INSECTA : LEPIDOPTERA : CTENUCHIDAE &amp; HYPSIDAE" author="Ghosh, S. K.;Chaudhury, Mridula"></s1>
+		<s1 page="0705" title="INSECTA : LEPIDOPTERA : PIERIDAE" author="Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0729" title="INSECTA : SATYRIDAE" author="Bhattacharya, D. P."></s1>
+		<s1 page="0755" title="INSECTA : LEPIDOPTERA : RHOPALOCERA : PAPILIONIDAE &amp; DANAINENYMPHALIDAE" author="Mandal, D. K.;Maulik, D. R."></s1>
+	</book>
+	<book bid="014">
+		<s1 page="0001" title="1. Insecta : Trichoptera" author="Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0027" title="2. Insecta : Thysanoptera" author="Sen, S.;Gupta, C. K. Sen;Pramanik, N. K."></s1>
+		<s1 page="0111" title="3. Insecta : Neuroptera" author="Ghosh, S. K."></s1>
+		<s1 page="0149" title="4. Insecta : Hymenoptera : Vespidae" author="Jonathan, J. K.;Roy, S. B.;Kundu, B. G."></s1>
+		<s1 page="0185" title="5. Insecta : Hymenoptera : Scoliidae" author="Jonathan, J. K.;Gupta, S. K."></s1>
+		<s1 page="0211" title="6. Insecta : Hymenoptera : Formicidae" author="Tiwari, R. N.;Kundu, B. G.;Roychowdhury, S.;Ghosh, S. N."></s1>
+		<s1 page="0295" title="7. Insecta : Hymenoptera : Ichneumonidae" author="Jonathan, J. K."></s1>
+		<s1 page="0417" title="8. Insecta : Hymenoptera : Braconidae" author="Ray, K. K."></s1>
+		<s1 page="0427" title="9. Insecta : Anoplura" author="Adhikary, C. C.;Ghosh, A. K."></s1>
+	</book>
+	<book bid="015">
+		<s1 page="0001" title="LAND AND FRESHWATER MOLLUSCS - PART I" author="Mitra, S. C.;Dey, A."></s1>
+		<s1 page="0053" title="LAND AND FRESHWATER MOLLUSCS - PART II" author="Thakur, D. K.;Mitra, S. C.;Maitra, S."></s1>
+		<s1 page="0129" title="ESTUARINE AND MARINE MOLLUSCS" author="Rao, N. V. Subba;Dey, A.;Barua, S."></s1>
+	</book>
+	<book bid="016">
+		<s1 page="0001" title="1. Echiura and Sipuncula" author="Haldar, B. P."></s1>
+		<s1 page="0017" title="2. Annelida : Oligochaeta : Earthworms" author="Halder, K. R."></s1>
+		<s1 page="0095" title="3. Freshwater Oligochaetes" author="Mukhopadhyay, M. K."></s1>
+		<s1 page="0125" title="4. Polychaete" author="Mishra, A."></s1>
+		<s1 page="0227" title="5. Annelida : Hirudinea" author="Ghosh, G. c."></s1>
+		<s1 page="0251" title="6. The Freshwater Cladocera" author="Venkataraman, K."></s1>
+		<s1 page="0285" title="7. Crustacea : Copepoda : Calanoida and Cyclopoida" author="Roy, Tusharendu"></s1>
+		<s1 page="0315" title="8. Crustacea : Isopoda" author="Ghatak, S. S."></s1>
+		<s1 page="0329" title="9. Crustacea : Decapoda : Grapsidae" author="Ghosh, Sunil Kr."></s1>
+		<s1 page="0345" title="10. Crustacea : Decapoda : Crabs" author="Deb, Maya"></s1>
+		<s1 page="0405" title="11. Crustacea : Decapoda : Portunidae" author="Bhadra, Sipra"></s1>
+		<s1 page="0417" title="12. Crustacea : Stamatopoda" author="Ghosh, H. C."></s1>
+		<s1 page="0445" title="13. Freshwater Bryozoa" author="Samanta, T. K."></s1>
+		<s1 page="0463" title="14. Echinodermata" author="Sastry, D. R. K."></s1>
+	</book>
+	<book bid="017">
+		<s1 page="0001" title="1. Freshwater Sponges" author="Pattanayak, J. G."></s1>
+		<s1 page="0029" title="2. Cnidaria : Sea Anemones" author="Bairagi, N."></s1>
+		<s1 page="0045" title="3. Trematoda" author="Ghosh, R. K.;Srivastava, C. B."></s1>
+		<s1 page="0133" title="4. Digenetic Trematodes of Fishes" author="Hafeezulla, M.;Dutta, I. B."></s1>
+		<s1 page="0223" title="5. Platyhelminthes : Cestoda" author="Ghosh, R. K.;Kundu, D. K."></s1>
+		<s1 page="0297" title="6. Plant parasitic Nematodes" author="Chatterjee, Amalendu"></s1>
+		<s1 page="0341" title="7. Freshwater Rotifers" author="Sharma, B. K."></s1>
+		<s1 page="0463" title="8. Nematode Parasites of Vertebrates" author="Sarkar, S. R. Dey"></s1>
+	</book>
+	<book bid="018">
+		<s1 page="0001" title="FREELIVING PROTOZOA" author="Das, A. K.;Mandal, A. K.;Sarkar, N. C."></s1>
+		<s1 page="0135" title="PARASITIC PROTOZOA" author="Das, A. K.;Mandal, A. K.;Nandi, N. C.;Nandi, R.;Sarkar, N. C."></s1>
+		<s1 page="0469" title="SYMBIOTIC PROTOZOA" author="Das, A. K.;Mandal, A. K.;Nandi, N. C."></s1>
+	</book>
+	<book bid="019">
+		<s1 page="0001" title="AN OVERVIEW" author="Alfred, J. R. B."></s1>
+		<s1 page="0023" title="MAMMALIA" author="Das, P. K.;Ghosh, R. K.;Chakraborty, T. K.;Bhattacharya, T. P.;Ghosh, M. K."></s1>
+		<s1 page="0129" title="AVES" author="Majumdar, N."></s1>
+		<s1 page="0379" title="REPTILIA" author="Mathew, R."></s1>
+		<s1 page="0455" title="AMPHIBIA" author="Chanda, S. K."></s1>
+		<s1 page="0483" title="PISCES" author="Sen, N."></s1>
+		<s1 page="0607" title="ECOLOGY AND GENERAL FAUNAL RESOURCES OF SOME WETLANDS IN GARO HILLS" author="Khan, Rashid A.;Alfred, J. R. B."></s1>
+		<s1 page="0647" title="ON THE SURVEY OF SELECTED WATERBODIES OF RIBHOI, KHASI AND JAINTIA HILLS" author="Thapa, M. P.;Alfred, J. R. B."></s1>
+		<s1 page="0669" title="WILDLIFE AND ITS CONSERVATION" author="Alfred, J. R. B.;Chattopadhyay, S."></s1>
+	</book>
+	<book bid="020">
+		<s1 page="0001" title="IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0017" title="PLANT MITE (ACARI)" author="Gupta, S. K."></s1>
+		<s1 page="0051" title="ORIBATID MITES (ACARI : CRYPTOSTIGMATA)" author="Sanyal, A. K."></s1>
+		<s1 page="0093" title="ARANEAE : SPIDER" author="Bijan, Biswas;Majumder, S. C."></s1>
+	</book>
+	<book bid="021">
+		<s1 page="0001" title="Insecta : Ephemeroptera" author="Srivastava, V. D."></s1>
+		<s1 page="0013" title="Insecta : Collembola" author="Hazra, A. K."></s1>
+		<s1 page="0033" title="Insecta : Odonata" author="Srivastava, V. D.;Sinha, C."></s1>
+		<s1 page="0155" title="Insecta : Plecoptera" author="Das, B. C.;Chattopadaya, A.;Dutta, A. L."></s1>
+		<s1 page="0165" title="Insecta : Orthoptera : Tetrigoidea" author="Shishodia, M. S."></s1>
+		<s1 page="0209" title="Insecta : Orthoptera : Acridoidea" author="Hazra, A. K.;Tandon, S. K.;Shishodia, M. S.;Mondal, S. K.;Dey, A."></s1>
+		<s1 page="0279" title="Tettigoniidae : Orthoptera" author="Barman, R. S."></s1>
+		<s1 page="0291" title="Insecta : Dermaptera" author="Srivastava, G. K."></s1>
+		<s1 page="0353" title="Insecta : Blattariae" author="Mandal, S. K."></s1>
+		<s1 page="0385" title="Insecta : Mantodea" author="Mukherjee, T. K.;Hazra, A. K.;Shishodia, M. S."></s1>
+		<s1 page="0417" title="Insecta : Psocoptera" author="Srivastava, V. D."></s1>
+		<s1 page="0431" title="Insecta : Isoptera (Termite)" author="Maiti, P. K.;Lahiri, A. R.;Saha, N.;Roy, P. H."></s1>
+	</book>
+	<book bid="022">
+		<s1 page="0001" title="1. Insecta : Homoptera : Cicadellidae" author="Ghosh, M.;Ghosh, L. K."></s1>
+		<s1 page="0051" title="2. Insecta : Hemiptera : Homoptera : Membracidae" author="Biswas, B.;Ghosh, L. K."></s1>
+		<s1 page="0069" title="3. Insecta : Homoptera : Psyllidae" author="Ghosh, L. K.;Ghosh, M."></s1>
+		<s1 page="0085" title="4. Insecta : Hemiptera : Homoptera : Aphididae" author="Ghosh, L. K.;Basu, R. C."></s1>
+		<s1 page="0241" title="5. Insecta : Hemiptera : Coccoidea" author="Varshney, R. K."></s1>
+		<s1 page="0271" title="6. Insecta : Homoptera : Cicadidae" author="Sen, G. C.;Ghosh, M.;Ghosh, L. K."></s1>
+		<s1 page="0291" title="7. Insecta : Hemiptera : Heteroptera : Reduviidae" author="Biswas, B.;Ghosh, L. K."></s1>
+		<s1 page="0331" title="8. Insecta : Hemiptera : Heteroptera : Pyrrhocoridae" author="Sen, G. C.;Ghosh, M.;Ghosh, L. K."></s1>
+		<s1 page="0343" title="9. Insecta : Hemiptera : Fulgoroidea" author="Ghosh, M.;Ghosh, L. K."></s1>
+		<s1 page="0361" title="10. Insecta : Hemiptera : Coreoidea" author="Basu, R. C.;Bal, Animesh;Mitra, S. C."></s1>
+		<s1 page="0391" title="11. Insecta : Hemiptera : Heteroptera : Pentatomoidea" author="Chakraborty, S. P.;Ghosh, L. K."></s1>
+		<s1 page="0431" title="12. Insecta : Hemiptera : Water-bugs" author="Bal, Animesh;Basu, R. C."></s1>
+		<s1 page="0463" title="13. Insecta : Hemiptera : Homoptera : Cercopoidea" author="Biswas, B.;Ghosh, M.;Ghosh, L. K."></s1>
+	</book>
+	<book bid="023">
+		<s1 page="0001" title="1. Insecta : Coleoptera : Adephaga : Caribidae" author="Saha, S. K.;Halder, S. K."></s1>
+		<s1 page="0041" title="2. Insecta : Coleoptera : Cerambycidae" author="Mukhopadhyay, P.;Biswas, S."></s1>
+		<s1 page="0069" title="3. Insecta : Coleoptera : Cucujidae : Laemophloeinae" author="Mukhopadhyay, P."></s1>
+		<s1 page="0077" title="4. Insecta : Coleoptera : Gyrinidae, Dytiscidae and Hydrophilidae" author="Mukhopadhyay, P.;Ghosh, S. K.;Saha, S. K.;Biswas, S."></s1>
+		<s1 page="0093" title="5. Insecta : Coleoptera : Histeridae" author="Chakraborty, S. K.;Biswas, S."></s1>
+		<s1 page="0115" title="6. Insecta : Coleoptera : Staphylinidae" author="Biswas, D. N.;Biswas, S."></s1>
+		<s1 page="0161" title="7. Insecta : Coleoptera : Scarabaeidae : Cetoniinae, Dynastinae, Rutelinae" author="Chatterjee, S. K.;Biswas, S."></s1>
+		<s1 page="0201" title="8. Insecta : Coleoptera : Coccinellidae" author="Chakraborty, S. K.;Biswas, S."></s1>
+		<s1 page="0235" title="9. Insecta : Coleoptera : Chrysomelidae" author="Basu, C. R."></s1>
+		<s1 page="0383" title="10. Insecta : Coleoptera : Silvanidae" author="Pal, T. K.;Sengupta, T."></s1>
+		<s1 page="0395" title="11. Insecta : Satyridae" author="Bhattacharya, D. P."></s1>
+		<s1 page="0421" title="12. Insecta : Lepidoptera : Non-malberry silkmoths of the family saturniidae" author="Gupta, I. J."></s1>
+		<s1 page="0437" title="13. Insecta : Lepidoptera : Butterflies of families Acroeidae, Amathusiidae, Libytheidae and Riodinidae" author="Gupta, I. J."></s1>
+		<s1 page="0457" title="14. Insecta : Pyralidae" author="Bhattacharya, D. P."></s1>
+		<s1 page="0513" title="15. Insecta : Coleoptera : Scarabaeidae : Scarabaeine" author="Biswas, S.;Ghosh, A. K."></s1>
+		<s1 page="0625" title="16. Insecta : Coleoptera : Lathridiidae" author="Sengupta, T.;Biswas, S."></s1>
+		<s1 page="0631" title="17. Insecta : Coleoptera : Meloidae" author="Saha, G. N.;Das, B. N."></s1>
+		<s1 page="0639" title="18. Insecta : Coleoptera : Scolytidae" author="Saha, Nivedita;Maity, P. K."></s1>
+		<s1 page="0653" title="19. Insecta : Coleoptera : Curculionidae" author="Mukhopadhyay, P.;Biswas, S."></s1>
+	</book>
+	<book bid="024">
+		<s1 page="0001" title="INSECTA : DIPTERA" author="Datta, M.;Parui, P."></s1>
+		<s1 page="0065" title="INSECTA : DIPTERA : TABANIDAE" author="Datta, M."></s1>
+		<s1 page="0091" title="INSECTA : DIPTERA ASILID" author="Joseph, A. N. T.;Parui, P."></s1>
+		<s1 page="0113" title="INSECTA : DIPTERA : SYRPHIDAE" author="Datta, M."></s1>
+		<s1 page="0177" title="INSECTA : DIPTERA : CULUCIDAE" author="Malhotra, P. R."></s1>
+		<s1 page="0223" title="INSECTA : LEPIDOPTERA : PAPILIONOIDEA" author="Mondal, D. K.;Maulik, D. R."></s1>
+		<s1 page="0243" title="INSECTA : LEPIDOPTERA : PIERIDAE" author="Ghosh, S. K.;Chaudhuri, M."></s1>
+		<s1 page="0269" title="INSECTA : LEPIDOPTERA : HESPERIIDAE" author="Ghosh, S. K.; Chaudhury, M."></s1>
+		<s1 page="0343" title="INSECTA : LEPIDOPTERA : ARCTIIDAE" author="Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0391" title="INSECTA : LEPIDOPTERA : CTENUCHIDAE, LIMACODIDAE AND HYPSIDAE" author="Ghosh, S. K.;Chaudhury, M."></s1>
+		<s1 page="0405" title="INSECTA : LEPIDOPTERA : SPHINGIDAE, NOCTUIDAE AND GEOMETRIDAE" author="Mondal, D. K.;Ghosh, S. K."></s1>
+		<s1 page="0467" title="INSECTA : LEPIDOPTERA : LASIOCAMPIDAE" author="Mandal, D. K.;Maulik, D. R."></s1>
+		<s1 page="0489" title="INSECTA : LEPIDOPTERA : ZYGAENIDAE" author="Bhattacharya, D. P."></s1>
+		<s1 page="0521" title="INSECTA : HYMENOPTERA : ACULEATA AND PARASITICA" author="Ray, K. K."></s1>
+	</book>
+	<book bid="025">
+		<s1 page="0001" title="INSECTA : ANOPLEURA" author="Das, B. C.;Dutta, A. L.;Adhikary, C."></s1>
+		<s1 page="0009" title="INSECTA : TRICHOPTERA" author="Ghosh, S. K.;Choudhury, M."></s1>
+		<s1 page="0037" title="INSECTA : THYSANOPTERA" author="Sen, S.;Paramanik, N. K."></s1>
+		<s1 page="0081" title="INSECTA : NEUROPTERA" author="Ghosh, S. K."></s1>
+		<s1 page="0117" title="INSECTA : HYMENOPTERA : VESPIDAE" author="Jonathan, J. K.;Roy, S. R.;Kundu, B. G."></s1>
+		<s1 page="0161" title="INSECTA : HYMENOPTERA : SPHECIDAE" author="Jonathan, J. K.;Ray, K. K.;Kundu, B. G."></s1>
+		<s1 page="0223" title="INSECTA : HYMENOPTERA : SCOLIIDAE" author="Jonathan, J. K.;Gupta, S. K."></s1>
+		<s1 page="0251" title="INSECTA : HYMENOPTERA : FORMECIDAE" author="Tiwari, R. N.;Mathew, R."></s1>
+		<s1 page="0411" title="INSECTA : HYMENOPTERA : ICHNEUMONIDAE" author="Jonathan, J. K."></s1>
+		<s1 page="0607" title="INSECTA : HYMENOPTERA : BRACONIDAE" author="Ray, K. K."></s1>
+	</book>
+	<book bid="026">
+		<s1 page="0001" title="MOLLUSCA" author="Rao, N. V. Subba;Mitra, S. C.;Dey, A.;Maitra, S.">
+			<s2 page="0001" title="INTRODUCTION" author=""></s2>
+			<s2 page="0002" title="Systematic List" author="">
+				<s3 page="0002" title="A. FRESHWATER" author=""></s3>
+				<s3 page="0004" title="B. LAND" author=""></s3>
+			</s2>
+			<s2 page="0012" title="Systematic Account" author="">
+				<s3 page="0012" title="A. FRESHWATER" author=""></s3>
+				<s3 page="0033" title="B. LAND" author=""></s3>
+			</s2>
+			<s2 page="0084" title="SUMMARY AND GENERAL REMARKS" author=""></s2>
+			<s2 page="0086" title="ACKNOWLEDGEMENTS" author=""></s2>
+			<s2 page="0087" title="REFERENCES" author=""></s2>
+		</s1>
+	</book>
+	<book bid="027">
+		<s1 page="0001" title="1. Porifera : Freshwater Sponges" author="Pattanayak, J. G."></s1>
+		<s1 page="0005" title="2. Cnidaria : Freshwater Medusae" author="Haldar, B. P.;Mandal, C. K."></s1>
+		<s1 page="0011" title="3. Freshwater Rotifera" author="Sharma, B. K.;Sharma, Sumita"></s1>
+		<s1 page="0163" title="4. Trematoda : Digenea" author="Ghosh, R. K.;Chakraborty, S."></s1>
+		<s1 page="0247" title="5. Cestoda" author="Ghosh, R. K.;Kundu, D. K."></s1>
+		<s1 page="0283" title="6. Plant Parasitic Nematodes (Tylenchida)" author="Chatterjee, Amalendu"></s1>
+		<s1 page="0317" title="7. Nematode Parasites of Vertebrates" author="Sarkar, S. R. Dey"></s1>
+		<s1 page="0359" title="8. Acanthocephala" author="Bhattacharya, S. B."></s1>
+		<s1 page="0393" title="9. Oligochaeta : Earthworm" author="Halder, K. R."></s1>
+		<s1 page="0441" title="10. Freshwater Oligochaeta" author="Mukhopadhyay, S. K."></s1>
+		<s1 page="0455" title="11. Hirudinae : Leeches" author="Ghosh, G. C."></s1>
+		<s1 page="0469" title="12. Freshwater Cladocera" author="Sharma, B. K.;Sharma, Sumita"></s1>
+		<s1 page="0551" title="13. Crustacea : Copepoda : Diaptomidae" author="Roy, Tusharendu"></s1>
+		<s1 page="0557" title="14. Crustacea : Decapoda : Palaemonidae" author="Ghosh, Sunil Kr.;Roy, Tushrendu;Bhadra, Sipra"></s1>
+		<s1 page="0569" title="15. Crustacea : Decapoda : Potamonidae" author="Ghosh, H. C.;Ghatak, S. S."></s1>
+		<s1 page="0577" title="16. Freshwater Bryozoa" author="Samantha, T. K."></s1>
+	</book>
+	<book bid="028">
+		<s1 page="0001" title="Introduction" author=""></s1>
+		<s1 page="0002" title="Systematic Account" author=""></s1>
+		<s1 page="0005" title="Collection and Preservation" author=""></s1>
+		<s1 page="0007" title="Freeliving Protozoa" author=""></s1>
+		<s1 page="0048" title="Parasitic Protozoa" author=""></s1>
+		<s1 page="0083" title="Symbiotic Protozoa" author=""></s1>
+		<s1 page="0092" title="General Remarks on Distribution" author=""></s1>
+		<s1 page="0093" title="Summary" author=""></s1>
+		<s1 page="0093" title="Acknowledgement" author=""></s1>
+		<s1 page="0093" title="References" author=""></s1>
+	</book>
+	<book bid="029">
+		<s1 page="0001" title="REPTILIA" author="Sanyal, D. P.;Gupta, B. Datta;Gayen, N. C."></s1>
+		<s1 page="0065" title="AMPHIBIA" author="Sarkar, A. K.;Chandra, P. K.;Ray, S."></s1>
+		<s1 page="0089" title="PISCES : FRESHWATER FISHES" author="Barman, R. P."></s1>
+	</book>
+	<book bid="030">
+		<s1 page="0001" title="1. MAMMALS" author="Chakraborty, S.;Bhattacharyya, T. P.;De, J. K.;Ghosh, M. K.;Chakraborty, T. K.;Poddar, A. K."></s1>
+		<s1 page="0097" title="2. MARINE AND ESTUARINE FISHES" author="Barman, R. P.;Kar, S.;Mukherjee, P."></s1>
+	</book>
+	<book bid="031">
+		<s1 page="0001" title="1. PLANT MITES (ACARI)" author="Gupta, S. K.;Sanyal, A. K.;Sarkar, B. J."></s1>
+		<s1 page="0025" title="2. IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;Sarkar, B. J."></s1>
+		<s1 page="0037" title="3. ORIBATID MITES (ACARI : ORIBATEI)" author="Sanyal, A. K."></s1>
+		<s1 page="0071" title="4. ARACHNIDA : ARANEAE" author="Biswas, Bijan"></s1>
+		<s1 page="0087" title="5. INSECTA : APTERYGOTA : COLLEMBOLA" author="Hazra, A. K.;Mandal, G. P.;Suman, K. K."></s1>
+		<s1 page="0105" title="6. INSECTA : THYSANURA (APTERYGOTA)" author="Hazra, A. K.;Mandal, G. P.;Kumar A., Anand"></s1>
+		<s1 page="0115" title="7. ODONATA" author="Prasad, M."></s1>
+		<s1 page="0183" title="8. INSECTA : ORTHOPTERA : ACRIDOIDEA" author="Mandal, S. K.;Yadav, K."></s1>
+		<s1 page="0223" title="9. INSECTA : MANTODEA" author="Mukherjee, T. K.;Hazra, A. K."></s1>
+		<s1 page="0235" title="10. INSECTA : BLATTARIA (DICTYOPTERA)" author="Mandal, S. K."></s1>
+		<s1 page="0249" title="11. INSECTA : HEMIPTERA : APHIDIDAE" author="Das, B. C.;Sengupta, C. K.;Pramanik, N. K."></s1>
+		<s1 page="0257" title="12. INSECTA : HEMIPTERA : HOMOPTERA : CERCOPOIDEA : MEMBRACIDAE : FULGOROIDEA" author="Biswas, B.;Ghosh, M.;Bal, Animesh"></s1>
+		<s1 page="0279" title="13. INSECTA : HEMIPTERA : HOMOPTERA : CICADELLOIDEA" author="Ghosh, M.;Bal, Animesh"></s1>
+		<s1 page="0301" title="14. INSECTA : HEMIPTERA : HETEROPTERA : PENTATOMOIDEA" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0321" title="15. INSECTA : HEMIPTERA : PYRRHOCORIDAE" author="Saha, P. C.;Bal, Animesh"></s1>
+		<s1 page="0331" title="16. INSECTA : HEMIPTERA : REDUVIIDAE" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0347" title="17. INSECTA : HEMIPTERA : WATER-BUGS" author="Bal, Animesh"></s1>
+		<s1 page="0375" title="18. INSECTA : COLEOPTERA : COCCINELLIDAE" author="Chakraborty, S. K."></s1>
+		<s1 page="0393" title="19. INSECTA : COLEOPTERA : HISTERIDAE" author="Chakraborty, S. K."></s1>
+		<s1 page="0403" title="20. INSECTA : COLEOPTERA : POLYPHAGA : HYDROPHILOIDEA : HYDROPHILIDAE" author="Mukhopadhyay, P."></s1>
+		<s1 page="0417" title="21. INSECTA : COLEOPTERA : STAPHYLINIDAE" author="Mukhopadhyay, P.;Sar, A."></s1>
+		<s1 page="0439" title="22. INSECTA : COLEOPTERA (AQUATIC) ADEPHAGA : FAM. GYRINIDAE AND FAM. DYTISCIDAE" author="Mukhopadhyay, P.;Ghosh, S. K."></s1>
+		<s1 page="0461" title="23. INSECTA : COLEOPTERA : SCARABAEIDAE (CETONIINAE, DYNASTINAE &amp; COPRINAE)" author="Chatterjee, S. K."></s1>
+		<s1 page="0479" title="24. INSECTA : DIPTERA : SYRPHIDAE" author="Mukherjee, M.;Parui, P.;Mitra, Bulganin"></s1>
+		<s1 page="0491" title="25. LEPIDOPTERA : FAMILIES : PIERIDAE, HESPERIIDAE, ARCTIIDAE AND CTENUCHIDAE" author="Majumdar, Mridula"></s1>
+		<s1 page="0521" title="26. INSECTA : LEPIDOPTERA, NYMPHALIDAE (DANAINAE), LASIOCAMPIDAE AND LYMANTRIIDAE" author="Maulik, D. R."></s1>
+	</book>
+	<book bid="032">
+		<s1 page="0001" title="1. TREMATODES OF FISHES, AMPHIBIA AND REPTILIA" author="Chakrabarti, Shuvajit;Ghosh, Anindita"></s1>
+		<s1 page="0081" title="2. PARASITIC NEMATODES OF ARTHROPODS" author="Gantait, Viswa Venkat;Chatterjee, Amalendu"></s1>
+		<s1 page="0125" title="3. PHYTOPHAGOUS NEMATODES (Order TYLENCHIDA, Suborder TYLENCHINA)" author="Sen, Debabrata;Chatterjee, Amalendu"></s1>
+		<s1 page="0167" title="4. NEMATODA : DORYLAIMIDA" author="Ghosh, Subhash Chandra;Banerjee, Suranjana;Chatterjee, Amalendu"></s1>
+		<s1 page="0211" title="5. CRUSTACEA : OSTRACODA" author="Annapurna, C."></s1>
+		<s1 page="0245" title="6. DECAPODA : BRACHYURA BRACHYURAN (GECARCINUCIDAE) CRABS" author="Srivastava, O. P."></s1>
+	</book>
+	<book bid="033">
+		<s1 page="0001" title="1. TREMATODES OF BIRDS AND MAMMALS" author="Chakrabarti, Shuvajit;Chatterjee, Amalendu"></s1>
+		<s1 page="0099" title="2. CESTODA" author="Kundu, D. K."></s1>
+		<s1 page="0123" title="3. ACANTHOCEPHALA" author="Bhattacharya, S. B."></s1>
+		<s1 page="0159" title="4. SIPUNCULA" author="Haldar, Badri Prasad"></s1>
+		<s1 page="0175" title="5. LAND AND FRESHWATER MOLLUSCS" author="Mitra, S. C.;Dey, A.;Ramakrishna"></s1>
+		<s1 page="0255" title="6. ANNELIDA : POLYCHAETA" author="Chakraborty, R. K.;Misra, A."></s1>
+		<s1 page="0275" title="7. EARTHWORMS (Coastal Districts)" author="Halder, K. R.;Dhani, S."></s1>
+		<s1 page="0307" title="8. FRESHWATER OLIGOCHAETA" author="Mukhopadhyay, Samar Kumar"></s1>
+		<s1 page="0319" title="9. ANNELIDA : HIRUDINEA (Non Costal Districts)" author="Mandal, C. K."></s1>
+		<s1 page="0339" title="10. ANNELIDA : HIRUDINEA : LEECHES (Coastal Districts)" author="Ghosh, G. C.;Mandal, C. K."></s1>
+		<s1 page="0357" title="11. MARINE AND ESTUARINE CRABS (Crustacea : Decapoda : Brachyura)" author="Roy, M. K. Dev;Bhadra, S."></s1>
+		<s1 page="0537" title="12. CRUSTACEA : DECAPODA : PENAEOIDEA" author="Chanda, Angsuman;Roy, Tusharendu"></s1>
+		<s1 page="0551" title="13. CRUSTACEA : DECAPODA : PALAEMONIDAE : POTAMONIDAE" author="Ghosh, S. K.;Ghatak, S. S.;Roy, T."></s1>
+		<s1 page="0559" title="14. FRESH WATER BRYOZOA" author="Samanta, T. K."></s1>
+	</book>
+	<book bid="034">
+		<s1 page="0001" title="PARASITIC PROTOZOA" author="Nandi, N. C.;Kalavati, C.;Das, A. K.;Nandi, R.">
+			<s2 page="0001" title="Introduction" author=""></s2>
+			<s2 page="0006" title="Material and Methods" author=""></s2>
+			<s2 page="0007" title="Classification" author=""></s2>
+			<s2 page="0011" title="Systematic list of parasitic Protozoa" author=""></s2>
+			<s2 page="0044" title="Host-Parasite list" author=""></s2>
+			<s2 page="0065" title="Systematic Account" author="">
+				<s3 page="0065" title="Phylum Sarcomastigophora" author="">
+					<s4 page="0065" title="Subphylum Mastigophora" author=""></s4>
+					<s4 page="0164" title="Subphylum Opalinata" author=""></s4>
+					<s4 page="0164" title="Subphylum Sarcodina" author=""></s4>
+				</s3>
+				<s3 page="0167" title="Phylum Apicomplexa" author=""></s3>
+				<s3 page="0262" title="Phylum Microspora" author=""></s3>
+				<s3 page="0288" title="Phylum Ascetospora" author=""></s3>
+				<s3 page="0291" title="Phylum Myxozoa" author=""></s3>
+				<s3 page="0353" title="Phylum Ciliophora" author=""></s3>
+			</s2>
+			<s2 page="0381" title="General remarks on distribution" author=""></s2>
+			<s2 page="0394" title="Summary" author=""></s2>
+			<s2 page="0396" title="Acknowledgement" author=""></s2>
+			<s2 page="0397" title="References" author=""></s2>
+		</s1>
+		<s1 page="0423" title="FREELIVING AND SYMBIOTIC PROTOZOA" author="Das, A. K.;Tiwari, D. N.;Nandi, R.;Sarkar, N. C.;Saha, D.">
+			<s2 page="0423" title="Introduction" author=""></s2>
+			<s2 page="0424" title="Material and Methods" author=""></s2>
+			<s2 page="0425" title="Testacids and Symbiotic flagellates of Coastal districts" author=""></s2>
+			<s2 page="0425" title="Systematic List" author=""></s2>
+			<s2 page="0428" title="Systematic Account" author="">
+				<s3 page="0428" title="Freeliving Protozoa" author=""></s3>
+				<s3 page="0429" title="Symbiotic Protozoa" author=""></s3>
+			</s2>
+			<s2 page="0459" title="Testacids of noncoastal districts" author=""></s2>
+			<s2 page="0459" title="General remarks on distribution" author=""></s2>
+			<s2 page="0460" title="Summary" author=""></s2>
+			<s2 page="0460" title="Acknowledgement" author=""></s2>
+			<s2 page="0460" title="References" author=""></s2>
+		</s1>
+	</book>
+	<book bid="035">
+		<s1 page="0001" title="1. MARINE MOLLUSCS : POLYPLACOPHORA AND GASTROPODA" author="Ramakrishna;Dey, A.;Barua, S.;Mukhopadhya, A."></s1>
+		<s1 page="0149" title="2. MARINE MOLLUSCS : BIVALVIA, SCAPHOPODA AND CEPHALOPODA" author="Dey, A.;Ramakrishna"></s1>
+	</book>
+	<book bid="036">
+		<s1 page="0001" title="1. Introduction" author=""></s1>
+		<s1 page="0001" title="2. Andhra Pradesh at a glance" author=""></s1>
+		<s1 page="0002" title="3. Ornithological Studies" author=""></s1>
+		<s1 page="0003" title="4. Other Studies" author=""></s1>
+		<s1 page="0003" title="5. Special Study" author=""></s1>
+		<s1 page="0003" title="6. Avifauna" author=""></s1>
+		<s1 page="0004" title="7. Important Bird Areas (IBAs) of Andhra Pradesh" author=""></s1>
+		<s1 page="0006" title="8. Threatened Birds of Andhra Pradesh" author=""></s1>
+		<s1 page="0007" title="9. Major Distribution in Andhra Pradesh" author=""></s1>
+		<s1 page="0008" title="10. Threats and Conservation" author=""></s1>
+		<s1 page="0008" title="11. Ornithological Accounts" author=""></s1>
+		<s1 page="0059" title="12. Quantitative and Qualitative analysis of the avifauna of Andhra Pradesh" author=""></s1>
+		<s1 page="0060" title="13. Population Status" author=""></s1>
+		<s1 page="0060" title="14. Type Locality" author=""></s1>
+		<s1 page="0064" title="15. Zoogeographical influence on the avifauna of Andhra Pradesh" author=""></s1>
+		<s1 page="0066" title="16. Conclusion" author=""></s1>
+		<s1 page="0067" title="17. Acknoledgements" author=""></s1>
+		<s1 page="0067" title="18. References" author=""></s1>
+	</book>
+	<book bid="037">
+		<s1 page="0000m" title="Foreword" author=""></s1>
+		<s1 page="0000o" title="Preface" author=""></s1>
+		<s1 page="0000q" title="Acknowledgements" author=""></s1>
+		<s1 page="0000s" title="Contributing Authors" author="">
+			<s2 page="0001" title="Fauna of Delhi : An overview" author="Kumar, Arun"></s2>
+			<s2 page="0017" title="Biogeography of Delhi" author="Kumar, Arun;Khanna, Vinod">
+				<s3 page="0017" title="Topography" author=""></s3>
+				<s3 page="0019" title="River System and Drainage" author=""></s3>
+				<s3 page="0020" title="Lakes and Reservoirs" author=""></s3>
+				<s3 page="0020" title="Climate" author=""></s3>
+				<s3 page="0021" title="Physiography" author=""></s3>
+				<s3 page="0023" title="Forest" author=""></s3>
+				<s3 page="0023" title="Protected Areas" author=""></s3>
+				<s3 page="0024" title="National Zoological Park" author=""></s3>
+				<s3 page="0025" title="Gardens and Parks" author=""></s3>
+				<s3 page="0026" title="Monuments" author=""></s3>
+				<s3 page="0027" title="Vegetation" author=""></s3>
+				<s3 page="0028" title="Agriculture" author=""></s3>
+				<s3 page="0028" title="Crops" author=""></s3>
+				<s3 page="0029" title="Land Reclamation and Land Utilisation" author=""></s3>
+				<s3 page="0031" title="Maps" author=""></s3>
+			</s2>
+			<s2 page="0045" title="State of Forest Cover" author="Bisht, M. S."></s2>
+			<s2 page="0047" title="Territory of Delhi : A Geological Perspective" author="Sharma, Kewal K."></s2>
+		</s1>
+		<s1 page="0055" title="FAUNAL DIVERSITY" author="">
+			<s2 page="0055" title="Invertebrata" author="">
+				<s3 page="0055" title="Protozoa" author="Das, A. K.;Nandi, N. C."></s3>
+				<s3 page="0073" title="Porifera - Compiled from literature" author="Kumar, Arun"></s3>
+				<s3 page="0073" title="Coelenterata - Compiled from literature" author="Kumar, Arun"></s3>
+				<s3 page="0073" title="Helminthes - Compiled from literature" author="Kumar, Arun"></s3>
+				<s3 page="0075" title="Plant and Soil Nematodes" author="Bohra, Padma;Baqri, Q. H."></s3>
+				<s3 page="0109" title="Mollusca" author="Rao, K. V. Surya;Mitra, S. C.;Maitra, S.;Biswas, Tulika"></s3>
+				<s3 page="0135" title="Annelida" author="Halder, K. R.;Ghosh, G. C."></s3>
+				<s3 page="0141" title="Crustacea" author="Ghosh, S. K."></s3>
+			</s2>
+			<s2 page="0145" title="Insecta" author="">
+				<s3 page="0145" title="Thysanura" author="Hazra, A. K."></s3>
+				<s3 page="0147" title="Odonata : Imagos" author="Kumar, Arun"></s3>
+				<s3 page="0161" title="Odonata : Larval stages" author="Kumar, Arun"></s3>
+				<s3 page="0173" title="Orthoptera" author="Shishodia, M. S."></s3>
+				<s3 page="0197" title="Blattariae &amp; Mantodea" author="Mondal, S. K.;Shishodia, M. S."></s3>
+				<s3 page="0203" title="Dermaptera" author="Srivastava, G. K."></s3>
+				<s3 page="0207" title="Isoptera" author="Maiti, P. K.;Saha, N."></s3>
+				<s3 page="0215" title="Hemiptera" author="Ghosh, L. K.;Biswas, B.;Ghosh, M.;Chakraborty, S. P."></s3>
+				<s3 page="0261" title="Hemiptera : Water Bugs" author="Bal, Animesh;Basu, R. C."></s3>
+				<s3 page="0277" title="Hemiptera : Coccoidea" author="Varshney, R. K."></s3>
+				<s3 page="0291" title="Thysanoptera" author="Bhatti, J. S."></s3>
+				<s3 page="0325" title="Coleoptera" author="Biswas, S.;Mukhopadhyaya, P.;Saha, S. K.;Basu, C. R.;Chatterjee, S. K.;Chakraborty, S. K.;Biswas, D. N.;Halder, S. K.;Ghosh, S. K.;Chakraborty, P."></s3>
+				<s3 page="0359" title="Diptera" author="Parui, P.;Lahiri, A. K."></s3>
+				<s3 page="0393" title="Lepidoptera : Papilionoidea and Hesperioidea" author="Mondal, D. K.;Bhattacharya, D. P.;Maulik, D. R.;Majumdar, M."></s3>
+				<s3 page="0409" title="Lepidoptera : Nymphalidae" author="Gupta, I. J."></s3>
+				<s3 page="0421" title="Hymenoptera : Aculeata" author="Gupta, S. K."></s3>
+				<s3 page="0441" title="Hymenoptera : Formicidae" author="Tiwari, R. N."></s3>
+				<s3 page="0453" title="Hymenoptera : Ichneumonidae" author="Jonathan, J. K."></s3>
+				<s3 page="0457" title="Hymenoptera : Chalcidoidea - compiled from literature" author="Khanna, Vinod"></s3>
+				<s3 page="0461" title="Diplopoda" author="Bai, M. Mary"></s3>
+				<s3 page="0467" title="Chilopoda" author="Khanna, Vinod"></s3>
+				<s3 page="0477" title="Arachnida : Araneae" author="Biswas, B. K.;Biswas, K."></s3>
+				<s3 page="0485" title="Acari : Plant Mites" author="Gupta, S. K.;Chatterji, Koel"></s3>
+				<s3 page="0533" title="Acari : Soil Mites" author="Sanyal, A. K.;Bhattacharya, A. K."></s3>
+				<s3 page="0537" title="Acari : House Dust Mites - complied from literature" author="Khanna, Vinod"></s3>
+				<s3 page="0539" title="Acari : Ixodidae" author="Sanyal, A. K.;De, S. K."></s3>
+			</s2>
+			<s2 page="0551" title="Vertebrata" author="">
+				<s3 page="0551" title="Pisces" author="Husain, Akhlaq"></s3>
+				<s3 page="0653" title="Amphibia" author="Husain, Akhlaq"></s3>
+				<s3 page="0665" title="Reptilia" author="Husain, Akhlaq"></s3>
+				<s3 page="0699" title="Aves" author="Tak, P. C.;Sati, J. P."></s3>
+				<s3 page="0823" title="Mammalia" author="Sinha, N. K.;Sati, J. P."></s3>
+			</s2>
+			<s2 page="0841" title="Remote sensing and GIS data base for Asola - Bhatti Wildlife Sanctuary" author="Pant, D. N.;Kumar, Jitendra;Roy, P. S."></s2>
+			<s2 page="0853" title="Problems and prospects in conserving Asola - Bhatti Wildlife Sacncuary : Some Management Strategies" author="Sawarkar, V. B.;Hussain, S. A."></s2>
+			<s2 page="0867" title="National Zoological Part : Pioneer in Ex-situ conservation" author="Singh, D. M."></s2>
+			<s2 page="0871" title="Environmental landmarks of Delhi and their impact on biodiversity" author="Malik, Lqbal"></s2>
+			<s2 page="0879" title="Saving Delhi's Biodiversity : The role of NGOs" author="Kothari, Ashish;Rao, Sunita"></s2>
+			<s2 page="0887" title="Threatened Fauna of Delhi" author="Kumar, Arun;Sati, J. P.;Tak, P. C."></s2>
+			<s2 page="0891" title="Faunal Analysis" author="Alfred, J. R. B.;Kumar, Arun"></s2>
+			<s2 page="0909" title="Photographs" author=""></s2>
+		</s1>
+	</book>	
+	<book bid="038">
+		<s1 page="0001" title="1. An Overview" author="Darlong, V. T.;Alfred, J. R. B."></s1>
+		<s1 page="0031" title="2. Mammalia" author="Bhattacharya, T. P.;Ghosh, M. K."></s1>
+		<s1 page="0047" title="3. Aves" author="Majumdar, N.;Ray, C. S.;Datta, B. K."></s1>
+		<s1 page="0159" title="4. Reptilia" author="Saynal, D. P.;Dattagupta, B.;Gayan, N. C."></s1>
+		<s1 page="0179" title="5. Amphibia" author="Sarkar, A. K.;Das, S.;Ray, S."></s1>
+		<s1 page="0191" title="6. Pisces : Freshwater fishes" author="Barman, R. P."></s1>
+		<s1 page="0321" title="7. Wetland faunal Resources of India" author="Venkataraman, K.;Das, S. R.;Khan, R. A.;Alfred, J. R. B."></s1>
+	</book>
+	<book bid="039">
+		<s1 page="0001" title="1. IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0007" title="2. ARACHNIDA : ACARI : PROSTIGMATA, ASTIGMATA AND MESOTIGMATA" author="Gupta, S. K."></s1>
+		<s1 page="0033" title="3. ORIBATID MITES (ACARI : ORIBATEI)" author="Sanyal, A. K."></s1>
+		<s1 page="0113" title="4. ARACHNIDA : ARANEAE" author="Biswas, Bijan;Majumdar, S. C."></s1>
+		<s1 page="0123" title="5. INSECTA : APTERYGOTA : THYSANURA" author="Hazra, A. K.;Biswas, M.;Mitra, S. K."></s1>
+		<s1 page="0131" title="6. INSECTA : EPHEMEROPTERA" author="Srivastava, V. D."></s1>
+		<s1 page="0141" title="7. INSECTA : APTERYGOTA : COLLEMBOLA" author="Hazra, A. K.;Mitra, S. K.;Sengupta, S.;Bhattacharyya, B."></s1>
+		<s1 page="0155" title="8. INSECTA : ODONATA" author="Srivastava, V. D.;Sinha, C."></s1>
+		<s1 page="0197" title="9. INSECTA : ORTHOPTERA : ACRIDOIDEA AND EUMASATACOIDEA" author="Shishodia, M. S.;Tandon, S. K."></s1>
+		<s1 page="0231" title="10. INSECTA : ORTHOPTERA : TETRIGOIDEA" author="Shishodia, M. S."></s1>
+		<s1 page="0247" title="11. INSECTA : ORTHOPTERA : GRYLLOIDEA AND TRIDACTYLOIDEO" author="Shishodia, M. S."></s1>
+		<s1 page="0263" title="12. INSECTA : ORTHOPTERA : TETTIGONIIDAE" author="Barman, R. S."></s1>
+		<s1 page="0269" title="13. INSECTA : DERMAPTERA" author="Srivastava, G. K."></s1>
+		<s1 page="0285" title="14. INSECTA : DICTYOPTERA : BLATTARIAE" author="Mandal, S. K.;Shishodia, M. S.;Bhatta, K. L."></s1>
+		<s1 page="0295" title="15. INSECTA : ISOPTERA" author="Maiti, P. K.;Saha, N.;Roy, P. H."></s1>
+		<s1 page="0309" title="16. INSECTA : PSOCOPTERA" author="Srivastava, V. D."></s1>
+		<s1 page="0317" title="17. INSECTA : HEMIPTERA : (CERCOPOIDEA, CICADELLOIDEA, CICADOIDEA AND FULGOROIDEA)" author="Ghosh, M.;Biswas, B.;Ghosh, L. K."></s1>
+		<s1 page="0345" title="18. INSECTA : HEMIPTERA : APHIDIDAE" author="Ghosh, L. K.;Basu, R. C."></s1>
+		<s1 page="0383" title="19. INSECTA : HEMIPTERA : COCCOIDEA" author="Varshney, R. K."></s1>
+		<s1 page="0395" title="20. INSECTA : HEMIPTERA : REDUVIIDAE" author="Biswas, B.;Ghosh, L. K."></s1>
+		<s1 page="0405" title="21. INSECTA : HEMIPTERA : COREOIDEA" author="Basu, R. C.;Bal, Animesh,;Mitra, S. C."></s1>
+		<s1 page="0417" title="22. INSECTA : HEMIPTERA : HETEROPTERA : PENTATOMOIDEA" author="Chakraborty, S. P.;Ghosh, L. K."></s1>
+		<s1 page="0427" title="23. INSECTA : HEMIPTERA : WATER-BUGS" author="Bal, Animesh,Basu, R. C."></s1>
+	</book>
+	<book bid="040">
+		<s1 page="0001" title="1. INSECTA : THYSANOPTERA" author="Sen, S.;Pramanik, N. K."></s1>
+		<s1 page="0035" title="2. INSECTA : COLEOPTERA : GYRINIDAE, DYTISCIDAE AND HYDROPHILIDAE" author="Ghosh, S. K.;Mukhopadhyay, P.;Biswas, S."></s1>
+		<s1 page="0053" title="3. INSECTA : COLEOPTERA : HISTERIDAE" author="Chakraborty, S. K.;Biswas, S."></s1>
+		<s1 page="0063" title="4. INSECTA : COLEOPTERA : STAPHYLINIDAE" author="Biswas, D. N.;Biswas, S."></s1>
+		<s1 page="0087" title="5. INSECTA : COLEOPTERA : SCARABAEIDAE" author="Chatterjee, S. K.;Biswas, S."></s1>
+		<s1 page="0099" title="6. INSECTA : COLEOPTERA : ELATERIDAE" author="Biswas, S.;Chakraborty, Paramita"></s1>
+		<s1 page="0109" title="7. INSECTA : COLEOPTERA : SILVANIDAE" author="Pal, T. K."></s1>
+		<s1 page="0115" title="8. INSECTA : COLEOPTERA : COCCINELLIDAE" author="Chakraborty, S. K.;Biswas, S."></s1>
+		<s1 page="0139" title="9. COLEOPTERA : CERAMBYCIDAE" author="Mukhopadhyay, P.;Biswas, S."></s1>
+		<s1 page="0143" title="10. INSECTA : COLEOPTERA : CHRYSOMELIDAE" author="Basu, C. R."></s1>
+		<s1 page="0165" title="11. INSECTA : DIPTERA" author="Datta, M.;Parui, P."></s1>
+		<s1 page="0201" title="12. INSECTA : DIPTERA : CULICIDAE" author="Malhotra, P. R."></s1>
+		<s1 page="0229" title="13. INSECTA : DIPTERA : ASILIDAE" author="Parui, P."></s1>
+		<s1 page="0241" title="14. INSECTA : DIPTERA : SYRPHIDAE" author="Datta, M.;Parui, P.;Mukherjee, M."></s1>
+		<s1 page="0261" title="15. INSECTA : DIPTERA : MUSCIDAE" author="Mitra, Bulganin"></s1>
+		<s1 page="0271" title="16. INSECTA : DIPTERA : TACHINIDAE" author="Lahiri, A. R."></s1>
+		<s1 page="0283" title="17. INSECTA : LEPIDOPTERA" author="Mandal, D. K.;Ghosh, S. K.;Majumdar, M."></s1>
+		<s1 page="0335" title="18. INSECTA : HYMENOPTERA : APOIDEA AND VESPOIDEA" author="Ray, K. K."></s1>
+		<s1 page="0347" title="19. INSECTA : HYMENOPTERA : FORMICIDAE" author="Mathew, R."></s1>
+		<s1 page="0355" title="20. INSECTA : HYMENOPTERA : BRACONIDAE" author="Ray, K. K."></s1>
+		<s1 page="0365" title="21. INSECTA : HYMENOPTERA : SCOLIIDAE" author="Jonathan, J. K.;Gupta, S. K."></s1>
+		<s1 page="0377" title="22. INSECTA : HYMENOPTERA : VESPIDAE" author="Jonathan, j. K.;Ray, K. K.;Kundu, B. G."></s1>
+	</book>	
+	<book bid="041">
+		<s1 page="0001" title="1. PROTOZOA" author="Das, A. K.;Tiwari, D. N.;Sarkar, N. C."></s1>
+		<s1 page="0053" title="2. TREMATODA : DIGENEA" author="Ghosh, R. K.;Dutta, I. B."></s1>
+		<s1 page="0079" title="3. PLANT PARASITIC NEMATODES (TYLENCHIDA)" author="Chatterjee, Amalendu;Gantait, V. V."></s1>
+		<s1 page="0101" title="4. NEMATODE PARASITES OF VERTEBRATES" author="Sarkar, S. R. Dey"></s1>
+		<s1 page="0141" title="5. ACANTHOCEPHALA" author="Bhattacharya, S. B."></s1>
+		<s1 page="0163" title="6. FRESHWATER ROTIFERS (ROTIFERA : EUROTATORIA)" author="Sharma, B. K.;Sharma, Sumita"></s1>
+		<s1 page="0225" title="7. HIRUDINEA : LEECHES" author="Ghosh, G. C."></s1>
+		<s1 page="0231" title="8. FRESH WATER OLIGOCHAETA" author="Mukhopadhyay, S. K."></s1>
+		<s1 page="0239" title="9. OLIGOCHAETA : EARTHWORM" author="Halder, K. R."></s1>
+		<s1 page="0257" title="10. DIAPTOMIDAE (CRUSTACEA : COPEPODA)" author="Ray, Tusharendu"></s1>
+		<s1 page="0263" title="11. CRUSTACEA : DECAPODA (SHRIMPS)" author="Deb, Maya"></s1>
+		<s1 page="0267" title="12. PALAEMONIDAE (CRUSTACEA : DECAPODA)" author="Ghosh, S. K.;Roy, Tusharandu"></s1>
+		<s1 page="0273" title="13. CRUSTACEA : DECAPODA : POTAMONIDAE" author="Ghosh, H. C.;Ghatak, S. S."></s1>
+		<s1 page="0277" title="14. CLADOCERA" author="Venkataraman, K.;Das, S. R."></s1>
+		<s1 page="0317" title="15. FRESWATER BRYOZOA" author="Samanta, T. K."></s1>
+		<s1 page="0323" title="16. MOLLUSCA" author="Mookherjee, H. P.;Thakur, D. K.;Mitra, S. C.;Barua, S."></s1>
+	</book>
+	<book bid="042">
+		<s1 page="0001" title="1. Introduction" author="Baqri, Quiser H."></s1>
+		<s1 page="0015" title="2. Mammalia" author="Chakraborty, S.;Agarwal, V. C."></s1>
+		<s1 page="0085" title="3. Aves" author="Dutta, Barid Baran"></s1>
+		<s1 page="0243" title="4. Reptilia" author="Sharma, R. C."></s1>
+		<s1 page="0299" title="5. Amphibia" author="Sarkar, A. K.;Ray, S."></s1>
+		<s1 page="0311" title="6. Marine and Estuarine Fishes" author="Burman, R. P.;Mukherjee, P.;Kar, S."></s1>
+		<s1 page="0413" title="7. Freshwater Fishes" author="Sen, T. K.;Banerjee, P. K."></s1>
+	</book>
+	<book bid="043">
+		<s1 page="0001" title="ORIBATID MITES (ACARI : ORIBATIDA)" author="Sanyal, A. K.;Basak, S."></s1>
+		<s1 page="0011" title="ACARI : METASTIGMATA (TICKS)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0019" title="INSECTA : ODONATA" author="Prasad, M."></s1>
+		<s1 page="0041" title="INSECTA : ISOPTERA (TERMITES)" author="Rathore, N. S.;Tak, N."></s1>
+		<s1 page="0089" title="INSECTA : HEMIPTERA : COCCOIDEA" author="Varshney, R. K."></s1>
+		<s1 page="0095" title="INSECTA : COLEOPTERA" author="Chatterjee, S. K.;Chakraborty, S.;Biswas, D. N.;Halder, S. K.;Ghosh, S. K.;Mukhopadhyay, P.;Biswas, S."></s1>
+		<s1 page="0105" title="INSECTA : COLEOPTERA : SCARABAEIDAE COPRINAE (DUNG BEETLES)" author="Sewak, Ram"></s1>
+		<s1 page="0127" title="INSECTA : DIPTERA" author="Lahiri, A. R.;Mitra, B."></s1>
+		<s1 page="0161" title="INSECTA : HYMENOPTERA : FORMICIDAE" author="Tak, N.;Rathore, N. S."></s1>
+		<s1 page="0185" title="ECHINODERMATA : CARINOIDAE, ASTEROIDEA, OPHIUROIDEA AND ECHINOIDEA" author="Sastry, D. R. K."></s1>
+		<s1 page="0207" title="CRUSTACEA : DECAPODA : GRAPSIDAE" author="Ghosh, Sunil Kumar"></s1>
+		<s1 page="0211" title="PRAWNS OF GUJARAT COAST" author="Chanda, Angsuman;Roy, T."></s1>
+		<s1 page="0219" title="ANNELIDA : POLYCHAETA" author="Misra, A.;Chakraborty, R. K."></s1>
+		<s1 page="0245" title="ECHIURA" author="Haldar, B. P."></s1>
+		<s1 page="0263" title="MARINE MOLLUSCA (Part-1 : Polyplacophora, Gastropoda and Scaphopoda)" author="Rao, K. V. Surya;Maitra, Sipra;Barua, S.;Ramakrishna"></s1>
+		<s1 page="0333" title="SIPUNCULA" author="Haldar, B. P."></s1>
+		<s1 page="0355" title="NEMATODA" author="Tak, N.;Rathore, N. S."></s1>
+		<s1 page="0401" title="CNIDARIA : MEDUSAE" author="Haldar, B. P."></s1>
+		<s1 page="0417" title="PROTOZOA" author="Das, A. K."></s1>
+	</book>
+	<book bid="044">
+		<s1 page="0001" title="1. OVERVIEW" author="Ramakirshna;Alfred, J. R. B."></s1>
+		<s1 page="0033" title="2. MAMMALIA" author="Chattopadhyay, S.;Saha, S. S.;Ghosh, M. K.;Agrawal, V. C."></s1>
+		<s1 page="0077" title="3. AVIES" author="Dutta, B. B.;Ghosh, S.;Roy, S. Basu;Datta, B. K.;Sett, A. K.;Sakthivel, R.;Bhattacharyya, T. P."></s1>
+		<s1 page="0157" title="4. REPTILIA" author="Sanyal, D. P.;Sur, S.;Gayen, N. C."></s1>
+		<s1 page="0173" title="5. AMPHIBIA" author="Chandra, S. K."></s1>
+		<s1 page="0185" title="6. FISHES" author="Karmakar, A. K."></s1>
+	</book>
+	<book bid="045">
+		<s1 page="0001" title="1. IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0011" title="2. ACARI : PLANT MITE" author="Gupta, S. K."></s1>
+		<s1 page="0037" title="3. ORIBATID MITES (ACARI : ORIBATIDA)" author="Sanyal, A. K."></s1>
+		<s1 page="0067" title="4. ARANEAE : SPIDERS" author="Biswas, Bijan;Biswas, Kajal"></s1>
+		<s1 page="0101" title="5. INSECTA : THYSANURA (APTERYGOTA)" author="Hazra, A. K.;Biswas, M.;Mandal, G. P."></s1>
+		<s1 page="0109" title="6. INSECTA : COLLEMBOLA" author="Hazra, A. K.;Mandal, G. P.;Mitra, S. K.;Bhattacharyya, B."></s1>
+		<s1 page="0125" title="7. INSECTA : ODONATA" author="Mitra, Tribid Ranjan"></s1>
+		<s1 page="0165" title="8. INSECTA : ORTHOPTERA : ACRIDOIDEA AND EUMASTACOIDEA" author="Shishodia, M. S.;Dey, Anita;Tandon, S. K."></s1>
+		<s1 page="0193" title="9. INSECTA : ORTHOPTERA : TETTIGONIIDAE" author="Barman, R. S."></s1>
+		<s1 page="0203" title="10. INSECTA : DERMAPTERA" author="Srivastava, G. K."></s1>
+		<s1 page="0227" title="11. INSECTA : BLATTARIAE" author="Mandal, S. K."></s1>
+		<s1 page="0239" title="12. INSECTA : ISOPTERA" author="Maiti, P. K.;Saha, N.;Roy, P. H.;Sar, A."></s1>
+		<s1 page="0251" title="13. INSECTA : HEMIPTERA : HOMOPTERA : APHIDIDAE" author="Ghosh, L. K.;Basu, R. C."></s1>
+		<s1 page="0403" title="14. APHID---HOST PLANT ASSOCIATION IN SIKKIM" author="Ghosh, L. K.;Mondal, P. K."></s1>
+		<s1 page="0439" title="15. INSECTA : HOMOPTERA : CICADELLOIDEA" author="Ghosh, M.;Ghosh, L. K."></s1>
+		<s1 page="0463" title="16. INSECTA : HOMOPTERA : CICADOIDEA" author="Ghosh, M.;Sen, G. C.;Ghosh, L. K."></s1>
+		<s1 page="0477" title="17. INSECTA : HOMOPTERA : CERCOPOIDEA" author="Biswas, B.;Ghosh, L. K."></s1>
+		<s1 page="0489" title="18. INSECTA : HEMIPTERA : HETEROPTERA : COREOIDEA" author="Basu, R. C.;Mitra, S. C."></s1>
+		<s1 page="0509" title="19. INSECTA : HEMIPTERA : HETEROPTERA : PENTATOMOIDE" author="Chakraborty, S. P.;Ghosh, L. K."></s1>
+		<s1 page="0525" title="20. INSECTA : HETEROPTERA : REDUVIIDAE" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0541" title="21. INSECTA : HEMIPTERA : WATER-BUGS" author="Bal, Animesh;Basu, R. C."></s1>
+	</book>
+	<book bid="046">
+		<s1 page="0001" title="1. INSECTA : THYSANOPTERA" author="Das, B. C.;Sengupta, C. K.;Pramanik, N. K."></s1>
+		<s1 page="0009" title="2. INSECTA : COLEOPTERA : ADEPHAGA : CICINDELIDAE (TIGER BEETLES)" author="Mukhopadhyay, P.;Halder, S. K."></s1>
+		<s1 page="0019" title="3. INSECTA : COLEOPTERA (FAM. GYRINIDAE AND FAM. DYTISCIDAE)" author="Mukhopadhyay, P.;Ghosh, S. K."></s1>
+		<s1 page="0035" title="4. INSECTA : COLEOPTERA : POLYPHAGA : HYDROPHILIDAE" author="Mukhopadhyay, P.;Sengupta, S."></s1>
+		<s1 page="0045" title="5. INSECTA : COLEOPTERA : HISTERIDAE" author="Chakraborty, S. K.;Biswas, S."></s1>
+		<s1 page="0057" title="6. INSECTA : COLEOPTERA : SCARABAEIDAE" author="Chatterjee, S. K.;Biswas, S."></s1>
+		<s1 page="0067" title="7. INSECTA : COLEOPTERA : RHIZOPHAGIDAE" author="Pal, T. K."></s1>
+		<s1 page="0073" title="8. INSECTA : COLEOPTERA : SILVANIDAE" author="Pal, T. K."></s1>
+		<s1 page="0087" title="9. INSECTA : COLEOPTERA : LANGURIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0099" title="10. INSECTA : COLEOPTERA : EROTYLIDAE" author="Pal, T. K."></s1>
+		<s1 page="0107" title="11. INSECTA : COLEOPTERA : ENDOMYCHIDAE" author="Pal, T. K."></s1>
+		<s1 page="0117" title="12. INSECTA : COLEOPTERA : COCCINELLIDAE" author="Chakraborty, S. K.;Biswas, S."></s1>
+		<s1 page="0153" title="13. INSECTA : COLEOPTERA : DISCOLOMIDAE" author="Pal, T. K."></s1>
+		<s1 page="0163" title="14. INSECTA : COLEOPTERA : COLYDIIDAE (SENSU LATO)" author="Pal, T. K."></s1>
+		<s1 page="0177" title="15. INSECTA : COLEOPTERA : INOPEPLIDAE" author="Pal, T. K."></s1>
+		<s1 page="0181" title="16. INSECTA : COLEOPTERA : CERAMBYCIDAE" author="Mukhopadhyay, P.;Halder, S. K."></s1>
+		<s1 page="0201" title="17. INSECTA : COLEOPTERA : CURCULIONIDAE" author="Mukhopadhyay, P.; Halder, S. K."></s1>
+		<s1 page="0209" title="18. INSECTA : COLEOPTERA : PLATYPODIDAE" author="Nandi, B.;Mukhopadhyay, P."></s1>
+		<s1 page="0217" title="19. INSECTA : COLEOPTERA : ELATEROIDEA : ELATERIDAE" author="Mukhopadhyay, P.;Chakraborty, Paramita"></s1>
+		<s1 page="0237" title="20. INSECTA : COLEOPTERA : STAPHYLINIDAE" author="Biswas, D. N."></s1>
+		<s1 page="0283" title="21. INSECTA : DIPTERA" author="Datta, M.;Parui, P."></s1>
+		<s1 page="0329" title="22. INSECTA : DIPTERA : ASILIDAE" author="Parui, P."></s1>
+		<s1 page="0341" title="23. INSECTA : DIPTERA : SYRPHIDAE" author="Datta, M."></s1>
+		<s1 page="0387" title="24. INSECTA : DIPTERA : TACHINIDAE" author="Lahiri, A. R."></s1>
+		<s1 page="0401" title="25. INSECTA : DIPTERA : MUSCIDAE" author="Mitra, Bulganin"></s1>
+	</book>
+	<book bid="047">
+		<s1 page="0001" title="1. INSECTA : LEPIDOPTERA : PAPILIONIDAE" author="Maulik, D. R."></s1>
+		<s1 page="0027" title="2. INSECTA : LEPIDOPTERA : NYMPHALIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0093" title="3. INSECTA : LEPIDOPTERA :CTENUCHIDAE AND LIMACODIDAE" author="(Chaudhury), Mridula Majundar"></s1>
+		<s1 page="0109" title="4. INSECTA : LEPIDOPTERA : PIERIDAE AND HESPERIIDAE" author="(Chaudhury), Mridula Majundar"></s1>
+		<s1 page="0147" title="5. INSECTA : LEPIDOPTERA : SATURNIIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0159" title="6. INSECTA : LEPIDOPTERA : ZYGAENIDAE" author="Bhattacharya, D. P."></s1>
+		<s1 page="0175" title="7. INSECTA : LEPIDOPTERA : ARCTIIDAE" author="(Chaudhury), Mridula Majundar"></s1>
+		<s1 page="0217" title="8. INSECTA : LEPIDOPTERA : HETEROCERA : GEOMETRIDAE" author="Ghosh, S. K."></s1>
+		<s1 page="0343" title="9. INSECTA : TRICHOPTERA" author="(Chaudhury), Mridula Majundar"></s1>
+		<s1 page="0369" title="10. INSECTA : HYMENOPTERA : VESPIDAE" author="Jonathan, J. K.;Kundu, B. G."></s1>
+		<s1 page="0393" title="11. INSECTA : HYMENOPTERA : SCOLIIDAE" author="Jonathan, J. K.;Gupta, S. K."></s1>
+		<s1 page="0417" title="12. INSECTA : HYMENOPTERA : SPHECIDAE" author="Jonathan, J. K.;Kundu, B. G."></s1>
+		<s1 page="0447" title="13. INSECTA : HYMENOPTERA : ICHNEUMONIDAE" author="Jonathan, J. K."></s1>
+		<s1 page="0467" title="14. INSECTA : HYMENOPTERA : FORMICIDAE" author="Tiwari, R. N.;Kundu, B. G.;Chowdhury, S. Roy;Ghosh, S. N."></s1>
+		<s1 page="0507" title="15. INSECTA : HYMENOPTERA : ACULEATA" author="Ray, K. K."></s1>
+	</book>
+	<book bid="048">
+		<s1 page="0001" title="1. PROTOZOA" author="Das, A. K.;Tiwari, D. N.; Sarkar, N. C."></s1>
+		<s1 page="0045" title="2. NEMATODES" author="Chaturvedi, Y."></s1>
+		<s1 page="0071" title="3. ACANTHACEPHALA" author="Bhattacharya, S. B."></s1>
+		<s1 page="0079" title="4. HIRUDINEA : LEECHES" author="Ghosh, G. C."></s1>
+		<s1 page="0085" title="5. FRESHWATER OLIGOCHAETA" author="Mukhopadhyay, S. K."></s1>
+		<s1 page="0091" title="6. OLIGOCHAETA : EARTHWORM" author="Halder, K. R."></s1>
+		<s1 page="0117" title="7. CRUSTACEA : DECAPODA : PALAEMONIDAE AND POTAMONIDAE" author="Roy, T.;Ghosh, S. K.;Ghatak, S. S."></s1>
+		<s1 page="0121" title="8. FRESHWATER BRYOZOA" author="Samanta, T. K."></s1>
+		<s1 page="0129" title="9. MOLLUSCA" author="Dey, A.;Barua, S.;Mitra, S. C."></s1>
+	</book>
+	<book bid="049">
+		<s1 page="0001" title="1. OVERVIEW" author="Alfred, J. R. B.;Ramakirshna"></s1>
+		<s1 page="0017" title="2. MAMMALIA" author="Mandal, Ajoy Kumar;Podder, A. K.;Bhattacharyya, T. P."></s1>
+		<s1 page="0065" title="3. AVIES" author="Dutta, B. B.;Datta, B. K."></s1>
+		<s1 page="0119" title="4. REPTILIA : SQUAMATA" author="Mathew, R."></s1>
+		<s1 page="0123" title="5. AMPHIBIA" author="Sarkar, A. K.;Chandra, P. K.;Ray, S."></s1>
+		<s1 page="0133" title="6. FISHES" author="Karmakar, A. K.;Das, A."></s1>
+		<s1 page="0173" title="7. ANIMAL FOSSILS" author="Pal, T. K.;Mishra, U. K."></s1>
+	</book>
+	<book bid="050">
+		<s1 page="0001" title="1. ORIBATID MITES (ACARI)" author="Sanyal, A. K."></s1>
+		<s1 page="0015" title="2. IXODID TICKS (ACARI : METASTIGMATA)" author="Sanyal, A. K.;Dey, S. K."></s1>
+		<s1 page="0025" title="3. ARANEAE : SPIDERS" author="Biswas, Bijan Kumar;Biswas, Kajal"></s1>
+		<s1 page="0047" title="4. INSECTA : THYSANURA" author="Hazra, A. K.;Biswas, M.;Mitra, S. K."></s1>
+		<s1 page="0051" title="5. INSECTA : COLLEMBOLA" author="Hazra, A. K.;Mandal, G. P.;Mitra, S. K.;Bhattacharyya, B."></s1>
+		<s1 page="0067" title="6. INSECTA : EPHEMEROPTERA" author="Srivastava, V. D."></s1>
+		<s1 page="0075" title="7. INSECTA : ODONATA" author="Srivastava, V. D.;Sinha, C."></s1>
+		<s1 page="0111" title="8. INSECTA : ORTHOPTERA : ACRIDOIDEA" author="Shishodia, M. S.;Tandon, S. K."></s1>
+		<s1 page="0139" title="9. INSECTA : ORTHOPTERA : TETTIGONIIDAE" author="Shishodia, M. S.;Barman, R. S."></s1>
+		<s1 page="0147" title="10. INSECTA : BLATTARIA (DICTYOPTERA)" author="Mandal, S. K."></s1>
+		<s1 page="0153" title="11. INSECTA : ISOPTERA" author="Maiti, P. K.;Saha, N.;Roy, P. H."></s1>
+		<s1 page="0165" title="12. INSECTA : PSOCOPTERA" author="Srivastava, V. D."></s1>
+		<s1 page="0169" title="13. INSECTA : HEMIPTERA : HETEROPTERA : PENTATOMOIDEA" author="Chakraborty, S. P."></s1>
+		<s1 page="0177" title="14. INSECTA : HEMIPTERA : APHIDIDAE" author="Basu, R. C.;Ghosh, L. K."></s1>
+		<s1 page="0223" title="15. INSECTA : HEMIPTERA : HETEROPTERA : COREOIDEA" author="Basu, R. C.;Mitra, S. C."></s1>
+		<s1 page="0239" title="16. INSECTA : HEMIPTERA : HOMOPTERA : FULGOROIDEA, CERCOPOIDEA, CICADOIDEA AND MEMBRACIDAE" author="Biswas, B.;Ghosh, M.;Bal, Animesh;Sen, G. C."></s1>
+		<s1 page="0253" title="17. INSECTA : HOMOPTERA : CICADELLOIDEA" author="Ghosh, M.;Ghosh, L. K."></s1>
+		<s1 page="0285" title="18. INSECTA : HEMIPTERA : REDUVIIDAE" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0293" title="19. INSECTA : HEMIPTERA : WATER-BUGS" author="Bal, Animesh;Basu, R. C."></s1>
+		<s1 page="0311" title="20. INSECTA : COLEOPTERA : COLYDIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0317" title="21. INSECTA : COLEOPTERA : DISCOLOMIDAE" author="Pal, T. K."></s1>
+		<s1 page="0323" title="22. INSECTA : COLEOPTERA : ENDOMYCHIDAE" author="Pal, T. K."></s1>
+		<s1 page="0333" title="23. INSECTA : COLEOPTERA : LANGURIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0341" title="24. INSECTA : COLEOPTERA : LATHRIDIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0353" title="25. INSECTA : COLEOPTERA : ELATERIDAE (ELATEROIDEA)" author="Mukhopadhyay, P.;Chakraborty, P."></s1>
+		<s1 page="0359" title="26. INSECTA : COLEOPTERA : ADEPHAGA (FAM. HALIPLIDAE, FAM. GYRINIDAE AND FAM. DYISCIDAE)" author="Muhopadhyay, P.;Ghosh, S."></s1>
+		<s1 page="0371" title="27. INSECTA : COLEOPTERA : SCARABAEIDAE" author="Chatterjee, S. K."></s1>
+		<s1 page="0385" title="28. INSECTA : COLEOPTERA : STAPHYLINIDAE" author="Biswas, D. N.;Mukhopadhyay, P."></s1>
+		<s1 page="0401" title="29. INSECTA : COLEOPTERA : COCCINELLIDAE" author="Chakraborty, S. K."></s1>
+		<s1 page="0421" title="30. INSECTA : COLEOPTERA : CERAMBYCIDAE" author="Mukhopadhyay, P.;Halder, S. K."></s1>
+		<s1 page="0433" title="31. INSECTA : COLEOPTERA : HISTERIDAE" author="Chakraborty, S. K."></s1>
+		<s1 page="0437" title="32. INSECTA : COLEOPTERA : SILVANIDAE" author="Pal, T. K.;Baraik, B."></s1>
+		<s1 page="0445" title="33. INSECTA : COLEOPTERA : ADEPHAGA : CICINDELIDAE" author="Mukhopadhyay, P.;Halder, S. K."></s1>
+		<s1 page="0449" title="34. INSECTA : COLEOPTERA : POLYPHAGA : HYDROPHILOIDEA : HYDROPHILIDAE" author="Mukhopadhyay, P.;Sengupta, S."></s1>
+		<s1 page="0459" title="35. INSECTA : DIPTERA" author="Datta, M.;Parui, P."></s1>
+		<s1 page="0485" title="36. INSECTA : DIPTERA : SYRPHIDAE" author="Datta, M.;Mukherjee, M."></s1>
+		<s1 page="0503" title="37. INSECTA : DIPTERA : MUSCIDAE" author="Mitra, Bulganin"></s1>
+		<s1 page="0509" title="38. DIPTERA : TACHINIDAE" author="Lahiri, A. R."></s1>
+		<s1 page="0515" title="39. INSECTA : LEPIDOPTERA" author="Majumdar, Mridula (Chaudhury)"></s1>
+		<s1 page="0531" title="40. INSECTA : LEPIDOPTERA : MOTHS" author="Mandal, D. K.;Ghosh, S. K."></s1>
+		<s1 page="0541" title="41. INSECTA : LEPIDOPTERA : NYMPHALIDAE AND SATURNIIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0581" title="42. INSECTA : LEPIDOPTERA : PAPILIONOIDEA, BOMBYCOIDEA &amp; NOCTUOIDEA" author="Mondal, D. K.;Maulik, D. R."></s1>
+		<s1 page="0591" title="43. INSECTA : LEPIDOPTERA : ZYGAENIDAE" author="Bhattacharya, D. P."></s1>
+		<s1 page="0597" title="44. INSECTA : TRICHOPTERA" author="Majumdar, Mridula"></s1>
+		<s1 page="0605" title="45. INSECTA : HYMENOPTERA : FORMICIDAE" author="Tiwari, R. N.;Kundu, B. G.;Sheela, S.;Ghosh, S. N."></s1>
+	</book>	
+	<book bid="051">
+		<s1 page="0001" title="1. PROTOZOA" author="Das, A. K.;Nandi, Rina;Sarkar, N. C.;Saha, D."></s1>
+		<s1 page="0045" title="2. NEMOTODE PARASITES OF VERTEBRATES" author="Sarkar, S. R. Dey;Chatterjee, Amalendu"></s1>
+		<s1 page="0069" title="3. MOLLUSCA" author="Rao, K. V. Surya;Mookherjee, H. P.;Mitra, S. C.;Manna, R. N.;Barua. S."></s1>
+		<s1 page="0119" title="4. CRUSTACEA : DECAPODA : PALAEMONIDAE AND POTAMONIDAE" author="Roy, T.;Ghosh, S. K.;Ghatak, S. S."></s1>
+	</book>
+	<book bid="052">
+		<s1 page="0001" title="1. THE STATE OF BIHAR : AN OVERVIEW" author="Sinha, Y. P."></s1>
+		<s1 page="0015" title="2. MAMMALS" author="Sinha, Y. P."></s1>
+		<s1 page="0073" title="3. AVES" author="Dutta, B. B.; Roy, S. Basu;Datta, B. K.;Dasgupta, J. M."></s1>
+		<s1 page="0143" title="4. REPTILIA" author="Dasgupta, G.;Raha, S."></s1>
+		<s1 page="0181" title="5. AMPHIBIA" author="Sarkar, A. K.;Das, S.;Ray, S."></s1>
+		<s1 page="0195" title="6. AQUATIC INSECTS" author="Nahar, S. C."></s1>
+	</book>
+	<book bid="053">
+		<s1 page="0001" title="1. FAUNA OF NAGALAND : AN OVERVIEW" author="Ramakrishna;Alfred, J. R. B."></s1>
+		<s1 page="0013" title="2. PROTOZOA" author="Das, A. K.;Tiwari, D. N.;Sarkar, N. C."></s1>
+		<s1 page="0043" title="3. TREMATODA : DIGENEA" author="Chakrabarti, S.;Dutta, I. B."></s1>
+		<s1 page="0055" title="4. FRESHWATER MOLLUSCS" author="Mitra, S. C.;Barua, S.;Mukhopadhyay, A. K.;Ramakrishna"></s1>
+		<s1 page="0067" title="5. COLLEMBOLA" author="Hazra, A. K.;Mandal, G. P.;Mitra, S. K.;Bhattacharyya, B."></s1>
+		<s1 page="0075" title="6. INSECTA : ODONATA" author="Mitra, Tridib Ranjan;Prasad, Mahabir;Sinha, Chhaya"></s1>
+		<s1 page="0089" title="7. INSECTA : ORTHOPTERA : TETTIGONIIDAE" author="Shishodia, M. S."></s1>
+		<s1 page="0095" title="8. INSECTA : ORTHOPTERA : ACRIDIDAE AND PYRGOMORPHIDAE" author="Shishodia, M. S.;Dey, Anita"></s1>
+		<s1 page="0111" title="9. INSECTA : COLEOPTERA : SILVANIDAE" author="Pal, T. K.;Baraik, B."></s1>
+		<s1 page="0127" title="10. INSECTA : COLEOPTERA : INOPEPLIDAE" author="Pal, T. K."></s1>
+		<s1 page="0131" title="11. INSECTA : COLEOPTERA : EROTYLIDAE" author="Pal, T. K."></s1>
+		<s1 page="0137" title="12. INSECTA : COLEOPTERA : ENDOMYCHIDAE" author="Pal, T. K."></s1>
+		<s1 page="0143" title="13. INSECTA : COLEOPTERA : MONOTOMIDAE" author="Pal, T. K."></s1>
+		<s1 page="0151" title="14. INSECTA : COLEOPTERA : DISCOLOMIDAE" author="Pal, T. K."></s1>
+		<s1 page="0159" title="15. INSECTA : COLEOPTERA : LANGURIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0169" title="16. INSECTA : DIPTERA" author="Mitra, Bulganin;Parui, P."></s1>
+		<s1 page="0185" title="17. INSECTA : DIPTERA : SYRPHIDAE" author="Mukherjee, Manu;Parui, P.;Mitra, Bulganin"></s1>
+		<s1 page="0193" title="18. INSECTA : DIPTERA : MUSCIDAE" author="Mitra, Bulganin"></s1>
+		<s1 page="0199" title="19. INSECTA : DIPTERA : TACHINIDAE" author="Lahiri, A. R."></s1>
+		<s1 page="0213" title="20. INSECTA : LEPIDOPTERA : NYMPHALIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0263" title="21. INSECTA : LEPIDOPTERA : PAPILIONIDAE and NYMPHALIDAE (DANAINAE)" author="Gupta, I. J.;Maulik, D. R."></s1>
+		<s1 page="0291" title="22. INSECTA : LEPIDOPTERA : PIERIDAE AND HESPERIIDAE" author="Gupta, I. J.;Majumdar, M."></s1>
+		<s1 page="0351" title="23. INSECTA : LEPIDOPTERA : GEOMETRIDAE : HETEROCERA" author="Ghosh, S. K."></s1>
+		<s1 page="0367" title="24. INSECTA : LEPIDOPTERA : LASIOCAMPIDAE AND LYMANTRIIDAE" author="Gupta, I. J.;Maulik, D. R."></s1>
+		<s1 page="0375" title="25. INSECTA : LEPIDOPTERA : ARCTIIDAE AND CTENUCHIDAE" author="Gupta, I. J.;Majumdar, M."></s1>
+		<s1 page="0389" title="26. ORIBATID MITES (ACARI : ORIBATEI)" author="Sanyal, A. K."></s1>
+		<s1 page="0393" title="27. FISHES" author="Karmakar, A. K.;Das, A."></s1>
+		<s1 page="0427" title="28. AMPHIBIAN" author="Chanda, S. K."></s1>
+		<s1 page="0433" title="29. REPTILIA" author="Dasgupta, Gouri;Raha, Sujoy"></s1>
+		<s1 page="0461" title="30. AVES" author="Ghosh, S.;Roy, S. Basu;Datta, B. K.;Set, A. K."></s1>
+		<s1 page="0579" title="31. MAMMALS" author="Srivastava, J. P.;Mondal, Ajoy Kumar;Biswas, D. K."></s1>
+	</book>
+	<book bid="054">
+		<s1 page="0001" title="1. FAUNA OF ARUNACHAL PREDESH-AN OVERVIEW" author="Ramakrishna;Alfred, J. R. B."></s1>
+		<s1 page="0021" title="2. MAMMALS" author="De, J. K.;Mandal, Ajoy Kumar;Ghosh, M. K."></s1>
+		<s1 page="0069" title="3. AVES" author="Dutta, B. B.;Roy, S. Basu"></s1>
+		<s1 page="0247" title="4. REPTILIA" author="Sanyal, D. P.;Gayen, N. C."></s1>
+		<s1 page="0285" title="5. AMPHIBIA" author="Sarkar, A. K.;Ray, S."></s1>
+		<s1 page="0317" title="6. PISCES" author="Sen, T. K."></s1>
+	</book>
+	<book bid="055">
+		<s1 page="0001" title="1. PROTOZOA" author="Das, A. K.;Nandi, N. C.;Chattopadhyay, Piyali"></s1>
+		<s1 page="0039" title="2. CRUSTACEA : DECAPODA : PALAEMONIDAE AND POTAMONIDAE" author="Ghosh, S. K.;Ghatak, S. S.;Roy, T."></s1>
+		<s1 page="0047" title="3. LEECHES" author="Mandal, C. K."></s1>
+		<s1 page="0049" title="4. TREMATODES OF AMPHIBIAN" author="Bhutia, P. T."></s1>
+		<s1 page="0055" title="5. INSECTA : COLLEMBOLA" author="Hazra, A. K.;Mandal, G. P.;Mitra, S. K.;Bhattacharya, B."></s1>
+		<s1 page="0067" title="6. INSECTA : ODONATA" author="Mitra, Tridib Ranjan"></s1>
+		<s1 page="0151" title="7. INSECTA : ORTHOPTERA : ACRIDOIDEA" author="Mandal, S. K.;Dey, A.;Hazra, A. K."></s1>
+		<s1 page="0175" title="8. BLATTARIA (DICTYOPTERA)" author="Mandal, A. K."></s1>
+		<s1 page="0191" title="9. INSECTA : COLEOPTERA : SCARABAEIDAE : COPRINAE (DUNG BEETLES)" author="Sewak, Ram"></s1>
+		<s1 page="0225" title="10. INSECTA : DIPTERA : NEMATOCERA" author="Mitra, Bulganin;Lahiri, A. R.;Mukherjee, M."></s1>
+		<s1 page="0257" title="11. INSECTA : DIPTERA : BRACHYCERA" author="Mitra, Bulganin;Parui, P.;Banerjee, D."></s1>
+		<s1 page="0283" title="12. INSECTA : DIPTERA : BOMBYLIIDAE" author="Banerjee, D.;Mitra, Bulganin"></s1>
+		<s1 page="0297" title="13. INSECTA : DIPTERA : CYCLORRHAPHA" author="Mitra, Bulganin;Sil, M.;Mridha, R. S.;Bhattacharjee, K."></s1>
+		<s1 page="0331" title="14. INSECTA : DIPTERA : SYRPHIDAE" author="Mukherjee, M.;Parui, P.;Mitra, Bulganin"></s1>
+		<s1 page="0355" title="15. INSECTA : DIPTERA : MUSCIDAE" author="Mitra, Bulganin"></s1>
+		<s1 page="0369" title="16. INSECTA : HYMENOPTERA : FORMICIDAE" author="Ghosh, S. N.;Sheela, S.;Kundu, B. G.;Roychowdhury, S.;Tiwari, R. N."></s1>
+		<s1 page="0399" title="17. INSECTA : HYMENOPTERA : ACULEATA : SPHECIDAE" author="Kundu, B. G.;Ghosh, S. N.;Tiwari, R. N."></s1>
+		<s1 page="0427" title="18. INSECTA : HYMENOPTERA : ACULEATA : (VESPIDAE AND APIDAE)" author="Kundu, B. G.;Ghosh, S. N.;Roychowdhury, S."></s1>
+		<s1 page="0449" title="19. ARACHNIDA : SCORPIONIDA, UROPYGI, SCHIZOMIDA AND ONCOPODID OPILIONES (CHELICERATA)" author="Bastawade, D. B."></s1>
+		<s1 page="0467" title="20. ORIBATID MITES (ACARI : ORIBATEI)" author="Sanyal, A. K.;Sarkar, B. J.;Moitra, M. N."></s1>
+		<s1 page="0479" title="21. IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0491" title="22. ARANEAE : SPIDERS" author="Biswas, Bijan;Biswas, Kajal"></s1>
+	</book>
+	<book bid="056">
+		<s1 page="0001" title="1. FAUNA OF MIZORAM---AN OVERVIEW" author="Ramakrishna"></s1>
+		<s1 page="0013" title="2. DORYLAIMIDA : NEMATODA" author="Ghosh, Subhash Chandra;Chatterjee, Amalendu"></s1>
+		<s1 page="0031" title="3. SOME PHYTOPHAGOUS NEMATODES (ORDER TYLENCHIDA, SUBORDER TYLENCHINA)" author="Sen, Debabrata;Chatterjee, Amalendu"></s1>
+		<s1 page="0043" title="4. NEMATODE PARASITES OF VERTEBRATES" author="Sarkar, S. R. Dey;Chatterjee, Amalendu;Sen, Debabrata"></s1>
+		<s1 page="0083" title="5. TREMATODES" author="Dutta, I. B."></s1>
+		<s1 page="0093" title="6. MOLLUSCUS" author="Rao, K. V. Surya;Mitra, S. C.;Dey, A."></s1>
+		<s1 page="0129" title="7. INSECTA : COLLEMBOLA" author="Hazra, A. K.;Mandal, G. P.;Mitra, S. K.;Bhattacharya, B."></s1>
+		<s1 page="0143" title="8. INSECTA : ODONATA" author="Prasad, M."></s1>
+		<s1 page="0187" title="9. INSECTA : ORTHOPTERA : ACRIDOIDEA" author="Shishodia, M. S.;Dey, Anita"></s1>
+		<s1 page="0207" title="10. INSECTA : ORTHOPTERA : TETTIGONIIDAE" author="Shishodia, M. S."></s1>
+		<s1 page="0217" title="11. INSECTA : ORTHOPTERA : TETRIGIDAE" author="Shishodia, M. S."></s1>
+		<s1 page="0231" title="12. INSECTA : DERMAPTERA" author="Srivastava, G. K."></s1>
+		<s1 page="0241" title="13. INSECTA : ISOPTERA" author="Maity, P. K.;Saha, N.;Roy, P. H."></s1>
+		<s1 page="0249" title="14. INSECTA : HEMIPTERA : WATER-BUGS" author="Bal, Animesh;Basu, R. C."></s1>
+		<s1 page="0261" title="15. INSECTA : HEMIPTERA : HETEROPTERA : PENTATOMOIDEA" author="Chakraborty, S. P.;Bal, Animesh"></s1>
+		<s1 page="0271" title="16. INSECTA : HEMIPTERA : HETEROPTERA : REDUVIIDAE" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0277" title="17. INSECTA : HEMIPTERA : CICADELLOIDEA" author="Ghosh, Maya;Bal, Animesh"></s1>
+		<s1 page="0289" title="18. COLEOPTERA : SCARABAEIDAE" author="Chatterjee, S. K."></s1>
+		<s1 page="0295" title="19. INSECTA : COLEOPTERA : SILVANIDAE" author="Pal, T. K.;Baraik, B."></s1>
+		<s1 page="0307" title="20. INSECTA : COLEOPTERA : COLYDIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0313" title="21. INSECTA : COLEOPTERA : ENDOMYCHIDAE" author="Pal, T. K."></s1>
+		<s1 page="0323" title="22. INSECTA : COLEOPTERA : LANGURIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0329" title="23. INSECTA : COLEOPTERA : DISCOLOMIDAE" author="Pal, T. K."></s1>
+		<s1 page="0335" title="24. INSECTA : COLEOPTERA : LATHRIDIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0347" title="25. INSECTA : DIPTERA" author="Mitra, Bulganin, Parui, P."></s1>
+		<s1 page="0367" title="26. DIPTERA : TACHINIDAE" author="Lahiri, A. R."></s1>
+		<s1 page="0375" title="27. DIPTERA : MUSCIDAE" author="Mitra, Bulganin"></s1>
+		<s1 page="0379" title="28. INSECTA : DIPTERA : SYRPHIDAE" author="Datta, M.;Mukherjee, M."></s1>
+		<s1 page="0389" title="29. LEPIDOPTERA : GEOMETRIDAE" author="Ghosh, S. K."></s1>
+		<s1 page="0399" title="30. INSECTA : LEPIDOPTERA : PIERIDAE, HESPERIIDAE, HYPSIDAE, CTENUCHIDAE AND ARCTIIDAE" author="Ghosh, S. K.;Majumder, M."></s1>
+		<s1 page="0413" title="31. INSECTA : LEPIDOPTERA : PAPILIONIDAE, NYMPHALIDAE (DANAINAE) LASIO" author="Gupta, I. J.;Maulik, D. R."></s1>
+		<s1 page="0427" title="32. INSECTA : LEPIDOPTERA : NYMPHALIDAE, LYCAENIDAE AND SATURNIIDAE" author="Gupta, I. J."></s1>
+		<s1 page="0455" title="33. ARANEAE : SPIDERS" author="Biswas, Bijan;Biswas, Kajal"></s1>
+		<s1 page="0477" title="34. PLANT MITES (ACARI)" author="Gupta, S. K.;Chatterjee, Koel"></s1>
+		<s1 page="0497" title="35. IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;De, S. K."></s1>
+		<s1 page="0507" title="36. FISHES" author="Karmakar, A. K.;Das, A."></s1>
+		<s1 page="0537" title="37. AMPHIBIA" author="Chanda, S. K."></s1>
+		<s1 page="0545" title="38. REPTILIA" author="Mathew, Rosamma"></s1>
+		<s1 page="0579" title="39. AVES" author="Dutta, B. B.;Saha, S. S."></s1>
+		<s1 page="0609" title="40. MAMMALS" author="Mandal, Ajoy Kumar,;Poddar, A. K.;Bhattacharyya, T. P."></s1>
+		<s1 page="0655" title="41. ANIMAL FOSSILS" author="Pal, T. K.;Ray, S. K.;Saha, U."></s1>
+	</book>
+	<book bid="057">
+		<s1 page="0001" title="1. ORIBATID MITES (ACARI : ORIBATEI)" author="Sanyal, A. K."></s1>
+		<s1 page="0019" title="2. INSECTA : HIMIPTERA : HOMOPTERA : FULGOROIDEA, CERCOPOIDEA, CICADOIDEA AND MEMBRACIDAE" author="Biswas, B.;Ghosh, M.;Bal, Animesh"></s1>
+	</book>
+	<book bid="058">
+		<s1 page="0001" title="1. OVERVIEW" author="Chandra, Kailash"></s1>
+		<s1 page="0007" title="2. MAMMALS (MADHYA PRADESH)" author="Harshey, D. K.;Chandra, Kailash"></s1>
+		<s1 page="0049" title="3. MAMMALS (CHHATTISGARH)" author="Srivastava, J. P.;Harshey, D. K."></s1>
+		<s1 page="0079" title="4. REPTILIA" author="Sur, S.;Gayen, N. C.;Raha, S."></s1>
+		<s1 page="0113" title="5. AMPHIBIA-MADHYA PRADESH" author="Chandra, P. K.;Ray, S."></s1>
+		<s1 page="0135" title="6. AMPHIBIA-CHAATTISGARH" author="Chandra, P. K.;Ray, Sukumar"></s1>
+		<s1 page="0147" title="7. FRESHWATER FISHES" author="Sharma, H. S."></s1>
+		<s1 page="0245" title="8. INSECTA : ODONATA" author="Mishra, S. K."></s1>
+		<s1 page="0273" title="9. INSECTA : COLEOPTERA : SCARABAEIDAE" author="Chandra, Kailash;Ahirwar, S. C."></s1>
+		<s1 page="0301" title="10. INSECTA : LEPIDOPTERA : RHOPALOCERA (BUTTERFLIES)" author="Singh, R. K.;Koshta, M. L."></s1>
+		<s1 page="0347" title="11. INSECTA : LEPIDOPTERA : HETEROCERA (MOTHS)" author="Chandra, Kailash;Nema, D. K."></s1>
+		<s1 page="0419" title="12. ARANEAE : ARACHNIDA" author="Gajbe, U. A."></s1>
+		<s1 page="0541" title="13. ACARI : PLANT MITES" author="Gupta, Y. N."></s1>
+	</book>
+	<book bid="059">
+		<s1 page="0001" title="INTRODUCTION" author=""></s1>
+		<s1 page="0003" title="PHYSIOGRAPHY OF MADHYA PRADESH AND CHHATTISGARH" author=""></s1>
+		<s1 page="0003" title="FLORISTIC" author=""></s1>
+		<s1 page="0004" title="TABLE 1. HABITAT-WISE DISTRIBUTION OF THE BIRDS OF MADHYA PRADESH AND CHHATTISGARH" author=""></s1>
+		<s1 page="0004" title="TERMS AND ABBREVIATIONS USED" author=""></s1>
+		<s1 page="0005" title="Systematic Account" author=""></s1>
+		<s1 page="0080" title="TABLE 2. SYSTEMATIC LIST WITH STATUS, HABIT AND HABITAT" author=""></s1>
+		<s1 page="0146" title="TABLE 3. INTERGRADING SPECIES AND SUBSPECIES IN MADHYA PRADESH AND CHHATTISGARH" author=""></s1>
+		<s1 page="0147" title="SUMMARY" author=""></s1>
+		<s1 page="0147" title="ACKNOWLEDGEMENTS" author=""></s1>
+		<s1 page="0147" title="REFERENCES" author=""></s1>
+	</book>
+	<book bid="060">
+		<s1 page="0001" title="1. AN OVERVIEW" author="Anil Mahabal"></s1>
+		<s1 page="0009" title="2. PARASITIC PROTOZOA : BLOOD PROTOZOA (HAEMOFLAGELLATES, HAEMOGREGARINES, HAEMOSPORIDIANS AND PIROPLASMS)" author="Nandi, N. C."></s1>
+		<s1 page="0061" title="3. LAND AND FRESHWATER MOLLUSCA" author="Patil, S. G."></s1>
+		<s1 page="0073" title="4. CHILOPODA : SCOLOPENDROMORPHA" author="Sureshan, P. M.;Yadav, B. E."></s1>
+		<s1 page="0079" title="5. CLADOCERA" author="Rane, Pramod D."></s1>
+		<s1 page="0103" title="6. LAND AND MARINE ISOPODS" author="Roy, M. K. Dev"></s1>
+		<s1 page="0109" title="7. MARINE AND ESTUARINE CRABS" author="Roy, M. K. Dev;Bhadra, S."></s1>
+		<s1 page="0155" title="8. ANOMURAN CRABS" author="Roy, M. K. Dev;Reddy, K. N."></s1>
+		<s1 page="0165" title="9. CRUSTACEA : DECAPODA : PALAEMONIDAE : GECARCINUCIDAE" author="Ghatak, S. S.;Ghosh, S. K."></s1>
+		<s1 page="0173" title="10. INSECTA : ODONATA" author="Kulkarni, P. P.;Talmale, S. S."></s1>
+		<s1 page="0195" title="11. INSECTA : MANTODEA" author="Jadhav, S. S."></s1>
+		<s1 page="0199" title="12. INSECTA : LEPIDOPTERA : RHOPALOCERA AND GRYPOCERA" author="Sharma, R. M.;Borkar, M. R."></s1>
+		<s1 page="0211" title="13. ARACHNIDA (ORDERS SCORPIONES, UROPYGI, AMBLYPYGI, ARANEAE AND PHALANGIDA)" author="Bastawade, D. B.;Borkar, Manoj"></s1>
+		<s1 page="0243" title="14. FRESHWATER FISHES" author="Yadav, B. E."></s1>
+		<s1 page="0273" title="15. AMPHIBIAN" author="Kamble, Satish S."></s1>
+		<s1 page="0281" title="16. REPTILIA" author="Pradhan, M. S."></s1>
+		<s1 page="0365" title="17. AVES" author="Mahabal, Anil;Patil, Sachin R."></s1>
+		<s1 page="0431" title="18. MAMMALIA" author="Pradhan, M. S."></s1>
+		<s1 page="0497" title="19. WETLAND FAUNAL RESOURCES OF GOA" author="Nandi, N. C.;Roy, M. K. Dev;Das, S. R.;Patil, S. G.;Yadav, B. E.;Mahabal, Anil"></s1>
+	</book>
+	<book bid="061">
+		<s1 page="0000c" title="ACKNOWLEDGEMENTS" author=""></s1>
+		<s1 page="0001" title="1. OVERVIEW" author="Thirumalai, G.;Krishnan, S."></s1>
+		<s1 page="0007" title="2. ROTIFERA" author="Raghunathan, M. B.;Sureshkumar, R."></s1>
+		<s1 page="0013" title="3. ANNELIDA : HIRUDINEA" author="Mandal, C. K."></s1>
+		<s1 page="0017" title="4. CRUSTACEA : CLADOCERA" author="Raghunathan, M. B.;Sureshkumar, R."></s1>
+		<s1 page="0023" title="5. CRUSTACEA : OSTRACODA" author="Raghunathan, M. B."></s1>
+		<s1 page="0025" title="6. CRUSTACEA : DECAPODA : CARIDEA" author="Raghunathan, M. B.;Valarmathi, K."></s1>
+		<s1 page="0029" title="7. CRUSTACEA : DECAPODA : GECARCINUCIDAE" author="Srivastava, O. P."></s1>
+		<s1 page="0031" title="8. INSECTA : THYSANURA" author="Chandra, K.;Sharma, R. M."></s1>
+		<s1 page="0033" title="9. INSECTA : EPHEMEROPTERA" author="Chandra, K.;Sharma, R. M."></s1>
+		<s1 page="0035" title="10. INSECTA : ODONATA" author="Emiliyamma, K. G."></s1>
+		<s1 page="0041" title="11. INSECTA : PLECOPTERA" author="Chandra, K.;Sharma, R. M."></s1>
+		<s1 page="0045" title="12. INSECTA : ORTHOPTERA" author="Prabakar, D."></s1>
+		<s1 page="0055" title="13. INSECTA : EMBIOPTERA" author="Chandra, K.;Sharma, R. M."></s1>
+		<s1 page="0057" title="14. INSECTA : DICTYOPTERA BLATTODEA" author="Prabakaran, S.;Mandal, S. K.;Yadav, K."></s1>
+		<s1 page="0061" title="15. INSECTA : MANTODEA" author="Chandra K.;Sharma, R. M."></s1>
+		<s1 page="0065" title="16. INSECTA : HEMIPTERA : NEPOMORPHA AND GERROMORPHA" author="Thirumalai, G."></s1>
+		<s1 page="0073" title="17. INSECTA : HOMOPTERA : MEMBRACIDAE" author="Prabakaran, S.;Thirumalai, G."></s1>
+		<s1 page="0079" title="18. INSECTA : COLEOPTERA : SCARABAEIDAE" author="Chandra, Kailash"></s1>
+		<s1 page="0091" title="19. INSECTA : COLEOPTERA : CERAMBYCIDAE" author="Namboodiri, M. P. Sreedharan;Thirumalai, G."></s1>
+		<s1 page="0099" title="20. INSECTA : MECOPTERA" author="Chandra, K.;Sharma, R. M."></s1>
+		<s1 page="0101" title="21. INSECTA : SIPHONAPTERA" author="Chandra, K.;Sharma, R. M."></s1>
+		<s1 page="0103" title="22. INSECTA : DIPTERA : PSYCHODIDAE" author="Ilango, K."></s1>
+		<s1 page="0105" title="23. INSECTA : DIPTERA : CULICIDAE" author="Ilango, K."></s1>
+		<s1 page="0109" title="24. INSECTA : DIPTERA : CERATOPOGONIDAE" author="Ilango, K."></s1>
+		<s1 page="0111" title="25. INSECTA : DIPTERA : CECIDOMYIIDAE" author="Sharma, R. M."></s1>
+		<s1 page="0115" title="26. INSECTA : DIPTERA : TABANIDAE" author="Ilango, K."></s1>
+		<s1 page="0117" title="27. INSECTA : DIPTERA : TIPULOIDEA" author="Ilango, K."></s1>
+		<s1 page="0123" title="28. INSECTA : DIPTERA : TEPHRITIDAE" author="Ilango, K."></s1>
+		<s1 page="0125" title="29. INSECTA : LEPIODOPTERA : RHOPALOCERA" author="Palot, Muhamed Jafer;Radhakrishnan, C."></s1>
+		<s1 page="0137" title="30. INSECTA : TRICHOPTERA" author="Chandra, K.;Sharma, R. M."></s1>
+		<s1 page="0141" title="31. SCORPIONIDA" author="Indra, T. J."></s1>
+		<s1 page="0145" title="32. CHILOPODA : SCOLOPENDRAOMORPHA" author="Khanna, Vinod"></s1>
+		<s1 page="0149" title="33. MOLLUSCA : GASTROPODA (FRESHWATER)" author="Raghunathan, M. B.;Punithavelu, V. R."></s1>
+		<s1 page="0153" title="34. BRYOZOA : ECTOPROCTA (FRESHWATER)" author="Samanta, T. K."></s1>
+		<s1 page="0155" title="35. PISCES (FRESHWATER)" author="Devi, K. Rema;Indra, T. J.;Raghunathan, M. B."></s1>
+		<s1 page="0165" title="36. AMPHIBIA" author="Dinesh, K. P.;Radhakrishnan, C."></s1>
+		<s1 page="0187" title="37. REPTILIA" author="Aengals, R."></s1>
+		<s1 page="0199" title="38. AVES" author="Thirumalai, G.;Krishnana, S.;Valarmathi, K."></s1>
+		<s1 page="0217" title="39. MAMMALIA" author="Pradhan, M. S."></s1>
+	</book>
+	<book bid="062">
+		<s1 page="0001" title="1. AN OVIERVIEW" author="Tak, P. C.;Sati, J. P.;Bhutia, P. T."></s1>
+		<s1 page="0027" title="2. MAMMALIA" author="Sati, J. P.;Tak, P. C."></s1>
+		<s1 page="0077" title="3. AVES" author="Tak, P. C.;Sati, J. P."></s1>
+		<s1 page="0445" title="4. REPTILIA" author="Bahuguna, Archana"></s1>
+		<s1 page="0505" title="5. AMPHIBIA" author="Bahuguna, Archana;Bhutia, P. T."></s1>
+		<s1 page="0533" title="6. PISCES" author="Uniyal, Devi Prasad"></s1>
+	</book>
+	<book bid="063">
+		<s1 page="0001" title="1. INSECTA : COLLEMBOLA" author="Hazra, A. K.;Mandal, G. P."></s1>
+		<s1 page="0013" title="2. INSECTA : THYSANURA" author="Hazra, A. K.;Mandal, G. P."></s1>
+		<s1 page="0017" title="3. ODONATA : ZYGOPTERA" author="Prasad, M.;Mondal, S. B."></s1>
+		<s1 page="0029" title="4. ODONATA : ANISOPTERA" author="Prasad, M.;Sinha, C."></s1>
+		<s1 page="0053" title="5. INSECTA : ORTHOPTERA : ACRIDOIDEA" author="Mandal, S. K.;Dey A.;Yada, K."></s1>
+		<s1 page="0081" title="6. INSECTA : ISOPTERA" author="Saha, N.;Roy, P. H.;Sar, A."></s1>
+		<s1 page="0105" title="7. HEMIPTERA : WATER-BUGS" author="Saha, Nabaneeta;Bal, Animesh"></s1>
+		<s1 page="0133" title="8. INSECTA : HEMIPTERA : APHIDIDAE" author="Das, B. C.;Senguta, C. K.;Pramanik, N. K."></s1>
+		<s1 page="0175" title="9. INSECTA : HEMIPTERA : HOMOPTERA : CICADELLOIDEA" author="Ghosh, Maya;Bal, Animesh"></s1>
+		<s1 page="0195" title="10. INSECTA : HEMIPTERA : HOMOPTERA : CICADOIDEA" author="Ghosh, Maya;Bal, Animesh"></s1>
+		<s1 page="0209" title="11. INSECTA : HEMIPTERA : HOMOPTERA : FULGOROIDEA" author="Ghosh, Maya;Bal, Animesh"></s1>
+		<s1 page="0219" title="12. INSECTA : HEMIPTERA : LYGAEIDAE" author="Saha, P. C.;Bal, Animesh"></s1>
+		<s1 page="0229" title="13. INSECTA : HEMIPTERA : PENTATOMOIDEA" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0245" title="14. HEMIPTERA : PYRRHOCORIDAE" author="Saha, P. C.;Bal, Animesh"></s1>
+		<s1 page="0255" title="15. INSECTA : HEMIPTERA : HETEROPTERA : REDUVIIDAE" author="Biswas, B.;Bal, Animesh"></s1>
+		<s1 page="0269" title="16. INSECTA : COLEOPTERA : ADEPHAGA Family GYRINIDAE and DYTISCIDAE" author="Mukhopadhyay, P.;Ghosh, S. K."></s1>
+		<s1 page="0283" title="17. INSECTA : COLEOPTERA : COCCINELLIDAE" author="Chakraborty, S. K."></s1>
+		<s1 page="0303" title="18. INSECTA : COLEOPTERA : HISTERIDAE" author="Chakraborty, S. K."></s1>
+		<s1 page="0311" title="19. INSECTA : COLEOPTERA : SCARABAEIDAE (CETONIINAE, DYNASTINAE AND RUTELINAE)" author="Chatterjee, S. K."></s1>
+		<s1 page="0323" title="20. INSECTA : COLEOPTERA : POLYPHAGA : HYDROPHILOIDEA : HYDROPHILIDAE" author="Mukhopadhyay, P."></s1>
+		<s1 page="0335" title="21. INSECTA : COLEOPTERA : STAPHYLINOIDEA : STAPHYLINIDAE : PAEDARINAE" author="Mukhopadhyay, P.;Sar, A."></s1>
+		<s1 page="0361" title="22. INSECTA : DIPTERA" author="Mitra, Bulganin;Bhattacharya, Kaushik"></s1>
+		<s1 page="0413" title="23. INSECTA : DIPTERA : ASILIDAE" author="Parui, P.;Mitra, Bulganin"></s1>
+		<s1 page="0425" title="24. INSECTA : DIPTERA : BOMBYLIIDAE" author="Banerjee, Dhriti;Mitra, Bulganin"></s1>
+		<s1 page="0437" title="25. INSECTA : DIPTERA : CALLIPHORIDAE" author="Mitra, Bulganin;Mirdha, R. S.;Parui, P."></s1>
+		<s1 page="0443" title="26. INSECTA : DIPTERA : SARCOPHAGIDAE" author="Mitra, Bulganin;Banerjee, Dhriti;Sil, M."></s1>
+		<s1 page="0457" title="27. INSECTA : DIPTERA : SYRPHIDAE" author="Mukherjee, M.;Mitra, Bulganin"></s1>
+		<s1 page="0479" title="28. INSECTA : DIPTERA : TACHINIDAE" author="Lahiri, A. R.;Mitra, Bulganin"></s1>
+		<s1 page="0491" title="29. INSECTA : DIPTERA : TEPHRITIDAE" author="Mitra, Bulganin;Bhattacharya, Kaushik"></s1>
+		<s1 page="0501" title="30. INSECTA : LEPIDOPTERA : FAMILIES : PIERIDAE AND ARCTIIDAE" author="Majumdar, Mridula"></s1>
+		<s1 page="0531" title="31. INSECTA : LEPIDOPTERA LYCAENIDAE, LIBYTHEIDAE AND ACRAEIDAE" author="Sidhu, Avtar Kaur;Sharma, Narender"></s1>
+		<s1 page="0553" title="32. LEPIDOPTERA : SPHINGIDAE" author="Majumdar, Mridula;Kumar, Jitendra"></s1>
+		<s1 page="0569" title="33. INSECTA : LEPIDOPTERA : SATYRIDAE : RHOPALOCERA" author="Sharma, Narender;Sidhu, A. K."></s1>
+		<s1 page="0593" title="34. INSECTA : LEPIDOPTERA, NYMPHALIDAE (DANAINAE), LASIOCAMPIDAE AND LYMANTRIIDAE" author="Maulik, D. R."></s1>
+		<s1 page="0611" title="35. LEPIDOPTERA : RHOPALOCERA" author="Kumar, Parmod"></s1>
+		<s1 page="0691" title="36. INSECTA : HYMENOPTERA : CHALCIDOIDEA" author="Sheela, S."></s1>
+		<s1 page="0701" title="37. INSECTA : HYMENOPTERA : ACULEATA : SPHECIDAE" author="Kundu, B. G.;Kazmi, S. I."></s1>
+		<s1 page="0725" title="38. INSECTA : HYMENOPTERA : ACULEATA (VESPIDAE AND APIDAE)" author="Kundu, B. G.;Kumar, P. Girish;Kazmi, S. I.;Roychowdhury, S."></s1>
+	</book>
+	<book bid="064">
+		<s1 page="0001" title="1. PROTOZOA : COCCIDIA" author="Nandi, R."></s1>
+		<s1 page="0015" title="2. TREMATODE PARASITES OF VERTEBRATES" author="Chakrabarti, Shuvajit;Ghosh, Anindita"></s1>
+		<s1 page="0053" title="3. CESTODA" author="Banerjee, Suranjana;Chatterjee, Amalendu"></s1>
+		<s1 page="0081" title="4. NEMATODA : PLANT AND SOIL NEMATODES" author="Rizvi, Anjum Nasreen"></s1>
+		<s1 page="0167" title="5. ANNELID FAUNA OF SOME SELECTED WETLANDS" author="Halder, K. R.;Mandal, C. K."></s1>
+		<s1 page="0173" title="6. ANNELIDA : OLIGOCHAETES (FRESHWATER)" author="Biswas, T.;Mandal, C. K."></s1>
+		<s1 page="0181" title="7. ANNELIDA : EARTHWORMS" author="Mandal, C. K.;Dhani, S.;Mitra, Santanu;Misra, A."></s1>
+		<s1 page="0193" title="8. ANNELIDA : LEECHES" author="Mandal, C. K."></s1>
+		<s1 page="0199" title="9. CRUSTACEA : DECAPODA : PALAEMONIDAE : POTAMIDAE : GECARCINUCIDAE" author="Ghatak, S. S.;Ghosh, S. K."></s1>
+		<s1 page="0209" title="10. CHILOPODA : SCOLOPENDROMORPHA (CENTIPEDES)" author="Khanna, Vinod"></s1>
+		<s1 page="0243" title="11. ARANEAE : SPIDER" author="Biswas, Bijan;Biswas, Kajal"></s1>
+		<s1 page="0283" title="12. IXODID TICKS (ACARI : IXODIDAE)" author="Sanyal, A. K.;Sarakar, B. J."></s1>
+		<s1 page="0289" title="13. ORIBATID MITES (ACARI : ORIBATEI)" author="Sanyal, A. K."></s1>
+	</book>
+	<book bid="065">
+		<s1 page="0001" title="1. OVERVIEW" author=""></s1>
+		<s1 page="0007" title="2. INSECTA : COLLEMBOLA (APTERYGOTA)" author="Hazra, A. K.;Mandal, G. P."></s1>
+		<s1 page="0015" title="3. INSECTA : THYSANURA (APTERYGOTA)" author="Hazra, A. K.;Mandal, G. P.;Anand Kumar A."></s1>
+		<s1 page="0019" title="4. INSECTA : ORTHOPTERA : ACRIDOIDEA" author="Dey, Anita"></s1>
+		<s1 page="0033" title="5. INSECTA : ODONATA" author="Nandy, Supriya;Babu, R."></s1>
+		<s1 page="0069" title="6. INSECTA : COLEOPTERA : SILVANIDAE" author="Pal, T. K.;Baraik, B."></s1>
+		<s1 page="0081" title="7. INSECTA : COLEOPTERA : COLYDIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0093" title="8. INSECTA : COLEOPTERA : BOTHRIDERIDAE" author="Pal, T. K."></s1>
+		<s1 page="0099" title="9. INSECTA : COLEOPTERA : EROTYLIDAE" author="Pal, T. K."></s1>
+		<s1 page="0107" title="10. INSECTA : COLEOPTERA : LANGURIIDAE" author="Pal, T. K."></s1>
+		<s1 page="0111" title="11. INSECTA : COLEOPTERA : ENDOMYCHIDAE" author="Pal, T. K."></s1>
+		<s1 page="0115" title="12. INSECTA : COLEOPTERA : DISCOLOMIDAE" author="Pal, T. K."></s1>
+		<s1 page="0121" title="13. INSECTA : COLEOPTERA : MONOTOMIDAE" author="Pal, T. K."></s1>
+		<s1 page="0129" title="14. INSECTA : COLEOPTERA : INOPEPLIDAE" author="Pal, T. K."></s1>
+		<s1 page="0133" title="15. INSECTA : COLEOPTERA : PROPALTICIDAE" author="Pal, T. K.;Baraik, B."></s1>
+		<s1 page="0137" title="16. INSECTA : COLEOPTERA : ADEPHAGA : DYTISCIDAE" author="Ghosh, Sujit Kr."></s1>
+		<s1 page="0143" title="17. INSECTA : COLEOPTERA : STAPHYLINOIDEA : STAPHYLINIDAE" author="Sar, A."></s1>
+		<s1 page="0151" title="18. INSECTA : HYMENOPTERA : ACULEATA : SPHECIDAE" author="Kundu, B. G.;Ghosh, S. N.;Tiwari, R. N."></s1>
+		<s1 page="0167" title="19. INSECTA : HYMENOPTERA : CHALCIDOIDEA : ENCYRTIDAE : ENCYRTINAE" author="Kazmi, Sarfrazul Islam"></s1>
+		<s1 page="0177" title="20. INSECTA : HYMENOPTERA : CHALCIDOIDEA : ENCYRTIDAE : TETRACNEMINAE" author="Kazmi, Sarfrazul Islam"></s1>
+		<s1 page="0185" title="21. BRACHYURAN CRABS (CRUSTACEA)" author="Roy, M. K. Dev;Nandi, N. C."></s1>
+	</book>	
+	<book bid="066">	
+		<s1 page="0001" title="AN OVERVIEW" author="Mahabal, Anil;Sharma, R. M."></s1>
+		<s1 page="0021" title="MAMMALIA" author="Pradhan, M. S.;Talmale, S. S."></s1>
+		<s1 page="0147" title="AVES" author="Mahabal, Anil;Pande, Satish;Pandit, Pranav;Ponkshe, Aditya"></s1>
+		<s1 page="0189" title="REPTILIA" author="Dasgupta, Gouri;Murthy, B. H. C. K.;Raha, Sujay"></s1>
+		<s1 page="0239" title="AMPHIBIA" author="Padhye, A. D.;Ghate, H. V."></s1>
+		<s1 page="0247" title="FRESHWATER FISHES" author="Karmakar, A. K.;Yadav, B. E.;Bairagi, N.;Das, A.;Banerjee, P. K.;Jadhav, S. S."></s1>
+		<s1 page="0369" title="MARINE AND ESTUARINE FISHES" author="Barman, R. P.;Mishra, S. S.;Kar, S.;Mukherjee, P.;Saren, S. C."></s1>
+	</book>
+	<book bid="067">
+		<s1 page="0001" title="1. PARASITIC PROTOZOA" author="Nandi, N. C.;Kalavati, C.;Nikam, S.;Bindu, L.;Nandi, R.;Ghosh, R."></s1>
+		<s1 page="0195" title="2. FREELIVING PROTOZOA" author="Bindu, L.;Saha, D."></s1>
+		<s1 page="0215" title="3. FRESHWATER SPONGES" author="Ghate, H. V."></s1>
+		<s1 page="0217" title="4. NEMATODA" author="Bohra, Padma"></s1>
+		<s1 page="0249" title="5. LAND AND FRESHWATER MOLLUSCA" author="Patil, S. G.;Talmale, S. S."></s1>
+		<s1 page="0291" title="6. MARINE GASTROPODS (MOLLUSCA : GASTROPODA)" author="Pati, S. K.;Sharma, R. M."></s1>
+		<s1 page="0303" title="7. MARINI BIVALVES (MOLLUSCA : BIVALVIA)" author="Pati, S. K.;Sharma, R. M."></s1>
+		<s1 page="0309" title="8. FRESHWATER OSTRACODS" author="Patil, S. G.;Talmale, S. S."></s1>
+		<s1 page="0321" title="9. CLADOCERA" author="Rane, Pramod D."></s1>
+		<s1 page="0361" title="10. FRESHWATER PRAWNS (ATYIDAE : PALAEMONIDAE : DECAPODA)" author="Pati, S. K.;Sharma, R. M."></s1>
+		<s1 page="0365" title="11. FRESHWATER CRABS (GECARCINUCIDAE : BRACHYURA : DECAPODA)" author=""></s1>
+		<s1 page="0367" title="12. CRUSTACEA : ISOPODA" author="Roy, M. K. Dev;Mitra, S.;Pati, S. K."></s1>
+		<s1 page="0375" title="13. BARNACLES (CRUSTACEA : MAXILLOPODA : CIRRIPEDIA)" author="Pati, S. K.;Sharma, R. M."></s1>
+		<s1 page="0379" title="14. MARINE WOOD BORERS" author="Swain, D.;Pati, S. K.;Rao, M. V.;Sharma, R. M."></s1>
+		<s1 page="0381" title="15. MARINE CRABS (DECAPODA : ANOMURA AND BRACHYURA)" author="Pati, S. K.;Sahu, K. C.;Swain, D.;Baliarsingh, S. K.;Sharma, R. M."></s1>
+		<s1 page="0387" title="16. SHRIMPS (CRUSTACEA : DECAPODA : DENDROBRANCHIATA : PENAEIDAE)" author="Roy, M. K. Dev;Rath, S."></s1>
+		<s1 page="0395" title="17. INSECTA : EPHEMEROPTERA (MAYFLIES)" author="Sharma, R. M.;Chandra, Kailash"></s1>
+		<s1 page="0397" title="18. INSECTA : ODONATA" author="Kulkarni, P. P.;Babu, R.;Talmale, S. S.;Sinha, Chhaya;Mondal, S. B."></s1>
+		<s1 page="0429" title="19. INSECTA : ORTHOPTERA" author="Chandra, Kailash,Gupta, S. K."></s1>
+		<s1 page="0437" title="20. INSECTA : DERMAPTERA" author="Jadhav, M. J.;Jadhav, S. S.;Sharma, R. M."></s1>
+		<s1 page="0439" title="21. INSECTA : EMBIOPTERA (WEB SPINNERS)" author="Sharma, R. M.;Chandra, Kailash"></s1>
+		<s1 page="0441" title="22. INSECTA : MANTODEA" author="Ghate, H. V.;Jadhav, S. S.;Sharma, R. M."></s1>
+		<s1 page="0447" title="23. INSECTA : BLATTODEA" author="Jadhav, S. S.;Sharma, R. M."></s1>
+		<s1 page="0449" title="24. INSECTA : HEMIPTERA : APHIDIDAE" author="Das, B. C.;Kulkarni, P. P."></s1>
+		<s1 page="0465" title="25. INSECTA : HOMOPTERA : MEMBRACIDAE" author="Thirumalai, G.;Prabhakaran, S.;Sharma, R. M."></s1>
+		<s1 page="0467" title="26. INSECTA : HEMIPTERA (AQUATIC and SEMI AQUATIC)" author=""></s1>
+		<s1 page="0473" title="27. INSECTA : HEMIPTERA : PENTATOMIDAE" author="Pathak, Girish;Ghate, H. V.;Sharma, R. M."></s1>
+		<s1 page="0477" title="28. INSECTA : HEMIPTERA : REDUVIIDAE ASSASSIN BUGS" author="Sharma, R. M.;Bano. R."></s1>
+		<s1 page="0479" title="29. INSECTA : HOMOPTERA SCALE INSECTS AND MEALY BUGS" author="Jadhav, M. J.;Sharma, R. M."></s1>
+		<s1 page="0485" title="30. INSECTA : NEUROPTERA" author="Sharma, R. M.;Chandra, Kailash"></s1>
+		<s1 page="0489" title="31. INSECTA : COLEOPTERA : SCARABAEIDAE SCARABAEID BEETLES" author="Jadhav, M. J.;Sharma, R. M."></s1>
+		<s1 page="0495" title="32. INSECTA : COLEOPTERA : BRUCHIDAE BRUCHIDS" author="Bano, R.;Gupta, Kavita;Singh, Charan;Sharma, R. M."></s1>
+		<s1 page="0499" title="33. INSECTA : COLEOPTERA (AQUATIC)" author="Sharma, R. M.;Bano, R."></s1>
+		<s1 page="0503" title="34. INSECTA : COLEOPTERA : CERAMBYCIDAE" author="Ghate, H. V."></s1>
+		<s1 page="0507" title="35. INSECTA : COLEOPTERA : COCCINELLIDAE" author="Jadhav, S. S.;Sharma, R. M."></s1>
+		<s1 page="0511" title="36. INSECTA : COLEOPTERA : CICINDELIDAE" author="Jadhav, S. S.;Sharma, R. M."></s1>
+		<s1 page="0513" title="37. INSECTA : COLEOPTERA : ELATERIDAE" author="Patwardhan, Amol;Athalye, R. P."></s1>
+		<s1 page="0517" title="38. INSECTA : COLEOPTERA : CHRYSOMELIDAE" author="Saha, Priyanka Dutta;Jadhav, M. J.;Sharma, R. M."></s1>
+		<s1 page="0523" title="39. INSECTA : COLEOPTERA : CHRYSOMELOIDEA : CHRYSOMELIDAE : CASSIDINAE" author="Ghate, H. V."></s1>
+		<s1 page="0527" title="40. INSECTA : COLEOPTERA : RHYNCHOPHORA : CURCULIONIDAE" author="Jadhav, S. S.;Sharma, R. M."></s1>
+		<s1 page="0529" title="41. INSECTA : MECOPTERA (SCORPIONFLIES)" author="Sharma, R. M.;Chandra, Kailash"></s1>
+		<s1 page="0531" title="42. INSECTA : DIPTERA" author="Saha, Priyanka Dutta;Sharma, R. M.;Mitra, Bulganin"></s1>
+		<s1 page="0539" title="43. INSECTA : DIPTERA : CECIDOMYIIDAE (GALL MIDGES)" author="Sharma, R. M."></s1>
+		<s1 page="0549" title="44. INSECTA : DIPTERA : TABANIDAE" author="Sharma, R. M."></s1>
+		<s1 page="0551" title="45. INSECTA : LEPIDOPTERA : RHOPALOCERA AND GRYPOCERA" author="Sharma, R. M."></s1>
+		<s1 page="0563" title="46. INSECTA : TRICHOPTERA (CADDISFLIES)" author="Sharma, R. M.;Chandra, Kailash"></s1>
+		<s1 page="0567" title="47. INSECTA : HYMENOPTERA : FORMICIDAE" author="Sheela, S.;Chattopadhyay, A."></s1>
+		<s1 page="0587" title="48. INSECTA : HYMENOPTERA : ENCYRTIDAE : ENCYRTINAE" author="Kazmi, S. I.;Kumar, P. Girish"></s1>
+		<s1 page="0605" title="49. INSECTA : HYMENOPTERA : ENCYRTIDAE : TERACNEMINAE" author="Kazmi, S. I.;Kumar, P. Girish"></s1>
+		<s1 page="0619" title="50. INSECTA : HYMENOPTERA : SCOLIIDAE" author="Kumar, P. Girish;Kazmi, S. I."></s1>
+		<s1 page="0627" title="51. INSECTA : HYMENOPTERA : ICHNEUMONIDAE" author="Nikam, S. M.;Kharat, A. J."></s1>
+		<s1 page="0637" title="52. CHILOPODA : SCOLOPENDROMORPHA : SCOLOPENDRIDAE" author="Yadav, B. E."></s1>
+		<s1 page="0661" title="53. ACARINA : ARACHNIDA" author="Sirsikar, A. N.;Wanule, D. D."></s1>
+		<s1 page="0667" title="54. ARACHNIDA : ACARINA : ASTIGMATA (HOUSE DUST MITES)" author="Jogdand, S. B."></s1>
+		<s1 page="0669" title="55. ARACHNIDA : ACARINA : TROMBICULIDAE (CHIGGER MITES)" author="Bano, R.;Sharma, R. M."></s1>
+		<s1 page="0671" title="56. ARACHNIDA : SCORPIONIDA" author="Bastawade, D. B."></s1>
+	</book>
+	<book bid="068">
+		<s1 page="0001" title="1. LAND AND FRESHWATER MOLLUSCA" author="Patil, S. G.;Talmale, S. S."></s1>
+		<s1 page="0031" title="2. FRESHWATER OSTRACODS (ARTHROPODA : CRUSTACEA)" author="Harshey, D. K.;Thilak, J."></s1>
+		<s1 page="0045" title="3. CLADOCERA (ARTHROPODA : CRUSTACEA)" author="Rane, P. D."></s1>
+		<s1 page="0085" title="4. INSECTA : ISOPTERA" author="Saha, N.;Basak, J."></s1>
+		<s1 page="0105" title="5. INSECTA : ORTHOPTERA" author="Chandra, Kailash;Gupta Sunil Kumar"></s1>
+		<s1 page="0151" title="6. INSECTA : NEUROPTERA" author="Chandra, Kailash;Thilak, J.;Sidhu, Avtar Kaur"></s1>
+		<s1 page="0167" title="7. INSECTA : DIPTERA" author="Mitra, Bulganin;Parui, P.;Sharma, R. M."></s1>
+	</book>
+	<book bid="069">
+		<s1 page="0001" title="1. MARINE SPONGES" author="Pattanayak, J. G."></s1>
+		<s1 page="0065" title="2. NEMATODES : TYLENCHID" author="Sen, Debabrata;Sanyal, A. K."></s1>
+		<s1 page="0073" title="3. NEMATODA : DORYLAIMS" author="Gantait, Viswa Venkat;Sanyal, A. K."></s1>
+		<s1 page="0077" title="4. TREMATODA" author="Ghosh, Anindita;Chakrabarti, Shuvajit;Sanyal, A. K."></s1>
+		<s1 page="0083" title="5. POLYCHAETA : ANNELIDS" author="Mitra, Santanu;Chakraborty, R. K.;Misra, A."></s1>
+		<s1 page="0101" title="6. EARTHWORM" author="Mandal, C. K.;Dhani, S.;Mishra, A."></s1>
+		<s1 page="0109" title="7. BRACHYURAN CRABS (CRUSTACEA : DECAPODA : BRACHYURA)" author="Roy, M. K. Dev;Bhadra, S."></s1>
+		<s1 page="0271" title="8. ARACHNIDA : SPIDER" author="Sanyal, A. K.;Talukdar, S."></s1>
+		<s1 page="0275" title="9. ARACHNIDA : ACARINA (MITES)" author="Sanyal, A. K."></s1>
+		<s1 page="0289" title="10. ARACHNIDA : ACARINA (TICKS)" author="Sanyal, A. K."></s1>
+		<s1 page="0293" title="11. MARINE AND ESTUARINE FISH" author="Barman, R. P.;Mishra, S. S.;Kar, S.;Mukherjee, P.;Saren, S. C."></s1>
+	</book>
+</sfs>

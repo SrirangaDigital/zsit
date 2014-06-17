@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sse SYSTEM "sse.dtd">
+
+<sse>
+	<book bid="001">
+		<s1 page="0001" title="1. Status of Golden Langur, !!Presbytis geei!! Khajuria"></s1>
+		<s1 page="0017" title="2. Status of Phayre's Leaf Monkey, !!Presbytis phayrei!! Blyth"></s1>
+		<s1 page="0029" title="3. Status of Hispid Hare, !!Caprolagus hispidus!! (Pearson)"></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Taxonomy">
+			<s2 page="0002" title="Description"></s2>
+			<s2 page="0002" title="Local names"></s2>
+		</s1>
+		<s1 page="0002" title="Distribution">
+			<s2 page="0004" title="Present distribution and status"></s2>
+		</s1>
+		<s1 page="0013" title="Ecology"></s1>
+		<s1 page="0013" title="Behaviour"></s1>
+		<s1 page="0014" title="Conservation and management">
+			<s2 page="0014" title="Threats"></s2>
+			<s2 page="0015" title="Conservation measures"></s2>
+			<s2 page="0015" title="Recommendations for management"></s2>
+		</s1>
+		<s1 page="0016" title="Acknowledgements"></s1>
+		<s1 page="0016" title="References"></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0001" title="1. Introduction"></s1>
+		<s1 page="0001" title="2. Taxonomy"></s1>
+		<s1 page="0002" title="3. World Distribution of !!Otomops!! Species"></s1>
+		<s1 page="0002" title="4. Surveys in chronological order"></s1>
+		<s1 page="0003" title="5. Diagnostic characters"></s1>
+		<s1 page="0005" title="6. Ecology"></s1>
+		<s1 page="0006" title="7. Population"></s1>
+		<s1 page="0007" title="8. Threats"></s1>
+		<s1 page="0007" title="9. Conservation measures"></s1>
+		<s1 page="0007" title="10. Recommendations"></s1>
+		<s1 page="0008" title="11. Acknowledgements"></s1>
+		<s1 page="0008" title="12. References"></s1>
+		<s1 page="0009" title="13. Plates I-VIII"></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="1. Introduction"></s1>
+		<s1 page="0002" title="2. Distribution"></s1>
+		<s1 page="0002" title="3. Taxonomy"></s1>
+		<s1 page="0002" title="4. Physical Features"></s1>
+		<s1 page="0004" title="5. Study Area"></s1>
+		<s1 page="0007" title="6. Methodology"></s1>
+		<s1 page="0008" title="7. Observations">
+			<s2 page="0008" title="i. Habits and habitat"></s2>
+			<s2 page="0010" title="ii. Behaviour">
+				<s3 page="0010" title="Vocalization"></s3>
+				<s3 page="0010" title="Food and feeding"></s3>
+				<s3 page="0011" title="Burrowing"></s3>
+				<s3 page="0013" title="Grooming"></s3>
+				<s3 page="0014" title="Social"></s3>
+				<s3 page="0015" title="Mating"></s3>
+				<s3 page="0015" title="Parental"></s3>
+			</s2>
+			<s2 page="0015" title="iii. Marmot population in Eastern Ladakh"></s2>
+			<s2 page="0017" title="iv. Predators"></s2>
+		</s1>
+		<s1 page="0017" title="8. Conservation Status">
+			<s2 page="0017" title="Habitat status"></s2>
+		</s1>
+		<s1 page="0018" title="9. Threats"></s1>
+		<s1 page="0018" title="10. Remarks"></s1>
+		<s1 page="0018" title="11. Acknowledgements"></s1>
+		<s1 page="0018" title="12. References"></s1>
+	</book>
+	<book bid="005">
+		<s1 page="0001" title="1. Introduction"></s1>
+		<s1 page="0002" title="2. Previous Studies"></s1>
+		<s1 page="0003" title="3. Study Area"></s1>
+		<s1 page="0005" title="4. Methodology"></s1>
+		<s1 page="0006" title="5. Taxonomy">
+			<s2 page="0006" title="5.1 Subspecies"></s2>
+			<s2 page="0007" title="5.2 Synonymies"></s2>
+			<s2 page="0007" title="5.3 Type locality"></s2>
+			<s2 page="0007" title="5.4 Citation"></s2>
+			<s2 page="0007" title="5.5 Local names"></s2>
+			<s2 page="0007" title="5.6 Physical description"></s2>
+			<s2 page="0008" title="5.7 Oesteology"></s2>
+			<s2 page="0008" title="5.8 Call"></s2>
+			<s2 page="0009" title="5.9 Moulting"></s2>
+			<s2 page="0009" title="5.10 Geographic range"></s2>
+		</s1>
+		<s1 page="0010" title="6. Ecology and Behaviour">
+			<s2 page="0010" title="6.1 Habits"></s2>
+			<s2 page="0010" title="6.2 Habitat"></s2>
+			<s2 page="0011" title="6.3 Food and feeding"></s2>
+			<s2 page="0011" title="6.4 Herd"></s2>
+			<s2 page="0012" title="6.5 Herd size"></s2>
+			<s2 page="0012" title="6.6 Predation"></s2>
+			<s2 page="0013" title="6.7 Mortality"></s2>
+			<s2 page="0013" title="6.8 Breeding"></s2>
+			<s2 page="0014" title="6.9 Uses"></s2>
+		</s1>
+		<s1 page="0014" title="7. Population Status"></s1>
+		<s1 page="0018" title="8. Threats"></s1>
+		<s1 page="0018" title="9. Conservation">
+			<s2 page="0018" title="9.1 Status"></s2>
+			<s2 page="0019" title="9.2 Suggested Conservation Measures"></s2>
+		</s1>
+		<s1 page="0019" title="10. Acknowledgements"></s1>
+		<s1 page="0020" title="11. References"></s1>
+	</book>
+	<book bid="006">
+		<s1 page="0000c" title="!!Acknowledgments!!"></s1>
+		<s1 page="0000e" title="!!Credits for Photographs!!"></s1>
+		<s1 page="0001" title="1. Introduction"></s1>
+		<s1 page="0002" title="2. Historical Aspects and Review of Literature"></s1>
+		<s1 page="0004" title="3. Taxonomy">
+			<s2 page="0004" title="3.1. Systematic position"></s2>
+			<s2 page="0005" title="3.2. Local Names"></s2>
+			<s2 page="0005" title="3.3. Size"></s2>
+			<s2 page="0005" title="3.4. Weight"></s2>
+			<s2 page="0005" title="3.5. Length"></s2>
+			<s2 page="0005" title="3.6. Field Characters"></s2>
+			<s2 page="0006" title="3.7. Comparison between 'white-nest' building Edible-nest Swiftlets"></s2>
+			<s2 page="0006" title="Table-1"></s2>
+			<s2 page="0007" title="Table-2"></s2>
+			<s2 page="0007" title="3.8. Nidification and Commercial Value"></s2>
+		</s1>
+		<s1 page="0007" title="4. Radiography and Wing Formula of !!Collocalia Unicolor!!">
+			<s2 page="0007" title="4.1. Digital Radiological Osteometry"></s2>
+			<s2 page="0008" title="4.2. Wing Formula"></s2>
+		</s1>
+		<s1 page="0009" title="5. Known Distribution"></s1>
+		<s1 page="0009" title="6. Study Area">
+			<s2 page="0011" title="6.1. Larger Islands, Vengurla Rocks Archipelago"></s2>
+			<s2 page="0011" title="6.2. Other smaller Islets, Vengurla Rocks Archipelago"></s2>
+			<s2 page="0011" title="6.3. Submerged rocks, Vengurla Rocks Archipelago"></s2>
+			<s2 page="0011" title="6.4. West Coast and Western Ghats from Gujarat to Karnataka"></s2>
+			<s2 page="0012" title="6.5. 1st Oceanic Survey"></s2>
+			<s2 page="0013" title="6.6. 2nd Pelagic Survey"></s2>
+		</s1>
+		<s1 page="0014" title="7. Topography and Climate of the Study Area"></s1>
+		<s1 page="0014" title="8. Study Period"></s1>
+		<s1 page="0015" title="9. Methodology">
+			<s2 page="0015" title="9.1. Vengurla Rocks"></s2>
+			<s2 page="0016" title="9.2. Other Areas"></s2>
+			<s2 page="0016" title="9.3. 1st Oceanic and 2nd Pelagic Surveys"></s2>
+		</s1>
+		<s1 page="0016" title="10. Ecology and Behaviour">
+			<s2 page="0016" title="10.1. Residential Status"></s2>
+			<s2 page="0016" title="10.2. Habitat"></s2>
+			<s2 page="0017" title="10.3. Habits"></s2>
+			<s2 page="0017" title="10.4. Roosting Behaviour"></s2>
+			<s2 page="0018" title="10.5. Flight Patterns and Directional Routes">
+				<s3 page="0018" title="i. Individual"></s3>
+				<s3 page="0018" title="ii. (a-d) Flocks"></s3>
+			</s2>
+			<s2 page="0018" title="10.6. Feeding Behaviour"></s2>
+			<s2 page="0019" title="10.7. Economic Importance"></s2>
+			<s2 page="0019" title="10.8. Calls"></s2>
+			<s2 page="0019" title="10.9. Breeding">
+				<s3 page="0019" title="i. Period"></s3>
+				<s3 page="0020" title="ii. Nest"></s3>
+				<s3 page="0021" title="iii. Weight of nest"></s3>
+				<s3 page="0021" title="iv. Other information of nest"></s3>
+				<s3 page="0021" title="v. Nest site fidelity"></s3>
+				<s3 page="0021" title="vi. Eggs"></s3>
+				<s3 page="0022" title="vii. Incubation"></s3>
+				<s3 page="0023" title="viii. Chicks"></s3>
+				<s3 page="0023" title="ix. Swiftlet populations"></s3>
+			</s2>
+		</s1>
+		<s1 page="0024" title="11. Recent Observations and Results">
+			<s2 page="0024" title="11.1. Brief description of newly discovered and known nesting sites">
+				<s3 page="0024" title="i. Old Lighthouse Island, Maharashtra"></s3>
+				<s3 page="0024" title="ii. Burnt Island, Maharashtra"></s3>
+				<s3 page="0027" title="iii. Tiracol, Goa"></s3>
+				<s3 page="0027" title="iv. Anjadeeva or Anjadeep Island, Karnataka"></s3>
+				<s3 page="0027" title="v. Netrani Island (Pigeon Island), Karnataka"></s3>
+				<s3 page="0028" title="vi. Jog or Gersoppa Falls, Karnataka"></s3>
+				<s3 page="0028" title="vii. Wellington-Coonoor Road, Tamil Nadu"></s3>
+				<s3 page="0028" title="viii. Tiger Caves, Nilgiris, TamilNadu"></s3>
+				<s3 page="0028" title="ix. Sacrifice Rock,Tellicherry, Kerala"></s3>
+				<s3 page="0028" title="x. South Travancore, Kerala"></s3>
+			</s2>
+			<s2 page="0030" title="11.2. Brief description of newly discovered and known roosting sites (i to x)"></s2>
+		</s1>
+		<s1 page="0031" title="12. Tabulation of Recent Observations and Published Records of Occurrence and Status of !!Collocalia Unicolor!!">
+			<s2 page="0031" title="12.1. Table-3 (i to viii)"></s2>
+			<s2 page="0036" title="12.2. Table-4"></s2>
+			<s2 page="0037" title="12.3. Table-5"></s2>
+		</s1>
+		<s1 page="0038" title="13. Other Fauna and Flora on the Vengurla Rocks Archipelago and Netrani Island">
+			<s2 page="0038" title="13.1. Fauna on Old Lighthouse Island (i to v)"></s2>
+			<s2 page="0038" title="13.2. Fauna on and around Burnt Island (i to xvi)"></s2>
+			<s2 page="0040" title="13.3. Flora on Burnt Island"></s2>
+			<s2 page="0040" title="13.4. Fauna around Vengurla Rocks"></s2>
+			<s2 page="0040" title="13.5. Fauna on Netrani Island"></s2>
+		</s1>
+		<s1 page="0041" title="Facts about Nest Trade from 1990's Onwards"></s1>
+		<s1 page="0044" title="Protection Measures Taken"></s1>
+		<s1 page="0045" title="Recommendations for Conservation"></s1>
+		<s1 page="0048" title="References"></s1>
+	</book>
+	<book bid="007">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0001" title="Distribution"></s1>
+		<s1 page="0003" title="Taxonomy"></s1>
+		<s1 page="0003" title="Physical Characteristics of Different Stages">
+			<s2 page="0003" title="Adult Salamander"></s2>
+			<s2 page="0005" title="Age at Sexual Maturity"></s2>
+			<s2 page="0006" title="Maximum Age known"></s2>
+			<s2 page="0006" title="Egg of Salamander"></s2>
+			<s2 page="0006" title="Larva of Salamander"></s2>
+			<s2 page="0007" title="Free-swimming tadpole larva"></s2>
+			<s2 page="0008" title="Advanced tadpole larva"></s2>
+			<s2 page="0008" title="Surveys done on the Himalayan Salamander"></s2>
+			<s2 page="0008" title="Study Area"></s2>
+			<s2 page="0008" title="Habitat of the Salamander"></s2>
+			<s2 page="0009" title="Methodology"></s2>
+		</s1>
+		<s1 page="0009" title="Observations">
+			<s2 page="0009" title="Sites where salamanders were found"></s2>
+			<s2 page="0013" title="Table 1. : Showing the descriptions about the sites where the salamanders were found"></s2>
+		</s1>
+		<s1 page="0014" title="Threats to the Species"></s1>
+		<s1 page="0016" title="Conservation Suggestions"></s1>
+		<s1 page="0017" title="Acknowledgements"></s1>
+		<s1 page="0017" title="References"></s1>
+	</book>
+	<book bid="008">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Description of the Species"></s1>
+		<s1 page="0007" title="Review of Literature"></s1>
+		<s1 page="0011" title="Study Area"></s1>
+		<s1 page="0017" title="Distribution"></s1>
+		<s1 page="0019" title="Background of Blackbuck in Orissa"></s1>
+		<s1 page="0021" title="Materials and Methods">
+			<s2 page="0021" title="A. Ecological Study"></s2>
+			<s2 page="0024" title="B. Behavioural Study"></s2>
+			<s2 page="0029" title="C. Community Conservation"></s2>
+		</s1>
+		<s1 page="0030" title="Results and Discussions">
+			<s2 page="0030" title="A. Ecology of Blackbuck">
+				<s3 page="0030" title="I. Habitat Type and Characteristics"></s3>
+				<s3 page="0031" title="II. Home Range and Territory"></s3>
+				<s3 page="0034" title="III. Distribution Pattern"></s3>
+				<s3 page="0046" title="IV. Herd Size"></s3>
+				<s3 page="0049" title="V. Age-Sex Ratio"></s3>
+				<s3 page="0049" title="VI. Herd Composition"></s3>
+				<s3 page="0055" title="VII. Social Structure"></s3>
+				<s3 page="0059" title="VIII. Habitat Utilization"></s3>
+				<s3 page="0063" title="IX. Habitat Preference and Overlap"></s3>
+				<s3 page="0065" title="X. Forage Preference"></s3>
+			</s2>
+			<s2 page="0070" title="B. Behavior of Blackbuck">
+				<s3 page="0070" title="I. Activity Budget"></s3>
+				<s3 page="0072" title="II. Active Behavior Vs Inactive Behavior"></s3>
+				<s3 page="0073" title="III. Activity Probability"></s3>
+				<s3 page="0078" title="IV. Activity Pattern and Activity Schedule">
+					<s4 page="0078" title="a. Sexual Variation in Ativities"></s4>
+					<s4 page="0083" title="b. Diurnal Activity Pattern"></s4>
+					<s4 page="0091" title="c. Monthly Activity Pattern"></s4>
+					<s4 page="0098" title="d. Seasonal Activity Pattern"></s4>
+					<s4 page="0102" title="e. Activity Pattern in Relation to Habitat"></s4>
+				</s3>
+				<s3 page="0102" title="V. Activity Bout Duration"></s3>
+				<s3 page="0104" title="VI. Activity Rate"></s3>
+				<s3 page="0112" title="VII. Vigilance Behaviour"></s3>
+				<s3 page="0117" title="VIII. Social Behaviour"></s3>
+				<s3 page="0131" title="IX. Social Interaction"></s3>
+				<s3 page="0138" title="X. Aggressive Behaviour"></s3>
+			</s2>
+			<s2 page="0142" title="C. Community Conservation">
+				<s3 page="0142" title="I. Factor for Conservation by Local Community"></s3>
+				<s3 page="0142" title="II. Knowledge about PCRB"></s3>
+				<s3 page="0146" title="III. Crop Damage by Blackbuck"></s3>
+				<s3 page="0146" title="IV. Attitudes towards Blackbuck"></s3>
+			</s2>
+		</s1>
+		<s1 page="0146" title="Threats of Blackbuck in PCRB"></s1>
+		<s1 page="0149" title="Conservation Measures"></s1>
+		<s1 page="0151" title="References"></s1>
+	</book>
+	<book bid="009">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0001" title="Avant Propos"></s2>
+			<s2 page="0001" title="Fishing Zone"></s2>
+			<s2 page="0002" title="Method of Fishing"></s2>
+			<s2 page="0002" title="Fisheries and Statistics"></s2>
+			<s2 page="0003" title="Processing of shells"></s2>
+			<s2 page="0003" title="Commercial value"></s2>
+			<s2 page="0004" title="Systematic position"></s2>
+		</s1>
+		<s1 page="0008" title="Classification of !!Trochus Niloticus!!">
+			<s2 page="0008" title="Morphology"></s2>
+			<s2 page="0009" title="Reproduction and Larval Development"></s2>
+			<s2 page="0009" title="Age and Growth"></s2>
+			<s2 page="0010" title="Food and Feeding"></s2>
+			<s2 page="0011" title="Animal Association"></s2>
+			<s2 page="0011" title="Distribution"></s2>
+			<s2 page="0012" title="Legislation on !!Trochus niloticus!!"></s2>
+		</s1>
+		<s1 page="0013" title="Review of Literature">
+			<s2 page="0013" title="International Status"></s2>
+			<s2 page="0014" title="National Status"></s2>
+			<s2 page="0015" title="Studies on key areas"></s2>
+		</s1>
+		<s1 page="0015" title="Objectives of the Study">
+			<s2 page="0015" title="Rationale"></s2>
+			<s2 page="0016" title="Period of Study"></s2>
+		</s1>
+		<s1 page="0016" title="AIM"></s1>
+		<s1 page="0016" title="Study Area"></s1>
+		<s1 page="0020" title="Material and Methods">
+			<s2 page="0020" title="Physico-chemical Parameters"></s2>
+			<s2 page="0022" title="Biological Parameters"></s2>
+			<s2 page="0022" title="Estimation of !!Trochus niloticus!! standing stock"></s2>
+			<s2 page="0023" title="Personal interaction"></s2>
+		</s1>
+		<s1 page="0023" title="Results and Discussion">
+			<s2 page="0023" title="Physico-chemical Parameters"></s2>
+			<s2 page="0024" title="Biological Parameters">
+				<s3 page="0024" title="Phytoplankton"></s3>
+				<s3 page="0024" title="Zooplankton"></s3>
+			</s2>
+			<s2 page="0026" title="Status of !!Trochus niloticus!!">
+				<s3 page="0027" title="!!Density!!"></s3>
+				<s3 page="0028" title="!!Size!!"></s3>
+				<s3 page="0030" title="!!Habitat!!"></s3>
+			</s2>
+		</s1>
+		<s1 page="0054" title="Significant Findings on Trochus Niloticus"></s1>
+		<s1 page="0055" title="Illegal Fishing and Trading"></s1>
+		<s1 page="0055" title="Summary"></s1>
+		<s1 page="0057" title="Recommendations"></s1>
+		<s1 page="0058" title="Acknowledgements"></s1>
+		<s1 page="0059" title="References"></s1>
+	</book>
+	<book bid="010">
+		<s1 page="0001" title="1. Introduction"></s1>
+		<s1 page="0001" title="2. Review of Literature"></s1>
+		<s1 page="0002" title="3. Study Area">
+			<s2 page="0002" title="i. Proposed Community Reserve for Blackbuck"></s2>
+			<s2 page="0004" title="ii. Konark-Balukhanda Wildlife Sanctuary"></s2>
+		</s1>
+		<s1 page="0005" title="4. Materials and Method"></s1>
+		<s1 page="0005" title="5. Results and Observation">
+			<s2 page="0006" title="i. Population at PCRB"></s2>
+			<s2 page="0007" title="ii. Social or Herd Composition"></s2>
+			<s2 page="0008" title="iii. Habitat selection and preference"></s2>
+			<s2 page="0008" title="iv. Population composition at KBWS"></s2>
+		</s1>
+		<s1 page="0008" title="6. Discussion"></s1>
+		<s1 page="0009" title="7. Acknowledgements"></s1>
+		<s1 page="0009" title="8. Reference"></s1>
+	</book>
+</sses>

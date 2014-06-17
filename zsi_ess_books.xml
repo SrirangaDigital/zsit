@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ess SYSTEM "ess.dtd">
+
+<ess>
+	<s1 title="Estuarine Ecosystem Series" author="" page="" info="" type="" date="">
+		<s2 title="Rushikulya Estuary, Orissa, India" author="" page="0001-0026" info="00:00:01:001" type="ess" date="00-07-1992"></s2>
+		<s2 title="Hugli Matla Estuary, West Bengal" author="" page="0001-0542" info="00:00:02:002" type="ess" date="00-06-1995"></s2>
+		<s2 title="Fauna of Mahanadi Estuary, Orissa" author="" page="0001-0218" info="00:00:03:003" type="ess" date="00-08-1998"></s2>
+		<s2 title="Fauna of Godavari Estuary" author="" page="0001-0166" info="00:00:04:004" type="ess" date="00-09-2001"></s2>
+		<s2 title="Fauna of Krishna Estuary" author="" page="0001-0298" info="00:00:05:005" type="ess" date="00-02-2009"></s2>
+		<s2 title="Fauna of Vamsadhara and Nagavali Estuaries" author="" page="0001-0298" info="00:00:06:006" type="ess" date="00-10-2010"></s2>
+	</s1>
+	<s1 title="Wetland Ecosystem Series" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Chilka Lake (with colour plates and drawings)" author="" page="0001-0672" info="00:00:01:007" type="ess" date="00-11-1995"></s2>
+		<s2 title="Fauna of Renuka Wetland" author="" page="0001-0187" info="00:00:02:008" type="ess" date="00-12-2000"></s2>
+		<s2 title="Fauna of Ujani" author="" page="0001-0196" info="00:00:03:009" type="ess" date="00-01-2002"></s2>
+		<s2 title="Fauna of Kabar Lake Wetland (Bihar)" author="" page="0001-0134" info="00:00:04:010" type="ess" date="00-11-2002"></s2>
+		<s2 title="Fauna of Asan Wetland (Dehra Dun)" author="" page="0001-0056" info="00:00:05:011" type="ess" date="00-06-2003"></s2>
+		<s2 title="Fauna of Sambhar Lake" author="" page="0001-0200" info="00:00:06:012" type="ess" date="00-01-2005"></s2>
+		<s2 title="Fauna of Nath Sagar Wetland" author="" page="0001-0192" info="00:00:07:013" type="ess" date="00-12-2005"></s2>
+		<s2 title="Fauna of Pichhola lake" author="" page="0001-0238" info="00:00:08:014" type="ess" date="00-02-2007"></s2>
+		<s2 title="Fauna of Kopli River Hydal Project" author="" page="0001-0091" info="00:00:09:015" type="ess" date="00-02-2008"></s2>
+		<s2 title="Faunal Diversity of Vembanad Lake; A Ramsar sit in Kerala; India" author="" page="0001-0192" info="00:00:10:016" type="ess" date="00-07-2009"></s2>
+		<s2 title="Fauna of Nal Saravor Gujarat" author="" page="0001-0137" info="00:00:11:017" type="ess" date="00-10-2009"></s2>
+		<s2 title="Faunal Diversity of Pong Dam and its catchment area (District Kangra; Himachal Pradesh)" author="" page="0001-0138" info="00:00:12:018" type="ess" date="00-10-2009"></s2>
+		<s2 title="Limnological and Faunistic studies of Pocharam Lake (District Nizamabad-Medak District, Andhra Pradesh)" author="" page="0001-0181" info="00:00:13:019" type="ess" date="00-03-2010"></s2>
+	</s1>
+	<s1 title="Himalayan Ecosystem Series" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Western Himalaya - Uttar Pradesh" author="" page="0001-0227" info="00:00:01:020" type="ess" date="00-03-1995"></s2>
+		<s2 title="Fauna of Western Himalaya" author="" page="0001-0359" info="00:00:02:021" type="ess" date="00-07-2005"></s2>
+		<s2 title="Faunal Diversity of Pangi Valley : Chamba, Himahal Pradesh" author="" page="0001-0120" info="00:00:03:022" type="ess" date="00-01-2013"></s2>
+	</s1>
+	<s1 title="Marine Ecosystem Series" author="" page="" info="" type="" date="">
+		<s2 title="Fauna of Chennai Coast" author="" page="0001-0298" info="00:00:01:023" type="ess" date="00-06-2007"></s2>
+	</s1>
+	<s1 title="Freshwater Ecosystem Series" author="" page="" info="" type="" date="">
+		<s2 title="Faunistic and Limnological Studies on Wyra Lake : Khammam District, Andhra Pradesh" author="" page="0001-0158" info="00:00:01:024" type="ess" date="00-01-2013"></s2>
+	</s1>
+</ess>

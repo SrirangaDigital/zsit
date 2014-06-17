@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE zlg SYSTEM "zlg.dtd">
+
+<zlg>
+	<s1 title="Zoologiana" author="" page="0001-0053" info="00:01:00:001" type="zlg" date="00-06-1978"></s1>
+	<s1 title="Zoologiana" author="" page="0001-0080" info="00:02:00:002" type="zlg" date="00-07-1979"></s1>
+	<s1 title="Zoologiana" author="" page="0001-0030" info="00:03:00:003" type="zlg" date="00-02-1980"></s1>
+	<s1 title="Zoologiana" author="" page="0001-0100" info="00:04:00:004" type="zlg" date="00-02-1982"></s1>
+</zlg>

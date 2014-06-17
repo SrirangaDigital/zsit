@@ -1,0 +1,1303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE zsi SYSTEM "zsi.dtd">
+
+<zsi>
+	<memoirs>
+		<volume vnum="001">
+			<part pnum="01" month="07" year="1907">
+				<entry>
+					<title>An Account of the Rats of Calcutta, with Some Remarks on the Existing Classification of the Genera <i>Mus</i> and <i>Nesokia</i></title>
+					<feature></feature>
+					<page>0001-0080</page>
+					<plates>1,2,3,4,5,6,7,8</plates>
+					<allauthors>
+						<author>Hossack, W. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="02" year="1908">
+				<entry>
+					<title>The Internal Anatomy of <i>Bathynomus Giganteus</i>, with a Description of the Sexually Mature Forms</title>
+					<feature></feature>
+					<page>0081-0102</page>
+					<plates>9,10,11,12</plates>
+					<allauthors>
+						<author>Lloyd, R. E.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="01" year="1909">
+				<entry>
+					<title>A. The Oligochæta of India, Nepal, Ceylon, Burma and the Andaman Islands</title>
+					<feature></feature>
+					<page>0103-0253</page>
+					<plates>13,14</plates>
+					<allauthors>
+						<author>Michaelsen, W.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>B. The Anatomy of Some Aquatic Oligochæta from the Punjab</title>
+					<feature></feature>
+					<page>0255-0281</page>
+					<plates>16,17,18,19,20</plates>
+					<allauthors>
+						<author>Stephenson, J.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="01" year="1922">
+				<entry>
+					<title><i>Investigator Sicarius</i>, a Gephyrean Worm Hitherto Undescribed, the Type of a New Order</title>
+					<feature></feature>
+					<page>0283-0293</page>
+					<plates>21</plates>
+					<allauthors>
+						<author>Stewart, F. H.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="002">
+			<part pnum="01" month="05" year="1909">
+				<entry>
+					<title>Report on the Fishes Taken by the Bengal Fisheries Steamer &#8220;Golden Crown&#8221;---Batoidei &#40;1&#41;</title>
+					<feature></feature>
+					<page>0001-0060</page>
+					<plates>1,2,3,3a,4,5</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="07" year="1909">
+				<entry>
+					<title>An Account of the Indian Cirripedia Pedunculata---Family Lepadidæ &#40;Sensu Stricto&#41; &#40;1&#41;</title>
+					<feature></feature>
+					<page>0061-0137</page>
+					<plates>6,7</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="08" year="1909">
+				<entry>
+					<title>A Description of the Deep-Sea Fish Caught by the R.I.M.S. Ship &#8220;Investigator&#8221; Since the Year 1900, with Supposed Evidence of Mutation in <i>Malthopsis</i></title>
+					<feature></feature>
+					<page>0139-0180</page>
+					<plates>44,45,46,47,48,49,50</plates>
+					<allauthors>
+						<author>Lloyd, R. E.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="08" year="1910">
+				<entry>
+					<title>Etude Sur Les Chironomides Des Indes Orientales, Avec Description De Quelques Nouvelles Especes D'Egypte</title>
+					<feature></feature>
+					<page>0181-0242</page>
+					<plates>8,9,10,11</plates>
+					<allauthors>
+						<author>Kieffer, J. J.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="003">
+			<part pnum="01" month="11" year="1910">
+				<entry>
+					<title>Report on the Fishes Taken by the Bengal Fisheries Steamer &#8220;Golden Crown&#8221;---Additional Notes on the Batoidei &#40;2&#41;</title>
+					<feature></feature>
+					<page>0001-0005</page>
+					<plates>1,2</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Report on the Fishes Taken by the Bengal Fisheries Steamer &#8220;Golden Crown&#8221;---Plectognathi and Pediculati &#40;3&#41;</title>
+					<feature></feature>
+					<page>0007-0021</page>
+					<plates>1,2,3</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+						<author>Jenkins, J. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Report on the Fishes Taken by the Bengal Fisheries Steamer &#8220;Golden Crown&#8221;---On a Collection of Indian Pleuronectidae &#40;4&#41;</title>
+					<feature></feature>
+					<page>0023-0031</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jenkins, J. T.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="02" year="1911">
+				<entry>
+					<title>Studies in Post-Larval Development and Minute Anatomy in the Genera <i>Scalpellum</i> and <i>Ibla</i></title>
+					<feature></feature>
+					<page>0033-0051</page>
+					<plates>4,5,6,7</plates>
+					<allauthors>
+						<author>Stewart, F. H.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="05" year="1913">
+				<entry>
+					<title>Indian Trypaneids &#40;Fruit-Flies&#41; in the Collection of the Indian Museum, Calcutta</title>
+					<feature></feature>
+					<page>0053-0168</page>
+					<plates>8,9,10</plates>
+					<allauthors>
+						<author>Bezzi, M.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="09" year="1914">
+				<entry>
+					<title>An Account of the Oriental Passalidae &#40;Coleoptera&#41;, Based Primarily on the Collection in the Indian Museum</title>
+					<feature></feature>
+					<page>0177-0353</page>
+					<plates>11,12,13</plates>
+					<allauthors>
+						<author>Gravely, F. H.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="004">
+			<part pnum="01" month="09" year="1913">
+				<entry>
+					<title>An Account of the Crustacea Stomatopoda of the Indo-Pacific Region based on the Collection in the Indian Museum</title>
+					<feature></feature>
+					<page>0001-0217</page>
+					<plates>1,2,3,4,5,6,7,8,9,10</plates>
+					<allauthors>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="005">
+			<part pnum="01" month="07" year="1915">
+				<entry>
+					<title>Fauna of the Chilka Lake---Introduction</title>
+					<feature></feature>
+					<page>0001-0020</page>
+					<plates>1,2</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Sponges</title>
+					<feature></feature>
+					<page>0021-0056</page>
+					<plates>3,4,5</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---The Echiuroidea of the Lake and of the Gangetic Delta</title>
+					<feature></feature>
+					<page>0057-0063</page>
+					<plates></plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---The Coelenterates of the Lake, with an Account of the Actiniaria of Brackish Water in the Gangetic Delta</title>
+					<feature></feature>
+					<page>0065-0116</page>
+					<plates>6,7,7a,8,9</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Ctenophora</title>
+					<feature></feature>
+					<page>0117-0118</page>
+					<plates>9</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---The Polyzoa of the Lake and of Brackish Water in the Gangetic Delta</title>
+					<feature></feature>
+					<page>0119-0133</page>
+					<plates></plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Cirripedia</title>
+					<feature></feature>
+					<page>0135-0138</page>
+					<plates></plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Oligochaeta</title>
+					<feature></feature>
+					<page>0139-0146</page>
+					<plates>10</plates>
+					<allauthors>
+						<author>Stephenson, J.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="10" year="1915">
+				<entry>
+					<title>Fauna of the Chilka Lake---The Mysidacea of the Lake, with the Description of a Species from the Coast of Orissa</title>
+					<feature></feature>
+					<page>0147-0161</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tattersall, Walter M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Mammals, Reptiles and Batrachians</title>
+					<feature></feature>
+					<page>0163-0174</page>
+					<plates></plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Aquatic Insects, other than Coleoptera, with Notes on Some Marginal Species</title>
+					<feature></feature>
+					<page>0175-0189</page>
+					<plates>11</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Stomatopoda</title>
+					<feature></feature>
+					<page>0191-0197</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="12" year="1915">
+				<entry>
+					<title>Fauna of the Chilka Lake---Crustacea Decapoda</title>
+					<feature></feature>
+					<page>0199-0325</page>
+					<plates>12,13</plates>
+					<allauthors>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="07" year="1916">
+				<entry>
+					<title>Fauna of the Chilka Lake---Mollusca Gastropoda and Lamellibranchiata</title>
+					<feature></feature>
+					<page>0327-0366</page>
+					<plates>14,15,16</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The Anatomy of the Common <i>Solen</i> of the Chilka Lake-? A Dwarfed Form of <i>S. Fonesi</i> Dunker</title>
+					<feature>Appendix</feature>
+					<page>0367-0374</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, Ekendranath</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Mollusca Nudibranchiata</title>
+					<feature></feature>
+					<page>0375-0379</page>
+					<plates></plates>
+					<allauthors>
+						<author>Eliot, Charles</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Stages in the Life History of <i>Gobius, Petroscirtes</i> and <i>Hemirhamphus</i></title>
+					<feature></feature>
+					<page>0381-0392</page>
+					<plates>17,18</plates>
+					<allauthors>
+						<author>Bhattacharya, D. R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Cumacea</title>
+					<feature></feature>
+					<page>0393-0402</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kemp, Stanley</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Fish &#40;1&#41;</title>
+					<feature></feature>
+					<page>0403-0439</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chaudhuri, B. L.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="05" month="12" year="1916">
+				<entry>
+					<title>Fauna of the Chilka Lake---Fish &#40;2&#41;</title>
+					<feature></feature>
+					<page>0441-0458</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chaudhuri, B. L.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Some Terrestrial Isopoda from the Shore of the Lake</title>
+					<feature></feature>
+					<page>0459-0482</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chilton, Charles</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="06" month="08" year="1917">
+				<entry>
+					<title>Fauna of the Chilka Lake---Oligochaeta &#40;Supplementary Report&#41;</title>
+					<feature></feature>
+					<page>0483-0490</page>
+					<plates></plates>
+					<allauthors>
+						<author>Stephenson, J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Fish &#40;3&#41;</title>
+					<feature></feature>
+					<page>0491-0508</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chaudhuri, B. L.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="07" month="10" year="1920">
+				<entry>
+					<title>Fauna of the Chilka Lake---Hirudinea</title>
+					<feature></feature>
+					<page>0509-0517</page>
+					<plates></plates>
+					<allauthors>
+						<author>Harding, W. A.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="08" month="05" year="1921">
+				<entry>
+					<title>Fauna of the Chilka Lake---Amphipoda</title>
+					<feature></feature>
+					<page>0519-0558</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chilton, Charles</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---On a Larval Cestode from the Umbrella of a Jelly-Fish</title>
+					<feature></feature>
+					<page>0559-0562</page>
+					<plates></plates>
+					<allauthors>
+						<author>Southwell, T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Polychaeta of the Chilka Lake and also of Fresh and Brackish Waters in other Parts of India</title>
+					<feature></feature>
+					<page>0563-0659</page>
+					<plates>19,20,21,22,23,24,25,26,27,28,29,30,31</plates>
+					<allauthors>
+						<author>Southern, Rowland</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="09" month="09" year="1921">
+				<entry>
+					<title>Fauna of the Chilka Lake---On Some Leeches from the Chilka Lake</title>
+					<feature></feature>
+					<page>0661-0675</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kaburaki, Tokiö</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="10" month="08" year="1922">
+				<entry>
+					<title>Fauna of the Chilka Lake---The Hydrography and Invertebrate Fauna of Rambha Bay in an Abnormal Year</title>
+					<feature></feature>
+					<page>0677-0710</page>
+					<plates>32,33,34,35,36,37,38,39,40,41,42,43</plates>
+					<allauthors>
+						<author>Sewell, R. B. Seymour</author>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="11" month="04" year="1923">
+				<entry>
+					<title>Fauna of the Chilka Lake---Fish &#40;4&#41;</title>
+					<feature></feature>
+					<page>0711-0736</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chaudhuri, B. L.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Fish &#40;5&#41;</title>
+					<feature></feature>
+					<page>0737-0769</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hora, Sunder Lal</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="12" month="07" year="1924">
+				<entry>
+					<title>Fauna of the Chilka Lake---Crustacea Copepoda</title>
+					<feature></feature>
+					<page>0771-0851</page>
+					<plates>44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59</plates>
+					<allauthors>
+						<author>Sewell, R. B. Seymour</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Mollusca Gastropoda &#40;Revision&#41;</title>
+					<feature></feature>
+					<page>0853-0873</page>
+					<plates></plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Fauna of the Chilka Lake---Tanaidacea and Isopoda</title>
+					<feature></feature>
+					<page>0875-0895</page>
+					<plates>60</plates>
+					<allauthors>
+						<author>Chilton, Charles</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="13" month="09" year="1924">
+				<entry>
+					<title>Fauna of the Chilka Lake---On a Species of Sub-Fossil Solitary Coral from the Chilka Lake</title>
+					<feature></feature>
+					<page>0898-1003</page>
+					<plates></plates>
+					<allauthors>
+						<author>Matthai, George</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="006">
+			<part pnum="01" month="12" year="1915">
+				<entry>
+					<title>Report Upon the Tunicata in the Collection of the Indian Museum</title>
+					<feature></feature>
+					<page>0001-0033</page>
+					<plates>1,2,3,4,5</plates>
+					<allauthors>
+						<author>Oka, Asajiro</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On Some Indian Oligochaeta, Mainly from Southern India and Ceylon</title>
+					<feature></feature>
+					<page>0035-0108</page>
+					<plates>6,7,8,9</plates>
+					<allauthors>
+						<author>Stephenson, J.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="10" year="1916">
+				<entry>
+					<title>The Indian Varieties and Races of the Genus <i>Turbinella</i></title>
+					<feature></feature>
+					<page>0109-0122</page>
+					<plates>10,11,12</plates>
+					<allauthors>
+						<author>Hornell, James</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Note on the Geological History of <i>Turbinella</i> in India</title>
+					<feature>Appendix</feature>
+					<page>0123-0125</page>
+					<plates></plates>
+					<allauthors>
+						<author>Vredenburg, E.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="10" year="1916">
+				<entry>
+					<title>Three Plates to Illustrate the Scalpellidae and Iblidae of Indian Seas, with Synonymy and Notes</title>
+					<feature></feature>
+					<page>0127-0134</page>
+					<plates>6,7,8</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="03-06" year="1918">
+				<entry>
+					<title>The Aphididae of Lahore</title>
+					<feature></feature>
+					<page>0135-0274</page>
+					<plates>13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30</plates>
+					<allauthors>
+						<author>Das, Bashambar</author>
+						<author>Goot, P. Van Der</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="007">
+			<part pnum="01" month="12" year="1918">
+				<entry>
+					<title>A Contribution Towards the Revision of the Passalidae of the World</title>
+					<feature></feature>
+					<page>0001-0144</page>
+					<plates>1</plates>
+					<allauthors>
+						<author>Gravely, F. H.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="07" year="1919">
+				<entry>
+					<title>Observations on the Shells of the Family Doliidæ</title>
+					<feature></feature>
+					<page>0145-0190</page>
+					<plates>2,3,4,5,6,7,8</plates>
+					<allauthors>
+						<author>Vredenburg, E. W.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="04" year="1920">
+				<entry>
+					<title>On a Collection of Oligochaeta from the Lesser Known Parts of India and from Eastern Persia</title>
+					<feature></feature>
+					<page>0191-0261</page>
+					<plates>9,10,11</plates>
+					<allauthors>
+						<author>Stephenson, J.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="12" year="1922">
+				<entry>
+					<title>Report on the Parasitic Nematodes in the Collection of the Zoological Survey of India</title>
+					<feature></feature>
+					<page>0263-0347</page>
+					<plates></plates>
+					<allauthors>
+						<author>Baylis, H. A.</author>
+						<author>Daubney, R.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="008">
+			<part pnum="01" month="03" year="1924">
+				<entry>
+					<title>Report on the Madreporarian Corals in the Collection of the Indian Museum, Calcutta &#40;1&#41;</title>
+					<feature></feature>
+					<page>0001-0059</page>
+					<plates>1,2,3,4,5,6,7,8,9,10,11</plates>
+					<allauthors>
+						<author>Matthai, George</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Cirripedes Associated with Indian Corals of the Families Astraeidae and Fungidae</title>
+					<feature></feature>
+					<page>0061-0068</page>
+					<plates>12</plates>
+					<allauthors>
+						<author>Annandale, N.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="05" year="1925">
+				<entry>
+					<title>Revision of the Indian Ampullariidae</title>
+					<feature></feature>
+					<page>0069-0089</page>
+					<plates>13,14,15</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="07" year="1925">
+				<entry>
+					<title>Anatomy of the Common Indian Apple-Snail, <i>Pila Globosa</i></title>
+					<feature></feature>
+					<page>0091-0151</page>
+					<plates>16,17,18</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="02" year="1928">
+				<entry>
+					<title>Recent and Fossil Viviparidae---A Study in Distribution, Evolution and Palaeogeography</title>
+					<feature></feature>
+					<page>0153-0251</page>
+					<plates>19</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The Mantle and the shell of the Viviparidae</title>
+					<feature></feature>
+					<page>0253-0320</page>
+					<plates>20,21,22,23,24</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="009">
+			<part pnum="01" month="08" year="1928">
+				<entry>
+					<title>On the Reproductive Processes and Development of <i>Pila Globosa</i> &#40;Swainson&#41;---Copulation and Oviposition &#40;1&#41;</title>
+					<feature></feature>
+					<page>0001-0011</page>
+					<plates>1,2</plates>
+					<allauthors>
+						<author>Bahl, Karm Narayan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Revision of the Asiatic Species of the Genus <i>Corbicula</i>---The Indian Species of <i>Corbicula</i> &#40;1&#41;</title>
+					<feature></feature>
+					<page>0013-0027</page>
+					<plates>3,4</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="02" year="1929">
+				<entry>
+					<title>Revision of the Asiatic Species of the Genus <i>Corbicula</i>---The Indo-Chinese Species of the Genus <i>Corbicula</i> &#40;2&#41;</title>
+					<feature></feature>
+					<page>0029-0048</page>
+					<plates>5,6</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Revision of the Asiatic Species of the Genus <i>Corbicula</i>---The Species of the Genus <i>Corbicula</i> from China, South-Eastern Russia, Tibet, Formosa, and the Philippine Islands &#40;3&#41;</title>
+					<feature></feature>
+					<page>0049-0068</page>
+					<plates>7,8</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="08" year="1929">
+				<entry>
+					<title>A Revision of the Fissilabioidea &#40;Cordulegasteridae, Petaliidae and Petaluridae&#41; &#40;Order Odonata&#41;---Cordulegasteridae &#40;1&#41;</title>
+					<feature></feature>
+					<page>0069-0167</page>
+					<plates>9,10,11,12</plates>
+					<allauthors>
+						<author>Fraser, F. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="11" year="1929">
+				<entry>
+					<title>An Aid to the Study of Hamilton Buchanan's &#8220;Gangetic Fishes&#8221;</title>
+					<feature></feature>
+					<page>0169-0192</page>
+					<plates>13,14,15,16,17,18,19,20,21,22,23</plates>
+					<allauthors>
+						<author>Hora, Sunder Lal</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="05" month="10" year="1930">
+				<entry>
+					<title>Revision of the Asiatic Species of the Genus <i>Corbicula</i>---The Species of the Genus <i>Corbicula</i> from the Sunda Islands, the Celebes and New Guinea &#40;4&#41;</title>
+					<feature></feature>
+					<page>0193-0203</page>
+					<plates>24,25,26</plates>
+					<allauthors>
+						<author>Prashad, B.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="06" month="02" year="1933">
+				<entry>
+					<title>A Revision of the Fissilabioidea &#40;Cordulegasteridae, Petaliidae and Petaluridae&#41; &#40;Order Odonata&#41;---Petaliidae and Petaluridae and Appendix to Part &#40;1&#41; &#40;2&#41;</title>
+					<feature></feature>
+					<page>0205-0260</page>
+					<plates></plates>
+					<allauthors>
+						<author>Fraser, F. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="010">
+			<part pnum="01" month="05" year="1932">
+				<entry>
+					<title>The Copepoda of Indian Seas---Calanoida</title>
+					<feature></feature>
+					<page>0001-0407</page>
+					<plates>1,2,3,4,5,6</plates>
+					<allauthors>
+						<author>Sewell, R. B. Seymour</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="011">
+			<part pnum="01" month="10" year="1930">
+				<entry>
+					<title>Studies on Indian Jassidae &#40;Homoptera&#41;---Introductory and Description of Some New Genera and Species &#40;1&#41;</title>
+					<feature></feature>
+					<page>0001-0068</page>
+					<plates>1,2,3,4,5</plates>
+					<allauthors>
+						<author>Pruthi, Hem Singh</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="07" year="1934">
+				<entry>
+					<title>Studies on Indian Jassidae &#40;Homoptera&#41;---Description of the Genotypes of Some of the Genera Founded by W. L. Distant, with a Revision of the Genus <i>Moonia</i> Distant &#40;2&#41;</title>
+					<feature></feature>
+					<page>0069-0099</page>
+					<plates>6,7</plates>
+					<allauthors>
+						<author>Pruthi, Hem Singh</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="05" year="1936">
+				<entry>
+					<title>Studies on Indian Jassidae &#40;Homoptera&#41;---Descriptions of Some New Genera and Species, with First Records of Some Known Species from India &#40;3&#41;</title>
+					<feature></feature>
+					<page>0101-0131</page>
+					<plates>8,9</plates>
+					<allauthors>
+						<author>Pruthi, Hem Singh</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="08" year="1936">
+				<entry>
+					<title>Diplopoda of India</title>
+					<feature></feature>
+					<page>0133-0323</page>
+					<plates></plates>
+					<allauthors>
+						<author>Attems, C.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="012">
+			<part pnum="01" month="09" year="1932">
+				<entry>
+					<title>Annelida Polychaeta of the Indian Museum, Calcutta</title>
+					<feature></feature>
+					<page>0001-0262</page>
+					<plates>1,2,3,4,5,6,7,8,9</plates>
+					<allauthors>
+						<author>Fauvel, Pierre</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="12" year="1932">
+				<entry>
+					<title>Classification, Bionomics and Evolution of Homalopterid Fishes</title>
+					<feature></feature>
+					<page>0263-0330</page>
+					<plates>10,11,12</plates>
+					<allauthors>
+						<author>Hora, Sunder Lal</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="013">
+			<part pnum="01" month="08" year="1938">
+				<entry>
+					<title>Cirripedes from the Indian Ocean in the Collection of the Indian Museum, Calcutta</title>
+					<feature></feature>
+					<page>0001-0081</page>
+					<plates>1,2,3</plates>
+					<allauthors>
+						<author>Cantell, Nilsson</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="01" year="1939">
+				<entry>
+					<title>Scientific Results of the Yale North India Expedition---Biological Report &#40;19&#41;---Freilebende Ruderfusskrebse &#40;Crustacea Copepoda&#41; Aus Nordwest Und Südindien &#40;Pandschab, Kaschmir, Ladak, Nilgirigebirge&#41;</title>
+					<feature></feature>
+					<page>0083-0203</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kiefer, Friedrich</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="00" year="1941">
+				<entry>
+					<title>Gobioid Fishes of India</title>
+					<feature></feature>
+					<page>0205-0329</page>
+					<plates></plates>
+					<allauthors>
+						<author>Koumans, F. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A List of the Fishes Known from the Andaman Islands</title>
+					<feature></feature>
+					<page>0331-0403</page>
+					<plates></plates>
+					<allauthors>
+						<author>Herre, Albert W. C. T.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="00" year="1942">
+				<entry>
+					<title>Distribution, Hosts and Habits of the Indian Serphoidea and Bethyloidea</title>
+					<feature></feature>
+					<page>0405-0444</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pruthi, Hem Singh</author>
+						<author>Mani, M. S.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="014">
+			<part pnum="01" month="00" year="1954">
+				<entry>
+					<title>Mitres of Indian Waters---&#40;Mollusca, Gastropoda: Family Mitridae&#41;</title>
+					<feature></feature>
+					<page>0001-0072</page>
+					<plates>1,2,3</plates>
+					<allauthors>
+						<author>Ray, H. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="00" year="1956">
+				<entry>
+					<title>Fish Paintings of the Third Millennium B. C. from Nal &#40;Baluchistan&#41; and Their Zoogeographical Significance</title>
+					<feature></feature>
+					<page>0073-0086</page>
+					<plates>4,5,6</plates>
+					<allauthors>
+						<author>Hora, Sunder Lal</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="10" year="1962">
+				<entry>
+					<title>Nutritional Ecology of the Clear-Winged Grasshopper, <i>Camnula Pellucida</i> &#40;Scudder&#41; &#40;Orthoptera, Acrididae&#41;</title>
+					<feature></feature>
+					<page>0087-0172</page>
+					<plates>7</plates>
+					<allauthors>
+						<author>Misra, Surendra Deo</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="09" year="1964">
+				<entry>
+					<title>Monograph of the Cyprinid Fishes of the Genus <i>Garra</i> Hamilton</title>
+					<feature></feature>
+					<page>0173-0260</page>
+					<plates>8,9,10,11,12,13</plates>
+					<allauthors>
+						<author>Menon, A. G. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="015">
+			<part pnum="01" month="12" year="1970">
+				<entry>
+					<title>Taxonomy, Zoogeography and Phylogeny of the Genus <i>Cryptotermes</i> &#40;Isoptera: Kalotermitidae&#41; from the Oriental Region</title>
+					<feature></feature>
+					<page>0001-0081</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chhotani, O. B.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="06" year="1971">
+				<entry>
+					<title>A Review of Classification of the Family Languriidae &#40;Coleoptera: Clavicornia&#41; and the Place of Languriidae in the Natural System of Clavicornia</title>
+					<feature></feature>
+					<page>0001-0042</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, T. Sen</author>
+						<author>Crowson, R. A.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="07" year="1971">
+				<entry>
+					<title>Revision of Indian Crab Spiders &#40;Araneae: Thomisidae&#41;</title>
+					<feature></feature>
+					<page>0001-0090</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tikader, B. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="01" year="1974">
+				<entry>
+					<title>Siphonophora of the Indian Ocean</title>
+					<feature></feature>
+					<page>0001-0242</page>
+					<plates></plates>
+					<allauthors>
+						<author>Daniel, Ruby</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="016">
+			<part pnum="01" month="05" year="1979">
+				<entry>
+					<title>Taxonomic Studies on Some of the Indian Non-Mulberry Silkmoths &#40;Lepidoptera: Saturniidae: Saturniinae&#41;</title>
+					<feature></feature>
+					<page>0001-0063</page>
+					<plates>1,2,3,4,5,6,7,8,9,10</plates>
+					<allauthors>
+						<author>Arora, G. S.</author>
+						<author>Gupta, I. J.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="09" year="1980">
+				<entry>
+					<title>Monograph on <i>Holothuria &#40;Metriatyla&#41; Scabra</i> Jaeger</title>
+					<feature></feature>
+					<page>0001-0075</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bai, M. Mary</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="10" year="1985">
+				<entry>
+					<title>Monograph on <i>Oriental Aphidoidea</i> Key to the Genera and Synoptic List</title>
+					<feature></feature>
+					<page>0001-0118</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agarwala, Basant K.</author>
+						<author>Ghosh, A. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="12" year="1987">
+				<entry>
+					<title>Littoral Harpacticoida &#40;Crustacea: Copepoda&#41; from Andaman and Nicobar Islands</title>
+					<feature></feature>
+					<page>0001-0385</page>
+					<plates></plates>
+					<allauthors>
+						<author>Wells, J. B. J.</author>
+						<author>Rao, G. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="017">
+			<part pnum="01" month="12" year="1988">
+				<entry>
+					<title>Review of the Genera of the Family Rhizophagidae &#40;Clavicornia: Coleoptera&#41; of the World</title>
+					<feature></feature>
+					<page>0001-0058</page>
+					<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24</plates>
+					<allauthors>
+						<author>Sengupta, Tapan</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="06" year="1989">
+				<entry>
+					<title>Monograph on <i>Nichollsia Kashiensis</i> Chopra &#38; Tiwari 1950 &#40;Crustacea, Isopoda, Phreatoicoidea, Nichollsidae&#41;</title>
+					<feature></feature>
+					<page>0001-0160</page>
+					<plates>1,2,3,4,5,6,7,8</plates>
+					<allauthors>
+						<author>Gupta, Lakshman Prasad</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="12" year="1990">
+				<entry>
+					<title>A Taxonomic Review of the Genus <i>Aphis</i> Linnaeus &#40;Homoptera: Aphididae&#41; in India</title>
+					<feature></feature>
+					<page>0001-0159</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, L. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="08" year="1991">
+				<entry>
+					<title>Sipunculans of the Indian Coast</title>
+					<feature></feature>
+					<page>0001-0169</page>
+					<plates></plates>
+					<allauthors>
+						<author>Haldar, Badri Prasad</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="018">
+			<part pnum="01" month="09" year="1994">
+				<entry>
+					<title>A Taxonomic Review of Indian Tetranychidae &#40;Acari: Prostigmata&#41; with Descriptions of New Species, Re-Descriptions of Known Species and Keys to Genera and Species</title>
+					<feature></feature>
+					<page>0001-0196</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+						<author>Gupta, Y. N.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="06" year="1994">
+				<entry>
+					<title>Anuran &#40;Amphibia&#41; Fauna of Northeast India</title>
+					<feature></feature>
+					<page>0001-0143</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chanda, S. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="01" year="1999">
+				<entry>
+					<title>Systematic Studies on the Amphibian Fauna of the District Dehradun, Uttar Pradesh, India</title>
+					<feature></feature>
+					<page>0001-0102</page>
+					<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32</plates>
+					<allauthors>
+						<author>Ray, Pranjalendu</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="07" year="1998">
+				<entry>
+					<title>Taxonomic Studies on Ants of Southern India---&#40;Insecta: Hymenoptera: Formicidae&#41;</title>
+					<feature></feature>
+					<page>0001-0096</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tiwari, R. N.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="019">
+			<part pnum="01" month="11" year="2002">
+				<entry>
+					<title>Geographical Distribution of Odonata &#40;Insecta&#41; of Eastern India</title>
+					<feature></feature>
+					<page>0001-0208</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mitra, Tridib Ranjan</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="11" year="2002">
+				<entry>
+					<title>A Monograph on Plant Inhabiting Predatory Mites of India---Orders: Prostigmata, Astigmata and Cryptostigmata &#40;1&#41;</title>
+					<feature></feature>
+					<page>0001-0183</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="08" year="2003">
+				<entry>
+					<title>Diversity and Distribution of Grasshopper Fauna of Greater Kolkata with Notes on Their Ecology</title>
+					<feature></feature>
+					<page>0001-0118</page>
+					<plates></plates>
+					<allauthors>
+						<author>Dey, A.</author>
+						<author>Hazra, A. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="06" year="2003">
+				<entry>
+					<title>Morphology, Morphometry and Ecology of Moss Dwelling Testate Amoebae &#40;Protozoa: Rhizopoda&#41; of North and North-East India</title>
+					<feature></feature>
+					<page>0001-0113</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chattopadhyay, Piyali</author>
+						<author>Das, A. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="020">
+			<part pnum="01" month="11" year="2003">
+				<entry>
+					<title>A Monograph on Plant Inhabiting Predatory Mites of India---Order: Mesostigmata &#40;2&#41;</title>
+					<feature></feature>
+					<page>0001-0185</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="05" year="2004">
+				<entry>
+					<title>Taxonomic Studies of Some Spiders from Mangrove and Semi-Mangrove Areas of Sundarban</title>
+					<feature></feature>
+					<page>0001-0042</page>
+					<plates></plates>
+					<allauthors>
+						<author>Majumder, S. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="08" year="2005">
+				<entry>
+					<title>Studies on Some Spiders from Eastern Coastal Region of India</title>
+					<feature></feature>
+					<page>0001-0057</page>
+					<plates></plates>
+					<allauthors>
+						<author>Majumder, S. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="04" month="01" year="2006">
+				<entry>
+					<title>A Taxonomic Monograph on the World Species of Termites of the Family Rhinotermitidae &#40;Isoptera: Insecta&#41;</title>
+					<feature></feature>
+					<page>0001-0272</page>
+					<plates></plates>
+					<allauthors>
+						<author>Maiti, P. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="021">
+			<part pnum="01" month="05" year="2006">
+				<entry>
+					<title>Studies on Proctotrupoidea and Platygastroidea &#40;Hymenoptera: Insecta&#41; of Kerala</title>
+					<feature></feature>
+					<page>0001-0153</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rajmohana, K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="08" year="2008">
+				<entry>
+					<title>Termite &#40;Isoptera&#41; Fauna of the Himalaya Including its Zoogeographical Analysis</title>
+					<feature></feature>
+					<page>0001-0207</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukherjee, P.</author>
+						<author>Maiti, P. K.</author>
+						<author>Saha, N.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="02" year="2009">
+				<entry>
+					<title>Animal Remains from Brahmagiri Archaeological Site &#40;Karnataka&#41; and Their Relevance to the Ancient Civilization</title>
+					<feature></feature>
+					<page>0001-0031</page>
+					<plates>1,2,3,4,5</plates>
+					<allauthors>
+						<author>Pal, T. K.</author>
+						<author>Talukder, B.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+	</memoirs>
+</zsi>

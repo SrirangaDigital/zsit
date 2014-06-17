@@ -1,0 +1,3994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE zsi SYSTEM "zsi.dtd">
+
+<zsi>
+	<occasionalpapers>
+		<paper pnum="001" month="00" year="1976">
+			<entry>
+				<title>Index Horana---An Index to the Scientific Fish Names Occurring in all the Publications of the Late Dr. Sundar Lal Hora</title>
+				<feature></feature>
+				<page>0001-0191</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="002" month="00" year="1976">
+			<entry>
+				<title>Catalogue of Oriental Dermaptera</title>
+				<feature></feature>
+				<page>0001-0094</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Srivastava, G. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="003" month="00" year="1976">
+			<entry>
+				<title>A Check-List of the Acridoidea &#40;Orthoptera&#41; of India---Acrididae &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Tandon, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="004" month="00" year="1976">
+			<entry>
+				<title>Checklist of Indian Freshwater Sponges, with a Catalogue of Type-Specimens in the Collection of the Zoological Survey of India &#40;Porifera: Spongillidae&#41;</title>
+				<feature></feature>
+				<page>0001-0029</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Khera, S.</author>
+					<author>Chaturvedi, Y.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="005" month="00" year="1977">
+			<entry>
+				<title>Check-List of Indian Nematodes---&#40;Animal Parasites&#41;</title>
+				<feature></feature>
+				<page>0001-0148</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chaturvedi, Y.</author>
+					<author>Kansal, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="006" month="00" year="1977">
+			<entry>
+				<title>Catalogue of Oriental Dytiscidae</title>
+				<feature></feature>
+				<page>0001-0111</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Vazirani, T. G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="007" month="00" year="1977">
+			<entry>
+				<title>Catalogue Mammaliana---An Annotated Catalogue of the Type Specimens of Mammals in the Collections of the Zoological Survey of India</title>
+				<feature></feature>
+				<page>0001-0044</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Khajuria, H.</author>
+					<author>Chaturvedi, Y.</author>
+					<author>Ghoshal, D. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="008" month="00" year="1977">
+			<entry>
+				<title>Aid to the Identification of the Siluroid Fishes of India, Burma, Sri Lanka, Pakistan and Bangladesh---Bagridae &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0041</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="009" month="00" year="1977">
+			<entry>
+				<title>A Review of Taxonomy of Indian Termites</title>
+				<feature></feature>
+				<page>0001-0036</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chhotani, O. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="010" month="00" year="1977">
+			<entry>
+				<title>Aid to the Identification of the Siluroid Fishes of India, Burma, Sri Lanka, Pakistan and Bangladesh---Siluridae, Schilbeidae, Pangasidae, Amblycipitidae, Akysidae</title>
+				<feature></feature>
+				<page>0001-0033</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="011" month="00" year="1978">
+			<entry>
+				<title>Bioecology of Four Species of Anthocoridae &#40;Hemiptera: Insecta&#41; Predaceous on Thrips with Key to Genera of Anthocorids from India</title>
+				<feature></feature>
+				<page>0001-0032</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Muraleedharan, N.</author>
+					<author>Ananthakrishnan. T. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="012" month="00" year="1978">
+			<entry>
+				<title>Contributions to the Molluscan Fauna of India---Marine Molluscs of the Coromandel Coast, Palk Strait and Gulf of Mannar-Gastropoda: Archaeogastropoda &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Rajagopal, A. S.</author>
+					<author>Mookherjee, H. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="013" month="00" year="1979">
+			<entry>
+				<title>Studies on the Bats &#40;Chiroptera: Mammalia&#41; of M. P., India---&#40;Families <i>Pteropidae, Rhinopomatidae and Embalonuridae</i>&#41; &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0059</page>
+				<plates>1,2,3,4,5,6,7</plates>	
+				<allauthors>
+					<author>Khajuria, H.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="014" month="00" year="1979">
+			<entry>
+				<title>Aid to the Identification of the Siluroid Fishes of India, Burma, Sri Lanka, Pakistan and Bangladesh---Sisoridae &#40;3&#41;</title>
+				<feature></feature>
+				<page>0001-0062</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="015" month="00" year="1980">
+			<entry>
+				<title>A Review of the Genus <i>Enchodelus</i> thorne, 1939 with Descriptions of Species from India</title>
+				<feature></feature>
+				<page>0001-0042</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ahmad, Maqsood</author>
+					<author>Jairajpuri, M. Shamim</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="016" month="00" year="1980">
+			<entry>
+				<title>Descriptions of a New Genus and Some New Species of Membracidae &#40;Homoptera&#41; in the Collections of the Zoological Survey of India</title>
+				<feature></feature>
+				<page>0001-0036</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33</plates>	
+				<allauthors>
+					<author>Ananthasubramanian, K. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="017" month="00" year="1980">
+			<entry>
+				<title>The <i>Isotima</i>-Complex &#40;Hymenoptera: Ichneumonidae&#41;</title>
+				<feature></feature>
+				<page>0001-0146</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jonathan, J. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="018" month="00" year="1980">
+			<entry>
+				<title>A Study on the Sexuales of Aphids &#40;Homoptera: Aphididae&#41; in India</title>
+				<feature></feature>
+				<page>0001-0054</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Basu, R. C.</author>
+					<author>Raychaudhuri, D. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="019" month="00" year="1980">
+			<entry>
+				<title>Taxonomical and Ecological Studies on the Bats of Jabalpur Dist. Madhya Pradesh, India &#40;Families <i>Megadermatidae, Rhinolophidae and Vespertilionidae</i>&#41; &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0069</page>
+				<plates>1,2,3,4,5,6,7</plates>	
+				<allauthors>
+					<author>Khajuria, H.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="020" month="00" year="1981">
+			<entry>
+				<title>Field Ecology, Zoogeography and Taxonomy of the Odonata of Western Himalaya, India</title>
+				<feature></feature>
+				<page>0001-0118</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Kumar, Arun</author>
+					<author>Prasad, Mahabir</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="021" month="00" year="1981">
+			<entry>
+				<title>The Hoplopleurid Lice of the Indian Subcontinent---&#40;Anoplura: Hoplopleuridae&#41;</title>
+				<feature></feature>
+				<page>0001-0128</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mishra, A. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="022" month="00" year="1981">
+			<entry>
+				<title>Studies on Ectoparasites of Bats of Rajasthan and Gujarat &#40;India&#41;</title>
+				<feature></feature>
+				<page>0001-0155</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Advani, Ranjan</author>
+					<author>Vazirani, T. G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="023" month="00" year="1980">
+			<entry>
+				<title>Aid to the Identification of the Siluroid Fishes of India, Burma, Sri Lanka, Pakistan and Bangladesh---Clariidae, Heteropneustidae, Chacidae and Olyridae &#40;4&#41;</title>
+				<feature></feature>
+				<page>0001-0023</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="024" month="00" year="1981">
+			<entry>
+				<title>Studies on Some Orb-Weaving Spiders of the Genera <i>Neoscona</i> Simon and <i>Araneus</i> Clerck of the Family Araneidae &#40;= Argiopidae&#41; from India</title>
+				<feature></feature>
+				<page>0001-0060</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Tikader, B. K.</author>
+					<author>Bal, Animesh</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="025" month="00" year="1981">
+			<entry>
+				<title>On a Collection of Eurytomidae &#40;Chalcidoidea: Hymenoptera&#41; from India</title>
+				<feature></feature>
+				<page>0001-0087</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mukerjee, M. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="026" month="00" year="1981">
+			<entry>
+				<title>Taxonomic Studies on the Earthworms Collected During the Subansiri Expedition in Arunachal Pradesh, India</title>
+				<feature></feature>
+				<page>0001-0053</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Julka, J. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="027" month="00" year="1981">
+			<entry>
+				<title>On a Collection of Scelionidae and Platygastridae &#40;Hymenoptera: Proctotrupoidea&#41; from India</title>
+				<feature></feature>
+				<page>0001-0078</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mukerjee, M. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="028" month="00" year="1982">
+			<entry>
+				<title>Contribution to the Molluscan Fauna of India---Marine Molluscs of the Coromandel Coast, Palk Bay and Gulf of Mannar-Gastropoda: Mesogastropada &#40;Partim&#41; &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0053</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rajagopal, A. S.</author>
+					<author>Mookherjee, H. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="029" month="00" year="1981">
+			<entry>
+				<title>On the Papilioninae &#40;Papilionidae: Lepidoptera&#41; from Arunachal Pradesh &#38; Adjoining Areas of Assam in North-Eastern India</title>
+				<feature></feature>
+				<page>0001-0065</page>
+				<plates>1,2,3,4,5,6,7</plates>	
+				<allauthors>
+					<author>Arora, G. S.</author>
+					<author>Mondal, D. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="030" month="00" year="1981">
+			<entry>
+				<title>Spider Fauna of Calcutta and Vicinity &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0149</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</plates>	
+				<allauthors>
+					<author>Tikader, B. K.</author>
+					<author>Biswas, Bijan</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="031" month="00" year="1981">
+			<entry>
+				<title>On a Collection of Butterflies from Hazaribagh National Park and Near by Areas in South Bihar &#40;Lepidoptera: Rhopalocera&#41;</title>
+				<feature></feature>
+				<page>0001-0038</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Varshney, R. K.</author>
+					<author>Nandi, B.</author>
+					<author>Nahar, S. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="032" month="00" year="1981">
+			<entry>
+				<title>On the Systematics of the Indian Fishes of the Genus <i>Lepidocephalus</i> Bleeker with Keys to the Species of the Genus and Genera of the Subfamilies Botiinae and Cobitinae &#40;Cobitidae: Cypriniformes&#41;</title>
+				<feature></feature>
+				<page>0001-0042</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Tilak, Raj</author>
+					<author>Husain, Akhlaq</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="033" month="00" year="1982">
+			<entry>
+				<title>Notes on the Type Collection of the Chewing-Lice &#40;Phthiraptera, Mallophaga S. L.,: Insecta&#41; in the Zoological Survey of India</title>
+				<feature></feature>
+				<page>0001-0037</page>
+				<plates>1,2,3,4,5,6,7</plates>	
+				<allauthors>
+					<author>Lakshminarayana, K. V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="034" month="00" year="1982">
+			<entry>
+				<title>Nygolaimina of India</title>
+				<feature></feature>
+				<page>0001-0070</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ahmad, Maqsood</author>
+					<author>Jairajpuri, M. Shamim</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="035" month="00" year="1982">
+			<entry>
+				<title>Studies on the Pholidosis and Variability in Characters Showing Sexual Dimorphism in Various Species of India Reptiles</title>
+				<feature></feature>
+				<page>0001-0153</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sharma, R. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="036" month="00" year="1982">
+			<entry>
+				<title>A Survey of the Cauvery River System with a Major Account of its Fish Fauna</title>
+				<feature></feature>
+				<page>0001-0115</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12</plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+					<author>Venkateswarlu, T.</author>
+					<author>Ragunathan, M. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="037" month="00" year="1982">
+			<entry>
+				<title>Aid to the Identification of the Siluroid Fishes of India, Burma, Sri Lanka, Pakistan and Bangladesh---Ariidae and Plotosidae &#40;5&#41;</title>
+				<feature></feature>
+				<page>0001-0041</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="038" month="00" year="1983">
+			<entry>
+				<title>Contribution to the Knowledge of the Mammalian Fauna of Jammu and Kashmir, India</title>
+				<feature></feature>
+				<page>0001-0129</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chakraborty, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="039" month="00" year="1982">
+			<entry>
+				<title>The Mahseer Fishes of India---A Review</title>
+				<feature></feature>
+				<page>0001-0038</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sen, T. K.</author>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="040" month="00" year="1983">
+			<entry>
+				<title>Zooplankton Dynamics and Hydrographic Features of Ennore Estuary, Madras</title>
+				<feature></feature>
+				<page>0001-0030</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Raghunathan, M. B.</author>
+					<author>Srinivasan, M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="041" month="00" year="1983">
+			<entry>
+				<title>Index-Catalogue and Bibliography of Protozoan Parasites from Indian Fishes</title>
+				<feature></feature>
+				<page>0001-0046</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nandi, N. C.</author>
+					<author>Nandi, R.</author>
+					<author>Mandal, Ajoy Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="042" month="00" year="1983">
+			<entry>
+				<title>Termite Fauna &#40;Isoptera&#41; of West Bengal, India, Their Recognition, Biology and Ecology</title>
+				<feature></feature>
+				<page>0001-0152</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Maiti, P. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="043" month="00" year="1984">
+			<entry>
+				<title>Ecology and Ethology of the Spotted-Deer, <i>Axis Axis Axis</i> &#40;Erxleben&#41; &#40;Artiodactyla: Cervidae&#41;</title>
+				<feature></feature>
+				<page>0001-0100</page>
+				<plates>1,2A,2B,3,4,5,6,7A,7B,8A,8B,9A,9B,10,11A,11B,12A,12B,13A,13B,14A,14B,15A,15B,16A,16B,17A,17B,18A,18B,19A,19B,20A,20B,21A,21B,22A,22B,23A,23B,24A,24B,25A,25B,26A,26B</plates>	
+				<allauthors>
+					<author>Tak, P. C.</author>
+					<author>Lamba, B. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="044" month="00" year="1984">
+			<entry>
+				<title>A Contribution to the Food Habits of Some Indian Mynas &#40;Aves&#41;</title>
+				<feature></feature>
+				<page>0001-0076</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Narang, M. L.</author>
+					<author>Lamba, B. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="045" month="00" year="1983">
+			<entry>
+				<title>Studies on the Biotaxonomy, Biology and Ecology of Some Longicorn Beetle Borers &#40;Coleoptera: Cerambycidae&#41; of the Islands of Andaman, India</title>
+				<feature></feature>
+				<page>0001-0100</page>
+				<plates>1,2,3,4,5,6,7,8,9,10</plates>	
+				<allauthors>
+					<author>Khan, T. N.</author>
+					<author>Maiti, P. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="046" month="00" year="1983">
+			<entry>
+				<title>Additions to the Copepods Parasitic on the Marine Fishes of India---On Twelve Species of Caligids &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0049</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Prabha, C.</author>
+					<author>Krishna Pillai, N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="047" month="00" year="1983">
+			<entry>
+				<title>Index Rhopalocera Indica---Common Names of Butterflies from India and Neighbouring Countries &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0049</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Varshney, R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="048" month="00" year="1984">
+			<entry>
+				<title>Index-Catalogue of Avian Haematozoa from India</title>
+				<feature></feature>
+				<page>0001-0064</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nandi, N. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="049" month="00" year="1984">
+			<entry>
+				<title>Termite Fauna of Southern India</title>
+				<feature></feature>
+				<page>0001-0270</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Bose, Geeta</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="050" month="00" year="1984">
+			<entry>
+				<title>A Check-List of Aphidoidea of India</title>
+				<feature></feature>
+				<page>0001-0071</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Agarwala, Basant K.</author>
+					<author>Ghosh, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="051" month="00" year="1983">
+			<entry>
+				<title>Aphids &#40;Homoptera: Aphididae&#41; of Nepal</title>
+				<feature></feature>
+				<page>0001-0079</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Das, B. C.</author>
+					<author>Raychaudhuri, D. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="052" month="00" year="1984">
+			<entry>
+				<title>Contribution to the Taxonomical Studies of Neuroptera &#40;Suborder Planipennia&#41; from Eastern India---Family Myrmeleontidae &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates>1,2</plates>	
+				<allauthors>
+					<author>Ghosh, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="053" month="00" year="1984">
+			<entry>
+				<title>The Biology of <i>Forcipula Trispinosa</i> &#40;Dohrn&#41; &#40;Dermaptera: Labiduridae&#41;</title>
+				<feature></feature>
+				<page>0001-0038</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Shah, Anil Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="054" month="00" year="1983">
+			<entry>
+				<title>Studies on Nematode Parasites of Indian Vertebrates---Fishes &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0352</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Soota, T. D.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="055" month="00" year="1984">
+			<entry>
+				<title>A Contribution to the Breeding Biology of Two Indian Mynas</title>
+				<feature></feature>
+				<page>0001-0108</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</plates>	
+				<allauthors>
+					<author>Tyagi, A. K.</author>
+					<author>Lamba, B. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="056" month="00" year="1984">
+			<entry>
+				<title>Scientific, Common and Vernacular Names of Fishes of India</title>
+				<feature></feature>
+				<page>0001-0096</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Venkateswarlu, T.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="057" month="00" year="1984">
+			<entry>
+				<title>Account of the Indian Tons Valley Expedition-1972 with an Annotated List of Species and Redescription of <i>Colias Electo Fieldi</i> Ménétries &#40;Order Lepidoptera&#41; from the Indo-Palaearctic Region</title>
+				<feature></feature>
+				<page>0001-0031</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mandal, D. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="058" month="00" year="1984">
+			<entry>
+				<title>The Comparative Morphology of the Osteocranium, the Weberian Apparatus, the Girdles and the Caudal Skeleton of Indian Cyprinid Fishes with Their Value in Systematics</title>
+				<feature></feature>
+				<page>0001-0167</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mehta, Ranjana</author>
+					<author>Tandon, K. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="059" month="00" year="1984">
+			<entry>
+				<title>On a Collection of Birds from Bastar District, Madhya Pradesh</title>
+				<feature></feature>
+				<page>0001-0054</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Majumdar, N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="060" month="00" year="1983">
+			<entry>
+				<title>On the Lepidopterous Fauna of Andaman and Nicobar Group of Islands &#40;India&#41;: Family Arctiidae</title>
+				<feature></feature>
+				<page>0001-0049</page>
+				<plates>1,2,3</plates>	
+				<allauthors>
+					<author>Arora, G. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="061" month="00" year="1984">
+			<entry>
+				<title>Contribution to the Knowledge of Indian Marine Molluscs---Family Mitridae &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates>1,2,3</plates>	
+				<allauthors>
+					<author>Rao, N. V. Subba</author>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="062" month="00" year="1984">
+			<entry>
+				<title>Major Beetle Pests of stored Food Products in India</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sengupta, T.</author>
+					<author>Mukhopadhyay, P.</author>
+					<author>Sengupta, R.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="063" month="00" year="1985">
+			<entry>
+				<title>Studies on the Genus <i>Callosciurus</i> Gray &#40;Rodentia: Sciuridae&#41;</title>
+				<feature></feature>
+				<page>0001-0093</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chakraborty, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="064" month="00" year="1985">
+			<entry>
+				<title>The Fish Fauna of Assam and the Neighbouring North-Eastern States of India</title>
+				<feature></feature>
+				<page>0001-0216</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sen, T. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="065" month="00" year="1984">
+			<entry>
+				<title>On a Collection of Birds from Adilabad District, Andhra Pradesh</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Majumdar, N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="066" month="00" year="1984">
+			<entry>
+				<title>Studies on the Asilidae &#40;Diptera&#41; Collections Made by Dr. Ghorpade</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Joseph, A. N. T.</author>
+					<author>Parui, P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="067" month="00" year="1984">
+			<entry>
+				<title>Hermit Crabs of Porto Novo Coast</title>
+				<feature></feature>
+				<page>0001-0025</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Khan, S. Ajmal</author>
+					<author>Natarajan, R.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="068" month="00" year="1985">
+			<entry>
+				<title>On the Dentition of Domestic Goat from Prehistoric Sites of India</title>
+				<feature></feature>
+				<page>0001-0043</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ray, S. K.</author>
+					<author>Chakraborty, P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="069" month="00" year="1984">
+			<entry>
+				<title>Five New Species of Freshwater Atyid Shrimps of the Genus <i>Caridina</i> H. Milne Edwards from Dharwar Area &#40;Karnataka state, India&#41;</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jalihal, D. R.</author>
+					<author>Shenoy, Shakuntala</author>
+					<author>Sankolli, K. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="070" month="00" year="1985">
+			<entry>
+				<title>Fishes of Khasi Hills</title>
+				<feature></feature>
+				<page>0001-0043</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Yazdani, G. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="071" month="00" year="1985">
+			<entry>
+				<title>A Revision of Indian <i>Psammoecus</i> Latreille &#40;Coleoptera: Silvanidae&#41;</title>
+				<feature></feature>
+				<page>0001-0054</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Pal, T. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="072" month="00" year="1985">
+			<entry>
+				<title>A Field Guide to the Lizards of Western Ghats</title>
+				<feature></feature>
+				<page>0001-0051</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14</plates>	
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="073" month="00" year="1985">
+			<entry>
+				<title>Contribution to the Gryllid Fauna of the Western Himalayas &#40;Orthoptera: Gryllidae&#41;---With a Complete List of Valid Species from the Area &#40;1&#41;---Description of Four New Species &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0085</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Bhowmik, H. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="074" month="00" year="1989">
+			<entry>
+				<title>Contributions of the Zoological Survey of India &#40;1916-1976&#41;</title>
+				<feature></feature>
+				<page>0001-0434</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Gupta, P. D.</author>
+					<author>Gupta, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="075" month="00" year="1985">
+			<entry>
+				<title>Contributions to the Molluscan Fauna of India---Marine Molluscs of the Coromandel Coast, Palk Bay and Gulf of Mannar-Gastropoda: Mesogastropoda &#40;Part-3&#41; &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0093</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</plates>	
+				<allauthors>
+					<author>Mookherjee, H. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="076" month="00" year="1985">
+			<entry>
+				<title>Studies on Migratory Birds and Their Feeding Behaviour in Corbett National Park</title>
+				<feature></feature>
+				<page>0001-0147</page>
+				<plates>1,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43</plates>	
+				<allauthors>
+					<author>Kumar, Girish</author>
+					<author>Lamba, B. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="077" month="00" year="1986">
+			<entry>
+				<title>The Bats of Bihar: Taxonomy and Field Ecology</title>
+				<feature></feature>
+				<page>0001-0060</page>
+				<plates>1a,1b,1c,1d,2a,2b,2c,2d,2e,3a,3b,3c,3d,3e,4a,4b,4c,4d,5a,5b,5c,6a,6b,6c,6d,7a,7b,7c,7d</plates>	
+				<allauthors>
+					<author>Sinha, Yadunath Prasad</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="078" month="00" year="1985">
+			<entry>
+				<title>Outline of Distribution with an Index-Catalogue of Indian Grasshoppers &#40;Orthoptera: Acrididae&#41;---Subfamilies: Acridinae, Truxalinae, Gomphocerinae and Oedipodinae &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0051</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Bhowmik, H. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="079" month="00" year="1986">
+			<entry>
+				<title>Additions to the Copepods Parasitic on the Marine Fishes of India---On Twentysix Species of Caligids &#40;4&#41;</title>
+				<feature></feature>
+				<page>0001-0139</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Prabha, C.</author>
+					<author>Pillai, N. Krishna</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="080" month="00" year="1985">
+			<entry>
+				<title>Study on Indian Pentatomoidea &#40;Heteroptera: Insecta&#41;</title>
+				<feature></feature>
+				<page>0001-0043</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Datta, B.</author>
+					<author>Ghosh, L. K.</author>
+					<author>Dhar, Maya</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="081" month="00" year="1986">
+			<entry>
+				<title>Data Book for the Study of Chewing-Lice &#40;Phthiraptera: Insecta&#41; in India and Adjacent Countries</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Lakshminarayana, K. V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="082" month="00" year="1985">
+			<entry>
+				<title>Glossary of Taxonomic Characters for the Study of Chewing-Lice &#40;Phthiraptera: Insecta&#41;</title>
+				<feature></feature>
+				<page>0001-0059</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Lakshminarayana, K. V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="083" month="00" year="1986">
+			<entry>
+				<title>Check List of Oribatid Mites &#40;Acari&#41; of India</title>
+				<feature></feature>
+				<page>0001-0079</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sanyal, Asok K.</author>
+					<author>Bhaduri, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="084" month="00" year="1986">
+			<entry>
+				<title>Taxonomy of South Indian Psyllids</title>
+				<feature></feature>
+				<page>0001-0110</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Kandasamy, C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="085" month="00" year="1986">
+			<entry>
+				<title>Catalogue of Birds in the Zoological Survey of India, Calcutta---Alcedinidae &#40;Kingfishers&#41; &#40;4&#41;</title>
+				<feature></feature>
+				<page>0001-0076</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mukherjee, A. K.</author>
+					<author>Dasgupta, J. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="086" month="00" year="1986">
+			<entry>
+				<title>A Contribution to the Knowledge of the Bark-and Timber-Beetles &#40;Scolytidae: Coleoptera&#41; of the Islands of Andaman and Nicobar, India</title>
+				<feature></feature>
+				<page>0001-0182</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Maiti, P. K.</author>
+					<author>Saha, N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="087" month="00" year="1986">
+			<entry>
+				<title>Valid Scientific Names to Day's Fish Fauna of India</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Venkateswarlu, T.</author>
+					<author>Rao, Kaza V. Rama</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="088" month="00" year="1986">
+			<entry>
+				<title>Mathematical Models and Theories on Oscillations in Populations: The Early Phase</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Banerjee, Barundeb</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="089" month="00" year="1986">
+			<entry>
+				<title>Studies on Indian Labidurinae &#40;Dermaptera&#41;</title>
+				<feature></feature>
+				<page>0001-0036</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Srivastava, G. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="090" month="00" year="1988">
+			<entry>
+				<title>On Oriental Cicadellidae &#40;Homoptera: Insecta&#41;</title>
+				<feature></feature>
+				<page>0001-0256</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Datta, Bimal</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="091" month="00" year="1986">
+			<entry>
+				<title>Contributions to the Knowledge of Indian Marine Molluscs---Family-Donacidae &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0030</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, N. V. Subba</author>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="092" month="00" year="1987">
+			<entry>
+				<title>Earthworms &#40;Oligochaeta: Annelida&#41; of Orissa, India</title>
+				<feature></feature>
+				<page>0001-0049</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Julka, J. M.</author>
+					<author>Senapati, B. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="093" month="00" year="1988">
+			<entry>
+				<title>Studies on Some Giant Spiders of the Family Heteropodidae from India</title>
+				<feature></feature>
+				<page>0001-0094</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sethi, Veena D.</author>
+					<author>Tikader, B. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="094" month="00" year="1987">
+			<entry>
+				<title>On the Birds of Poona and Vicinity</title>
+				<feature></feature>
+				<page>0001-0115</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mahabal, Anil</author>
+					<author>Lamba, B. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="095" month="00" year="1987">
+			<entry>
+				<title>A Taxonomic Review of Oriental Phytoseiidae with Keys to Genera and Species</title>
+				<feature></feature>
+				<page>0001-0167</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Gupta, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="096" month="00" year="1986">
+			<entry>
+				<title>A Revision of Indian <i>Machimus</i> Loew &#40;Diptera: Asilidae&#41;</title>
+				<feature></feature>
+				<page>0001-0058</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Joseph, A. N. T.</author>
+					<author>Parui, P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="097" month="00" year="1987">
+			<entry>
+				<title>Bibliography of the Indian Sundarbans with Special Reference to Fauna</title>
+				<feature></feature>
+				<page>0001-0135</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nandi, N. C.</author>
+					<author>Misra, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="098" month="00" year="1988">
+			<entry>
+				<title>On a Collection of Fish from Bastar District, Madhya Pradesh</title>
+				<feature></feature>
+				<page>0001-0050</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Karmakar, A. K.</author>
+					<author>Datta, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="099" month="00" year="1987">
+			<entry>
+				<title>Studies on the Odonate Fauna of Meghalaya</title>
+				<feature></feature>
+				<page>0001-0402</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Lahiri, A. R.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="100" month="00" year="1988">
+			<entry>
+				<title>Thysanoptera Fauna of North-Eastern India</title>
+				<feature></feature>
+				<page>0001-0123</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sen, S.</author>
+					<author>Pramanik, N. K.</author>
+					<author>Gupta, C. K. Sen</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="101" month="00" year="1988">
+			<entry>
+				<title>Role of Spinning Apparatus in Non Orb-Weaving and Orb-Weaving Spiders from India</title>
+				<feature></feature>
+				<page>0001-0132</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ramakrishna</author>
+					<author>Tikader, B. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="102" month="00" year="1991">
+			<entry>
+				<title>Studies on Some Spiders of the Family Clubionidae from India</title>
+				<feature></feature>
+				<page>0001-0175</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Majumder, S. C.</author>
+					<author>Tikader, B. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="103" month="00" year="1987">
+			<entry>
+				<title>Status Survey of Fauna: Nanda Devi National Park &#40;Mammals and Birds&#41;</title>
+				<feature></feature>
+				<page>0001-0050</page>
+				<plates>1,2,3,4,5,6</plates>	
+				<allauthors>
+					<author>Lamba, B. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="104" month="00" year="1987">
+			<entry>
+				<title>Biology of the Cattle Egret <i>Bubulcus Ibis Coromandus</i> &#40;Boddaert&#41;</title>
+				<feature></feature>
+				<page>0001-0143</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30</plates>	
+				<allauthors>
+					<author>Singh, Navdeep</author>
+					<author>Sodhi, Navjot S.</author>
+					<author>Khera, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="105" month="00" year="1987">
+			<entry>
+				<title>Recent Advances in Rodentology in India</title>
+				<feature></feature>
+				<page>0001-0126</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Roonwal, M. L.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="106" month="00" year="1987">
+			<entry>
+				<title>Butterflies from Bastar District &#40;Madhya Pradesh, India&#41;</title>
+				<feature></feature>
+				<page>0001-0074</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11</plates>	
+				<allauthors>
+					<author>Gupta, I. J.</author>
+					<author>Shukla, J. P. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="107" month="00" year="1988">
+			<entry>
+				<title>Taxonomic Study of Lygaeidae &#40;Heteroptera: Insecta&#41; from West Bengal &#40;India&#41;</title>
+				<feature></feature>
+				<page>0001-0072</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mukhopadhyay, Ananda</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="108" month="00" year="1988">
+			<entry>
+				<title>Collection of Birds from Koraput District Orissa, India</title>
+				<feature></feature>
+				<page>0001-0053</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Majumdar, N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="109" month="00" year="1988">
+			<entry>
+				<title>Studies on the Butterflies of Arunachal Pradesh and Adjoining Areas, India &#40;Lepidoptera: Acraeidae, Satyridae, Nymphalidae, Riodinidae, and Lycaenidae&#41;</title>
+				<feature></feature>
+				<page>0001-0115</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23</plates>	
+				<allauthors>
+					<author>Gupta, I. J.</author>
+					<author>Shukla, J. P. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="110" month="00" year="1988">
+			<entry>
+				<title>The Odonata of Bihar, India</title>
+				<feature></feature>
+				<page>0001-0045</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Prasad, M.</author>
+					<author>Varshney, R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="111" month="00" year="1988">
+			<entry>
+				<title>The Harvester Termites &#40;<i>Anacanthotermes</i>&#41; of the Indian Region, Identity, Distribution and Biology &#40;Isoptera, Hodotermitidae&#41;</title>
+				<feature></feature>
+				<page>0001-0061</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Roonwal, M. L.</author>
+					<author>Bose, G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="112" month="00" year="1988">
+			<entry>
+				<title>Freshwater Prawns of the Genus <i>Macrobrachium</i> Bate, 1868 &#40;Crustadea, Decapoda, Palaemonidae&#41; from Karnataka, India</title>
+				<feature></feature>
+				<page>0001-0074</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jalihal, D. R.</author>
+					<author>Shenoy, Shakuntala</author>
+					<author>Sankolli, K. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="113" month="00" year="1990">
+			<entry>
+				<title>A Review of the Asilidae &#40;Diptera&#41; from India</title>
+				<feature></feature>
+				<page>0001-0122</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Joseph, A. N. T.</author>
+					<author>Parui, P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="114" month="00" year="1990">
+			<entry>
+				<title>Illustrated Guide to the Snakes of the Western Ghats, India</title>
+				<feature></feature>
+				<page>0001-0076</page>
+				<plates>1,2,3,4,4a,5,6,7,8,8a,9,9a,10,11,11a,12,13,13a,14,14a,15,16,17,18,19,20,21,22,22a,23,24,25,26,27,28,29,30,31,32,33,34,35,36,36a,37,38,39,40,41,42,43,44,45,46,46a,4748,49,50,51,52,53,54,55,56,57</plates>	
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="115" month="00" year="1990">
+			<entry>
+				<title>A Field Book of the Lizards of India</title>
+				<feature></feature>
+				<page>0001-0124</page>
+				<plates>1a,1b,1c,1d,2a,2b,3a,3b,4a,5,6a,6b,7a,7b,8a,8b,9,10a,10b,10c,10d,10e,11a,11b,12a,12b,13a,13b,14,15a,15b,16a,17,18,19</plates>	
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="116" month="00" year="1992">
+			<entry>
+				<title>Census Survey and Population Ecology of Bonnet Macaque <i>Macaca Radiata</i> &#40;E. Geoffroy&#41; in South India</title>
+				<feature></feature>
+				<page>0001-0087</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Kurup, G. U.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="117" month="00" year="1989">
+			<entry>
+				<title>Contribution to the Study of Xanthidae: Actaeinae &#40;Decapoda: Crustacea&#41; of India</title>
+				<feature></feature>
+				<page>0001-0059</page>
+				<plates>1,2,3,4,5,6,7,8,9</plates>	
+				<allauthors>
+					<author>Deb, Maya</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="118" month="00" year="1989">
+			<entry>
+				<title>Aquatic and Semi Aquatic Hemiptera &#40;Insecta&#41; of Javadi Hills, Tamil Nadu</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates>1,2,3</plates>	
+				<allauthors>
+					<author>Thirumalai, G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="119" month="00" year="1988">
+			<entry>
+				<title>The Fishes of the River Gumti, Tripura, North-Eastern India</title>
+				<feature></feature>
+				<page>0001-0086</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Barman, R. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="120" month="00" year="1990">
+			<entry>
+				<title>Ecology of Subterranean Macro and Micro Arthropod Fauna in Different Degraded and Polluted Soil Environment of West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0295</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Hazra, A. K.</author>
+					<author>Choudhuri, D. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="121" month="00" year="1989">
+			<entry>
+				<title>A Collection of Cumacea from the South West and South East Coasts of India</title>
+				<feature></feature>
+				<page>0001-0037</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Devi, A. Radha</author>
+					<author>Kurian, C. V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="122" month="00" year="1989">
+			<entry>
+				<title>Revision of Indian <i>Bledius</i> Leach &#40;Coleoptera: Staphylinidae&#41;</title>
+				<feature></feature>
+				<page>0001-0046</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Biswas, D. N.</author>
+					<author>Sengupta, T.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="123" month="00" year="1990">
+			<entry>
+				<title>Comparative Morphology of the Osteocranium in Three Species of the Genus <i>Arius</i> with a Note on its Utility in Taxonomy &#40;Ariidae: Siluriformes&#41;</title>
+				<feature></feature>
+				<page>0001-0047</page>
+				<plates>1,2,3,4,5,6</plates>	
+				<allauthors>
+					<author>Dhanze, J. R.</author>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="124" month="00" year="1990">
+			<entry>
+				<title>Contribution to the Fish Fauna of India &#40;Including Adjacent Countries&#41; Order Mastacembeliformes</title>
+				<feature></feature>
+				<page>0001-0036</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Yazdani, G. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="125" month="00" year="1990">
+			<entry>
+				<title>A Pocket Book of the Amphibians and Reptiles of the Chilka Lagoon, Orissa</title>
+				<feature></feature>
+				<page>0001-0035</page>
+				<plates>1,3,5,6,7,7a,8,9,10,11,12,12a,13,14,15,16,17,18,19,20,21,22,23,24,24a</plates>	
+				<allauthors>
+					<author>Murthy, T. S. N.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="126" month="00" year="1991">
+			<entry>
+				<title>Land Molluscs of Andaman and Nicobar Islands</title>
+				<feature></feature>
+				<page>0001-0088</page>
+				<plates>1,2,3,4,5,6,7,8</plates>	
+				<allauthors>
+					<author>Rao, N. V. Subba</author>
+					<author>Mitra, S. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="127" month="00" year="1990">
+			<entry>
+				<title>Studies on a Small Collection of Leafhoppers &#40;Homoptera: Cicadellidae&#41; from Khasi Hills, Meghalaya</title>
+				<feature></feature>
+				<page>0001-0123</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, K. Ramachandra</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="128" month="00" year="1991">
+			<entry>
+				<title>Contribution to the Fauna of Sikkim Nematodes Associated with Citrus from Sikkim, India</title>
+				<feature></feature>
+				<page>0001-0103</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Baquri, Q. H.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="129" month="00" year="1991">
+			<entry>
+				<title>The South Asian Wood-Destroying Termite, <i>Odontotermes Feae</i> &#40;Synonym <i>O. Indicus</i>&#41; Identity, Biology and Economic Importance &#40;Termitidae, Macrotermitinae&#41;</title>
+				<feature></feature>
+				<page>0001-0033</page>
+				<plates>1,2</plates>	
+				<allauthors>
+					<author>Roonwal, M. L.</author>
+					<author>Verma, S. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="130" month="00" year="1991">
+			<entry>
+				<title>Population Ecology of Benthic Dipterans of the Mangrove Ecosystem of Sundarbans, India</title>
+				<feature></feature>
+				<page>0001-0091</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ray, Santanu</author>
+					<author>Choudhury, Amalesh</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="131" month="00" year="1993">
+			<entry>
+				<title>On the Biogeographical Regions of India in Relation to Studies in the Endemism of Acrididae Fauna of India</title>
+				<feature></feature>
+				<page>0001-0056</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Bhowmik, H. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="132" month="00" year="1993">
+			<entry>
+				<title>Studies on Crickets &#40;Insecta: Orthoptera: Gryllidae&#41; of Northeast India</title>
+				<feature></feature>
+				<page>0001-0178</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Vasanth, M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="133" month="00" year="1990">
+			<entry>
+				<title>Morphology and Variability of <i>Dorylaimus Stagnalis</i> Dujardin, 1845 and Their Juvenile Stages</title>
+				<feature></feature>
+				<page>0001-0054</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Shafqat, Samina</author>
+					<author>Jairajpuri, M. Shamim</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="134" month="00" year="1991">
+			<entry>
+				<title>The Ixodid Ticks of Zambia &#40;Acarina: Ixodidae&#41; &#40;A Study of Distribution, Ecology and Host Relationships&#41;</title>
+				<feature></feature>
+				<page>0001-0175</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Tandon, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="135" month="00" year="1991">
+			<entry>
+				<title>Revision of the Genus <i>Puntius</i> Hamilton from the Indian Region &#40;Pisces: Cypriniformes, Cyprinidae, Cyprininae&#41;</title>
+				<feature></feature>
+				<page>0001-0177</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="136" month="00" year="1996">
+			<entry>
+				<title>The Birds of Bhutan</title>
+				<feature></feature>
+				<page>0001-0207</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</plates>	
+				<allauthors>
+					<author>Ali, Salim</author>
+					<author>Biswas, Biswamoy</author>
+					<author>Ripley, S. Dillon</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="137" month="00" year="1991">
+			<entry>
+				<title>A Taxonomic Revision of the Indo-Burmese Species of <i>Danio</i> Hamilton Buchanan &#40;Pisces: Cyprinidae&#41;</title>
+				<feature></feature>
+				<page>0001-0091</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Barman, R. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="138" month="00" year="1991">
+			<entry>
+				<title>Freshwater Sponges of India</title>
+				<feature></feature>
+				<page>0001-0116</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Soota, T. D.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="139" month="00" year="1992">
+			<entry>
+				<title>A Check-List of the Scale Insects &#38; Mealybugs of South Asia &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0152</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Varshney, R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="140" month="00" year="1991">
+			<entry>
+				<title>Taxonomy and Zoogeography of the Tetrigidae &#40;Orthoptera: Tetrigoidea&#41; of North Eastern India</title>
+				<feature></feature>
+				<page>0001-0203</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34</plates>	
+				<allauthors>
+					<author>Shishodia, M. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="141" month="00" year="1991">
+			<entry>
+				<title>Studies on the Endocommensal Ciliates of Anurans of Andhra Pradesh</title>
+				<feature></feature>
+				<page>0001-0065</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Kalavati, C.</author>
+					<author>Murti, C. C. Narasimha</author>
+					<author>Usharani, Y.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="142" month="00" year="1995">
+			<entry>
+				<title>Birds of Arid and Semi-Arid Tracts</title>
+				<feature></feature>
+				<page>0001-0303</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14</plates>	
+				<allauthors>
+					<author>Mukherjee, Ajit Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="143" month="00" year="1992">
+			<entry>
+				<title>Birds of Goa</title>
+				<feature></feature>
+				<page>0001-0056</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Saha, B. C.</author>
+					<author>Dasgupta, J. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="144" month="00" year="1992">
+			<entry>
+				<title>Carabidae &#40;Coleoptera: Insecta&#41; of Calcutta</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Saha, S. K.</author>
+					<author>Mukherjee, A. K.</author>
+					<author>Sengupta, T.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="145" month="00" year="1993">
+			<entry>
+				<title>Ichthyofauna of Konkan Region of Maharashtra &#40;India&#41;</title>
+				<feature></feature>
+				<page>0001-0046</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Singh, D. F.</author>
+					<author>Yazdani, G. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="146" month="00" year="1992">
+			<entry>
+				<title>Ecology of Chironomidae from North East Hills of India</title>
+				<feature></feature>
+				<page>0001-0097</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Alfred, J. R. B.</author>
+					<author>Gupta, M. Dass</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="147" month="00" year="1993">
+			<entry>
+				<title>Chromosomes and Phylogeny of Coleoptera</title>
+				<feature></feature>
+				<page>0001-0035</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Kacker, R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="148" month="00" year="1993">
+			<entry>
+				<title>Catalogue of the Protozoans Occurring in Reptiles from India</title>
+				<feature></feature>
+				<page>0001-0036</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mandal, F. B.</author>
+					<author>Nandi, N. C.</author>
+					<author>Mandal, Ajoy Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="149" month="00" year="1993">
+			<entry>
+				<title>Ecological Studies on Jhum Fallows &#40;Meghalaya&#41; with Particular Reference to Soil Fauna</title>
+				<feature></feature>
+				<page>0001-0120</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Vatsauliya, P. K.</author>
+					<author>Alfred, J. R. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="150" month="00" year="1993">
+			<entry>
+				<title>Wetland Faunal Resources of West Bengal---North and South 24-Parganas Districts &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0050</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nandi, N. C.</author>
+					<author>Das, S. R.</author>
+					<author>Bhuinya, S.</author>
+					<author>Dasgupta, J. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="151" month="00" year="1993">
+			<entry>
+				<title>Effects of Continuous Cultivations and Other Agronomic Practices on Soil Microarthropods: a Unifying Concept of Agriculture and Ecology for Tropical Agroecosystem</title>
+				<feature></feature>
+				<page>0001-0077</page>
+				<plates>1,2</plates>	
+				<allauthors>
+					<author>Mitra, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="152" month="00" year="1992">
+			<entry>
+				<title>Consumer &#38; Decomposer Arthropods in Pine Plantations of Meghalaya, N. E. India---A Biodiversity and Ecological Analysis</title>
+				<feature></feature>
+				<page>0001-0129</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Reddy, M. V.</author>
+					<author>Alfred, J. R. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="153" month="00" year="1993">
+			<entry>
+				<title>Contribution to the Knowledge of Indian Marine Molluscs---Family: Muricidae &#40;3&#41;</title>
+				<feature></feature>
+				<page>0001-0133</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14</plates>	
+				<allauthors>
+					<author>Rao, N. V. Subba</author>
+					<author>Rao, K. V. Surya</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="154" month="00" year="1993">
+			<entry>
+				<title>Chaetotaxy, Phylogeny and Biogeography of Paronellinae &#40;Collembola: Entomobryidae&#41;</title>
+				<feature></feature>
+				<page>0001-0100</page>
+				<plates>1,2,3,4,5,6,7</plates>	
+				<allauthors>
+					<author>Mitra, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="155" month="00" year="1993">
+			<entry>
+				<title>Littoral Meiofauna of Little Andaman</title>
+				<feature></feature>
+				<page>0001-0120</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, G. Chandrasekhara</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="156" month="00" year="1994">
+			<entry>
+				<title>The Hawkmoths &#40;<i>Lepidoptera: Sphingidae</i>&#41; of Kumaon, N. India: A Probable Case of Faunal Drift</title>
+				<feature></feature>
+				<page>0001-0055</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Smetacek, Peter</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="157" month="00" year="1993">
+			<entry>
+				<title>Caryophyllidean Cestode Fauna of India</title>
+				<feature></feature>
+				<page>0001-0102</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Hafeezullah, M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="158" month="00" year="1995">
+			<entry>
+				<title>Bibliography on Zoology of Andaman and Nicobar Islands &#40;1845-1993&#41;</title>
+				<feature></feature>
+				<page>0001-0284</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, G. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="159" month="00" year="1994">
+			<entry>
+				<title>Marine Timber Destroying Organisms of the Andaman-Nicobar Islands and the Lakshadweep Archipelago</title>
+				<feature></feature>
+				<page>0001-0087</page>
+				<plates>1a,1b,1c,1d,2a,2b,2c,2d,3a,3b,3c,3d,4a,4b,4c,4d,5a,5b,5c,5d,6a,6b,6c,6d,7a,7b,7c,8a,8b,8c,9a,9b,9c,10a,10b,10c</plates>	
+				<allauthors>
+					<author>Nair, N. Balakrishnan</author>
+					<author>Salim, M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="160" month="00" year="1994">
+			<entry>
+				<title>The Krishna River System: A Bioresources Study</title>
+				<feature></feature>
+				<page>0001-0167</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="161" month="00" year="1994">
+			<entry>
+				<title>On a Collection of Hemiptera from Namdapha Biosphere Reserve in Arunachal Pradesh, India</title>
+				<feature></feature>
+				<page>0001-0044</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chakrabarty, S. P.</author>
+					<author>Ghosh, L. K.</author>
+					<author>Basu, R. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="162" month="00" year="1994">
+			<entry>
+				<title>Bibliography of Indian Thysanoptera</title>
+				<feature></feature>
+				<page>0001-0058</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sen, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="163" month="00" year="1994">
+			<entry>
+				<title>Descriptions of some New and Records of some Known Proctotrupoidea &#40;Hymenoptera&#41; from Garhwal Himalayas, India</title>
+				<feature></feature>
+				<page>0001-0073</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mukerjee, M. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="164" month="00" year="1994">
+			<entry>
+				<title>Anopluran Fauna of India---&#8220;The Sucking Lice Infesting Domesticated and Wild Mammals&#8221;</title>
+				<feature></feature>
+				<page>0001-0213</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91</plates>	
+				<allauthors>
+					<author>Adhikary, C. C.</author>
+					<author>Ghosh, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="165" month="00" year="1994">
+			<entry>
+				<title>Aquatic and Semi-Aquatic Hemiptera &#40;Insecta&#41; of Tamilnadu-Dharmapuri and Pudukkottai Districts &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0045</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Thirumalai, G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="166" month="00" year="1994">
+			<entry>
+				<title>Observations on the Habits and Habitats of Adult Dragonflies of Eastern India with Special Reference to the Fauna of West Bengal</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates>1,2,3</plates>	
+				<allauthors>
+					<author>Mitra, Tridib Ranjan</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="167" month="00" year="1994">
+			<entry>
+				<title>Termite Fauna &#40;Isoptera&#41; of the Andaman and Nicobar Islands, Indian Ocean</title>
+				<feature></feature>
+				<page>0001-0107</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Maiti, P. K.</author>
+					<author>Chakraborty, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="168" month="00" year="1995">
+			<entry>
+				<title>On Heteroptera &#40;Insecta&#41; from the Eastern Ghats, India</title>
+				<feature></feature>
+				<page>0001-0089</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Hegde, Vasanthi</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="169" month="00" year="1995">
+			<entry>
+				<title>Limnological Investigation on Ward's Lake---A Wetland in Shillong, Meghalaya, N. E. India</title>
+				<feature></feature>
+				<page>0001-0125</page>
+				<plates>1,2</plates>	
+				<allauthors>
+					<author>Alfred, J. R. B.</author>
+					<author>Thapa, M. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="170" month="00" year="1999">
+			<entry>
+				<title>Geographical Distribution and Zoogeography of Odonata &#40;Insecta&#41; of Meghalaya, India</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mitra, Tridib Ranjan</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="171" month="00" year="1999">
+			<entry>
+				<title>Termite Fauna of North Eastern India</title>
+				<feature></feature>
+				<page>0001-0148</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Bose, Geeta</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="172" month="00" year="1999">
+			<entry>
+				<title>Gymnophiona &#40;Amphibia&#41; of India a Taxonomic Study</title>
+				<feature></feature>
+				<page>0001-0117</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Pillai, R. S.</author>
+					<author>Ravichandran, M. S.</author>
+				</allauthors>
+			</entry>
+			</paper>
+		<paper pnum="173" month="00" year="1999">
+			<entry>
+				<title>Studies on Taxonomy, Biology and Ecology of Grasshoppers Infesting Field Crops and Vegetables with Notes on Nymphal Taxonomy of some Species in West Bengal</title>
+				<feature></feature>
+				<page>0001-0178</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mondal, S. K.</author>
+					<author>Hazra, A. K.</author>
+					<author>Tandon, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="174" month="00" year="1999">
+			<entry>
+				<title>Contribution to the Knowledge of Bats &#40;Mammalia: Chiroptera&#41; of North East Hills, India</title>
+				<feature></feature>
+				<page>0001-0052</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sinha, Yadunath Prasad</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="175" month="00" year="1999">
+			<entry>
+				<title>Check List---Fresh Water Fishes of India</title>
+				<feature></feature>
+				<page>0001-0366</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Menon, A. G. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="176" month="00" year="1999">
+			<entry>
+				<title>A Catalogue of Chromosome Numbers of Indian Mammals</title>
+				<feature></feature>
+				<page>0001-0045</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Singh, Ashok K.</author>
+					<author>Banerjee, R.</author>
+					<author>Kacker, R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="177" month="00" year="1999">
+			<entry>
+				<title>Ecology of Soil Oribatid Mites &#40;Acari&#41; in Relation to some Edaphic Factors in Gangetic Delta of West Bengal</title>
+				<feature></feature>
+				<page>0001-0055</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sanyal, Asok K.</author>
+					<author>Kundu, B. G.</author>
+					<author>Roy, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="178" month="00" year="2000">
+			<entry>
+				<title>An Account of Ichthyofauna of Andaman &#38; Nicobar Islands, Bay of Bengal</title>
+				<feature></feature>
+				<page>0001-0434</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, D. V.</author>
+					<author>Devi, Kamla</author>
+					<author>Rajan, P. T.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="179" month="00" year="2000">
+			<entry>
+				<title>Status Survey of Endangered Species---Status Survey of Chinkara and Desert Cat in Rajasthan</title>
+				<feature></feature>
+				<page>0001-0071</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</plates>	
+				<allauthors>
+					<author>Kankane, P. L.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="180" month="00" year="2000">
+			<entry>
+				<title>Taxonomic Studies on Indian Muridae and Hystricidae &#40;Mammals: Rodentia&#41;</title>
+				<feature></feature>
+				<page>0001-0177</page>
+				<plates>1,2,3,4,5,6</plates>	
+				<allauthors>
+					<author>Agrawal, V. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="181" month="00" year="2000">
+			<entry>
+				<title>Studies on some Indian Pyralid Species of Economic Importance,---Crambinae, Schoenobiinae, Nymphulinae, Phycitinae and Galleriinae &#40;<i>Lepidoptera: Pyralidae</i>&#41; &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0167</page>
+				<plates>1,2,3,4,5</plates>	
+				<allauthors>
+					<author>Arora, G. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="182" month="00" year="2000">
+			<entry>
+				<title>Fig Insects of Kerala</title>
+				<feature></feature>
+				<page>0001-0175</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Priyadarsanan, D. R.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="183" month="00" year="2000">
+			<entry>
+				<title>Revision of the Genus Labeo Cuvier from the Indian Region with a Discussion on its Phylogeny and Zoogeography &#40;Pisces: Cypriniformes, Cyprinidae, Cyprininae&#41;</title>
+				<feature></feature>
+				<page>0001-0143</page>
+				<plates>1,2</plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+					<author>Dhas, J. Jeyachandra</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="184" month="00" year="2000">
+			<entry>
+				<title>Neuroptera Fauna of North-East India</title>
+				<feature></feature>
+				<page>0001-0179</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,A,B,C,D,E,F,G</plates>	
+				<allauthors>
+					<author>Ghosh, S. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="185" month="00" year="2000">
+			<entry>
+				<title>Taxonomy, Ecobiology and Distribution Pattern of the Brachyuran Crabs of Mangrove Ecosystem in Andaman Islands</title>
+				<feature></feature>
+				<page>0001-0211</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21</plates>	
+				<allauthors>
+					<author>Roy, M. K. Dev</author>
+					<author>Das, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="186" month="00" year="2000">
+			<entry>
+				<title>Effect of Heavy Metal Contaminated Sewage Effluents on the Soil Arthropods In and Around Calcutta</title>
+				<feature></feature>
+				<page>0001-0109</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chattopadhyay, A.</author>
+					<author>Hazra, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="187" month="00" year="2000">
+			<entry>
+				<title>Catalogue of Marine Molluscs of Andaman and Nicobar Islands</title>
+				<feature></feature>
+				<page>0001-0323</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, N. V. Subba</author>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="188" month="00" year="2000">
+			<entry>
+				<title>Fish and Fisheries of Digha Coast of West Bengal</title>
+				<feature></feature>
+				<page>0001-0087</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chatterjee, T. K.</author>
+					<author>Ramakrishna</author>
+					<author>Talukdar, S.</author>
+					<author>Mukherjee, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="189" month="00" year="2001">
+			<entry>
+				<title>Habitat Suitability Analysis of Chinkara, <i>Gazella Bennetti</i> in Rajasthan, a Remote Sensing and GIS Approach</title>
+				<feature></feature>
+				<page>0001-0073</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Alfred, J. R. B.</author>
+					<author>Kankane, P. L.</author>
+					<author>Kumar, Arun</author>
+					<author>Roy, P. S.</author>
+					<author>Singh, Sarnam</author>
+					<author>Verma, Mamta</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="190" month="00" year="2001">
+			<entry>
+				<title>Waterbirds of Northern India</title>
+				<feature></feature>
+				<page>0001-0227</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44</plates>	
+				<allauthors>
+					<author>Alfred, J. R. B.</author>
+					<author>Kumar, Arun</author>
+					<author>Tak, P. C.</author>
+					<author>Sati, J. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="191" month="00" year="2002">
+			<entry>
+				<title>A Check-List of the Scale Insects and Mealybugs of South Asia &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0147</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Varshney, R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="192" month="00" year="2003">
+			<entry>
+				<title>Indian Seashells---Polyplacophora and Gastropoda &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0416</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96</plates>	
+				<allauthors>
+					<author>Rao, N. V. Subba</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="193" month="00" year="2002">
+			<entry>
+				<title>Index-Catalogue and Bibliography of Protozoan Parasites from Indian Fishes: Supplement &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0065</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nandi, N. C.</author>
+					<author>Nandi, R.</author>
+					<author>Mandal, Ajoy Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="194" month="00" year="2001">
+			<entry>
+				<title>Faunal Diversity of Aquatic Insects in Freshwater Wetlands of South Eastern West Bengal</title>
+				<feature></feature>
+				<page>0001-0104</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Khan, R. A.</author>
+					<author>Ghosh, L. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="195" month="00" year="2002">
+			<entry>
+				<title>The Ecology and Faunal Diversity of Two Floodplain Ox-Bow Lakes of South-Eastern West Bengal</title>
+				<feature></feature>
+				<page>0001-0057</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Khan, R. A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="196" month="00" year="2002">
+			<entry>
+				<title>Endemic Land Molluscs of India</title>
+				<feature></feature>
+				<page>0001-0065</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13</plates>	
+				<allauthors>
+					<author>Ramakrishna</author>
+					<author>Mitra, S. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="197" month="00" year="2002">
+			<entry>
+				<title>A Catalogue of Experimental Studies on Grasshopper Chromosomes in India 1928 to 2000</title>
+				<feature></feature>
+				<page>0001-0044</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Singh, Ashok K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="198" month="00" year="2002">
+			<entry>
+				<title>Bibliography of the Indian Estuaries, Lagoons and Backwaters</title>
+				<feature></feature>
+				<page>0001-0218</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, C. A. N.</author>
+					<author>Alfred, J. R. B.</author>
+					<author>Ramakrishna</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="199" month="00" year="2002">
+			<entry>
+				<title>Checklist of Mammals of India</title>
+				<feature></feature>
+				<page>0001-0289</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Alfred, J. R. B.</author>
+					<author>Sinha, N. K.</author>
+					<author>Chakraborty, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="200" month="00" year="2002">
+			<entry>
+				<title>Endemic Birds of India</title>
+				<feature></feature>
+				<page>0001-0044</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Dasgupta, J. M.</author>
+					<author>Roy, Sipra Basu</author>
+					<author>Datta, Bitan Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="201" month="00" year="2002">
+			<entry>
+				<title>Endemic Mammals of India</title>
+				<feature></feature>
+				<page>0001-0037</page>
+				<plates>1a,1b,2a,2b,3a,3b</plates>	
+				<allauthors>
+					<author>Alfred, J. R. B.</author>
+					<author>Chakraborty, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="202" month="00" year="2003">
+			<entry>
+				<title>Ecology and Biogeography of Odonata with Special Reference to Indian Fauna</title>
+				<feature></feature>
+				<page>0001-0041</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Mitra, Tridib Ranjan</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="203" month="00" year="2002">
+			<entry>
+				<title>Comparative Limnology of Few Man-Made Lakes In and Around Hyderabad, India</title>
+				<feature></feature>
+				<page>0001-0064</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Siddiqi, S. Z.</author>
+					<author>Khan, R. A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="204" month="00" year="2003">
+			<entry>
+				<title>Faunal Diversity of Zooplankton in Freshwater Wetlands of Southeastern West Bengal</title>
+				<feature></feature>
+				<page>0001-0107</page>
+				<plates>1,2,3</plates>	
+				<allauthors>
+					<author>Khan, R. A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="205" month="00" year="2003">
+			<entry>
+				<title>Pteromalinae &#40;Pteromalidae: Chalcidoidea: Hymenoptera&#41; of Indian Subcontinent</title>
+				<feature></feature>
+				<page>0001-0170</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Sureshan, P. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="206" month="00" year="2003">
+			<entry>
+				<title>Studies on the Soft Corals &#40;Octocorallia: Alcyonacea&#41; of Andaman Islands, Bay of Bengal</title>
+				<feature></feature>
+				<page>0001-0099</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Rao, D. V.</author>
+					<author>Devi, Kamla</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="207" month="00" year="2003">
+			<entry>
+				<title>A Taxonomic Revision of the Fishes of the Genus <i>Mystus</i> Scopoli &#40;Family Bagridae&#41;</title>
+				<feature></feature>
+				<page>0001-0136</page>
+				<plates>1,4,5</plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+					<author>Sanyal, Anuradha</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="208" month="00" year="2003">
+			<entry>
+				<title>A Catalogue of New Taxa Described by the Scientists of the Zoological Survey of India During 1916-1991</title>
+				<feature></feature>
+				<page>0001-0530</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Das, Amalendu</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="209" month="00" year="2003">
+			<entry>
+				<title>Fish Faunal Resources of Sunderban Estuarine System with Special Reference to the Biology of some Commercially Important Species</title>
+				<feature></feature>
+				<page>0001-0150</page>
+				<plates>1</plates>	
+				<allauthors>
+					<author>Khan, R. A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="210" month="00" year="2003">
+			<entry>
+				<title>Studies on Oriental Dermaptera Preserved in the B. P. Museum, Hawaii, U. S. A.</title>
+				<feature></feature>
+				<page>0001-0072</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Srivastava, G. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="211" month="00" year="2003">
+			<entry>
+				<title>Poisonous and Venomous Fishes of Andaman Islands, Bay of Bengal</title>
+				<feature></feature>
+				<page>0001-0071</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Devi, Kamla</author>
+					<author>Rao, D. V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="212" month="00" year="2003">
+			<entry>
+				<title>Studies on the Trombiculid Mite Fauna of India</title>
+				<feature></feature>
+				<page>0001-0195</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Fernandes, Stan S. J.</author>
+					<author>Kulkarni, S. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="213" month="00" year="2003">
+			<entry>
+				<title>Studies on Intertidal Macrozoobenthos of Hugli River In and Around Calcutta in Relation to water and Soil Conditions</title>
+				<feature></feature>
+				<page>0001-0135</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Paul, Sobhana</author>
+					<author>Nandi, N. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="214" month="00" year="2003">
+			<entry>
+				<title>Studies of Collembola from Agricultural Fields and Waste Disposal Sites of West Bengal with Special Reference to their Microbial Association</title>
+				<feature></feature>
+				<page>0001-0199</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Hazra, A. K.</author>
+					<author>Bhattacharyya, B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="215" month="00" year="2003">
+			<entry>
+				<title>Ichthyofauna of Northern Part of Western Ghats</title>
+				<feature></feature>
+				<page>0001-0039</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Yadav, B. E.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="216" month="00" year="2003">
+			<entry>
+				<title>Marine Fishes of Pondichery and Karaikal</title>
+				<feature></feature>
+				<page>0001-0053</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mishra, S. S.</author>
+					<author>Krishnan, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="217" month="00" year="2003">
+			<entry>
+				<title>Studies on some Indian Chiroptera from West Bengal</title>
+				<feature></feature>
+				<page>0001-0164</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Das, Prafulla Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="218" month="00" year="2004">
+			<entry>
+				<title>Bio-Monitoring of Soil Quality in Agroecosystem with Mites as Indicator---A Preliminary Study</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Roy, Arpita</author>
+					<author>Sanyal, Asok K.</author>
+					<author>Santra, S. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="219" month="00" year="2004">
+			<entry>
+				<title>A Catalogue of Mammalian Exhibits of Zoological Galleries of the Indian Museum</title>
+				<feature></feature>
+				<page>0001-0099</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chakraborty, Rina</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="220" month="00" year="2003">
+			<entry>
+				<title>Ichthyofaunal Diversity of Midnapore, Bankura and Hooghly Districts, South West Bengal</title>
+				<feature></feature>
+				<page>0001-0065</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mishra, Siddhartha Sankar</author>
+					<author>Pradhan, Prasenjit</author>
+					<author>Kar, Subrata</author>
+					<author>Chakraborty, Susanta Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="221" month="00" year="2004">
+			<entry>
+				<title>Studies on some Spiders of the Family Lycosidae &#40;Araneae: Arachnida&#41; from Madhya Pradesh, India</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Gajbe, U. A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="222" month="00" year="2004">
+			<entry>
+				<title>Animal Remains Excavated from Lothal Archaeological Site &#40;Gujarat&#41; and Relevance of the Fauna to this Ancient Civilization</title>
+				<feature></feature>
+				<page>0001-0162</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Saha, U.</author>
+					<author>Ghosh, M.</author>
+					<author>Pal, T. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="223" month="00" year="2004">
+			<entry>
+				<title>Termite &#40;Insecta: Isoptera&#41; Fauna of Gujarat and Rajasthan-Present State of Knowledge</title>
+				<feature></feature>
+				<page>0001-0077</page>
+				<plates>1,2,3,4,5,6,7,8</plates>	
+				<allauthors>
+					<author>Rathore, Narendra S.</author>
+					<author>Bhattacharyya, Asit K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="224" month="00" year="2004">
+			<entry>
+				<title>Bibliography of Rajasthan Fauna</title>
+				<feature></feature>
+				<page>0001-0352</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nigam, Venulata</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="225" month="00" year="2004">
+			<entry>
+				<title>Studies on Macrozoobenthos of Rabindra Sarovar and Subhas Sarovar in Kolkata in Relation to Water and Sediment Characteristics</title>
+				<feature></feature>
+				<page>0001-0119</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mukherji, M.</author>
+					<author>Nandi, N. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="226" month="00" year="2004">
+			<entry>
+				<title>Bibliography and Checklist of Corals and Coral Reef Associated Organisms of India</title>
+				<feature></feature>
+				<page>0001-0468</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Venkataraman, K.</author>
+					<author>Jeyabaskaran, R.</author>
+					<author>Raghuram, K. P.</author>
+					<author>Alfred, J. R. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="227" month="00" year="2004">
+			<entry>
+				<title>Spiders of Jabalpur, Madhya Pradesh &#40;Arachnida: Araneae&#41;</title>
+				<feature></feature>
+				<page>0001-0154</page>
+				<plates>1a,1b,2a,2b,3a,3b,4a,4b,5a,5b,6a,6b</plates>	
+				<allauthors>
+					<author>Gajbe, Pawan U.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="228" month="00" year="2004">
+			<entry>
+				<title>Catalogue of Type Species &#40;Bivalvia, Scaphopoda &#38; Cephalopoda&#41; Present in the Mollusca Section of Zoological Survey of India</title>
+				<feature></feature>
+				<page>0001-0097</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ramakrishna</author>
+					<author>Dey, A.</author>
+					<author>Mitra, S. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="229" month="00" year="2004">
+			<entry>
+				<title>Key to the Genera of Pteromalidae of India and the Adjacent Countries &#40;Hymenoptera: Chalcidoidea&#41;</title>
+				<feature></feature>
+				<page>0001-0056</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sureshan, P. M.</author>
+					<author>Narendran, T. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="230" month="00" year="2005">
+			<entry>
+				<title>Endemic Freshwater Fishes of India</title>
+				<feature></feature>
+				<page>0001-0125</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Karmakar, A. K.</author>
+					<author>Das, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="231" month="00" year="2004">
+			<entry>
+				<title>Checklist of Calliphoridae &#40;Diptera&#41; of India</title>
+				<feature></feature>
+				<page>0001-0047</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nandi, B. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="232" month="00" year="2005">
+			<entry>
+				<title>Catalogue of Chiroptera in the Collection of the Zoological Survey of India---Megachiroptera &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0143</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ghosh, Mrinal Kanti</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="233" month="00" year="2005">
+			<entry>
+				<title>Echinodermata of Andaman and Nicobar Islands, Bay of Bengal: An Annotated List</title>
+				<feature></feature>
+				<page>0001-0207</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sastry, D. R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="234" month="00" year="2005">
+			<entry>
+				<title>Ants &#40;Hymenoptera: Formicidae&#41; of Rabindra Sarovar, Kolkata</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ghosh, S. N.</author>
+					<author>Sheela, S.</author>
+					<author>Kundu, B. G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="235" month="00" year="2005">
+			<entry>
+				<title>Hydrography in Relation to Benthic Macro-Invertebrates in Mir-Alam Lake, Hyderabad, Andhra Pradesh</title>
+				<feature></feature>
+				<page>0001-0147</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Anitha, G.</author>
+					<author>Chandrasekhar, S. V. A.</author>
+					<author>Kodarkar, M. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="236" month="00" year="2005">
+			<entry>
+				<title>Studies on some Enthnomedicinal Arachnids and Insects in Relation to their Usage as Drugs among the Tribals of Sundarbans, West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0038</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Majumder, S. C.</author>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="237" month="00" year="2005">
+			<entry>
+				<title>A Taxonomic Review of the Chalcidoids &#40;Hymenoptera: Chalcidoidea&#41; Associated with <i>Ficus Benghalensis</i> Linnaeus</title>
+				<feature></feature>
+				<page>0001-0035</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Narendran, T. C.</author>
+					<author>Sudheer, K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="238" month="00" year="2005">
+			<entry>
+				<title>The Deccan Mahseer Fishes Their Ecostatus and Threat Percepts</title>
+				<feature></feature>
+				<page>0001-0102</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jayaram, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="239" month="00" year="2005">
+			<entry>
+				<title>Arachnid Fauna of Nallamalai Region, Eastern Ghats Andhra Pradesh, India</title>
+				<feature></feature>
+				<page>0001-0042</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Rao, K. Thulsi</author>
+					<author>Bastawade, D. B.</author>
+					<author>Javed, S. M. Maqsood</author>
+					<author>Krishna, I. Siva Rama</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="240" month="00" year="2005">
+			<entry>
+				<title>Studies on Plant and Soil Nematodes Associated with Crops of Economic Importance in Gujarat</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Baqri, Qaiser H.</author>
+					<author>Bohra, Padma</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="241" month="00" year="2005">
+			<entry>
+				<title>Wetland Mosquito Fauna of Tamil Nadu</title>
+				<feature></feature>
+				<page>0001-0050</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ilango, K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="242" month="00" year="2005">
+			<entry>
+				<title>Faunal Diversity of a Laterite Hill System at Madayipara, Kannur District, Kerala, India</title>
+				<feature></feature>
+				<page>0001-0098</page>
+				<plates>1,2,3,4,5,6,7,8</plates>	
+				<allauthors>
+					<author>Palot, Muhamed Jafer</author>
+					<author>Radhakrishnan, C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="243" month="00" year="2006">
+			<entry>
+				<title>Studies on Freshwater Prawns of Family Atyidae and Palaemonidae from Kanchipuram and Thiruvallur Districts, Tamilnadu, India, Including One New Species of the Genus <i>Caridina</i> H. Milne Edwards, 1837</title>
+				<feature></feature>
+				<page>0001-0080</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mariappan, N.</author>
+					<author>Richard, J.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="244" month="00" year="2006">
+			<entry>
+				<title>Fish Fauna of Kozhikode District, Kerala, South India</title>
+				<feature></feature>
+				<page>0001-0039</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Gopi, K. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="245" month="00" year="2006">
+			<entry>
+				<title>Amphibian Fauna of Nagarjunasagar Srisailam Tiger Reserve, Andhra Pradesh</title>
+				<feature></feature>
+				<page>0001-0057</page>
+				<plates>1a,1b,1c,1d,2a,2b,2c,2d,3a,3b,3c,3d,4a,4b,4c,4d,</plates>	
+				<allauthors>
+					<author>Srinivasulu, C.</author>
+					<author>Srinivasulu, Bhargavi</author>
+					<author>Rao, C. A. Nageswara</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="246" month="00" year="2006">
+			<entry>
+				<title>Mangroves and their Faunal Associates in Kerala with Special Reference to Northern Kerala, India</title>
+				<feature></feature>
+				<page>0001-0081</page>
+				<plates>1,2,3,4,5</plates>	
+				<allauthors>
+					<author>Radhakrishnan, C.</author>
+					<author>Gopi, K. C.</author>
+					<author>Palot, Muhamed Jafer</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="247" month="00" year="2006">
+			<entry>
+				<title>On the Megainvertebrate Fauna &#40;Mollusca, Brachiopoda, Echinodermata&#41; of Cenozoic and Mesozoic of Kachchh, Gujarat and their Stratigraphic Implications</title>
+				<feature></feature>
+				<page>0001-0046</page>
+				<plates>1,2,3,4,5,6</plates>	
+				<allauthors>
+					<author>Pal, T. K.</author>
+					<author>Ray, S. K.</author>
+					<author>Talukder, B.</author>
+					<author>Jaitly, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="248" month="00" year="2006">
+			<entry>
+				<title>Phytofaunal Community of Two Freshwater Lakes of West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0146</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Pal, Sujit</author>
+					<author>Nandi, N. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="249" month="00" year="2006">
+			<entry>
+				<title>Contribution to the Knowledge of Indian Marine Molluscs---Family Tellinidae &#40;4&#41;</title>
+				<feature></feature>
+				<page>0001-0124</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38</plates>	
+				<allauthors>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="250" month="00" year="2006">
+			<entry>
+				<title>Avifauna of Kanha Tiger Reserve &#40;Madhya Pradesh&#41;</title>
+				<feature></feature>
+				<page>0001-0214</page>
+				<plates>1,2,3,4,5,6,7,8,9,12</plates>	
+				<allauthors>
+					<author>Chandra, Kailash</author>
+					<author>Mahabal, Anil</author>
+					<author>Gupta, Rajendra Prasad</author>
+					<author>Nema, D. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="251" month="00" year="2006">
+			<entry>
+				<title>A Bibliography of Fossil Reptilia of India</title>
+				<feature></feature>
+				<page>0001-0047</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Pal, T. K.</author>
+					<author>Ray, S. K.</author>
+					<author>Barik, B.</author>
+					<author>Saha, K. D.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="252" month="00" year="2006">
+			<entry>
+				<title>Diversity of Bee-Flies &#40;Bombyliidae: Diptera&#41; in India</title>
+				<feature></feature>
+				<page>0001-0030</page>
+				<plates>1,2,3,4,5,6,7</plates>	
+				<allauthors>
+					<author>Banerjee, Dhriti</author>
+					<author>Mitra, Bulganin</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="253" month="00" year="2006">
+			<entry>
+				<title>Fish Diversity in the Selected Streams of Chakrata and Shiwalik Hills, &#40;District: Dehradun, Uttaranchal&#41;, India</title>
+				<feature></feature>
+				<page>0001-0120</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41</plates>	
+				<allauthors>
+					<author>Uniyal, Devi Prasad</author>
+					<author>Kumar, Arun</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="254" month="00" year="2006">
+			<entry>
+				<title>A Contribution to the Fauna of Click-Beetles &#40;Coleoptera: Elateroidea: Elateridae&#41; of West Bengal</title>
+				<feature></feature>
+				<page>0001-0220</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chakraborty, Paramita</author>
+					<author>Chakrabarti, Samiran</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="255" month="00" year="2006">
+			<entry>
+				<title>Marine Sponges of Andaman and Nicobar Islands, India</title>
+				<feature></feature>
+				<page>0001-0152</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Pattanayak, J. G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="256" month="00" year="2006">
+			<entry>
+				<title>Review of the Flying Fish Family Exocoetidae in the Indian Waters</title>
+				<feature></feature>
+				<page>0001-0029</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Barman, R. P.</author>
+					<author>Mishra, S. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="257" month="00" year="2007">
+			<entry>
+				<title>Studies on Roadside Soil Inhabiting Ants &#40;Hymenoptera: Formicidae&#41; of Kolkata with Reference to the Effects of Lead Emitted through Automobile Exhaust</title>
+				<feature></feature>
+				<page>0001-0149</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ghosh, Soumyendra Nath</author>
+					<author>Chattopadhyay, Achintya</author>
+					<author>Bhattacharyya, Dilip K. R.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="258" month="00" year="2007">
+			<entry>
+				<title>A Review on the Goat Fish Family Mullidae in the Indian Waters</title>
+				<feature></feature>
+				<page>0001-0044</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Barman, R. P.</author>
+					<author>Mishra, S. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="259" month="00" year="2007">
+			<entry>
+				<title>Taxonomic Revision of the Flatheads &#40;Platycephalidae: Pisces&#41; of India</title>
+				<feature></feature>
+				<page>0001-0100</page>
+				<plates>1,2,3,4,5,6,7,8</plates>	
+				<allauthors>
+					<author>Murty, V. Sriramachandra</author>
+					<author>Manikyam, Y.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="260" month="00" year="2007">
+			<entry>
+				<title>Marine and Estuarine Fish Fauna of Orissa</title>
+				<feature></feature>
+				<page>0001-0186</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Barman, R. P.</author>
+					<author>Mishra, S. S.</author>
+					<author>Kar, S.</author>
+					<author>Mukherjee, P.</author>
+					<author>Saren, S. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="261" month="00" year="2007">
+			<entry>
+				<title>Studies on the Larval Development of Six Freshwater Prawns of the Genus <i>Caridina</i> H. Milne Edwards, 1837 &#40;Atyidae, Decapoda&#41; from Kanchipuram and Thiruvallur Districts, Tamil Nadu, India</title>
+				<feature></feature>
+				<page>0001-0080</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mariappan, N.</author>
+					<author>Richard, J.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="262" month="00" year="2007">
+			<entry>
+				<title>A Monograph of the Flagellate Symbiotes of Indian Termites with Special Reference to Their Host Correlation and Coevolution</title>
+				<feature></feature>
+				<page>0001-0228</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Das, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="263" month="00" year="2007">
+			<entry>
+				<title>A Review of the Freshwater Fish Fauna of West Bengal, India with Suggestions for Conservation of the Threatened and Endemic Species</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Barman, R. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="264" month="00" year="2007">
+			<entry>
+				<title>Animal Remains from Nagarjunakonda Archaeological Site &#40;Andhra Pradesh&#41; and Their Relevance to the Ancient Civilization</title>
+				<feature></feature>
+				<page>0001-0092</page>
+				<plates>1,2,3,4,5</plates>	
+				<allauthors>
+					<author>Talukder, B.</author>
+					<author>Pal, T. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="265" month="00" year="2007">
+			<entry>
+				<title>Mangrove Ichthyofauna of Andaman &#38; Nicobar Islands, Bay of Bengal</title>
+				<feature></feature>
+				<page>0001-0228</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Devi, Kamla</author>
+					<author>Rao, D. V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="266" month="00" year="2007">
+			<entry>
+				<title>Impact of some Heavy Metals and Microbial Flora on Soil Microfauna in Reclaimed Wetland Embankment of Kolkata</title>
+				<feature></feature>
+				<page>0001-0045</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Hazra, Ashis Kumar</author>
+					<author>Mandal, Gurupada</author>
+					<author>Pahari, Dhrubajyoti</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="267" month="00" year="2007">
+			<entry>
+				<title>Mantid Fauna of Kerala, India</title>
+				<feature></feature>
+				<page>0001-0169</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14</plates>	
+				<allauthors>
+					<author>Vyjayandi, M. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="268" month="00" year="2007">
+			<entry>
+				<title>Taxonomic Studies on Pteromalidae &#40;Hymenoptera: Chalcidoidea&#41; of Southeast Asia Based on Collections of Bohart Museum of Entomology, University of California, Davis, USA</title>
+				<feature></feature>
+				<page>0001-0042</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sureshan, P. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="269" month="00" year="2007">
+			<entry>
+				<title>Odonata &#40;Insecta&#41; of Kerala</title>
+				<feature></feature>
+				<page>0001-0195</page>
+				<plates>1,2,3,4,5,6,7,8</plates>	
+				<allauthors>
+					<author>Emiliyamma, K. G.</author>
+					<author>Radhakrishnan, C.</author>
+					<author>Palot, Muhamed Jafer</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="270" month="00" year="2007">
+			<entry>
+				<title>Fauna of Button Island National Parks, South Andamans, Bay of Bengal</title>
+				<feature></feature>
+				<page>0001-0054</page>
+				<plates>1,2,3,4,5,6</plates>	
+				<allauthors>
+					<author>Rao, D. V.</author>
+					<author>Sastry, D. R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="271" month="00" year="2007">
+			<entry>
+				<title>Echinodermata of India: An Annotated List</title>
+				<feature></feature>
+				<page>0001-0387</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sastry, D. R. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="272" month="00" year="2007">
+			<entry>
+				<title>Indian Chalcidoid Parasitoids of the Tetrastichinae &#40;Hymenoptera: Eulophidae&#41;</title>
+				<feature></feature>
+				<page>0001-0386</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Narendran, T. C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="273" month="00" year="2007">
+			<entry>
+				<title>A Synoptic List of Nepomorpha &#40;Hemiptera: Heteroptera&#41; from India</title>
+				<feature></feature>
+				<page>0001-0084</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Thirumalai, G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="274" month="00" year="2007">
+			<entry>
+				<title>Studies on some Ethnomedicinal Crustaceans, Fishes, Reptiles, Birds and Mammals in Relation to Their Usuage as Drugs among the Tribals of Sundarban, West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0051</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Majumder, S. C.</author>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="275" month="00" year="2007">
+			<entry>
+				<title>Studies on Symbiotic Flagellates from some Indian Termites</title>
+				<feature></feature>
+				<page>0001-0097</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mukherjee, Patralekha</author>
+					<author>Maiti, P. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="276" month="00" year="2007">
+			<entry>
+				<title>Faunal Diversity of Ashtamudi Wetlands, Kerala</title>
+				<feature></feature>
+				<page>0001-0038</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Raghunathan, M. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="277" month="00" year="2007">
+			<entry>
+				<title>Ichthyofauna of Indira Gandhi Wildlife Sanctuary, Tamil Nadu</title>
+				<feature></feature>
+				<page>0001-0042</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</plates>	
+				<allauthors>
+					<author>Devi, K. Rema</author>
+					<author>Indra, T. J.</author>
+					<author>Raghunathan. M. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="278" month="00" year="2008">
+			<entry>
+				<title>Quantitative and Qualitative studies on Plant and Soil Nematodes Associated with Crops of Economic Importance in Rajasthan</title>
+				<feature></feature>
+				<page>0001-0080</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Bohra, Padma</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="279" month="00" year="2007">
+			<entry>
+				<title>Studies on Faunal Diversity and Coral Reef Ecosystems of Palk Bay</title>
+				<feature></feature>
+				<page>0001-0047</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Venkataraman, K.</author>
+					<author>Krishnamoorthy, P.</author>
+					<author>Satyanarayana</author>
+					<author>Sivaleela, G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="280" month="00" year="2007">
+			<entry>
+				<title>On the Megainvertebrate Fauna &#40;Mollusca and Bracchiopoda&#41; of Cenozoic and Mesozoic of Jaisalmer, Rajasthan and Their Stratigraphic Implications</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Pal, T. K.</author>
+					<author>Ray, S. K.</author>
+					<author>Talukder, B.</author>
+					<author>Naik, M. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="281" month="00" year="2008">
+			<entry>
+				<title>Catalogue of Chiroptera in the Collection of Zoological Survey of India &#40;Microchiroptera&#41; &#40;2&#41;</title>
+				<feature></feature>
+				<page>0001-0339</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ghosh, Mrinal Kanti</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="282" month="00" year="2008">
+			<entry>
+				<title>Taxonomy and Ecology of Ciliated Protozoa from Marginal Marine Environments of East Coast of India</title>
+				<feature></feature>
+				<page>0001-0136</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11</plates>	
+				<allauthors>
+					<author>Kalavati, C.</author>
+					<author>Raman, A. V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="283" month="00" year="2008">
+			<entry>
+				<title>Fish Fauna of Subarnarekha River</title>
+				<feature></feature>
+				<page>0001-0057</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Karmakar, A. K.</author>
+					<author>Das, A.</author>
+					<author>Banerjee, P. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="284" month="00" year="2008">
+			<entry>
+				<title>A Check-List of Hover-Flies &#40;Diptera: Syrphidae&#41; of Eastern Himalayas</title>
+				<feature></feature>
+				<page>0001-0047</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mitra, Bulganin</author>
+					<author>Mukherjee, M.</author>
+					<author>Banerjee, Dhriti</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="285" month="00" year="2008">
+			<entry>
+				<title>Studies of Lower Vertebrates of Nagaland</title>
+				<feature></feature>
+				<page>0001-0205</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sen, Nibedita</author>
+					<author>Mathew, Rosamma</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="286" month="00" year="2008">
+			<entry>
+				<title>Commercial and Medicinal Important Molluscs of Sundarbans</title>
+				<feature></feature>
+				<page>0001-0054</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Dey, Anirudha</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="287" month="00" year="2008">
+			<entry>
+				<title>Studies on Nematode Parasites Associated with Paddy Crop of West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0144</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ghosh, Subhash Chandra</author>
+					<author>Manna, Buddhadev</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="288" month="00" year="2008">
+			<entry>
+				<title>Ants &#40;Formicidae&#41; of Rajasthan</title>
+				<feature></feature>
+				<page>0001-0054</page>
+				<plates>1,2,3,4,7</plates>	
+				<allauthors>
+					<author>Tak, Neena</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="289" month="00" year="2008">
+			<entry>
+				<title>An Annotated Checklist of Mangrove and Coral Reef Inhabiting Brachyuran Crabs of India</title>
+				<feature></feature>
+				<page>0001-0212</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Roy, M. K. Dev</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="290" month="00" year="2008">
+			<entry>
+				<title>Zooplankton Diversity in Floodplain Lakes of Assam</title>
+				<feature></feature>
+				<page>0001-0307</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sharma, Sumita</author>
+					<author>Sharma, B. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="291" month="00" year="2008">
+			<entry>
+				<title>Bibliographical Notes on the Amphibians of North East India</title>
+				<feature></feature>
+				<page>0001-0058</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sen, Nibedita</author>
+					<author>Mathew, Rosamma</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="292" month="00" year="2009">
+			<entry>
+				<title>Animal Remains from Jaugada Archaeological Site, Orissa and Their Relevance to the Ancient Civilization</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates>1,2,3,4,5,6,7,8</plates>	
+				<allauthors>
+					<author>Nandy, S.</author>
+					<author>Pal, T. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="293" month="00" year="2009">
+			<entry>
+				<title>Studies on Little Known Amphibian Species of North East India</title>
+				<feature></feature>
+				<page>0001-0064</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23</plates>	
+				<allauthors>
+					<author>Mathew, Rosamma</author>
+					<author>Sen, Nibedita</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="294" month="00" year="2009">
+			<entry>
+				<title>Identification of Some Small Mammal Species through Owl Pellet Analysis</title>
+				<feature></feature>
+				<page>0001-0044</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</plates>	
+				<allauthors>
+					<author>Talmale, S. S.</author>
+					<author>Pradhan, M. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="295" month="00" year="2009">
+			<entry>
+				<title>Dung Beetles &#40;Coleoptera: Scarabaeidae: Coprinae&#41; of Thar Desert of Gujarat</title>
+				<feature></feature>
+				<page>0001-0048</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sewak, Ram</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="296" month="00" year="2009">
+			<entry>
+				<title>Dung Beetles &#40;Coleoptera: Scarabaeidae: Coprinae&#41; of Rajasthan</title>
+				<feature></feature>
+				<page>0001-0106</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sewak, Ram</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="297" month="00" year="2009">
+			<entry>
+				<title>List of Valid Rodent Taxa &#40;Class: Mammalia, Order: Rodentia&#41; from Indian Subcontinent Including Myanmar</title>
+				<feature></feature>
+				<page>0001-0239</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Pradhan, M. S.</author>
+					<author>Talmale, S. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="298" month="00" year="2009">
+			<entry>
+				<title>The Diversity of Collembola &#40;Hexapoda&#41; from East and North-East India with Some Notes on Their Ecology</title>
+				<feature></feature>
+				<page>0001-0206</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mandal, G. P.</author>
+					<author>Hazra, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="299" month="00" year="2009">
+			<entry>
+				<title>A Morphotaxonomic Study of the Indian Species of <i>Forcipomyia</i> Meigen Biting Midges &#40;Diptera: Ceratopogonidae&#41;</title>
+				<feature></feature>
+				<page>0001-0092</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Saha, Pijush Kanti</author>
+					<author>Dasgupta, Sujit Kumar</author>
+					<author>Gangopadhyay, Debjani</author>
+					<author>Mukherjee, Tushar Kanti</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="300" month="00" year="2009">
+			<entry>
+				<title>A Review of Studies on the Chromosomes of Grasshoppers in India &#40;1928-2006&#41;; The Nuclear Phenotype of <i>Xenocatantops Humilis</i> &#40;Serville&#41; &#40;Orthoptera: Acrididae: Catantopinae&#41;, W.S.R. to Supernumerary Segments; Supernumerary Chromosomes of <i>Patanga Succincta</i> &#40;Johansson&#41; &#40;Orthoptera: Acrididae: Cyrtacanthacridinae&#41;</title>
+				<feature></feature>
+				<page>0001-0072</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Singh, Ashok K.</author>
+					<author>Singh, V. B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="301" month="00" year="2009">
+			<entry>
+				<title>Coral Reef Ecosystem of Andaman Islands---Remote Sensing and Rapid Site Assessment Survey</title>
+				<feature></feature>
+				<page>0001-0132</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Turner, J. R.</author>
+					<author>Vousden, D.</author>
+					<author>Klaus, R.</author>
+					<author>Satyanarayana</author>
+					<author>Fenner, D.</author>
+					<author>Venkataraman, K.</author>
+					<author>Rajan, P. T.</author>
+					<author>Rao, N. V. Subba</author>
+					<author>Alfred, J. R. B.</author>
+					<author>Ramakrishna</author>
+					<author>Raghunathan, C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="302" month="00" year="2009">
+			<entry>
+				<title>An Annotated Checklist of Amphibia of India with Some Insights into the Patterns of Species Discoveries, Distribution and Endemism</title>
+				<feature></feature>
+				<page>0001-0153</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Dinesh, K. P.</author>
+					<author>Radhakrishnan, C.</author>
+					<author>Gururaja, K. V.</author>
+					<author>Bhatta, G. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="303" month="00" year="2009">
+			<entry>
+				<title>Coastal Birds of Tamil Nadu</title>
+				<feature></feature>
+				<page>0001-0064</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Venkatraman, C.</author>
+					<author>Gokula, V.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="304" month="00" year="2009">
+			<entry>
+				<title>Brachyuran Crabs from the Collections of Marine Biological Centre</title>
+				<feature></feature>
+				<page>0001-0046</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Krishnamoorthy, P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="305" month="00" year="2009">
+			<entry>
+				<title>A Preliminary Study on the Mantid Fauna &#40;Insecta: Mantodea&#41; of Orissa, India</title>
+				<feature></feature>
+				<page>0001-0056</page>
+				<plates>1,2,3,4,5,6</plates>	
+				<allauthors>
+					<author>Sureshan, P. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="306" month="00" year="2010">
+			<entry>
+				<title>Annotated Checklist of Indian Land Molluscs</title>
+				<feature></feature>
+				<page>0001-0359</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ramakrishna</author>
+					<author>Mitra, S. C.</author>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="307" month="00" year="2009">
+			<entry>
+				<title>Catalogue of Extant Marine Porifera Type Specimens in the Zoological Survey of India</title>
+				<feature></feature>
+				<page>0001-0079</page>
+				<plates>1a,1b,1c,1d,1e,1f,2a,2b,2c,2d,2e,2f,3a,3b,3c,3d,3e,3f,4a,4b,4c,4d,4e,4f,5a,5b,5c,5d,5e,5f,6a,6b,6c,6d,6e,6f,7a,7b,7c,7d,7e,7f,8a,8b,8c,8d,8e,8f,9a,9b,9c,9d,9e,9f,10a,10b,10c,10d,10e,10f,11a,11b,11c,11d,11e,12a,12b,12c,12d,12e,12f,13a,13b,13c,13d,13e,13f,14a,14b,14c,14d,14e,14f,15a,15b,15c,15d,15e,15f,16a,16b,16c,16d,16e,16f,17a,17b,17c,17d,17e,17f,18a,18b,18c,18d,18e,18f,19a,19b,19c,19d,19e,19f,20a,20b,20c,20d,20e,20f,21a,21b,21c,21d,21e,21f,21g,21h,22a,22b,22c,22d,22e,22f,23a,23b,23c,23d</plates>	
+				<allauthors>
+					<author>Patnayak, J. G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="308" month="00" year="2009">
+			<entry>
+				<title>Sarcophagidae, Calliphoridae and Muscidae &#40;Diptera&#41; of the Sundarbans Biosphere Reserve, West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0046</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sinha, Shuvra Kanti</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="309" month="00" year="2009">
+			<entry>
+				<title>Studies on Caecilians &#40;Amphibia: Gymnophiona: Ichthyophiidae&#41; of North East India with Description of Three New Species of <i>Ichthyophis</i> from Garo Hills, Meghalaya and Additional Information on <i>Ichthyophis Garoensis</i> Pillai and Ravichandran, 1999</title>
+				<feature></feature>
+				<page>0001-0056</page>
+				<plates>1a,1b,2a,2b,3a,3b,4a,4b,4c,5a,5b,5c,6a,6b,6c,7a,7b,7c,10a,10b,10c,10d,10e,11a,11b,11c,11d,12a,12b,13c,13d</plates>	
+				<allauthors>
+					<author>Mathew, Rosamma</author>
+					<author>Sen, Nibedita</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="310" month="00" year="2010">
+			<entry>
+				<title>A Compendium on the Faunal Resources of Narmada River Basin in Madhya Pradesh</title>
+				<feature></feature>
+				<page>0001-0152</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24</plates>	
+				<allauthors>
+					<author>Chandra, Kailash</author>
+					<author>Sharma, R. M.</author>
+					<author>Ojha, Praveen</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="311" month="00" year="2010">
+			<entry>
+				<title>Studies on Diversity, Distribution and Habitat Preference of Bat Species in Pune District, Maharashtra</title>
+				<feature></feature>
+				<page>0001-0052</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Korad, V. S.</author>
+					<author>Gaikwad, M. C.</author>
+					<author>Koratkar, A. L.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="312" month="00" year="2010">
+			<entry>
+				<title>Mononchida &#40;Nematoda&#41; of West Bengal, India: Taxonomy and Ecology</title>
+				<feature></feature>
+				<page>0001-0152</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Jana, Tiasi</author>
+					<author>Chatterjee, Amalendu</author>
+					<author>Manna, Buddhadev</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="313" month="00" year="2010">
+			<entry>
+				<title>Intertidal Macrofauna of Subarnarekha Estuary &#40;Balasore: Orissa&#41;</title>
+				<feature></feature>
+				<page>0001-0135</page>
+				<plates>1a,1b,1c,1d,1e,1f,2a,2b,2c,2d,2e,2f,3a,3b,3c,3d,3e,3f,4a,4b,4c,4d,4e,4f,5a,5b,5c,5d,6a,6b,6c,6d,6e,6f,7a,7b,7c,7d,7e,7f,8a,8b,8c,8d,8e,8f,9a,9b,9c,9d,9e,9f,10a,10b,10c,10d,10e,10f,11a,11b,11c,11d,11e,11f,12a,12b,12c,12d,12e,12f,13a,13b,13c,13d,13e,13f,14a,14b,14c,14d,14e,14f,15a,15b,15c,15d,15e,15f,16a,16b,16c,16d,16e,16f,17a,17b,17c,17d,17e,17f,18a,18b,18c,18d,18e,18f,19a,19b,19c,19d,19e,19f,20a,20b,20c,20d,20e,20f,21a,21b,21c,21d,21e,21f,22a,22b,22c,22d,22e,22f,23a,23b</plates>	
+				<allauthors>
+					<author>Mitra, Santanu</author>
+					<author>Misra, A.</author>
+					<author>Pattanayak, J. G.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="314" month="00" year="2010">
+			<entry>
+				<title>An Annotated Checklist of Orthoptera &#40;Insecta&#41; from India</title>
+				<feature></feature>
+				<page>0001-0366</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Shishodia, M. S.</author>
+					<author>Chandra, Kailash</author>
+					<author>Gupta, Sunil Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="315" month="00" year="2010">
+			<entry>
+				<title>Revision of Indian Species of the Families Platycnemididae and Coenagrionidae &#40;Insecta: Odonata: Zygoptera&#41;---&#40;Taxonomy and Zoogeography&#41;</title>
+				<feature></feature>
+				<page>0001-0103</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mitra, Tridib Ranjan</author>
+					<author>Babu, R.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="316" month="00" year="2010">
+			<entry>
+				<title>Status and Taxomomic Revision of Butterflies of Subfamily Parnassinae from Indian Himalayas along with Notes on its Phylogeny</title>
+				<feature></feature>
+				<page>0001-0051</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17</plates>	
+				<allauthors>
+					<author>Sidhu, Avtar Kaur</author>
+					<author>Rose, H. S.</author>
+					<author>Grewal, Jagvir</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="317" month="00" year="2010">
+			<entry>
+				<title>Nematodes Associated with Insect Pests and Soil of Teak and Sal Forests of Dehradun &#40;Uttarakhand&#41;, India</title>
+				<feature></feature>
+				<page>0001-0141</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54</plates>	
+				<allauthors>
+					<author>Rizvi, Anjum Nasreen</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="318" month="00" year="2010">
+			<entry>
+				<title>Some Phasmida &#40;Stick and Leaf Insects&#41; of India</title>
+				<feature></feature>
+				<page>0001-0064</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Mandal, S, K.</author>
+					<author>Yadav, K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="319" month="00" year="2010">
+			<entry>
+				<title>Synoptic List of Protozoa from India and Their Assessment of Taxonomic Diversity---Parasitic Protozoa &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0456</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Nandi, N. C.</author>
+					<author>Das, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="320" month="00" year="2010">
+			<entry>
+				<title>Annotated Checklist of Indian Marine Molluscs &#40;Cephalopoda, Bivalvia and Scaphopoda&#41; &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0357</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ramakrishna</author>
+					<author>Dey, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="321" month="00" year="2010">
+			<entry>
+				<title>New Records of Scleractinian Corals in Andaman and Nicobar Islands</title>
+				<feature></feature>
+				<page>0001-0144</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ramakrishna</author>
+					<author>Mondal, Tamal</author>
+					<author>Raghunathan</author>
+					<author>Raghuraman, R.</author>
+					<author>Sivaperuman, C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="322" month="00" year="2010">
+			<entry>
+				<title>A Review on the Identity of Threadfin Fishes &#40;Perciformes: Polynemidae&#41; of India</title>
+				<feature></feature>
+				<page>0001-0042</page>
+				<plates>1,2,3,4</plates>	
+				<allauthors>
+					<author>Barman, R. P.</author>
+					<author>Mishra, S. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="323" month="00" year="2010">
+			<entry>
+				<title>Studies on Snow Trout <i>Schizothorax Richardsonii</i> &#40;Gray&#41; in River Beas and its Tributaries &#40;Himachal Pradesh&#41;, India</title>
+				<feature></feature>
+				<page>0001-0069</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sharma, Indu</author>
+					<author>Mehta, H. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="324" month="00" year="2011">
+			<entry>
+				<title>On Taxonomy and Ecology of Earthworms &#40;Annelida: Oligochaeta&#41; from Uncultivated and Waste Disposal Sites of West Bengal with Some Notes on Their Microbial Association</title>
+				<feature></feature>
+				<page>0001-0190</page>
+				<plates>1a,1b,2a,2b,3a,3b,4a,4b,5a,5b,6a,6b,7a,7b,8a,8b,9a,9b,10a,10b,11a,11b,12a,12b,13a,13b,14a,14b,15,16,17,18a,18b,19a,19b,20a,20b,21a,21b,</plates>	
+				<allauthors>
+					<author>Chowdhury, A.</author>
+					<author>Hazra, A. K.</author>
+					<author>Nandi, A. P.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="325" month="00" year="2011">
+			<entry>
+				<title>Catalogue of Eggs &#40;Aves&#41; in the National Zoological Collection of the Zoological Survey of India &#40;1&#41;</title>
+				<feature></feature>
+				<page>0001-0308</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sakthivel, Rengasamy</author>
+					<author>Dutta, B. B.</author>
+					<author>Sanyal, Asok K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="326" month="00" year="2010">
+			<entry>
+				<title>An Account of Additions to the Ichthyofauna of Andaman and Nicobar Islands</title>
+				<feature></feature>
+				<page>0001-0140</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ramakrishna</author>
+					<author>Immanuel, Titus</author>
+					<author>Sreeraj, C. R.</author>
+					<author>Raghunathan, C.</author>
+					<author>Raghuraman, R.</author>
+					<author>Rajan, P. T.</author>
+					<author>Kumar, J. S. Yogesh</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="327" month="00" year="2010">
+			<entry>
+				<title>Urban Biodiversity of Calcutta: Flowering Plants, Butterflies, Birds and Mammals West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0250</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Ghosh, Suchitra</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="328" month="00" year="2011">
+			<entry>
+				<title>Mammalian and Avian Faunal Diversity in Damodar Valley Under DVC Project Area</title>
+				<feature></feature>
+				<page>0001-0038</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Chakraborty, Rina</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="329" month="00" year="2011">
+			<entry>
+				<title>Fishes of River Pennar and its Branches</title>
+				<feature></feature>
+				<page>0001-0052</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Indra, T. J.</author>
+					<author>Devi, K. Rema</author>
+					<author>Ilango, K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="330" month="00" year="2011">
+			<entry>
+				<title>Catalogue of Type Specimens &#40;Aves&#41; in the National Zoological Collection of the Zoological Survey of India</title>
+				<feature></feature>
+				<page>0001-0174</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Sakthivel, R.</author>
+					<author>Dutta, B. B.</author>
+					<author>Venkataraman, K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="331" month="00" year="2011">
+			<entry>
+				<title>Trichotaxonomy of Species of the Families Sciuridae, Viverridae, Mustelidae, Herpestidae and Tragulidae</title>
+				<feature></feature>
+				<page>0001-0297</page>
+				<plates>1a,1b,1c,1d,2a,2b,2c,2d,3a,3b,3c,3d,4a,4b,4c,4d,5a,5b,5c,5d,6a,6b,6c,6d,7a,7b,7c,7d,8a,8b,8c,8d,9a,9b,9c,9d,10a,10b,10c,10d,11a,11b,11c,11d,12a,12b,12c,12d,13a,13b,13c,13d,14a,14b,14c,14d,15a,15b,15c,15d,16a,16b,16c,16d,17a,17b,17c,17d,18a,18b,18c,18d,19a,19b,19c,19d,20a,20b,20c,20d,21a,21b,21c,21d,22a,22b,22c,22d,23,24,25,26,27,28,29a,29b,29c,29d,30a,30b,30c,30d,31a,31b,31c,31d,32a,32b,32c,32d,33a,33b,33c,33d,34a,34b,34c,34d,35a,35b,35c,35d,36a,36b,36c,36d,37,38a,39a,40a,40b,40c,40d,41a,41b,41c,41d,42a,42b,42c,42d,43a,43b,43c,43d,44a,44b,44c,44d,45a,45b,45c,45d,46a,46b,46c,46d,47a,47b,47c,47d,48a,48b,48c,48d,49a,49b,49c</plates>	
+				<allauthors>
+					<author>Bahuguna, Archana</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="332" month="00" year="2011">
+			<entry>
+				<title>Studies on Aquatic and Semi-Aquatic Hemiptera &#40;Insecta&#41; of Jaiñtia Hills and East Khasi Hills Districts of Meghalya, North Eastern India</title>
+				<feature></feature>
+				<page>0001-0034</page>
+				<plates>1a,1b,2a,2b,3a,3b,4a,4b,5a,5b,5c,5d,6a,6b,6c,6d,7a,7b,7c,7d,8a,8b,8c,8d,8e,9a,9b,9c,9d,9e,10a,10b,10c,10d,10e</plates>	
+				<allauthors>
+					<author>Lyngdoh, Jennifer</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="333" month="00" year="2012">
+			<entry>
+				<title>Fauna of Indian Museum Tank---Overview</title>
+				<feature></feature>
+				<page>0001-0172</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12</plates>	
+				<allauthors>
+					<author>Nandi, N. C.</author>
+					<author>Chakraborty, Rina</author>
+					<author>Satyanarayana</author>
+					<author>Roy, Mousumi</author>
+					<author>Bindu, L.</author>
+					<author>Das, A. K.</author>
+					<author>Pattanayak, J. G.</author>
+					<author>Mitra, S.</author>
+					<author>Chitra, J.</author>
+					<author>Dey, A.</author>
+					<author>Paliwal, R.</author>
+					<author>Mandal, C. K.</author>
+					<author>Biswas, T.</author>
+					<author>Roy, M. K. Dev</author>
+					<author>Kar, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="334" month="00" year="2012">
+			<entry>
+				<title>Nematodes of Thar Desert, Rajasthan</title>
+				<feature></feature>
+				<page>0001-0095</page>
+				<plates>1,2,3,4,5,6,7,8</plates>	
+				<allauthors>
+					<author>Bohra, Padma</author>
+					<author>Sultana, Razia</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="335" month="00" year="2012">
+			<entry>
+				<title>Studies on the Status of Coral Reefs and Some Associated Organisms in Gulf of Mannar Biosphere Reserve</title>
+				<feature></feature>
+				<page>0001-0040</page>
+				<plates></plates>	
+				<allauthors>
+					<author>Venkataraman, K.</author>
+					<author>Satyanarayana</author>
+				</allauthors>
+			</entry>
+		</paper>
+	</occasionalpapers>	
+</zsi>

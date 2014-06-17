@@ -1,0 +1,4074 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE zsi SYSTEM "zsi.dtd">
+
+<zsi>
+	<bulletin>
+		<volume vnum="001">
+			<part pnum="01" month="01" year="1978">
+				<entry>
+					<title>Biological and chemical control of the vector snail melania scabra (Gastropoda: prosobranchia)</title>
+					<feature></feature>
+					<page>0001-0006</page>
+					<plates></plates>
+					<allauthors>
+						<author>Muley, E. V.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The mound&#8211;structure and primary reproductives (King and Queen) of the termite !!Odontotermes kushwahai!! (Termitidae)</title>
+					<feature></feature>
+					<page>0007-0014</page>
+					<plates></plates>
+					<allauthors>
+						<author>Roonwal, M. L.</author>
+						<author>Rathore, N.S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Physical and chemical constituents of fungus combs of !!Odontotermes microdentatus!! Roonwal and Sen&#8212;Sarma and !!Odontotermes obesus!! (Rambur) (Isoptera: Termitidae)</title>
+					<feature></feature>
+					<page>0015-0020</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agarwal, V. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Benthic fauna of a meromictic lake, Langsee, Asutria</title>
+					<feature></feature>
+					<page>0021-0024</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raghumathan, M. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Plant parasitic nematodes from the Rhizosphere of vegetable crops around Calcutta. 2. Family Tylenchorhynchidae</title>
+					<feature></feature>
+					<page>0025-0028</page>
+					<plates></plates>
+					<allauthors>
+						<author>Singh, R. V.</author>
+						<author>Khera, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Acanthocolpid trematodes of marine fishes of India, with considerations of synonyms in the group</title>
+					<feature></feature>
+					<page>0029-0036</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezullah, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Aspidosiphon (Paraspidosiphon) havelockensis!!, a new sipuncula from the Andamans, India</title>
+					<feature></feature>
+					<page>0037-0042</page>
+					<plates></plates>
+					<allauthors>
+						<author>Haldar, B. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>First record of male of !!Monilothrips kempi!! (Thysanoptera: Thripidae) from India</title>
+					<feature></feature>
+					<page>0043-0046</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sen, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on Indian phytoseiidae (Acarina: Mesostigmata): Some !!Typhlodromus!! mites from South India with descriptions of new species</title>
+					<feature></feature>
+					<page>0047-0054</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Spaniocelyphus!! Hendel from India (Diptera: celyphidae)</title>
+					<feature></feature>
+					<page>0055-0056</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Chromosomes of !!Xiphidiopsis straminula!! (Walker) (Orthoptera, Tettigoniidae, Meconematinae)</title>
+					<feature></feature>
+					<page>0057-0060</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kacker, R. K.</author>
+						<author>Singh, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Cataloipus!! Bolivar, 1890 (Orthoptera: Acridoidea: Eyprepocnemidinae) from North West India</title>
+					<feature></feature>
+					<page>0061-0064</page>
+					<plates></plates>
+					<allauthors>
+						<author>Singh, A.</author>
+						<author>Tandon, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the tribes cardiastethini and Almeidini from South India (Hemiptera: Anthocoridae)</title>
+					<feature></feature>
+					<page>0065-0070</page>
+					<plates></plates>
+					<allauthors>
+						<author>Muraleedharan, N.</author>
+						<author>Ananthakrishnan, T. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new genus and three new species of Dermaptera from India with notes on !!Epilabis!! Burr</title>
+					<feature></feature>
+					<page>0071-0076</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Functional responses of Catfish Barbels</title>
+					<feature></feature>
+					<page>0077-0080</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Identity of the Schizothoracid fish genus !!Schixothorax!! Heckel, 1838 with consideration of the status of !!Schizothoraichthys!! Misra, 1962</title>
+					<feature></feature>
+					<page>0081-0086</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on the male accessory genital structures of !!Neurothemis fulvia!! (Drury), !!Neurothemis intermedia intermedia!! (Rambur) and !!Neurothemis tullia tullia!! (Drury) from Western Himalaya (Odonata: Libellulidae: Sympetrinae)</title>
+					<feature></feature>
+					<page>0087-0090</page>
+					<plates></plates>
+					<allauthors>
+						<author>Prasad, Mahabir</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communication!!: Record of the crocodile fish !!Gargariscus prionocephalus!! (Dumeril) in Indian waters</title>
+					<feature></feature>
+					<page>0091-0091</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+						<author>Mukerjee, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Book Review!!: Record of the crocodile fish !!Gargariscus prionocephalus!! (Dumeril) in Indian waters</title>
+					<feature></feature>
+					<page>0091-0091</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+						<author>Mukerjee, P.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="06" year="1978">
+				<entry>
+					<title>Composition of the honeydew excreted by the lac insect, !!Kerrialacca!! (Kerr) (Homoptera: Coccoidea) II. Carbohydrates</title>
+					<feature></feature>
+					<page>0095-0098</page>
+					<plates></plates>
+					<allauthors>
+						<author>Varshney, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Intra subspecific haemoglobin polymorphism in !!Bandicota bengalensis kok!! (Gray)</title>
+					<feature></feature>
+					<page>0099-0102</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pradhan, M. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on some avian haematozoa from Jammu and Kashmir, India</title>
+					<feature></feature>
+					<page>0103-0106</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nandi, N. C.</author>
+						<author>Mandal, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Effects of organic matter and water content of soil on the distribution of Collembola (Insecta) in an uncultivated field of West Bengal</title>
+					<feature></feature>
+					<page>0107-0114</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hazra, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Culturing and life history studies of !!Rotylenchulus reniformis!! Linford and Oliveira on brinjal (Nematoda)</title>
+					<feature></feature>
+					<page>0115-0128</page>
+					<plates></plates>
+					<allauthors>
+						<author>Singh, R. V.</author>
+						<author>Khera, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Trends of evolution in the cyprinoid genera !!Psilorhynchus!! and !!Parapsilorhynchus!!</title>
+					<feature></feature>
+					<page>0129-0134</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, M. Babu</author>
+						<author>Yazdani, G. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On !!Nyctibatrachus major!! Boul. (Ranidae) with a description of its tadpole</title>
+					<feature></feature>
+					<page>0135-0140</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pillai, R. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The systematic position of !!Laemophlo. us semilaetaneus!! Grouvelle (Coleoptera: Cucujidae: Laemophloeinae)</title>
+					<feature></feature>
+					<page>0141-0146</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sengupta, T.</author>
+						<author>Mykhopadhyay, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of !!Halammohydra!! (Actinulida, Hydrozoa) from Andamans, India</title>
+					<feature></feature>
+					<page>0147-0150</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, G. Chandrasekhara</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Evolutionary trend in two sympatric species of !!Goniocotes!! (Phthiraptera: Ischnocerophthirina) with remarks on host phylogeny</title>
+					<feature></feature>
+					<page>0151-0156</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lakshminarayana, K. V.</author>
+						<author>Emerson, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Abnormal swarming behaviour of the sedentary polychaete (!!Loimia medusa var. annulifilis!! Grube, 1871: Terebellidae) off Waltair coast</title>
+					<feature></feature>
+					<page>0157-0160</page>
+					<plates></plates>
+					<allauthors>
+						<author>Dhandapani, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Seasonal periodicity of Zooplankton in Ennore Estuary, madras during 1975 and 1976</title>
+					<feature></feature>
+					<page>0161-0166</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srinivasan, M.</author>
+						<author>Raghunathan, M. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of !!Haematopinus oliveri!! sp. nov. (Anoplura: Harmatopinidae) parasitizing !!Sus salvanius!! in India</title>
+					<feature></feature>
+					<page>0167-0170</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mishra, A. C.</author>
+						<author>Singh, K. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A parthenopid crab, !!Zebrida adamsii!! White, 1847 inhabiting interspaces of spines of the sea urchin, !!Salmacis virgulata!!L. Agassiz, 1846</title>
+					<feature></feature>
+					<page>0171-0176</page>
+					<plates></plates>
+					<allauthors>
+						<author>Daniel, A.</author>
+						<author>Krishnan, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new cymothoid of the genus !!Nerocila!! from Madras</title>
+					<feature></feature>
+					<page>0177-0180</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ramakrishna, G.</author>
+						<author>Ramaniah, P. Venkata</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Three new species of the genus !!Tabanus!! L. (Diptera: Tabanidae) from Arunachal Pradesh, India</title>
+					<feature></feature>
+					<page>0181-0186</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+						<author>Das, B. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A note on the systematic position of two siluriod fishes !!Ompok pabda!! (Ham.) and !!Ompok bimaculatus!! (Bloch)</title>
+					<feature></feature>
+					<page>0187-0192</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ram, Lakshman</author>
+						<author>Kansal, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Distribution of soil protozoa in association with nitrogen fixing bacteria</title>
+					<feature></feature>
+					<page>0193-0196</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhattacharya, A.</author>
+						<author>De, G. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Polulation fluctuations of the three species of Anthophilous Thysanoptera with notes on the biology of the seed feeding species !!Chirothrips mexicanus!! Crawford</title>
+					<feature></feature>
+					<page>0197-0202</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ananthakrishnan, T. N.</author>
+						<author>Thirumalai, G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communication!! Siluroid fishes of India, Burma and Ceylon. 19. A note on the systematic position of !!Tachysurus serratus!! (Day) (Ariidae)</title>
+					<feature></feature>
+					<page>0203-0205</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+						<author>Dhanze, J. R.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="12" year="1978">
+				<entry>
+					<title>Chromosomes of !!Deiphobe ocellata!!Saussure (Dictyoptera: Mantidae)</title>
+					<feature></feature>
+					<page>0207-0210</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ashok, K. Singh</author>
+						<author>Kacker, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Revision of the genus !!Spondylus!! Linnaeus (Pelecypoda: Mollusca) from creataceous beds of Trichinopoly (S. India) with notes on related species</title>
+					<feature></feature>
+					<page>0211-0220</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lakshminarayana, K. V.</author>
+						<author>Roy, C. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Humidity reactions of worker and soldiers of !!Odontotermes microdentatus!! Roonwal &amp; Sen Sarma and !!Odontotermes obesus!! (Rambur) in a humidity gradient apparatus at a constant temperature</title>
+					<feature></feature>
+					<page>0221-0226</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agarwal, V. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Larval development of !!Macrobrachium lamarrei!! (H. Milne Edwards, 1937) [Crustacea: Palaemonidae] under laboratory conditions.</title>
+					<feature></feature>
+					<page>0227-0242</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, B. K.</author>
+						<author>Tiwari, K. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on the aestivating population of !!Achatina fulica!! Bowdich (Mollusca: Achetinidae) in West Bengal</title>
+					<feature></feature>
+					<page>0243-0246</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Economic species of !!Cryptolestes!! (Cucujidae: Coleoptera) occuring in India and their control</title>
+					<feature></feature>
+					<page>0247-0252</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sengupta, T.</author>
+						<author>Mukhopadhyay, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Simuliidae (Diptera) from Sikkim, India.</title>
+					<feature></feature>
+					<page>0253-0256</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new species of Tubulifera (Thysanoptera: Phlaeothripidae) from N. E. India with the description of a new subgenus.</title>
+					<feature></feature>
+					<page>0257-0262</page>
+					<plates></plates>
+					<allauthors>
+						<author>Muraleedharan, N.</author>
+						<author>Sen, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The comparative ecology of two sympatric species of !!Oxyurichthys!! Bleeker (Pisces: Gobiidae) from the Ennore estuary, Madras.</title>
+					<feature></feature>
+					<page>0263-0266</page>
+					<plates></plates>
+					<allauthors>
+						<author>Menon, A. G. K.</author>
+						<author>Devi, K. Rema</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Lasiochilus!! Reuter (Heteroptera: Anthocoridae) from India</title>
+					<feature></feature>
+					<page>0267-0270</page>
+					<plates></plates>
+					<allauthors>
+						<author>Muraleedharan, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of !!Hesinides!! (Polycheta: Hesionidae) from Orissa Coast, India.</title>
+					<feature></feature>
+					<page>0271-0274</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, G. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of Silver&#8211;belly, !!Leiognathus indicus!! (Pisces: Leiognathidae) from the Bay of Bengal.</title>
+					<feature></feature>
+					<page>0275-0278</page>
+					<plates></plates>
+					<allauthors>
+						<author>Singh, (Miss) Rani</author>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Adaptive radiation in the Mastacembeloid fishes</title>
+					<feature></feature>
+					<page>0279-0290</page>
+					<plates></plates>
+					<allauthors>
+						<author>Yazdani, G. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Phrynocephalus!! Kaup (Reptilia: Agamidae) from the Rajasthan Desert, India with notes on its ecology.</title>
+					<feature></feature>
+					<page>0291-0294</page>
+					<plates></plates>
+					<allauthors>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Resescription of !!Hara hara!! (Hamilton) and !!Hara horai!! Misra with a key to the species of !!Hara!! Blyth (Pisces: Sisoridae)</title>
+					<feature></feature>
+					<page>0295-0302</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tilak, Raj</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of the genus !!Crocidura!! Wagler (Insectivora: Soricidae) from Wright Myo, S. Andaman Island, India</title>
+					<feature></feature>
+					<page>0303-0304</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chakraborty, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The tail and its display behaviour in the golden langur, !!Presbytis geei!! Khajuria.</title>
+					<feature></feature>
+					<page>0305-0308</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukherjee, R. P.</author>
+						<author>Saha, S. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communication!!: On the larval casts and formation of pupae form incompletely moulted last instar larvae of !!Sitotroga cerealella!! (Olivier) Lepidoptera: Gelechiidae.</title>
+					<feature></feature>
+					<page>0309-0310</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joshi, G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some new records of Hypermastigids (Protozoa) from Sagar (Island, West Bengal).</title>
+					<feature></feature>
+					<page>0311-0314</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tiwari, D. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on some Echiura from the East coast of India.</title>
+					<feature></feature>
+					<page>0315-0316</page>
+					<plates></plates>
+					<allauthors>
+						<author>Haldar, B. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of a strange assemblage of sea turtle shells (!!Lepidochelys!! sp.) near the southern part of Digha shore, West Bengal.</title>
+					<feature></feature>
+					<page>0317-0318</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sen, T. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Four new records of Reptiles from Mizoram, India.</title>
+					<feature></feature>
+					<page>0319-0320</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talukdar, S. K.</author>
+						<author>Sanyal, D. P.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="002">
+			<part pnum="01" month="07" year="1979">
+				<entry>
+					<title>Chromosomes of four species of Aphids (Homoptera: Aphididae)</title>
+					<feature></feature>
+					<page>0001-0003</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kulkarni, P. P.</author>
+						<author>Kacker, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Effect of mild fumigation on the pattern of egg laying and adult emergence in the rice moth, !!Corcyra cephalonica!! (Stainton) (Lepidoptera)</title>
+					<feature></feature>
+					<page>0003-0007</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joshi, G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Distribution and population of two pestiferous land snails, !!Achatina fulica!! Bowdich and !!Macrochlamys indica!! Godwin&#8211;Austen, in West Bengal</title>
+					<feature></feature>
+					<page>0007-0016</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on the haematozoa of some catifishes belonging to the genus !!Mystus!! Scopoli from India</title>
+					<feature></feature>
+					<page>0017-0024</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mondal, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Observations on nocturnal swarming of the planktonic Ostracod !!Cypridina dentata!! (Muller) for mating in the northern Arabian Sea</title>
+					<feature></feature>
+					<page>0025-0028</page>
+					<plates></plates>
+					<allauthors>
+						<author>Daniel, A.</author>
+						<author>Jothinayagam, J. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Role of asymmetry in the speciation of certain lice (Phthiraptera: Insecta)</title>
+					<feature></feature>
+					<page>0029-0034</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lakshminarayana, K. V.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Lepidocephalus dibruensis!!, a new cobitid fish from Dibru river, Dibrugarh, Assam with a key to the Indian species of !!Lepidocephalus!! Bleeker</title>
+					<feature></feature>
+					<page>0035-0038</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sen, T. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Rana!! (Family Ranidae) from Western Ghats, S. India</title>
+					<feature></feature>
+					<page>0039-0042</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pillai, R. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Cubaris!! Brandt (Crustacea: Isopoda: Armadillidae) from India</title>
+					<feature></feature>
+					<page>0043-0048</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ram, Lakshman</author>
+						<author>Kumar, Binod</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of genus !!Euborellia!! Burr (Dermaptera: Carcinophoridae) from Philippines</title>
+					<feature></feature>
+					<page>0049-0052</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species from India of the Termite genus !!Procryptotermes!! Holmgren (Kalotermitidae), with a description of the hitherto unknown image of !!P. dhari!! Roonwal and Chhotani</title>
+					<feature></feature>
+					<page>0053-0060</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bose, Geeta</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a collection of Psyllids (Homoptera: Psyllidae) from Shillong, Khasi Hills</title>
+					<feature></feature>
+					<page>0061-0068</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lahiri, A. R.</author>
+						<author>Biswas, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on some spiders of the genus !!Sosticus!! from India (Araneae: Gnaphopsidae)</title>
+					<feature></feature>
+					<page>0069-0074</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gajbe, U. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of horsefly (Diptera: Tabanidae) from Bhutan</title>
+					<feature></feature>
+					<page>0075-0078</page>
+					<plates></plates>
+					<allauthors>
+						<author>Dutta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The genus !!Paraphytoseius!! Swirski and Shechter with a new subgenus and one new species from India</title>
+					<feature></feature>
+					<page>0079-0082</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Further studies on some spiders of the genus !!Zelotes!! Gistel (Araneae: Gnaphosidae) from India</title>
+					<feature></feature>
+					<page>0083-0090</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tikader, B. K.</author>
+						<author>Gajbe, U. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the population trends of !!Aneurothrips priesneri!! Bhatti (Insecta: Thysanoptera) from the leaf galls of !!Cordia obliqua!!</title>
+					<feature></feature>
+					<page>0091-0094</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ananthakrishnan, T. N.</author>
+						<author>Swaminathan, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communications!! A new species of genus !!Cryptochironomus!! Kieffer (Chironomidae: Diptera) from India</title>
+					<feature></feature>
+					<page>0095-0098</page>
+					<plates></plates>
+					<allauthors>
+						<author>Guha, D. K.</author>
+						<author>Chaudhuri, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On !!Eoeurysia flavocapitata!! Muir (Homoptera: Delphacidae) from India</title>
+					<feature></feature>
+					<page>0099-0099</page>
+					<plates></plates>
+					<allauthors>
+						<author>Dutta, B.</author>
+						<author>Ghosh, L. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The planaria, !!Bipalium indica!! an effective predator of !!Achatina fulica!!</title>
+					<feature></feature>
+					<page>0101-0102</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+						<author>Ghosh, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of the sea urchin, !!Stomopneustes variolaris!! (Lamarck, 1816) along the coasts of Kanyakumari (S. India)</title>
+					<feature></feature>
+					<page>0103-0104</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bai, M. Mary</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of the Rotifer !!Tripleuchlanis plicata!! (Levander) from a freshwater tank in Calcutta, India</title>
+					<feature></feature>
+					<page>0105-0106</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, B. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new association between pea&#8211;crab !!Pinnotheres cardii!! Burger and the bivalve !!Mactra luzonica!! Deshayes in Indian waters</title>
+					<feature></feature>
+					<page>0107-0108</page>
+					<plates></plates>
+					<allauthors>
+						<author>Misra, A.</author>
+						<author>Ghatak, S. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some epizoic rotifers from West Bengal</title>
+					<feature></feature>
+					<page>0109-0110</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, B. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of !!Exallias brevis!! (Kner, 1968) [Blenniidae: Salariinae] and !!Scartelaos tenuis!! (Day, 1976) [Gobiidae: Gobionellinae] in Indian waters</title>
+					<feature></feature>
+					<page>0111-0112</page>
+					<plates></plates>
+					<allauthors>
+						<author>Siddiqi, S. Z.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Taxonomic status of the eastern grey bush chat, !!Saxicola ferrea harringtoni!! (Hartert)</title>
+					<feature></feature>
+					<page>0113-0114</page>
+					<plates></plates>
+					<allauthors>
+						<author>Saha, S. S.</author>
+						<author>Datta, Barid Baran</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On abnormal development of male genitalia in digenetic trematodes</title>
+					<feature></feature>
+					<page>0115-0118</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, R. K.</author>
+						<author>Srivastava, C. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of !!Tachysurus crossocheilus!! (Bleeker) (Pieces: Siluriformes: Ariidae) from the east Coast of India</title>
+					<feature></feature>
+					<page>0119-0121</page>
+					<plates></plates>
+					<allauthors>
+						<author>Dhanze, J. R.</author>
+						<author>Jayaram, K. C.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02-03" month="04" year="1980">
+				<entry>
+					<title>Observation on the relative intensity of infection on three species of cultivated citrus plants by !!Psylla murrayi!! Mathur (Homoptera: Psyllidae) at Shillong, Meghalaya</title>
+					<feature></feature>
+					<page>0123-0128</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lahiri, A. R.</author>
+						<author>Biswas, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Primary productivity and trophic status of two tropical water bodies of Calcutta, India</title>
+					<feature></feature>
+					<page>0129-0138</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rashid, A. Khan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new species of Dorylaimidae (Darylaimida: Nematoda) from Tamil Nadu, India</title>
+					<feature></feature>
+					<page>0139-0144</page>
+					<plates></plates>
+					<allauthors>
+						<author>Baqri, Q. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two digenetic trematodes of marine fish, !!Kyphosus cinerascens!! (Forskal), from the Gulf of Mannar with a note on the systematic positions of the genera !!Enenterum!! Linton, 1910, !!Cadenatella!! Dollfus, 1946 and !!Jeancadenatia!! Dollfus, 1946.</title>
+					<feature></feature>
+					<page>0145-0152</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezullah, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Bioassay trials with a few organic biocides on fresh water snail, !!Lymmaea acuminata!! (Mollusca: Gastropoda)</title>
+					<feature></feature>
+					<page>0153-0158</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agrawal, H. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On two rare species of Neritidae (Mollusca: Gastropoda) from India.</title>
+					<feature></feature>
+					<page>0159-0162</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Prediction of hind-femur length from known elytron/body length in the aak grasshopper !!Poekilocerus pictus!! (Fabr.) (Orthoptera: Pyrgomorphidae)</title>
+					<feature></feature>
+					<page>0163-0166</page>
+					<plates></plates>
+					<allauthors>
+						<author>Varshney, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Method of feeding by holomastigid flagellates symbiotic in xylophagous termites</title>
+					<feature></feature>
+					<page>0167-0170</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tiwari, D. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Floral assemblage and faunal diversity in Aphidoidea (Homoptera: Insecta) In eastern India</title>
+					<feature></feature>
+					<page>0171-0176</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new species of aphids (Homoptera: Aphididae) from Maharashtra, India</title>
+					<feature></feature>
+					<page>0177-0182</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kulkarni, P. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Trypanosoma tandoni!! sp. nov. (Protozoa) from freshwater shark !!Wallago attu!! (Schn.)</title>
+					<feature></feature>
+					<page>0183-0186</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mandal, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of !!Stylifera!! (Lepismatidae: Thysanura: Insecta) from India</title>
+					<feature></feature>
+					<page>0187-0192</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hazra, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Clupisoma bastari!! Sp. nov. (Pisces: Schilbeidae) from Bastar, Madhya Pradesh, India</title>
+					<feature></feature>
+					<page>0193-0196</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, A. K.</author>
+						<author>Karmakar, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>First record of !!Trigonomima!! Enderlein (Diptera: Asilidae) from India with description of a new species</title>
+					<feature></feature>
+					<page>0197-0200</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Systematic position of !!Labeo devdevi!! Hora with a description of the species (Pisces: Cypriniformes)</title>
+					<feature></feature>
+					<page>0201-0206</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+						<author>Mrinal, K. Das</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new genus and two new species of thrips inhabiting !!Eugenia!! galls (Thysanoptera: Phlaeothripidae)</title>
+					<feature></feature>
+					<page>0207-0212</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ananthakrishnan, T. N.</author>
+						<author>Swaminathan, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new specie of !!Paradasys!! (Gastrotricha: Lepidodasyidae) from Andhra Coast, India</title>
+					<feature></feature>
+					<page>0213-0216</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, G. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communication!! Further observations on !!Psilocllaris indicus!! Singh, 1954, with a note on its systematic position (Trematoda: Psilostomatidae)</title>
+					<feature></feature>
+					<page>0217-0218</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, P. D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a rare nudibranch, !!Thordisa crosslandi!! Eliot (Mollusca: Dorididae) from the West Coast if India</title>
+					<feature></feature>
+					<page>0219-0220</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+						<author>Rao, K. V. Surya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The relationship of Eurypygidae (Gruiformes: Aves) on the basis of the chewing-lice (Phthiraptera: Insecta)</title>
+					<feature></feature>
+					<page>0221-0222</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lakshminarayana, K. V.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Observations on the predatory behaviour of a fresh water leech !!Glossiphonia weberi!! (Blanchard) [Annelida: Glossiphonidae]</title>
+					<feature></feature>
+					<page>0223-0224</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+						<author>Nandi, N. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of !!Ilyocryptus spinifer!! Herrick 1884 (Crustacea; Cladocera: Macrothricidae) in Bihar</title>
+					<feature></feature>
+					<page>0225-0226</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ram, Lakshman</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of a live specimen of sunset shell, !!Siliqua radiata!! (Linneaus) from Thiruchendur, Gulf of Mannar, India</title>
+					<feature></feature>
+					<page>0227-0228</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rajgopal, A. S.</author>
+						<author>Mookherjee, H. P.</author>
+						<author>Mitra, S. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of !!Stigmatogobius hoevenii!! (Bleeker) from the gangetic delta, West Bengal, with a key to the Indian species of !!Stigmatogobius!! (Pisces: Gobiidae)</title>
+					<feature></feature>
+					<page>0229-0231</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chatterjee, T. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="003">
+			<part pnum="01-02" month="12" year="1980">
+				<entry>
+					<title>Fith inhabiting flies (Diptera) of Calcutta city</title>
+					<feature></feature>
+					<page>0001-0012</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Salmostoma kardahiensis!! sp. nov. (Pisces: Cyprinidae) from Madhya Pradesh, India</title>
+					<feature></feature>
+					<page>0013-0018</page>
+					<plates></plates>
+					<allauthors>
+						<author>Reddiah, K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of !!Calotes!! (Reptilia: Agamidae) in the prehistoric site of Harappa, Pakistan</title>
+					<feature></feature>
+					<page>0019-0022</page>
+					<plates></plates>
+					<allauthors>
+						<author>Banerjee, S.</author>
+						<author>Basu, K, C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Atrobucca!! (Pisces: Sciaenidae) from the Arabian Sea</title>
+					<feature></feature>
+					<page>0023-0026</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Dytiscidae: Coleoptera from Himachal Pradesh with description of a new species</title>
+					<feature></feature>
+					<page>0027-0030</page>
+					<plates></plates>
+					<allauthors>
+						<author>Vazirani, T. G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Distinction, status and notes on habits of !!Rama brevipalamata!! Peters</title>
+					<feature></feature>
+					<page>0031-0034</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pillai, R. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Limnological investigations of a small lake Egelsee with a view to fisheries</title>
+					<feature></feature>
+					<page>0035-0040</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raghunathan, M. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Intraspecific variations in Digenetic Trematodes III. !!Pleurogenoides gastroporus!! (Lühe, 1901) (Family Lecithodendriidae)</title>
+					<feature></feature>
+					<page>0041-0046</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, P. D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Preliminary observations on the breeding of the banded pond snail, !!Viviparus bengalensis!! (Lamarck) (Gastropoda: Viviparidae) in West Bengal</title>
+					<feature></feature>
+					<page>0047-0050</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New spceies and records of !!Phytoseius!! mites (Acarina: Mesostigmata) from South India</title>
+					<feature></feature>
+					<page>0051-0054</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Life cycle and seasonal fluctuation of Chaetognatha in Ennore estuary, Madras</title>
+					<feature></feature>
+					<page>0055-0062</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srinivasan, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>An account of the Genus !!Brevicoryne!! Van Der Goot (Homoptera: Aphididae) in India with description of a sexual morph of !!Brevicoryne barbareae!! Nevsky</title>
+					<feature></feature>
+					<page>0063-0068</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, L. K.</author>
+						<author>Raychaudhuri, D.</author>
+						<author>Raychaudhuri, D. N.</author>
+						<author>Raha, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the status of some genera of the subfamilies Stomachicolinae Yamaguti, 1958, Dinurinae Looss, 1907 and Prolecithinae Yamaguti, 1971 (Digenea: Hemiuridae)</title>
+					<feature></feature>
+					<page>0069-0076</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezullah</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Intraspecific geographical variations in the Indian Long-tailed tree mouse, !!Vandeleuria oleracea!! (Bennett)</title>
+					<feature></feature>
+					<page>0077-0086</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agrawal, V. C.</author>
+						<author>Chakraborty, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some observations on the seasonal variation in the gonads of !!Indonaia caerulea!! (Lea) [Mollusca: Unionidae]</title>
+					<feature></feature>
+					<page>0087-0092</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agrawal, H. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Redescription of and Lectotype designation for !!Calamaris fusca!! Blyth, 1854 [Serpentes: Colubridae]</title>
+					<feature></feature>
+					<page>0093-0096</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talukdar, S. K.</author>
+						<author>Sanyal, D. P.</author>
+						<author>Duttagupta, B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of toad (Anura: Bufonidae) from Camorta, Andaman and Nicobar, India</title>
+					<feature></feature>
+					<page>0097-0102</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mansukhani, M. R.</author>
+						<author>Sarkar, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Chromosomes of five species of Aphids (Homoptera: Aphididae)</title>
+					<feature></feature>
+					<page>0103-0106</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kulkarni, P. P.</author>
+						<author>Kacker, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communications!! First record of the Genus !!Boccharis!! (Heteroptera: Lygaeidae) and a new species from India</title>
+					<feature></feature>
+					<page>0107-0111</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukhopadhyay, Ananda</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Discovery of a luminous Geckonid Lizard from India</title>
+					<feature></feature>
+					<page>0111-0112</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, R. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of !!Halammohydra!! (Actinulida, Hydrozoa) from Sagar Island, India</title>
+					<feature></feature>
+					<page>0113-0114</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, G. Chandrasekhara</author>
+						<author>Misra, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The deep-water Atlantic fish !!Liosaccus cutaneus!! (Gunther) [Tetraodontidae] in Indian waters</title>
+					<feature></feature>
+					<page>0115-0118</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+						<author>Chakravarthy, A. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New record of the species !!Indophanes barbarus!! (Walker) [Myrmeleontidae: Neuroptera] from India</title>
+					<feature></feature>
+					<page>0119-0120</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Parental care of a Glossiphoniid leech, !!Helobdella nociva!! Harding</title>
+					<feature></feature>
+					<page>0121-0122</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ray, Rupendu</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Tabanus biswasi!! Nom. Nov., a replacement name for !!Tabanus minusculus!! Datta and Das, 1978 (Diptera: Tabanidae)</title>
+					<feature></feature>
+					<page>0123-0123</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="05" year="1981">
+				<entry>
+					<title>Bioecology of Banana inhabiting Millipede, !!Anoplodesmus saussurei!! (Humb.) (Diplopoda: Paradoxosomatidae)</title>
+					<feature></feature>
+					<page>0125-0136</page>
+					<plates></plates>
+					<allauthors>
+						<author>Prasad, M.</author>
+						<author>Dey, P.</author>
+						<author>Khan, T. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Three new Gastrotrichs from Orissa coast, India</title>
+					<feature></feature>
+					<page>0137-0144</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, G. Chandrasekhara</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of the genus !!Italochrysa!! Principi (Neuroptera: Chrysopidae) from India</title>
+					<feature></feature>
+					<page>0145-0146</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The electric rays of the genus !!Heteronarce!! Regan (Rajiformes: Torpedinidae), with the description of a new species</title>
+					<feature></feature>
+					<page>0147-0152</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new species of Amphibia from Silent Valley, S. India</title>
+					<feature></feature>
+					<page>0153-0158</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pillai, R. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of three genera of Chironominae (Chironomidae: Diptera) from India</title>
+					<feature></feature>
+					<page>0159-0166</page>
+					<plates></plates>
+					<allauthors>
+						<author>Guha, D. K.</author>
+						<author>Chaudhuri, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Schistorchiid Trematodes of Marine Fishes of India, with considerations on the Status of the genus !!Megacreadium!! Nagaty, 1956 and Family Schistorchiidae Yamaguti, 1942</title>
+					<feature></feature>
+					<page>0167-0178</page>
+					<plates></plates>
+					<allauthors>
+						<author>Haffezullah, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of !!Puntius!! (Family: Cyprinidae) from Bastar District, Madhya Pradesh</title>
+					<feature></feature>
+					<page>0179-0184</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, A. K.</author>
+						<author>Karmakar, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The electric rays of the genus !!Torpedo!! Houttuyn (Rajiformes: Torpedinidae) of Indian Seas</title>
+					<feature></feature>
+					<page>0185-0190</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The thalassinid burrowing shrimp, !!Callianassa (Callichirus) maxima!! M. Edwards, 1870 (Crustacea: Decapoda: Callianassidae) as a pest in the Salt Factories in Voyalur in Chingleput district of Tamil Nadu and in Manginapudi in Krishna district of Andhra Pradesh</title>
+					<feature></feature>
+					<page>0191-0204</page>
+					<plates></plates>
+					<allauthors>
+						<author>Daniel, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Three new species of Tubulifera from India (Thysanoptera: Phlaeothripidae)</title>
+					<feature></feature>
+					<page>0205-0210</page>
+					<plates></plates>
+					<allauthors>
+						<author>Muraleedharan, N.</author>
+						<author>Sen, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>First record of !!Ambassis interrupta!! Bleeker (Pisces: Chandiadae) from seas of India</title>
+					<feature></feature>
+					<page>0211-0212</page>
+					<plates></plates>
+					<allauthors>
+						<author>Venkateswaralu, T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On two new Polychaetes (Nereidae: Annelida) from Estuarine waters of India</title>
+					<feature></feature>
+					<page>0213-0218</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, C. A. Nageswara</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New locality records for !!Ichthyoxenus montanus!! Schioedte &amp; Meinert (Crustacea, Isopoda, Cymothoidea)</title>
+					<feature></feature>
+					<page>0219-0220</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ram, Lakshman</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the species of !!Aporcelaimellus!! Heyns, 1965 from West Bengal (Aporcelaimidae: Nematoda)</title>
+					<feature></feature>
+					<page>0221-0226</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jana, A.</author>
+						<author>Baqri, Q. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some Acanthocephalans from Indian marine fishes</title>
+					<feature></feature>
+					<page>0227-0234</page>
+					<plates></plates>
+					<allauthors>
+						<author>Soota, T. D.</author>
+						<author>Bhattacharya, S. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a collection of tetranychid mites from Jammu and Kashmir with description of one new species of !!Eotetranychus!! (Acarina: Tetranychidae)</title>
+					<feature></feature>
+					<page>0235-0238</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, Y. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Nematodes from West Bengal (India) VII. Morphometric and Allometric variations in !!Tylenchorhynchus nudus!! Allen, 1955 (Tylenchorhynchidae: Tylenchida)</title>
+					<feature></feature>
+					<page>0239-0248</page>
+					<plates></plates>
+					<allauthors>
+						<author>Qaiser, H. Baqri</author>
+						<author>Ahmad, Naseem</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Chromosomes of six species of Aphids (Homoptera: Aphididae)</title>
+					<feature></feature>
+					<page>0249-0252</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kulkarni, P. P.</author>
+						<author>Kacker, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On habits of Blanford's Rat, !!Rattus blanfordi!! Thomas</title>
+					<feature></feature>
+					<page>0253-0256</page>
+					<plates></plates>
+					<allauthors>
+						<author>Khajuria, H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Collection of Dytiscidae (Coleoptera) from Madhya Pradesh</title>
+					<feature></feature>
+					<page>0257-0266</page>
+					<plates></plates>
+					<allauthors>
+						<author>Vazirani, T. G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short communication!! New record of the short-tailed Bandicoot rat, !!Nesokia indica indica!! Gray (Rodentia: Muridae) from Bihar</title>
+					<feature></feature>
+					<page>0267-0268</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sinha, Y. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New records of Neuroptera: Planipennia from the Laccadive Island, India, coupled with a short note on the Taxonomic variation of !!Centroclisis eustalacta!! (Gerst.)</title>
+					<feature></feature>
+					<page>0269-0270</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Report on the occurence of the Little Indian Field Mouse, !!Mus booduga booduya!! (Gray) in Arunachal Pradesh, India</title>
+					<feature></feature>
+					<page>0271-0272</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mandal, Ajoy Kumar</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A case of an abnormal development of a forelimb in a Fawn-coloured Mouse, !!Mus cervicolor!! Hodgson</title>
+					<feature></feature>
+					<page>0273-0274</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, Santanu</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a record of the rare fish !!Oxuderces dentatus!! (Pisces: Gobiidae) from Jambu Island, West Bengal</title>
+					<feature></feature>
+					<page>0275-0276</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chatterjee, T. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A simple technique for preparation of Somatic Chromosomes of Aphids</title>
+					<feature></feature>
+					<page>0277-0278</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kulkarni, P. P.</author>
+						<author>Kacker, R. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="004">
+			<part pnum="01" month="10" year="1981">
+				<entry>
+					<title>!!Hemidactylus porbandarensis!!, a new geckonid lizard from Gujarat, India.</title>
+					<page>0001-0002</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, R. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Vrasiella indica n.sp.!! (Gastrotricha, Macrodasyida) from Orissa Coast, India.</title>
+					<page>0003-0006</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, G. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some anomalies in the abdominal region of !!Nichollsia menoni!! Tiwari 1955 (Isopoda: Phreatoicoidea)</title>
+					<page>0007-0008</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lakshman, P. Gupta</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The present susceptibility status of !!Armigeres subalbatus!! to hydrochlorin and different argano phosphorus Insecticides.</title>
+					<page>0009-0012</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhattacharya, Sarbani (Mukherjee)</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Sex ratio in !!Viviparus bengalensis!! (Lamarck) (Gastropoda: Viviparidae).</title>
+					<page>0013-0016</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the occurrence of !!Anchitrema sanguineum!! (Sonsino, 1894) Looss, 1899 (Trematoda: Anchitrematidae Mehra, 1935) from !!Suncus murinus!! (Linnaeus, 1766) (Soricidae: Mammalia).</title>
+					<page>0017-0022</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Amblyomma javanense!! (Supino, 1897) from a new host, !!Manis crassicaudata!! gray together with a descriptio of its nymph from Goa, India.</title>
+					<page>0023-0026</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nandi, N. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Taxonomic studies on the membracids collected from Silent Valley, Kerala (Insecta: Homoptera).</title>
+					<page>0027-0036</page>
+					<plates></plates>
+					<allauthors>
+						<author>Thirumalai, G.</author>
+						<author>Ananthasubramanian, K. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of the genus !!Paralongidorus!! (Longidoridae: Nematoda).</title>
+					<page>0037-0040</page>
+					<plates></plates>
+					<allauthors>
+						<author>Baqri, Q. H.</author>
+						<author>Jairajpuri, M. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Species of the subgenera !!Paraphytoseius!! and !!Asperoseius!! from India, with description of a new species of !!Paraphytoseius!!.</title>
+					<page>0041-0046</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+						<author>Ray, Sabita</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Th population and production ecology of the cyclopoid copepod, !!Mesocyclops leuckarti!! (Claus) in a small pond.</title>
+					<page>0047-0056</page>
+					<plates></plates>
+					<allauthors>
+						<author>Khan, R. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Haematopota!! Meigen (Diptera: Tubanidae) from Darjeeling, India.</title>
+					<page>0057-0060</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Diversity in Zooplankton community as an indicator of organic and industrial pollution in Husain Sagar, Hyderabad.</title>
+					<page>0061-0066</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, M. Babu</author>
+						<author>Mukhopadhyay, S. K.</author>
+						<author>Mulley, E. V.</author>
+						<author>Siddiqui, S. Z.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of the genus !!Homaloptera!! from Sile Valley, Kerala, S. India.</title>
+					<page>0067-0070</page>
+					<plates></plates>
+					<allauthors>
+						<author>Indra, T. J.</author>
+						<author>Remadevi, K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new termites of genus !!Glyptotermes!! (Kalotermitidae) from the great Nicobar Island, Indian Ocean.</title>
+					<page>0071-0084</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mäiti, P. K.</author>
+						<author>Chakraborty, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A Comparative analysis of the western and eastern Himalayan populations of !!Labeo dyocheilus!! (Mcclelland) (Pisces: Cypriniformes) witha discussion of its specific composition.</title>
+					<page>0085-0094</page>
+					<plates></plates>
+					<allauthors>
+						<author>Das, M. K.</author>
+						<author>Jayaram, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A field study of subspecific variation in tail form and carriage in the rhesus macaque, !!Macaca mulatta!! (Primates), in South Asia.</title>
+					<page>0095-0102</page>
+					<plates></plates>
+					<allauthors>
+						<author>Roonwal, M. L.</author>
+						<author>Tak, P. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on the genus !!Platylabia!! Dohrn (Carcinophoridae: Platy labiinae) with the description of two new species from India.</title>
+					<page>0103-0110</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two digentic trematodes (Family Hemiuridae) of marine fishes of India.</title>
+					<page>0111-0116</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezullah, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of new host plants of !!Oxycaremus laetus!! Kirby (Lygaeidae: Heteroptera) eith notes on its ecology from eastern India.</title>
+					<page>0117-0118</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukhopadhyay, A.</author>
+						<author>Ananthakrishnan, T. N.</author>
+						<author>Thangavelu, K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communication!! Some observations on the population of !!Priesneriola O'niellae!! Ananthakrishnan in a grass field in Calcutta.</title>
+					<page>0119-0120</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sengupta, C. K.</author>
+						<author>Pramanik, N. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Siluroid fishes of India Burma and Ceylon. 23. The specific status of !!Tachysurus malabaricus!! (Day) (Ariidae: Siluriformes).</title>
+					<page>0121-0123</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+						<author>Dhanze, J. R.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02" month="11" year="1981">
+				<entry>
+					<title>Bio&#8211;ecological observations of !!Simulium (Eusimulium) aureohirtum!! Brunetti (Diptera: Simuliidae)</title>
+					<page>0125-0130</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On new and little&#8211;known species of planipennia (Order Neuriptera) from India</title>
+					<page>0131-0140</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on an aberrant specimen of colubrid snake, !!Enhydris enhydris!! (Schneider)</title>
+					<page>0141-0142</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talukdar, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Microchironomus clarilatus!! sp.nov. (Diptera: Chironomidae) from West Bengal, India</title>
+					<page>0143-0146</page>
+					<plates></plates>
+					<allauthors>
+						<author>Guha, D. K.</author>
+						<author>Chaudhuri, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of the genus !!Nannisolabis Burr (Insecta: Dermaptera) from Burma with a key to oriental species!!</title>
+					<page>0147-0150</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the occurrence of the sea anemone !!Phytocoeteopsis ramunii!! Panikkar (Actiniaria: Haliactiidae) in a tidal creek of Sagar Island, West Bengal; and a note on its nematocysts</title>
+					<page>0151-0154</page>
+					<plates></plates>
+					<allauthors>
+						<author>Misra, A.</author>
+						<author>Soota, T. D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Records of new host and locality for !!Plagiorchis (Mataplagiorchis) himalayai!! (Jordan, 1930) and new location for !!Parabascus macrorchis!! (Gogate, 1939) (Trematoda: Digenea)</title>
+					<page>0155-0158</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kumar, Binod</author>
+						<author>Gupta, P. D.</author>
+						<author>Kumar, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Survey on the Protozoan Fauna of North Bengal</title>
+					<page>0159-0164</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tiwari, D. N.</author>
+						<author>Ray, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the monotypy of the genera !!Anchitrema!! Looss, 1899 and !!Tremiorchis!! Mehra and Negi, 1926 with a note on !!Pleurogenes&#8211;Pleurogenoides&#8211;Indopleurogenes&#8211;Alloindopleurogenes!! Complex</title>
+					<page>0165-0172</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezulla, M.</author>
+						<author>Dutta, I. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Distribution pattern of Barnacles (Crustacea: Cirripedia) in Estuarine systems of India</title>
+					<page>0173-0180</page>
+					<plates></plates>
+					<allauthors>
+						<author>Daniel, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Secondary production and biomass of Zooplankton and their relationship to trophic status of a tropical artificial lake</title>
+					<page>0181-0190</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rashid, A. Khan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on head pores of some Indian species of Chydorids (Cladocera: Chydoridae)</title>
+					<page>0191-0198</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, B. K.</author>
+						<author>Tiwari, K. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on the Indian species of !!Neochauliodes!! Weele (Neuroptera: Corydalidae)</title>
+					<page>0199-0202</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Trigonomima!! Enderlein (Diptera: Asilidae) from India</title>
+					<page>0203-0204</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Observations on the growth rate of the common garden snail !!Opeas gracile!! (Hutton) [Stylommatophora: Subulinidae]</title>
+					<page>0205-0208</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+						<author>Raut, S. K.</author>
+						<author>Mitra, S. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Nematodes from West Bengal (India) X. A new species of !!Anatonchus!! (Cobb, 1916, De&#8211;Coninck, 1939 Anatonchidae; Mononchida)</title>
+					<page>0209-0212</page>
+					<plates></plates>
+					<allauthors>
+						<author>Quiser, H. Baqri</author>
+						<author>Das, P. K.</author>
+						<author>Ahmed, Naseem</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of coral boring bivalve !!Gregariella coarctata!! (Carpenter) (Bivalvia: Mytilidae) in the Indian waters</title>
+					<page>0213-0216</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+						<author>Rao, K. V. Surya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Haemoproteus ovalis!! sp.nov. (Protozoa: Sporozoa) from an Indian paddy-field frog, !!Rana limnocharis!! Wiegmann</title>
+					<page>0217-0220</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ray, R.</author>
+						<author>Choudhury, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Utility of caudal fin ray counts is classification of suprageneric categories of Indian siluroid fishes</title>
+					<page>0221-0230</page>
+					<plates></plates>
+					<allauthors>
+						<author>Singh, Rani</author>
+						<author>Jayaram, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communication!! Identity of the type specimen of the Scyliorhinid Shark, !!Scyllium hispidum!! Alcock</title>
+					<page>0231-0234</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new subspecies of the metad, !!Millardia meltada!! (Gray, 1837) [Rodentia: Muridae] from West Bengal</title>
+					<page>0235-0237</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mandal, Ajoy Kumar</author>
+						<author>Ghosh, Santanu</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Emendation of the name !!Peronella rullandi!! (Koehler) (Echinodermata: Echinoidea)</title>
+					<page>0239-0239</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sastry, D. R. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="03" month="12" year="1981">
+				<entry>
+					<title>Aspects of population fluctuations of Phlebotomid Sandflies (Diptera: Phlebotomidae) in Calcutta and environs</title>
+					<page>0241-0246</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Ninan, T. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the host&#8211;selection, oviposition and fecundity of the long&#8211;horned Beetle borer, Acalolepta rusticator (Fabricius) (Coleoptera: Cerambycidae)</title>
+					<page>0247-0250</page>
+					<plates></plates>
+					<allauthors>
+						<author>Khan, T. N.</author>
+						<author>Maiti, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of the genus !!Leucopis!! (Diptera: Chamaemyidae) from northwest India</title>
+					<page>0251-0254</page>
+					<plates></plates>
+					<allauthors>
+						<author>Das, B. C.</author>
+						<author>Poddar, S.</author>
+						<author>Raychaudhuri, D. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Lonchoptera!! Meigen (Diptera: Lonchopteridae) from northwest India</title>
+					<page>0255-0256</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on spiders of the genus !!Castianeira!! Keyserling (Family: Clubionidae) from India</title>
+					<page>0257-0266</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tikader, B. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new genus and one new species under Subfamily Gnoriminae Chaudhri from India (Acarina: Phytoseiidae)</title>
+					<page>0267-0270</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+						<author>Ray, Sabita</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of two new species of Crab&#8211;spiders of the genera !!Diaea!! and !!Bomis!! (Family: Thomisidae) from India</title>
+					<page>0271-0276</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, Bijan</author>
+						<author>Mazumder, S. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Platyseiella!! Muma (Acari: Phytoseiidae), with collection records of twelve other species</title>
+					<page>0277-0282</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ray, Sabita</author>
+						<author>Gupta, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>First record of the Batfish, !!Pegasus laternarius!! Cuvier (Pegasidae: Pegasiformes) from Indian waters</title>
+					<page>0283-0286</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nagabhushanam, A. K.</author>
+						<author>Kaza, V. Rama Rao</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the generic relationship of the eel&#8211;like fish, !!Pillaia khajuriai!! Talwar, Yazdani &amp; Kundu (Perciformes, Mastacembeloidei)</title>
+					<page>0287-0288</page>
+					<plates></plates>
+					<allauthors>
+						<author>Yazdani, G. M.</author>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The Cauvery river ecosystem and the patterns of its fish distribution</title>
+					<page>0289-094</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Qualitative and quantitative composition of Oribatei in Gangetic delta of West Bengal in relation to edaphic factors</title>
+					<page>0295-0308</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sanyal, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Ecology of Grasshoppers in two grasslands of West Bengal in relation to some physical factors</title>
+					<page>0309-0318</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hazra, A. K.</author>
+						<author>Barman, R. S.</author>
+						<author>Mukherjee, T. K.</author>
+						<author>Dey, A.</author>
+						<author>Mandal, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Galls of Pemphiginae (Homoptera: Aphidoidea) in the Indian region with descriptions of a new species</title>
+					<page>0319-0330</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, A. K.</author>
+						<author>Chakrabarti, S.</author>
+						<author>Bhattacharya, D. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new genus and a new species of flying squirrel (Mammalia: Rodentia: Sciuridae) from northeastern India</title>
+					<page>0331-0336</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sha, Subhendu Sekhar</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Further study on the aspects of population fluctuations of Phlebotomid sandflies (Diptera: Phlebotomidae) in north Bihar</title>
+					<page>0337-0364</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some observations on Orb&#8211;weaving mechanism of Indian Araneid spiders</title>
+					<page>0365-0384</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tikader, B. K.</author>
+						<author>Bal, Animesh</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short Communication!! First record of !!Stigmatogobius durbanensis!! (Pisces: Gobiidae) from Indian waters</title>
+					<page>0385-0386</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chatterjee, T. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the range extension of the Caridean shrimp !!Conchodytes tridacnae!! Peters in association with the Bivalve !!Tridacna tridacna!! Linneaus in the Minicoy Atoll, Lakshadweep</title>
+					<page>0387-0388</page>
+					<plates></plates>
+					<allauthors>
+						<author>Misra, A.</author>
+						<author>Ghatak, S. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>First record of the Rufous horseshoe Bat, !!Rhinolophus rouxi rouxi!! Temminck [Chiroptera: !!Rhinolophidae!!] from Burma</title>
+					<page>0389-0390</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lal, J. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the Teredinid borers of Mangroves of Camorta island, Nicobar, India</title>
+					<page>0391-0394</page>
+					<plates></plates>
+					<allauthors>
+						<author>Das, A. K.</author>
+						<author>Roy, M. K. Dev</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Siluroid fishes of India, Burma and Ceylon. 24. The systematic status of !!Arius satparanus!! Chaudhuri (Ariidae, Siluriformes)</title>
+					<page>0395-0398</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+						<author>Dhanze, J. R.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="005">
+			<part pnum="01" month="06" year="1983">
+				<entry>
+					<title>Four new species of !!Astenus!! Steph. (Coleoptera: Staphylinidae: Paederinae from eastern India)</title>
+					<page>0001-0010</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, D. N.</author>
+						<author>Gupta, T. Sen</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the new records of Centipedes (Scolopendromorpha: Scolopendridae) from Madhya Pradesh, India</title>
+					<page>0011-0014</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ahmed, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the type&#8211;specimens of !!Ambassis notatus!! Blyth, 1861 (Pisces: Ambassidae), with a redescription of the species</title>
+					<page>0015-0020</page>
+					<plates></plates>
+					<allauthors>
+						<author>Guha, Sagarika</author>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on the occurrence and hermaphroditic nature of the parasitic isopod !!Nerocila madrasensis!! Ramakrishna and Benkataramaniah from the Hooghly&#8212;Matla estuary, Sundarbans, India</title>
+					<page>0021-0026</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghatak, S. S.</author>
+						<author>Misra, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some aspects of post-embryonic development of Praying Mantid [!!Euantissa pulchra!! (Fabr.): Dictyoptera: Mantidae] with special reference to Morphometrical studies</title>
+					<page>0027-0040</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hazra, A. K.</author>
+						<author>Mukherjee, T. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Cladocerans of the plankton community in Ennore estuary, Madras</title>
+					<page>0041-0046</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raghunathan, M. B.</author>
+						<author>Srinivasan, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on the Malacofauna of Muriganga estuary, Sunderbans, West Bengal</title>
+					<page>0047-0056</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+						<author>Dey, A.</author>
+						<author>Barua, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some observations on the populations of !!Nala nepalensis!! (Burr) and !!Forcipula quadrispinosa!! (Dohrn) (Dermaptera: Insecta) coinhabiting a subaquatic habitat.</title>
+					<page>0057-0066</page>
+					<plates></plates>
+					<allauthors>
+						<author>Julka, J. M.</author>
+						<author>Purohit, G. L.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Lobus!! Martin (Diptera: Asilidae) from S. India.</title>
+					<page>0067-0070</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Mechanism of vacuum formation in the thoracic disc of hill&#8211;stream catifish, !!Pseudecheneis salcatus!! (McClell.)</title>
+					<page>0071-0076</page>
+					<plates></plates>
+					<allauthors>
+						<author>Yazdani, G. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Population fluctuation of !!Lymnaea acuminata!! Lamarck with notes on its biology</title>
+					<page>0077-0082</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agrawal, H. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Population dynamics, biology and production ecology of a littoral zooplankter, !!Chydorus sphaericus!! (O. F. Müller) (Cladocera: Chydoridae)</title>
+					<page>0083-0094</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rashid, A. Khan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new !!Pterotricha!! spider from India (Araneae: Gnaphosidae)</title>
+					<page>0095-0098</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gajbe, U. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The effects of food on growth, life span and reproduction of a cladoceran zooplankter, !!Ceriodaphnia cornuta!! (Sars)</title>
+					<page>0099-0106</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rashid, A. Khan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Comparative morphology of the cranial muscles in some species of the genus !!Arius!!, with a note on their utility in taxonomy (Ariidae: Siluriformes)</title>
+					<page>0107-0122</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+						<author>Dhanze, J. R.</author>
+						<author>Singh, Rani</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Short communication!! New record of two species of the genus !!Arisops!! spinolae (Hemiptera: Insecta) from the lower Wastern Ghats, Kerala</title>
+					<page>0123-0124</page>
+					<plates></plates>
+					<allauthors>
+						<author>Thirumalai, G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on house&#8211;hold insect-pests (Hymenoptera: Formicidae) of Shillong</title>
+					<page>0125-0128</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mathew, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Alaimus rafiqi!! nom. nov. for !!Alamimus siddiqii!! Chaturvedi &amp; Khera, 1979</title>
+					<page>0129-0129</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chaturvedi, Y.</author>
+						<author>Khera, S.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02-03" month="07" year="1984">
+				<entry>
+					<title>Response of Blackflies (Diptera: Simuliidae) to certain Coloured Light Sources</title>
+					<page>0001-0006</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+						<author>Choudhuri, D. K.</author>
+						<author>Dasgupta, B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on some Dermaptera present in Zoologisk Museum, Copenhagen</title>
+					<page>0007-0018</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Chromosomes and Phylogeny of Coleoptera II. !!Meloidae!!</title>
+					<page>0019-0022</page>
+					<plates></plates>
+					<allauthors>
+						<author>Parmjit, S. Dua</author>
+						<author>Kacker, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a Collection of Chironomids (Diptera: Chironomidae) from Tibet</title>
+					<page>0023-0030</page>
+					<plates></plates>
+					<allauthors>
+						<author>Guha, D. K.</author>
+						<author>Chaudhuri, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of the genus !!Danio!! Hamilton from Burma (Pisces: Cyprinidae)</title>
+					<page>0031-0034</page>
+					<plates></plates>
+					<allauthors>
+						<author>Barman, R. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some observation on the seasonal activity of Earthworms (Oligochaeta: Annelida) in Hill Forest Soil</title>
+					<page>0035-0040</page>
+					<plates></plates>
+					<allauthors>
+						<author>Julka, J. M.</author>
+						<author>Mukherjee, R. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new !!Tephrella!! (Diptera: Tephritidae) from Meghalaya, India</title>
+					<page>0041-0044</page>
+					<plates></plates>
+					<allauthors>
+						<author>Radhakrishnan, C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Boold Parasites of some birds from West Bengal, India</title>
+					<page>0045-0052</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nandi, N. C.</author>
+						<author>Mandal, A. K.</author>
+						<author>Choudhury, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on Indian Calanoids III. On a new species of !!Tropodiaptomus!! Kiefer (Calanoida: Diaptomidae) from Nilgiri District of Southern India</title>
+					<page>0053-0058</page>
+					<plates></plates>
+					<allauthors>
+						<author>Roy, Tusharendu</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The Population and Production Ecology of a Freshwater Snail !!Bellamya bengalensis!! (Lamarck) (Gastropoda: Viviparidae) in an artificial lake of Calcutta, India.</title>
+					<page>0059-0076</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rashid, A. Khan</author>
+						<author>Chaudhuri, Supriya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the Taxonomic Status of !!Lepidocephalus thermalis!! (Valenciennes) in relation to !!Lepidocephalus guntea!! (Hamilton) (Cobitidae)</title>
+					<page>0077-0084</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tilak, Raj</author>
+						<author>Husain, Akhlaq</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Evalutaion of yield losses in Rice due to !!Hirschmanniella gracilis!! (De Man, 1880) Luc &amp; Goodey, 1963 (Tylenchida: Nematoda) at Hooghly (West Bengal)</title>
+					<page>0085-0092</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ahmed, Naseem</author>
+						<author>Das, P. K.</author>
+						<author>Qaiser, H. Baqri</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Nematodes of Vegetables and pulses from Patna District, Bihar &#8212; 1</title>
+					<page>0093-0102</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chaturvedi, Y.</author>
+						<author>Kansal, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on some Dermaptera present in the `Institut Für Pflanzenschutzforschung Kleinmachnow, Eberswalde&#8211;Finow, Ddr'</title>
+					<page>0103-0108</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastave, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On three abnormal specimens of !!Mystus cavasius!! (Hamilton) (Family: Bagridae)</title>
+					<page>0109-0112</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chakravarti, Anuradha</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Merophysiinae (Coleoptera: Merophysiidae) from India and Srilanka</title>
+					<page>0113-0120</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sengupta, T.</author>
+						<author>Pal, T. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Garra Menoni, a new Cyprinid Fish from Silent Valley, Kerala, South India</title>
+					<page>0121-0122</page>
+					<plates></plates>
+					<allauthors>
+						<author>Devi, K. Rema</author>
+						<author>Indra, T. J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new genus of Paederinae: Staphylinidae (Coleoptera) with description of a new species from Nepal</title>
+					<page>0123-0132</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, D. N.</author>
+						<author>Gupta, T. Sen</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on Indian Calanoids II. Description of a new Calanoid Copepod !!Neodiaptomus sewelli!! sp. nov. (Calanoida:Diaptomidae) from Nilgiri District</title>
+					<page>0133-0138</page>
+					<plates></plates>
+					<allauthors>
+						<author>Roy, Tusharendu</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The Protozoa !!Haemogregarina colisa!! sp. nov. from the Fish Colisa fasciatus and !!Haematractidium!! sp. from !!Arius sona!! in India</title>
+					<page>0139-0144</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mandal, A. K.</author>
+						<author>Ray, R.</author>
+						<author>Sarkar, N. C.</author>
+						<author>Kahali, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Adaptive role of Pectoral Fin in fishes of Hill&#8211;streams</title>
+					<page>0145-0152</page>
+					<plates></plates>
+					<allauthors>
+						<author>Yazdani, G. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some fossil Cryptocerata (Heteroptera: Insecta) with description of a new genus et species</title>
+					<page>0153-0158</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lakshminarayana, K. V.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new genus of Dermaptera (Insecta) with Notes on Pterygida Verhoeff</title>
+					<page>0159-0164</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The food and feeding habits of some Freshwater Crustacean Zooplankton</title>
+					<page>0165-0174</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rashid, A. Khan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species and ew records of Brachyderinae (Curculionidae: Coleoptera) from India</title>
+					<page>0175-0180</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukhopadhyay, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Orthetrum mathewi!! Singh and Baigal 1954, A synonym of !!Pantala flavescens!! (Fabr.) (Odonata: Libellulidae)</title>
+					<page>0181-0182</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ram, Raja</author>
+						<author>Srivastava, V. D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the natural distribution and Taxonomy of Gerres macracanthus Bleeker (Pisces: Gerreidae)</title>
+					<page>0183-0184</page>
+					<plates></plates>
+					<allauthors>
+						<author>Talwar, P. K.</author>
+						<author>Mukherjee, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the occurrence of !!Mesopodopsis orientalis!! (W. M. Tattersall) (Crustacea: Mysidacea) in Freshwater</title>
+					<page>0185-0186</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, L. P.</author>
+						<author>Gupta, P. D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New host and locality record for the genus !!Orientodiscus!! Srivastava, 1938 (Trematoda: Paramphistomidae)</title>
+					<page>0187-0188</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bansal, A. K.</author>
+						<author>Gupta, P. D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a small collection of Termites (Isoptera, Insecta) from Bangladesh, with notes on distribution</title>
+					<page>0189-0190</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bose, G.</author>
+						<author>Roy, P. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Natural History of a Succineid Snail, Indosuccinea Semiserica (Gould)</title>
+					<page>0191-0194</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+						<author>Ghose, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the occurrence of the Giant Sea Anemone Paracondylactis sp. from Digha Coast, West Bengal, with a note on secondary oral disc</title>
+					<page>0195-0197</page>
+					<plates></plates>
+					<allauthors>
+						<author>Misra, A.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="006">
+			<part pnum="01-03" month="12" year="1984">
+				<entry>
+					<title>Occurrence of an enteropneust hemichordate in the mangrove Swamp of Sunderbans, India.</title>
+					<page>0001-0004</page>
+					<plates></plates>
+					<allauthors>
+						<author>Singha, Bhrigunath</author>
+						<author>Choudhury, Amalesh</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Experimental studies on effectiveness of the predatory leech, !!Glossiphonia weberi!! in the biological control of vector snail !!Lymnaea luteola!!.</title>
+					<page>0005-0020</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+						<author>Nandi, N. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on the food preference and consumption of !!Rattus rattus!! (Linnaeus) [Rodentia: Muridae] in captivity.</title>
+					<page>0021-0026</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chakraborty, S.</author>
+						<author>Chakraborty, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new !!Hemilea!! (Diptera: Tephritidae) from Meghalaya, India</title>
+					<page>0027-0030</page>
+					<plates></plates>
+					<allauthors>
+						<author>Radhakrishnan, C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new species of !!Pseudendestes!! Lawrence (Coleoptera: Colydiidae) from India.</title>
+					<page>0031-0036</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pal, T. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A note on the Odonata (Insecta) from Khasi Hills, Meghalaya, with description of a new species.</title>
+					<page>0037-0044</page>
+					<plates></plates>
+					<allauthors>
+						<author>Prasad, M.</author>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Remarks on twelve species of newly recorded Grasshoppers (Order Orthoptera) from West Bengal.</title>
+					<page>0045-0056</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhowmik, H. K.</author>
+						<author>Haldar, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Note on a small collection of fleas (Insecta: Siphonaptera) from Meghalaya</title>
+					<page>0057-0058</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lahiri, A. R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Ixodid tick (Acarina: Metastigmata) fauna of Andaman and Nicobar Islands.</title>
+					<page>0059-0064</page>
+					<plates></plates>
+					<allauthors>
+						<author>De, S. K.</author>
+						<author>Sanyal, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Zoogeography of Loaches of the Superfamily Cobitoidea (Cobitidae and Homalopteridae).</title>
+					<page>0065-0074</page>
+					<plates></plates>
+					<allauthors>
+						<author>Menon, A. G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Nematodes from West Bengal (India) XIV. On the occurrence of ectoparasitic Nematodes of Longidoroidea and Trichodoroidea (Dorylaimida), with remarks on the validity of genus !!Siddiqia!! (Longidoridae)</title>
+					<page>0075-0080</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jana, A.</author>
+						<author>Baqri, Q. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The application of variance analysis for the comparison of Spatiotemporal variation in Freshwater Zooplankton.</title>
+					<page>0081-0086</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rashid, A. Khan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Ecological studies on the Amphibians of Gujarat.</title>
+					<page>0087-0094</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sarkar, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A note on the Marine Borers of Mangroves of Little Andaman, India.</title>
+					<page>0095-0098</page>
+					<plates></plates>
+					<allauthors>
+						<author>Das, A. K.</author>
+						<author>Roy, M. K. Dev</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new Fly !!Nigritomyia andamanensis!! (Diptera: Stratiomyidae) from the Andamans</title>
+					<page>0099-0100</page>
+					<plates></plates>
+					<allauthors>
+						<author>Das, B. C.</author>
+						<author>Sharma, R. M.</author>
+						<author>Roy, M. Dev</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on Indian Calanoids I. Description of a new !!Calanoid!! Copepod, !!Neodiaptomus tiw arii!! sp. nov. (Calanoida: Diaptomidae) from the Nilgiri District with Ecological observations.</title>
+					<page>0101-0108</page>
+					<plates></plates>
+					<allauthors>
+						<author>Roy, Tusharendu</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Report on a collection of Orthoptera (Insecta) from the districts of Purulia and Bankura, West Bengal, India.</title>
+					<page>0109-0114</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhowmik, H. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the occurrence of !!Haemogregarina nucleobisecans!! Shortt, 1917 in toads of West Bengal.</title>
+					<page>0115-0118</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ray, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of six new species of Spiders of the Families Clubionidae, Gnaphosidae and Salticidae from India.</title>
+					<page>0119-0128</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, Bijan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of two new species of Jumping Spiders of the genus Marpissa (Family: Salticidae) from India.</title>
+					<page>0129-0132</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, Bijan</author>
+						<author>Biswas, Kajal</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description a new species of Spider (Araneidae: Laninia) from India</title>
+					<page>0133-0137</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, Bijan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New records of Host&#8211;Plants and distribution of some Coccids from India (Homoptera: Coccoidea).</title>
+					<page>0137-0142</page>
+					<plates></plates>
+					<allauthors>
+						<author>Varshney, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Additions to two species of Grasshoppers (Acrididae: Orthoptera)</title>
+					<page>0143-0150</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhowmik, H. K.</author>
+						<author>Halder, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of Trypanosome from an Indian Microhylid Frog, !!Kaloula pulchra taprobanica!! Parker.</title>
+					<page>0151-0158</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ray, R.</author>
+						<author>Choudhury, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Taxonomic status of the Indian subspecies of the Kelaart's Pipistrelle, !!Pipistrellus ceylonicus!! Kelaart [Chiroptera: Vespertilionidae]</title>
+					<page>0159-0162</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lal, J. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new freshwater fish of the genus !!Danio!! Hamilton (Pisces: Cyprinidae) from Assam, India, with the key to the Identification of the Indian species of the subgenus !!Danio!!.</title>
+					<page>0163-0166</page>
+					<plates></plates>
+					<allauthors>
+						<author>Barman, R. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Acrossocheilus manipurensis!! sp. nov. (Pisces: Cyprinidae) from Manipur, India.</title>
+					<page>0167-0170</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, A. K.</author>
+						<author>Karmakar, A. K.</author>
+						<author>Laishram, I. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Treatia!! Krantz and Khot (Acari: Otophe Idomenidae) with a new record of !!Amblyseius!! Berlese (Acari: Phytoseiidae) from India</title>
+					<page>0171-0176</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghai, Swaraj</author>
+						<author>Gupta, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On variations of !!Heleopera sylvatica!! Penard (Protozoa: Hyalospheniidae) in India and its causative factors.</title>
+					<page>0177-0180</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nair, K. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some collections of Cicadellids (Homoptera: Cicadellidae)</title>
+					<page>0181-0208</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, B.</author>
+						<author>Dhar, Maya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the status of some Digenetic Trematodes of Marine Fishes of India.</title>
+					<page>0209-0218</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezullah, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on the study of three species of River Turtles in Orissa.</title>
+					<page>0219-0222</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, S.</author>
+						<author>Acharjya, L. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new species of Oribatid Mites (Acari) from Darjeeling, India.</title>
+					<page>0223-0230</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mondal, B. K.</author>
+						<author>Kundu, B. G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of the genus !!Eremobelba!! (Acari: Oribatei) from Darjeeling, West Bengal, India.</title>
+					<page>0231-0236</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mondal, B. K.</author>
+						<author>Kundu, B. G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a collection of Tetranychoid Mites from Tamil Nadu with description of a new species of !!Aponychus!! (Acari: Tetranychidae)</title>
+					<page>0237-0246</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, Y. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Three small, little&#8211;known genera of Asilidae (Diptera) from India.</title>
+					<page>0247-0252</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Discovery of the genus !!Tentyrina!! Reitter (coleoptera: Tenebrionidae) from India with description of a new species.</title>
+					<page>0253-0256</page>
+					<plates></plates>
+					<allauthors>
+						<author>Saha, G. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence if fossil !!Panthera pardus!! Linn. from the Pleistocene deposits of Susunia, Bankura, West Bengal.</title>
+					<page>0257-0260</page>
+					<plates></plates>
+					<allauthors>
+						<author>Saha, K. D.</author>
+						<author>Banerjee, S.</author>
+						<author>Talukder, B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a small collection of Stomatopoda (Crustacea) from Goa.</title>
+					<page>0261-0266</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, H. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Chromosomes of seven species of Aphids (Homoptera: Aphididae)</title>
+					<page>0267-0270</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kulkarni, P. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a giant&#8211;sized Chhirruh, !!Schizothoraichthys ecocinus!! (Heckel) from Kashmir Valley (Schizothoracinae: Cypriniformes).</title>
+					<page>0271-0274</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tilak, Raj</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of !!Noemacheilus!! (Pisces: Cobitidae) from Arunachal Pradesh, India.</title>
+					<page>0275-0278</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, A. K.</author>
+						<author>Barman, R. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the occurrence of !!Oreichthys cosuatis!! (Ham.) in Kaziranga National Park, (Pisces: Cyprinidae).</title>
+					<page>0279-0282</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tilak, Raj</author>
+						<author>Sati, J. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of the genus !!Garra!! Hamilton (Pisces: Cyprinidae) from Namdapha Wild Life Sanctuary, Arunachal Pradesh, India.</title>
+					<page>0283-0288</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, A. K.</author>
+						<author>Barman, R. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Contribution to the study of Bagrid Fishes. 17. The history and usage of the name "Mystus".</title>
+					<page>0289-0294</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jayaram, K. C.</author>
+						<author>Chakrabarti, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On an abnormal catfish !!Mystus vittatus!! (Bloch, 1794) (Pisces: Bagridae) with a forked Maxillary Barbel.</title>
+					<page>0295-0296</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, M. Babu</author>
+						<author>Reddy, Y. Siva</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the habitat and morphology of !!Macoma (Psammotreta) ala!! (Hanley) (Mollusca: Bivalvia, Tellinidae).</title>
+					<page>0297-0300</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bose, K. C.</author>
+						<author>Dey, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A note on the distribution of the little Indian field Mouse, !!Mus booduya!! (Gray) [Rodentia; Muridae], with an Altitudinal record</title>
+					<page>0301-0304</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mandal, Ajoy Kumar</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New name for !!Liothrips loranthi!! Muraleedharan &amp; Sen (Thysanoptera: Tubulifera: Phlaeothripidae).</title>
+					<page>0305-0306</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sen, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Some new records of Ants (Hymenoptera: Formicidae) from Tripura.</title>
+					<page>0307-0308</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mathew, R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Parental care in the Kelaart's Pipistrelle, !!Pipistrellus ceylonicus chrysothrix!! (Wroughton).</title>
+					<page>0309-0310</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lal, J. P.</author>
+						<author>Biswas, D. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Urination by the !!Little!! Indian Horseshoe Bat, !!Rhinolophus lepidus!! Blyth, on intruders.</title>
+					<page>0311-0312</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lal, J. P.</author>
+						<author>Biswas, D. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A record of the Indian Flying Fox, !!Pteropus giganteus!! (Brünnich) in Sikkim</title>
+					<page>0313-0314</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosal, D. K.</author>
+						<author>Ghose, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Recent occurrence of the Haspid Hare, !!Caprolagus hispidus!! (Pearson), in the Duars of West Bengal.</title>
+					<page>0315-0316</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghose, R. K.</author>
+						<author>Ghosal, D. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Myriapods as the food of common garden Lizard, !!Calotes versicolor!! (Daudin)</title>
+					<page>0317-0318</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ahmed, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of !!Pusana laevis!! (Uvarov) (Insecta: Orthoptera: Acrididae) from the Himalayas</title>
+					<page>0319-0320</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhowmik, H. K.</author>
+						<author>Haldar, P.</author>
+						<author>Sur, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A case of albinism in the five&#8211;striped Palm Squirrel !!Funabulus pennanti!! Wroughton.</title>
+					<page>0321-0322</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chaturvedi, Y.</author>
+						<author>Ghose, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New records of Zopocecidia from Andaman Islands, India.</title>
+					<page>0323-0325</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, R. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A preliminary survey of Sea Turtle of the Andhra coast.</title>
+					<page>0325-0326</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Report on the Marine Wood Borers from the Mangroves of Neil, Havelock and Peel islands, Ritchie's Archepelago, Andaman, India.</title>
+					<page>0327-0329</page>
+					<plates></plates>
+					<allauthors>
+						<author>Das, A. K.</author>
+						<author>Roy, M. K. Dev</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Defensive behaviour of the House Shrew, !!Suncus murinus!! (Linnaeus) towards House Crow, !!Corvus splendens!! Vieillot.</title>
+					<page>0331-0332</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mandal, Ajoy Kumar</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Aggressive behaviour of the House Shrew, !!Suncus murinus!! (Linnaeus) towards Domestic Cat.</title>
+					<page>0333-0334</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, D. K.</author>
+						<author>Mandal, Ajoy Kumar</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on the land Snail !!Glessula gemma!! (Reeve) [Mollusca; Gastropoda] &#8212;I growth rate.</title>
+					<page>0335-0336</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+						<author>Raut, S. K.</author>
+						<author>Mitra, S. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A case of Hyalomma Tick infestation in man.</title>
+					<page>0337-0337</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nandi, N. C.</author>
+						<author>De, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Infestation of whitefly !!Aleurocanthus rugosa!! Singh (Aleyrodidae: Insecta) in Betel vine.</title>
+					<page>0339-0340</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+						<author>Nandi, N. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>In&#8211;vitro development of !!Daphnia lumholtzi!! Sars (Cladocera; Daphniidae)</title>
+					<page>0341-0342</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, Sumita</author>
+						<author>Sharma, B. K.</author>
+						<author>Michael, R. G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of the tail&#8211;less fruit Bat, !!Megaerops ecaudatus!! (Temminck, 1837), in Namdapha, Tirap District, Arunachal Pradesh: An addition to the Indian Fauna (Mammalia: Chiroptera: Pteropodidae).</title>
+					<page>0343-0344</page>
+					<plates></plates>
+					<allauthors>
+						<author>Saha, Subhendu Sekhar</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="007">
+			<part pnum="01" month="08" year="1985">
+				<entry>
+					<title>Some mites associated with birds' nests in West Bengal with descriptions of eleven new species</title>
+					<page>0001-0024</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, S. K.</author>
+						<author>Paul, Kasturi</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The subgenus !!Odagmia!! Enderlein (Diptera: Simuliidae) with a new species from Himachal Pradesh, India.</title>
+					<page>0025-0032</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new synonym in Indian !!Rhinocypha!! Rambur, with a review of the species&#8211;groups !!Fenestrella!! and !!Bifasciata!! (Odonata: Chlorocyphidae).</title>
+					<page>0033-0036</page>
+					<plates></plates>
+					<allauthors>
+						<author>Lahiri, A. R.</author>
+						<author>Sinha, C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Generic relationship and status of the Scyliorhinid Shark, !!Scyliorhinus (Halaelurus) silasi!! Talwar, 1974 (Chondrichthyes: Selachii, Scyliorhinidae)</title>
+					<page>0037-0040</page>
+					<plates></plates>
+					<allauthors>
+						<author>Compagno, L. J. V.</author>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Discovery of the genus !!Caenoscelis!! Thomson (Coleoptera: Cryptophagidae) From Indian Region and Description of a new Species from Nepal</title>
+					<page>0041-0044</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sengupta, T.</author>
+						<author>Basak, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Orthaltica!! (Coleoptera: Chrysomelidae: Alticinae) from India.</title>
+					<page>0045-0048</page>
+					<plates></plates>
+					<allauthors>
+						<author>Basu, C. R.</author>
+						<author>Sengupta, T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Developmental Morphology of !!Cervaphis schouteniae!! v. d. Goot (Homoptera: Aphidoidea)</title>
+					<page>0049-0058</page>
+					<plates></plates>
+					<allauthors>
+						<author>Basant, K. Agarwala</author>
+						<author>Saha, S.</author>
+						<author>Ghosh, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Redescription of !!Peripolus nepalensis!! Uvarov 1942 (Orthoptera: Acrididae: Calliptaminae)</title>
+					<page>0059-0062</page>
+					<plates></plates>
+					<allauthors>
+						<author>Shishodia, M. S.</author>
+						<author>Gupta, I. J.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Redescription of a grasshopper spceies, !!Peripolus pedarius!! Stal (Orthoptera: Acrididae) from India</title>
+					<page>0063-0068</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhowmik, H. K.</author>
+						<author>Halder, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on some Trematodes (Digenea: Lecithodendriidae) of Pisces and Amphibia from East Coast of India</title>
+					<page>0069-0082</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezullah, M.</author>
+						<author>Dutta, I. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Ecological aspects of Copepod component of zooplankton production in the estuarine system of lower West Bengal.</title>
+					<page>0083-0092</page>
+					<plates></plates>
+					<allauthors>
+						<author>Baidya, Aftab Uddin</author>
+						<author>Choudhury, Amalesh</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>The setae of the subterranean Isopod !!Nichollsia menoni!! Tiwari 1955, (Crustacea, Isopoda, Phreatoicoidea, Nichollsidae).</title>
+					<page>0093-0102</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, Lakshman Prasad</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Haemoglobin polymorphism in commensal species of Rodents in India.</title>
+					<page>0103-0106</page>
+					<plates></plates>
+					<allauthors>
+						<author>Pradhan, M. S.</author>
+						<author>Bhagwat, A. M.</author>
+						<author>Ingale s. T.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Contributions to the study of Bagrid Fishes. 18 Redesctiption of !!Mystus pelusius!! Solander, the type species of the genus !!Mystus!! Scopoli.</title>
+					<page>0107-0112</page>
+					<plates></plates>
+					<allauthors>
+						<author>Anuradha, S.</author>
+						<author>Jayaram, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Observations on the Roosting and Feeding habits of Pipistrelle bats around Calcutta Airport.</title>
+					<page>0113-0116</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhattacharyya, T. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of Spider of the genus !!Poecilochroa!! Westring (Family: Gnaphosidae) from India.</title>
+					<page>0117-0120</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gajbe, U. A.</author>
+						<author>Rane, P. D.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>An interesting observation on the behaviour of Chaetognatha in the coastal waters of Ouri, during the total solar Eclipse, 1980</title>
+					<page>0121-0126</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srinivasan, M.</author>
+						<author>Krishnan, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A synopsis of the Indian Tabanidae (Diptera)</title>
+					<page>0127-0138</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Influence of seed diet on fecundity and post embryonic development of !!Spilostethus pandurus militaris!! (Fabricius) (Hemiptera: Lygaeidae)</title>
+					<page>0139-0142</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukhopadhyay, Ananda</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Field notes on the Odonata around LaKe Kailana, Jodhpur (Rajasthan).</title>
+					<page>0143-0148</page>
+					<plates></plates>
+					<allauthors>
+						<author>Thakur, R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Schochapus!! Nomen Novum Pro !!Apus!! Schoch, 1868 (Rotifera)</title>
+					<page>0149-0150</page>
+					<plates></plates>
+					<allauthors>
+						<author>Varshney, R. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+			<part pnum="02-03" month="12" year="1985">
+				<entry>
+					<title>!!Djombangia Clariae!!n. sp. (Cestoidea: Caryophyllidea: Lytocestidae) from a Siluriod Fish in West Bengal</title>
+					<page>0151-0154</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kundu, D. K.</author>
+						<author>Bhattacharya, S. B.</author>
+						<author>Datta, I. B.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Languriini: Languriidae (Coleoptera) of the Himalayas.</title>
+					<page>0155-0164</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukherjee, A. K.</author>
+						<author>Sengupta, Tapan</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Forficulla!! Linnaeus and new records of !!Forficula davidi!! (Dermaptera: Forficulidae) from India.</title>
+					<page>0165-0168</page>
+					<plates></plates>
+					<allauthors>
+						<author>Purohit, G. L.</author>
+						<author>Julka, J. M.</author>
+						<author>Lal, S. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the occurrence of the narrowheaded Sevengill Shark, !!Heptranchias perlo!! (Bonnaterre, 1788) (chondrichthyes: Hexanchidae) in Indian waters</title>
+					<page>0169-0172</page>
+					<plates></plates>
+					<allauthors>
+						<author>Compagno, L. J. V.</author>
+						<author>Talwar, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new genus and species of Portunid Crab: Crustacea from North Andaman</title>
+					<page>0173-0178</page>
+					<plates></plates>
+					<allauthors>
+						<author>Deb, Maya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Predatory behaviour of the Pholcid Spider !!Crossopriza lyoni!! (Blackwall) on Mosquitoes (Aedes sp.)</title>
+					<page>0179-0184</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nandi, N. C.</author>
+						<author>Raut, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A checklist of the Gryllidae (Orthoptera), with inter&#8211;territorial distribution, from the eastern Himalayas</title>
+					<page>0185-0194</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhowmik, H. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>!!Pentapedilum robusticeps!! (Diptera: Chironomidae)-a new species from India</title>
+					<page>0195-0198</page>
+					<plates></plates>
+					<allauthors>
+						<author>Guha, D. K.</author>
+						<author>Chaudhuri, P. K</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Nematodes from West Bengal (India) XVII. A new species of the genus !!Prodorylaimus!! Andra'ssy, 1959 (Dorylaimidae: Dorylaimida)</title>
+					<page>0199-0202</page>
+					<plates></plates>
+					<allauthors>
+						<author>Baksi, Rita</author>
+						<author>Baqri, Q. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>First record of a crab, !!Portunus pubescens!! (Dana) from Indian coasts (Crustacea: Decapoda: Portunidae)</title>
+					<page>0203-0206</page>
+					<plates></plates>
+					<allauthors>
+						<author>Deb, Maya</author>
+						<author>Bhadra, Sipra</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Serenius!! Guinot 1976, (Crustacea: Decapoda: Xanthidae) from Andamans</title>
+					<page>0207-0210</page>
+					<plates></plates>
+					<allauthors>
+						<author>Deb, Maya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of the genus !!Paractaea!! Guinot 1969, (Crustacea: Decapoda: Xanthidae) from Andamans</title>
+					<page>0211-0214</page>
+					<plates></plates>
+					<allauthors>
+						<author>Deb, Maya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a few interesting species of the family Chrysopidae (Neuroptera) from North-West Himalayas, India</title>
+					<page>0215-0218</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Distributional records of Stalk&#8211;eyes flies (Diptera: Diopsidae) present in Zoological Survey of India, Calcutta.</title>
+					<page>0219-0224</page>
+					<plates></plates>
+					<allauthors>
+						<author>Biswas, Mihir</author>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new cladoceran, !!Simocephalus vamani!!sp. nov., from Jabalpur, M. P., India.</title>
+					<page>0225-0230</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rane, Pramod</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on Blackflies (Diptera: Simuliidae) from Kashmir, India </title>
+					<page>0231-0236</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a small collection of Coniopterygidae (Neuroptera) from West Bengal, India</title>
+					<page>0237-0240</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+						<author>Maulik, D. R.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of a new species, !!Pispdpmphis, Assamensis!!, a new ell from lower Assam with a key to the Indian Ophichthidae (Family: Ophichthidae/Genus Pisodonophis)</title>
+					<page>0241-0244</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sen, T. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>``Biospeleological explorations in India''</title>
+					<page>0245-0250</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gupta, Lakshman Prasad</author>
+						<author>Kumar, Binod</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Marine wood&#8211;borers from the mangrove ecosystem of Great Nicobar Island, India</title>
+					<page>0251-0254</page>
+					<plates></plates>
+					<allauthors>
+						<author>Roy, M. K. Dev</author>
+						<author>Das, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on genera !!Allostomachicola!! Yamaguti, 1958, !!Stomachicola!! Yamaguti, 1934 and !!Atheria!! Hafeezullah, 1975 (Digenea: Hemiuridae) from marine fishes of India</title>
+					<page>0255-0266</page>
+					<plates></plates>
+					<allauthors>
+						<author>Hafeezullah, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>First report on the centipedes collected from Uttar Pradesh Terai, India (chilopoda: Scolopendridae)</title>
+					<page>0267-0270</page>
+					<plates></plates>
+					<allauthors>
+						<author>Khanna, Vinod</author>
+						<author>Tripathi, J. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A Toxonomic Revision of the Nematode species (Dorylaimida) reported by Khera (1970) from India.</title>
+					<page>0271-0284</page>
+					<plates></plates>
+					<allauthors>
+						<author>Qaiser, H. Baqri</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of the genus !!Lytocestoides!! Baylis, 1928 (Cestoidea: Caryophyllidea: Lytocestidae) from a Cobitid Fish, !!Lepidocephalus guntea!! (Ham.), from West Bengal.</title>
+					<page>0285-0290</page>
+					<plates></plates>
+					<allauthors>
+						<author>Kundu, D. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Three new species of Grasshopper (!!Orthoptera: Acrididae!!) from India</title>
+					<page>0291-0296</page>
+					<plates></plates>
+					<allauthors>
+						<author>Bhowmik, H. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Nematodes from West Bengal (India) XV. On the species of some rare genera having narrow Odontostyle of the superfamily Dorylaimoidea (Dorylaimida)</title>
+					<page>0297-0304</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jana, Amalendu</author>
+						<author>Qaiser, H. Baqri</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Oppoa!! (Acari: Oribatei: Oppiidae) from Darjeeling, India</title>
+					<page>0305-0310</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mondal, B. K.</author>
+						<author>Kundu, B. G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>An annotated list of septate Gregarines (Apicomplexa: Sporozoea) from insects in India</title>
+					<page>0311-0322</page>
+					<plates></plates>
+					<allauthors>
+						<author>Haldar, D. P.</author>
+						<author>Sengupta, T.</author>
+						<author>Ghose, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Studies on the land snail, !!Glessula gemma!! (Reeve) [Mollusca: Gastropoda] II. Populations</title>
+					<page>0323-0325</page>
+					<plates></plates>
+					<allauthors>
+						<author>Raut, S. K.</author>
+						<author>Mitra, S. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>An instance of abnormal fins in a specimen of Noemacheiline Loaches (Cobitidae: Cypriniformes)</title>
+					<page>0325-0326</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sen, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of !!Piscicola olivacea!! Harding (Annelida: Hirudinea) in Laddak, J. &amp; K., India</title>
+					<page>0327-0328</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chandra, Mahes</author>
+						<author>Mukherjee, R. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new record of Maupasella Nova Cépedè, 1910 (Protozoa: Ciliata) from a new host, Perionyx Excavatus Perrier from India</title>
+					<page>0329-0330</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mukherjee, Rathin</author>
+						<author>Chakrabarti, Asim</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a synonymy of the genus Bothriochloamyia (Diptera: Cecidomyiidae)</title>
+					<page>0331-0332</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, R. M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>An appeal for whereabouts of the type specimens of !!Haemoproteus!! spp. (Protozoa: Haemosporina) from Indian birds</title>
+					<page>0333-0334</page>
+					<plates></plates>
+					<allauthors>
+						<author>Nandi, N. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New record of a Colubrid snake from Ennore Estuary, Tamilnadu</title>
+					<page>0335-0336</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ahmed, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a hill&#8211;stream Loach, !!Noemacheilum rupecula!! (McClelland) with bifurcated rostral barbel and defarmed caudal fin</title>
+					<page>0337-0340</page>
+					<plates></plates>
+					<allauthors>
+						<author>Husain, Akhlaq</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Book Review</title>
+					<page>0341-0342</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, A. K.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
+		<volume vnum="008">
+			<part pnum="01-03" month="12" year="1987">
+				<entry>
+					<title>Indian species of the genus !!Arixyleborus!! Hopkins (Scolytidae: Coleoptera)</title>
+					<page>0001-0012</page>
+					<plates></plates>
+					<allauthors>
+						<author>Maiti, P. K.</author>
+						<author>Saha, N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on the species of !!Paralabis!! Burr (Dermaptera: Carcinophoridae) from Indian subcontinent</title>
+					<page>0013-0028</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a new species of !!Kryptopterus!! (Pisces: Siluroidea, Family: Siluridae) from Namdapha wildlife sanctuary, Arunachal Pradesh, India</title>
+					<page>0029-0032</page>
+					<plates></plates>
+					<allauthors>
+						<author>Datta, A. K.</author>
+						<author>Barman, R. P.</author>
+						<author>Jayaram, K. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Shell modifications in Indian Land Operculates and their significance</title>
+					<page>0033-0038</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+						<author>Raut, S. K.</author>
+						<author>Mitra, S. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On the number of specimens, repository, and the heterogeneity of the type&#8211;series of !!Vespertilio montivagus!! Dobson, 1874 (Mammalia: Chiroptera)</title>
+					<page>0039-0046</page>
+					<plates></plates>
+					<allauthors>
+						<author>Das, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes and illustrations on some Dermaptera (Insecta) preserved in the ``Rijksmuseum van Natuurlizke Historie, Leiden''</title>
+					<page>0047-0056</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new mesostenine genus !!Pseudotricapus!! from India (Hymenoptera: Ichneumonidae)</title>
+					<page>0057-0060</page>
+					<plates></plates>
+					<allauthors>
+						<author>Jonathan, J. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Taxonomic remarka on the Indomalayan !!Microtermes!! Wasmann (Isoptera: Termitidae: Macrotermitinae)</title>
+					<page>0061-0066</page>
+					<plates></plates>
+					<allauthors>
+						<author>Chhotani, O. B.</author>
+						<author>Bose, Geeta</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Occurrence of fossil !!Miotragocerus!! cf. !!Punjabicus!! (Pilgrim) Mammalia: Artiodactyla: Bovidae from the Pleistocene deposits of Susunia, Bankura, West Bengal, India</title>
+					<page>0067-0070</page>
+					<plates></plates>
+					<allauthors>
+						<author>Banerjee, S.</author>
+						<author>Saha, K. D.</author>
+						<author>Roy, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of hitherto unknown males of three species of Scolytid beetles (Scolytidae: Coleopetra) from India</title>
+					<page>0071-0076</page>
+					<plates></plates>
+					<allauthors>
+						<author>Saha, N.</author>
+						<author>Maiti, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Histological observations on the alimentary tract of the lizard, Hemidactylus flaviviridis</title>
+					<page>0077-0082</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, Vijay Prakash</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Stored product beetles (Coleoptera) of Sikkim</title>
+					<page>0083-0088</page>
+					<plates></plates>
+					<allauthors>
+						<author>Basak, P. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some Asilidae (Diptera) from India</title>
+					<page>0089-0110</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes on a collection of Dermaptera present in Zoologisk Museum, Copenhagen</title>
+					<page>0111-0126</page>
+					<plates></plates>
+					<allauthors>
+						<author>Srivastava, G. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Record of !!Hoplopleura malabarica!! Werneck (Anoplurk: Hoplopleuridae) from India</title>
+					<page>0127-0130</page>
+					<plates></plates>
+					<allauthors>
+						<author>Adhikary, C. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new combination proposed for Indian grouse-Locusts (Orthoptera: Tetrigidae)</title>
+					<page>0131-0134</page>
+					<plates></plates>
+					<allauthors>
+						<author>Shishodia, M. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Nematodes from West Bengal (India) xviii. Studies on the species of the subfamily !!Tylenchorhynchinae!! (Tylenchorhynchidae: Tylenchida)</title>
+					<page>0135-0142</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ahmed, Naseem</author>
+						<author>Qaiser, H. Baqri</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Malacological notes on Sagar Island</title>
+					<page>0149-0158</page>
+					<plates></plates>
+					<allauthors>
+						<author>Rao, N. V. Subba</author>
+						<author>Rao, K. V. Surya</author>
+						<author>Mitra, S. C.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Redescription of !!Parayasa elegantula Distant with notes on its biology and immature stages (Homoptera: Membracidae)!!</title>
+					<page>0159-0166</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, L. K.</author>
+						<author>Ananthasubramanian, K. S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Insects associated with some weeds in South India</title>
+					<page>0165-0176</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mathew, Koshy</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some species of the family Notommatidae (Eurotatoria: Monogononta) from north&#8211;eastern India.</title>
+					<page>0177-0184</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sharma, B. K.</author>
+						<author>Sharma, Sumita</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new species of !!Eubasilissa!! Martynov (Trichoptera: Phryganeidae) from India</title>
+					<page>0185-0186</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, S. K.</author>
+						<author>Chaudhury, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Dynamics of collembola and Acarina in a grassland area of Calcutta.</title>
+					<page>0187-0196</page>
+					<plates></plates>
+					<allauthors>
+						<author>Mitra, S. K.</author>
+						<author>Mukherjee, R. N.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Two new species of the genus !!Lytocestoides!! Baylis, 1928 (Cestoidea: Cestoda: Caryophyllidea: Lytocestidae) from a freshwater fish in Maharashtra, India.</title>
+					<page>0197-0202</page>
+					<plates></plates>
+					<allauthors>
+						<author>Shinde, G. B.</author>
+						<author>Mohekar, A. D.</author>
+						<author>Jadhav, B. V.</author>
+						<author>Hafeezullah</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some insect borers of mangroves of Andaman and Nicobar Islands</title>
+					<page>0203-0208</page>
+					<plates></plates>
+					<allauthors>
+						<author>Dev, M. K.</author>
+						<author>Mitra, B.</author>
+						<author>Das, A. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On a small collection of Asilidae (Diptera) from Orissa, India</title>
+					<page>0209-0216</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T.</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A note on the brittle star !!Ophiomusium simplex!! Lyman (Echinodermata: Ophiuroidea) new to the Bay of Bengal</title>
+					<page>0217-0220</page>
+					<plates></plates>
+					<allauthors>
+						<author>Sastry, D. R. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>New mammal records from West Bengal</title>
+					<page>0221-0222</page>
+					<plates></plates>
+					<allauthors>
+						<author>Agrawal, V. C.</author>
+						<author>Bhattacharya, T. P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>On some Asilidae (Diptera) present in the B. P. Bishop Museum, Honolulu I</title>
+					<page>0223-0236</page>
+					<plates></plates>
+					<allauthors>
+						<author>Joseph, A. N. T</author>
+						<author>Parui, P.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Culturing Gymnamoebae from saline environments of Hooghly estuary, India.</title>
+					<page>0237-0244</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ghosh, M.</author>
+						<author>Choudhury, A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Plankton ecology of Gandhisagar tank in Nagpur, India</title>
+					<page>0245-0276</page>
+					<plates></plates>
+					<allauthors>
+						<author>Patil, S. G.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new !!Haplodrassus!! spider from India (Araneae: Gnaphosidae)</title>
+					<page>0277-0280</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gajbe, U. A</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new Rachodrassus spier from India (Araneae: Gnaphosidae)</title>
+					<page>0281-0285</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gajbe, U. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new !!scopodes!! spider from India (Araneae: Gnaphosidae)</title>
+					<page>0285-0288</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gajbe, U. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A new !!Drassyllus!! spider from India (Araneae: Gnaphosidae)</title>
+					<page>0289-0290</page>
+					<plates></plates>
+					<allauthors>
+						<author>Gajbe, U. A.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>A note on the Ichthyofauna of Jalgaon District of Maharashtra</title>
+					<page>0291-0295</page>
+					<plates></plates>
+					<allauthors>
+						<author>Singh, D. F.</author>
+						<author>Kamble, R. H.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Contributions to the study of Bagrid fishes 20. Systematic position of !!Macrones colvillii!! Gunther, 1874</title>
+					<page>0295-0298</page>
+					<plates></plates>
+					<allauthors>
+						<author>Anuradha, S.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Description of seven new species and one new record of Pilumninae: Xanthidae: Decapoda: Crustacea from India</title>
+					<page>0299-0312</page>
+					<plates></plates>
+					<allauthors>
+						<author>Deb, Maya</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Notes of the Indian species of the genus !!Pseudagrion!! Selys (Coenagrionidae: Odonata)</title>
+					<page>0313-0322</page>
+					<plates></plates>
+					<allauthors>
+						<author>Prasad, M.</author>
+						<author>Ram, R.</author>
+						<author>Ghosh, S. K.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Observation on the Abnormalities in the Portunid Crab, !!Portunus pelagicus!! (Linnaeus)</title>
+					<page>0323-0324</page>
+					<plates></plates>
+					<allauthors>
+						<author>Ramalingam, M.</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Association between longbilled vulture, !!Gyps indicus!! (Scopoli) and house crow, !!Corvus splendens!! Vieillot</title>
+					<page>0325-0326</page>
+					<plates></plates>
+					<allauthors>
+						<author>Tilak</author>
+						<author>Narang</author>
+					</allauthors>
+				</entry>
+				<entry>
+					<title>Review</title>
+					<page>0327-0327</page>
+					<plates></plates>
+					<allauthors />
+				</entry>
+			</part>
+		</volume>	
+	</bulletin>
+</zsi>

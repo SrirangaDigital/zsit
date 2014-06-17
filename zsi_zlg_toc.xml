@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE zlg SYSTEM "zlg.dtd">
+
+<zlg>
+	<book bid="001">
+		<s1 page="0001" title="Facts and Fancy of Elephant Life" author="Ali, S. Mohammad"></s1>
+		<s1 page="0007" title="Unusual Snakes" author="Murthy, T. S. N."></s1>
+		<s1 page="0009" title="Curious Cat Fishes of India" author="Jayaram, K. C."></s1>
+		<s1 page="0018" title="An Appraisal of Satpura Hypothesis of Distribution of the Malayan Fauna and Flora to Peninsular India" author="Menon, A. G. K."></s1>
+		<s1 page="0024" title="The Endangered Reptiles of India" author="Murthy, T. S. N."></s1>
+		<s1 page="0029" title="The Giant African Land Snail !!Achatina fulica!!" author="Raut, S. K."></s1>
+		<s1 page="0032" title="Limnology in the Service of Mankind" author="Raghunathan, M. B."></s1>
+		<s1 page="0035" title="Crustacea and Man" author="Ramakrishna, G."></s1>
+		<s1 page="0043" title="Exotic Thrips Pests and Plant Quarantine" author="Ananthakrishnan, T. N."></s1>
+		<s1 page="0049" title="Butterflies as Pests of Food-Plants" author="Varshney, R. K."></s1>
+	</book>
+	<book bid="002">
+		<s1 page="0001" title="Deep-water Fishes of India" author="Talwar, P. K."></s1>
+		<s1 page="0007" title="Deer and Antelopes of India and Their Conservation" author="Ali, S. Mohammad"></s1>
+		<s1 page="0016" title="Nesting Behaviour and Nests of Indian Termites" author="Chhotani, O. B.;Bose, Geeta"></s1>
+		<s1 page="0029" title="Insects and Microclimate" author="Ananthakrishnan, T. N."></s1>
+		<s1 page="0033" title="Aspects of Indigenous and Exotic Fishes of India" author="Jayaram, K. C."></s1>
+		<s1 page="0040" title="Bird Malaria : Its Perspective and Predicament" author="Nandi, N. C."></s1>
+		<s1 page="0049" title="Fishes in Relation to Man" author="Mathur, D. S.;Agrawal, H. P."></s1>
+		<s1 page="0054" title="Mites infesting Field Crops in India" author="Gupta, S. K."></s1>
+		<s1 page="0063" title="Manipur Deer and Its Present Status" author="Mukherjee, R. P."></s1>
+		<s1 page="0068" title="Echinoderms and Man" author="Bai, M. Mary"></s1>
+		<s1 page="0074" title="Techniques for the Study of Rodent Population" author="Agrawal, V. C."></s1>
+	</book>
+	<book bid="003">
+		<s1 page="0001" title="Environment and Human Health" author="Sengupta, K. P."></s1>
+		<s1 page="0005" title="The Environmental Crisis" author="Ananthakrishnan, T. N."></s1>
+		<s1 page="0011" title="Environment and Wild Life" author="Lamba, B. S."></s1>
+		<s1 page="0015" title="Environment and Marine Life" author="Daniel, A."></s1>
+		<s1 page="0023" title="Pollution and Its Menace" author="Mathur, D. S."></s1>
+		<s1 page="0027" title="Environment and Soil Life" author="Mitra, S. K."></s1>
+	</book>
+	<book bid="004">
+		<s1 page="0001" title="The Role of World Fisheries in Human Nutrition : A New Appraisal" author="Borgstrom, Georg"></s1>
+		<s1 page="0015" title="Pollution of Inland Waters" author="Khan, Rashid A."></s1>
+		<s1 page="0029" title="Pathogenic Protozoa of Man and Animals" author="Chakrabarti, Asim"></s1>
+		<s1 page="0039" title="The Golden Langur (!!Presbytis Geei Khajuria!!)" author="Khajuria, H."></s1>
+		<s1 page="0045" title="Role of Soil Fauna in the Fertility of the Soil" author="Bhattacharya, A.;De, G. C."></s1>
+		<s1 page="0051" title="Observations on the Bharal and the Goral in the High Himalayas" author="Ghosh, H. C."></s1>
+		<s1 page="0057" title="Turtles : Their Natural History, Economic Importance and Conservation" author="Murthy, T. S. N."></s1>
+		<s1 page="0067" title="Trends in the Management of Fresh Water Bodies for Fish Production" author="Rao, M. Babu"></s1>
+		<s1 page="0077" title="Observations on the Flora and Fauna of the Kumaon Himalaya" author="Ghosh, H. C."></s1>
+		<s1 page="0087" title="Millipede a Unique Animal" author="Prasad, M.;Dey, P."></s1>
+		<s1 page="0091" title="The Sexuality in Fishes" author="Reddiah, K."></s1>
+		<s1 page="0095" title="The Minnows of India" author="Sen, T. K."></s1>
+	</book>
+</zlg>

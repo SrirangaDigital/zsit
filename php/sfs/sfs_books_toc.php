@@ -178,12 +178,12 @@ if($num_rows)
 
 					if($fl == 0)
 					{
-						$disp_author = $disp_author . "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						$disp_author = $disp_author . "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 						$fl = 1;
 					}
 					else
 					{
-						$disp_author = $disp_author .  "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						$disp_author = $disp_author .  "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
 
@@ -192,7 +192,7 @@ if($num_rows)
 		
 		if(($title == "Systematic Index")||($title == "Systematic List of Species")||($title == "Systematic Description of Species")||($title == "Systematic Contents"))
 		{
-			$title = "<span class=\"featurespan\"><a href=\"fi_si.php?book_id=$book_id&amp;type=$type&amp;book_title=$book_title\">$title</a></span>";
+			$title = "<span class=\"featurespan\"><a href=\"fi_si.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($book_title) . "\">$title</a></span>";
 		}
 		else
 		{

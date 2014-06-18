@@ -121,7 +121,7 @@ if($num_rows)
 			
 		if($page != "")
 		{
-			$title = "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$title\">$title</a></span>";
+			$title = "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">$title</a></span>";
 			$title = $title . "<br /><span class=\"space_left\"><span class=\"featurespan\">$book_info</span></span>";
 		}
 		else

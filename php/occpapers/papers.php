@@ -99,12 +99,12 @@ if($num_rows)
 
 					if($fl == 0)
 					{
-						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 						$fl = 1;
 					}
 					else
 					{
-						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
 

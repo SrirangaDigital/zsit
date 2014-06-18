@@ -118,7 +118,7 @@ if($num_rows)
 		$authorname=$row['authorname'];
 
 		echo "<li>";
-		echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$authid&amp;author=$authorname\">$authorname</a></span>";
+		echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$authid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 		echo "</li>\n";
 	}
 }

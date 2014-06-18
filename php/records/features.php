@@ -65,7 +65,7 @@ if($num_rows)
 		if($feat_name != "")
 		{
 			echo "<li>";
-			echo "<span class=\"featurespan\"><a href=\"feat.php?feature=$feat_name&amp;featid=$featid\">$feat_name</a></span>";
+			echo "<span class=\"featurespan\"><a href=\"feat.php?feature=" . urlencode($feat_name) . "&amp;featid=$featid\">$feat_name</a></span>";
 			echo "</li>\n";
 		}
 	}

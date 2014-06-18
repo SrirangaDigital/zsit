@@ -444,10 +444,10 @@ if(isset($_POST['check']))
 						$book_info = $book_info . " | pp " . intval($page) . " - " . intval($page_end);	
 					}
 					
-					echo "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$title\">$title</a></span>";
+					echo "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">$title</a></span>";
 					echo "<br /><span class=\"bookspan\">$book_info</span>";
 					print_author($authid);
-					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$title\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (PDF)</a></span>";
+					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (PDF)</a></span>";
 					$id = $slno;
 					
 					if($text != '')
@@ -539,7 +539,7 @@ if(isset($_POST['check']))
 					}
 					echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"yearspan\">$stitle</span><br /><span class=\"bookspan\">$book_info</span>";
 					print_author($authid);
-					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=$btitle\">View TOC</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (DjVu)</a>&nbsp;|&nbsp;<a href=\"../Downloads/download_pdf_in_books.php?book_id=$book_id&amp;page_start=$page&amp;type=$type\" target=\"_blank\">Download Article (PDF)</a></span>";
+					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (DjVu)</a>&nbsp;|&nbsp;<a href=\"../Downloads/download_pdf_in_books.php?book_id=$book_id&amp;page_start=$page&amp;type=$type\" target=\"_blank\">Download Article (PDF)</a></span>";
 					$id = $slno;
 					
 					if($text != '')
@@ -587,7 +587,7 @@ if(isset($_POST['check']))
 						</span>";
 						if($feature != "")
 						{
-							echo "<span class=\"yearspan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"featurespan\"><a href=\"$type/feat.php?feature=$feature&amp;featid=$featid\">$feature</a></span>";
+							echo "<span class=\"yearspan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"featurespan\"><a href=\"$type/feat.php?feature=" . urlencode($feature) . "&amp;featid=$featid\">$feature</a></span>";
 						}
 					}
 					elseif($type == "occpapers")
@@ -619,12 +619,12 @@ if(isset($_POST['check']))
 
 								if($fl == 0)
 								{
-									echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+									echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 									$fl = 1;
 								}
 								else
 								{
-									echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+									echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 								}
 							}
 
@@ -729,12 +729,12 @@ function print_author($authid)
 
 				if($fl == 0)
 				{
-					echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+					echo "<span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					$fl = 1;
 				}
 				else
 				{
-					echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+					echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 				}
 			}
 

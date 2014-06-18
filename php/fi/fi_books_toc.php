@@ -172,7 +172,7 @@ if($num_rows)
 		
 		if(($title == "Systematic Index")||($title == "Systematic List of Species")||($title == "Systematic Description of Species")||($title == "Systematic Contents")||($title == "Systematic Account")||($title == "Systematic List"))
 		{
-			$title = "<span class=\"featurespan\"><a href=\"fi_si.php?book_id=$book_id&amp;type=$type&amp;book_title=$book_title\">$title</a></span>";
+			$title = "<span class=\"featurespan\"><a href=\"fi_si.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($book_title) . "\">$title</a></span>";
 		}
 		else
 		{

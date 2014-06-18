@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
+	
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Zoological Survey of India</title>
@@ -59,19 +59,36 @@ if(!(isValidVolume($volume) && isValidPart($part)))
 	exit(1);
 }
 
+/*
 $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 $rs = mysql_select_db($database,$db) or die("No Database");
+*/
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 $query = "select distinct year,month from article_bulletin where volume='$volume' and part='$part'";
-$result = mysql_query($query);
 
+/*
+$result = mysql_query($query);
 $num_rows = mysql_num_rows($result);
+*/
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
+/*
 	$row=mysql_fetch_assoc($result);
+*/
+	$row = $result->fetch_assoc();
+	
 	$month=$row['month'];
 	$year=$row['year'];
 
@@ -79,16 +96,28 @@ if($num_rows)
 	echo "<ul class=\"dot\">";
 }
 
-$query1 = "select * from article_bulletin where volume='$volume' and part='$part' order by page";
-$result1 = mysql_query($query1);
+$result->free();
 
+$query1 = "select * from article_bulletin where volume='$volume' and part='$part' order by page";
+
+/*
+$result1 = mysql_query($query1);
 $num_rows1 = mysql_num_rows($result1);
+*/
+
+$result1 = $db->query($query1); 
+$num_rows1 = $result1->num_rows;
 
 if($num_rows1)
 {
-for($i=1;$i<=$num_rows1;$i++)
+/*
+	for($i=1;$i<=$num_rows1;$i++)
+*/
+	while($row1 = $result1->fetch_assoc())
 	{
+/*
 		$row1=mysql_fetch_assoc($result1);
+*/
 
 		$titleid=$row1['titleid'];
 		$title=$row1['title'];
@@ -118,35 +147,44 @@ for($i=1;$i<=$num_rows1;$i++)
 			foreach ($aut as $aid)
 			{
 				$query2 = "select * from author where authid=$aid";
+				
+/*
 				$result2 = mysql_query($query2);
-
 				$num_rows2 = mysql_num_rows($result2);
+*/
+				$result2 = $db->query($query2); 
+				$num_rows2 = $result2->num_rows;
 
 				if($num_rows2)
 				{
+/*
 					$row2=mysql_fetch_assoc($result2);
+*/
+					$row2 = $result2->fetch_assoc();
 
 					$authorname=$row2['authorname'];
 					
 
 					if($fl == 0)
 					{
-						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 						$fl = 1;
 					}
 					else
 					{
-						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
+				$result2->free();
 
 			}
 		}
 		echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/bulletin/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\" target=\"_blank\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\" target=\"_blank\">Download article (PDF)</a></span>";
 		echo "</li>\n";
 	}
+	$result1->free();
 }
-
+$db->close();
 ?>
 				</ul>
 			</div>

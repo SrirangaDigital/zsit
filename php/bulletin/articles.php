@@ -1,6 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Zoological Survey of India</title>
@@ -101,8 +100,16 @@ else
 	$letter = 'A';
 }
 
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+/*
 $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 $rs = mysql_select_db($database,$db) or die("No Database");
+*/
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
@@ -114,15 +121,25 @@ else
 {
 	$query = "select * from article_bulletin where title like '$letter%' order by title, volume, part, page";
 }
-$result = mysql_query($query);
 
+/*
+$result = mysql_query($query);
 $num_rows = mysql_num_rows($result);
+*/
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
+/*
 	for($i=1;$i<=$num_rows;$i++)
+*/
+	while($row = $result->fetch_assoc())
 	{
+/*
 		$row=mysql_fetch_assoc($result);
+*/
 
 		$titleid=$row['titleid'];
 		$title=$row['title'];
@@ -139,9 +156,14 @@ if($num_rows)
 		$title1=addslashes($title);
 		
 		$query3 = "select feat_name from feature_bulletin where featid='$featid'";
+		$result3 = $db->query($query3); 
+/*
 		$result3 = mysql_query($query3);		
 		$row3=mysql_fetch_assoc($result3);
-		$feature=$row3['feat_name'];
+*/
+		$row3 = $result3->fetch_assoc();
+		$feature = $row3['feat_name'];
+		$result3->free();
 		
 		echo "<li>";
 		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../../Volumes/bulletin/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
@@ -165,25 +187,32 @@ if($num_rows)
 			foreach ($aut as $aid)
 			{
 				$query2 = "select * from author where authid=$aid";
-				$result2 = mysql_query($query2);
+				$result2 = $db->query($query2); 
+				$num_rows2 = $result2->num_rows;
 
+/*
+				$result2 = mysql_query($query2);
 				$num_rows2 = mysql_num_rows($result2);
+*/
 
 				if($num_rows2)
 				{
+/*
 					$row2=mysql_fetch_assoc($result2);
-
-					$authorname=$row2['authorname'];
+*/
+					$row2 = $result2->fetch_assoc();
 					
+					$authorname=$row2['authorname'];
+					$result2->free();		
 
 					if($fl == 0)
 					{
-						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 						$fl = 1;
 					}
 					else
 					{
-						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=$authorname\">$authorname</a></span>";
+						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
 
@@ -193,8 +222,9 @@ if($num_rows)
 
 		echo "</li>\n";
 	}
+	$result->free();
 }
-
+$db->close();
 ?>
 				</ul>
 			</div>

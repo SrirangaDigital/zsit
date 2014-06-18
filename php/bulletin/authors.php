@@ -1,6 +1,5 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Zoological Survey of India</title>
@@ -100,36 +99,56 @@ else
 	$letter = '';
 }
 
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+/*
 $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 $rs = mysql_select_db($database,$db) or die("No Database");
+*/
 
 /*
 $query = "select * from author where authorname like '$letter%' and type like '%$type_code%' order by authorname";
 */
 $query = "select * from author where authorname like '$letter%' and type like '%$type_code%' order by authorname";
-$result = mysql_query($query);
 
+/*
+$result = mysql_query($query);
 $num_rows = mysql_num_rows($result);
+*/
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
+
 
 if($num_rows)
 {
+/*
 	for($i=1;$i<=$num_rows;$i++)
+*/
+	while($row = $result->fetch_assoc())
 	{
+/*
 		$row=mysql_fetch_assoc($result);
+*/
 
 		$authid=$row['authid'];
 		$authorname=$row['authorname'];
 
 		echo "<li>";
-		echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$authid&amp;author=$authorname\">$authorname</a></span>";
+		echo "<span class=\"authorspan\"><a href=\"../auth.php?authid=$authid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 		echo "</li>\n";
 	}
+	$result->free();
 }
 else
 {
 	echo "Sorry! No author names were found to begin with the letter '$letter' in Bulletin";
 }
-
+$db->close();
 ?>
 				</ul>
 			</div>

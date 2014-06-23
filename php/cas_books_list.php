@@ -45,13 +45,22 @@
 <?php
 include("cas/connect.php");
 
+$db = new mysqli('localhost', "$user", "$password", "$database");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from cas_books_list order by slno";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 $stack = array();
 $p_stack = array();
@@ -71,7 +80,8 @@ if($num_rows)
 	echo "<div class=\"treeview\">";
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 		
 		$book_id = $row['book_id'];
 		$level = $row['level'];
@@ -197,6 +207,9 @@ else
 	echo "No data in the database";
 }
 
+$result->free();
+$db->close();
+
 function display_stack($stack)
 {
 	for($j=0;$j<sizeof($stack);$j++)
@@ -221,7 +234,6 @@ function display_tabs($num)
 	return $str_tabs;
 }
 
-mysql_close($db);
 ?>
 			
 		</div>

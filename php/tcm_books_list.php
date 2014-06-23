@@ -45,13 +45,22 @@
 <?php
 include("tcm/connect.php");
 
+$db = new mysqli('localhost', "$user", "$password", "$database");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from tcm_books_list order by slno";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
+
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
 
 $stack = array();
 $p_stack = array();
@@ -71,7 +80,8 @@ if($num_rows)
 	echo "<div class=\"treeview\">";
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 		
 		$book_id = $row['book_id'];
 		$level = $row['level'];
@@ -96,13 +106,17 @@ if($num_rows)
 			foreach ($aut as $aid)
 			{
 				$query2 = "select * from author where authid=$aid";
-				$result2 = mysql_query($query2);
 
-				$num_rows2 = mysql_num_rows($result2);
+				$result2 = $db->query($query2); 
+				$num_rows2 = $result2->num_rows;
+				
+				//~ $result2 = mysql_query($query2);
+				//~ $num_rows2 = mysql_num_rows($result2);
 
 				if($num_rows2)
 				{
-					$row2=mysql_fetch_assoc($result2);
+					//~ $row2=mysql_fetch_assoc($result2);
+					$row2 = $result2->fetch_assoc();
 
 					$authorname=$row2['authorname'];
 					
@@ -117,6 +131,7 @@ if($num_rows)
 						$disp_author = $disp_author .  "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
+				$result2->free();
 
 			}
 		}
@@ -238,6 +253,8 @@ else
 {
 	echo "No data in the database";
 }
+$result->free();
+$db->close();
 
 function display_stack($stack)
 {
@@ -263,7 +280,6 @@ function display_tabs($num)
 	return $str_tabs;
 }
 
-mysql_close($db);
 ?>
 			
 		</div>

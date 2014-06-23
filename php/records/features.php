@@ -46,19 +46,30 @@
 
 include("connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from feature_records order by feat_name";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
+
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
-
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
+		
 		$feat_name=$row['feat_name'];
 		$featid=$row['featid'];
 
@@ -70,6 +81,9 @@ if($num_rows)
 		}
 	}
 }
+
+$result->free();
+$db->close();
 
 ?>
 				</ul>

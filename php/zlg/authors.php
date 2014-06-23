@@ -99,20 +99,30 @@ else
 	$letter = '';
 }
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from author where authorname like '$letter%' and type like '%$type_code%' order by authorname";
 //$query = "select * from author where authorname like '$letter%' order by authorname";
-$result = mysql_query($query);
 
-$num_rows = mysql_num_rows($result);
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 
 		$authid=$row['authid'];
 		$authorname=$row['authorname'];
@@ -126,6 +136,9 @@ else
 {
 	echo "Sorry! No author names were found to begin with the letter '$letter' in Zoologiana";
 }
+
+$result->free();
+$db->close();
 
 ?>
 				</ul>

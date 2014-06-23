@@ -63,12 +63,22 @@ if(!(isValidId($book_id) && isValidType($type) && isValidTitle($book_title)))
 	exit(1);
 }
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $query = "select * from hpg_book_toc where book_id=$book_id and type='$type' order by slno";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 $stack = array();
 $p_stack = array();
@@ -88,9 +98,15 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 
 
 $query_aux = "select * from hpg_books_list where book_id=$book_id and type='hpg'";
-$result_aux = mysql_query($query_aux);
-$num_rows_aux = mysql_num_rows($result_aux);
-$row_aux=mysql_fetch_assoc($result_aux);
+
+//~ $result_aux = mysql_query($query_aux);
+//~ $num_rows_aux = mysql_num_rows($result_aux);
+
+$result_aux = $db->query($query_aux); 
+$num_rows_aux = $result_aux->num_rows;
+
+//~ $row_aux=mysql_fetch_assoc($result_aux);
+$row_aux = $result_aux->fetch_assoc();
 
 $edition = $row_aux['edition'];
 $volume = $row_aux['volume'];
@@ -101,6 +117,8 @@ $page_end = $row_aux['page_end'];
 $type = $row_aux['type'];
 $year = $row_aux['year'];
 $month = $row_aux['month'];
+
+$result_aux->free();
 
 $anames = preg_replace("/;/", ",&nbsp;&nbsp;", $authorname);
 $anames = preg_split("/;/", $authorname);
@@ -161,7 +179,8 @@ if($num_rows)
 	echo "<div class=\"treeview\">";
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 		
 		$level = $row['level'];
 		$title = $row['title'];
@@ -243,6 +262,9 @@ else
 	echo "No data in the database";
 }
 
+$result->free();
+$db->close();
+
 function display_stack($stack)
 {
 	for($j=0;$j<sizeof($stack);$j++)
@@ -267,7 +289,6 @@ function display_tabs($num)
 	return $str_tabs;
 }
 
-mysql_close($db);
 ?>
 
 		</div>

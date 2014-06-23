@@ -71,8 +71,14 @@ if(!(isValidAuthid($authid) && isValidAuthor($authorname)))
 	exit(1);
 }
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
@@ -95,15 +101,18 @@ UNION ALL (select 'type', titleid, title, page from article_bulletin where authi
 
 // echo $query;
 
-$result = mysql_query($query);
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
 
-$num_rows = mysql_num_rows($result);
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 
 		$type=$row['type'];
 		$book_id=$row['titleid'];
@@ -124,10 +133,15 @@ for($i=1;$i<=$num_rows;$i++)
 				$query_aux = "select * from ".$type."_books_list where book_id=$book_id and type='".$type."'";
 			}
 			
-			$result_aux = mysql_query($query_aux);
-			$num_rows_aux = mysql_num_rows($result_aux);
-			$row_aux=mysql_fetch_assoc($result_aux);
+			//~ $result_aux = mysql_query($query_aux);
+			//~ $num_rows_aux = mysql_num_rows($result_aux);
+			
+			$result_aux = $db->query($query_aux); 
+			$num_rows_aux = $result_aux->num_rows;
 
+			//~ $row_aux=mysql_fetch_assoc($result_aux);
+			$row_aux = $result_aux->fetch_assoc();
+			
 			$authid=$row_aux['authid'];
 			$authorname=$row_aux['authorname'];
 			$type=$row_aux['type'];
@@ -140,6 +154,8 @@ for($i=1;$i<=$num_rows;$i++)
 			$year=$row_aux['year'];
 			$month=$row_aux['month'];
 			$book_id=$row_aux['book_id'];
+			
+			$result_aux->free();
 			
 			$book_info = '';
 
@@ -199,10 +215,14 @@ for($i=1;$i<=$num_rows;$i++)
 			$book_info = "";
 			
 			$query_aux = "select * from ".$type."_books_list where book_id=$book_id and type='".$type."'";
-			$result_aux = mysql_query($query_aux);
-			$num_rows_aux = mysql_num_rows($result_aux);
-			$row_aux=mysql_fetch_assoc($result_aux);
+			
+			//~ $result_aux = mysql_query($query_aux);
+			//~ $num_rows_aux = mysql_num_rows($result_aux);			
+			//~ $row_aux=mysql_fetch_assoc($result_aux);
 
+			$result_aux = $db->query($query_aux); 
+			$num_rows_aux = $result_aux->num_rows;
+			$row_aux = $result_aux->fetch_assoc();
 			
 			$authid=$row_aux['authid'];
 			$authorname=$row_aux['authorname'];
@@ -216,6 +236,8 @@ for($i=1;$i<=$num_rows;$i++)
 			$dpage_end = $row_aux['page_end'];
 			$month = $row_aux['month'];
 			$year = $row_aux['year'];
+
+			$result_aux->free();
 
 			if($type == 'sfs')
 			{
@@ -299,8 +321,11 @@ for($i=1;$i<=$num_rows;$i++)
 			}
 						
 			$query_aux = "select * from article_".$type." where titleid='$titleid'";
-			$result_aux = mysql_query($query_aux);
-			$row_aux=mysql_fetch_assoc($result_aux);
+			
+			//~ $result_aux = mysql_query($query_aux);
+			$result_aux = $db->query($query_aux); 
+			//~ $row_aux=mysql_fetch_assoc($result_aux);
+			$row_aux = $result_aux->fetch_assoc();
 
 			$titleid=$row_aux['titleid'];
 			$title=$row_aux['title'];
@@ -312,13 +337,22 @@ for($i=1;$i<=$num_rows;$i++)
 			$year=$row_aux['year'];
 			$month=$row_aux['month'];
 			
+			$result_aux->free();
+			
 			$paper = $volume;	
 			$title1=addslashes($title);
 					
 			$query3 = "select feat_name from feature_".$type." where featid='$featid'";
-			$result3 = mysql_query($query3);		
-			$row3=mysql_fetch_assoc($result3);
+			
+			//~ $result3 = mysql_query($query3);		
+			//~ $row3=mysql_fetch_assoc($result3);
+			
+			$result3 = $db->query($query3); 
+			$row3 = $result3->fetch_assoc();
+			
 			$feature=$row3['feat_name'];
+			
+			$result3->free();
 					
 			if(($type == "records") || ($type == "memoirs") || ($type == "bulletin"))
 			{
@@ -346,6 +380,10 @@ for($i=1;$i<=$num_rows;$i++)
 		}
 	}
 }
+
+$result->free();
+$db->close();
+
 ?>
 				</ul>
 			</div>

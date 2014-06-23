@@ -60,8 +60,15 @@ if(!(isValidVolume($volume) && isValidYear($year)))
 	exit(1);
 }
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
+
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
 
 echo "<div class=\"page_title\"><span class=\"motif mem_motif\"></span>Volume&nbsp;".intval($volume)."&nbsp;(".$year.") <span class=\"it\">(Memoirs)</span></div>";
 ?>
@@ -75,9 +82,11 @@ $row_count = 4;
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 $query = "select distinct part from article_memoirs where volume='$volume' order by part";
-$result = mysql_query($query);
 
-$num_rows = mysql_num_rows($result);
+//~ $result = mysql_query($query);
+//~ $num_rows = mysql_num_rows($result);
+$result = $db->query($query); 
+$num_rows = $result->num_rows;
 
 $count = 0;
 $col = 1;
@@ -86,37 +95,56 @@ if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		//~ $row=mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 		$part=$row['part'];
 		
 		$query11 = "select min(page) as minpage from article_memoirs where volume='$volume' and part='$part'";
-		$result11 = mysql_query($query11);
-		$num_rows11 = mysql_num_rows($result11);
+		
+		//~ $result11 = mysql_query($query11);
+		//~ $num_rows11 = mysql_num_rows($result11);
+		$result11 = $db->query($query11); 
+		$num_rows11 = $result11->num_rows;
+		
 		if($num_rows11)
 		{
-			$row11=mysql_fetch_assoc($result11);
+			//~ $row11=mysql_fetch_assoc($result11);
+			$row11 = $result11->fetch_assoc();
 			$page_start = $row11['minpage'];
 			$page_start = intval($page_start);
 		}
-
+		$result11->free();
+		
 		$query12 = "select max(page_end) as maxpage from article_memoirs where volume='$volume' and part='$part'";
-		$result12 = mysql_query($query12);
-		$num_rows12 = mysql_num_rows($result12);
+		
+		//~ $result12 = mysql_query($query12);
+		//~ $num_rows12 = mysql_num_rows($result12);
+		
+		$result12 = $db->query($query12); 
+		$num_rows12 = $result12->num_rows;
+	
 		if($num_rows12)
 		{
-			$row12=mysql_fetch_assoc($result12);
+			//~ $row12=mysql_fetch_assoc($result12);
+			$row12 = $result12->fetch_assoc();
+			
 			$page_end = $row12['maxpage'];
 			$page_end = intval($page_end);
 		}
-
-
+		$result12->free();
 
 		$query1 = "select distinct month from article_memoirs where volume='$volume' and part='$part' order by month";
-		$result1 = mysql_query($query1);
-		$num_rows1 = mysql_num_rows($result1);
+
+		//~ $result1 = mysql_query($query1);
+		//~ $num_rows1 = mysql_num_rows($result1);
+
+		$result1 = $db->query($query1); 
+		$num_rows1 = $result1->num_rows;
+
 		if($num_rows1)
 		{
-			$row1=mysql_fetch_assoc($result1);
+			//~ $row1=mysql_fetch_assoc($result1);
+			$row1 = $result1->fetch_assoc();
 			$month = $row1['month'];
 
 			$count++;
@@ -134,8 +162,12 @@ if($num_rows)
 			}
 			echo "<br />pp. $page_start-$page_end</a></span></li>";
 		}
+		$result1->free();
 	}
 }
+
+$result->free();
+$db->close();
 
 ?>
 				</ul>

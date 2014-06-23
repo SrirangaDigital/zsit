@@ -54,8 +54,14 @@
 include("cas/connect.php");
 require_once("common.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
@@ -286,9 +292,11 @@ if(isset($_POST['check']))
 		$query = preg_replace("/^ UNION ALL /", "", $query);
 	}
 	
-	$result = mysql_query($query);
-	
-	$num_results = mysql_num_rows($result);
+	//~ $result = mysql_query($query);
+	//~ $num_results = mysql_num_rows($result);
+
+	$result = $db->query($query); 
+	$num_results = $result->num_rows;
 
 	if ($num_results > 0)
 	{
@@ -303,7 +311,8 @@ if(isset($_POST['check']))
 	{
 		for($i=1;$i<=$num_results;$i++)
 		{
-			$row1 = mysql_fetch_assoc($result);
+			//~ $row1 = mysql_fetch_assoc($result);
+			$row1 = $result->fetch_assoc();
 
 			if(isset($row1['titleid']))
 			{
@@ -388,9 +397,14 @@ if(isset($_POST['check']))
 						$query_aux = "select * from ".$type."_books_list where book_id='$book_id' and type='$type'";
 					}
 					
-					$result_aux = mysql_query($query_aux);
-					$num_rows_aux = mysql_num_rows($result_aux);
-					$row_aux=mysql_fetch_assoc($result_aux);
+					//~ $result_aux = mysql_query($query_aux);
+					//~ $num_rows_aux = mysql_num_rows($result_aux);
+					
+					$result_aux = $db->query($query_aux); 
+					$num_rows_aux = $result_aux->num_rows;
+					
+					//~ $row_aux=mysql_fetch_assoc($result_aux);
+					$row_aux = $result_aux->fetch_assoc();
 
 					$page_end = $row_aux['page_end'];
 					$edition = $row_aux['edition'];
@@ -398,6 +412,8 @@ if(isset($_POST['check']))
 					$part = $row_aux['part'];
 					$year = $row_aux['year'];
 					$month = $row_aux['month'];
+					
+					$result_aux->free();
 					
 					if($type == 'fbi')
 					{
@@ -462,9 +478,15 @@ if(isset($_POST['check']))
 					$book_info = "";
 			
 					$query_aux = "select * from ".$type."_books_list where book_id=$book_id and type='".$type."'";
-					$result_aux = mysql_query($query_aux);
-					$num_rows_aux = mysql_num_rows($result_aux);
-					$row_aux=mysql_fetch_assoc($result_aux);
+
+					//~ $result_aux = mysql_query($query_aux);
+					//~ $num_rows_aux = mysql_num_rows($result_aux);
+
+					$result_aux = $db->query($query_aux); 
+					$num_rows_aux = $result_aux->num_rows;
+
+					//~ $row_aux=mysql_fetch_assoc($result_aux);
+					$row_aux = $result_aux->fetch_assoc();
 
 					$btitle = $row_aux['title'];
 					$slno = $row_aux['slno'];
@@ -476,6 +498,8 @@ if(isset($_POST['check']))
 					$month = $row_aux['month'];
 					$year = $row_aux['year'];
 					
+					$result_aux->free();
+							
 					$btitle = preg_replace('/!!(.*)!!/', "<i>$1</i>", $btitle);
 					$btitle = preg_replace('/!/', "", $btitle);
 		
@@ -554,8 +578,12 @@ if(isset($_POST['check']))
 					$titleid = $book_id;
 					
 					$query_aux = "select * from article_".$type." where titleid='$titleid'";
-					$result_aux = mysql_query($query_aux);
-					$row_aux=mysql_fetch_assoc($result_aux);
+
+					//~ $result_aux = mysql_query($query_aux);
+					//~ $row_aux=mysql_fetch_assoc($result_aux);
+					
+					$result_aux = $db->query($query_aux); 
+					$row_aux = $result_aux->fetch_assoc();
 
 					$titleid=$row_aux['titleid'];
 					$title=$row_aux['title'];
@@ -573,10 +601,19 @@ if(isset($_POST['check']))
 					$title = preg_replace('/!/', "", $title);
 					$title1=addslashes($title);
 
+					$result_aux->free();
+
 					$query3 = "select feat_name from feature_".$type." where featid='$featid'";
-					$result3 = mysql_query($query3);		
-					$row3=mysql_fetch_assoc($result3);
+					
+					//~ $result3 = mysql_query($query3);		
+					//~ $row3=mysql_fetch_assoc($result3);
+
+					$result3 = $db->query($query3); 
+					$row3 = $result3->fetch_assoc();
+					
 					$feature=$row3['feat_name'];
+					
+					$result3->free();
 					
 					if(($type == "records") || ($type == "memoirs") || ($type == "bulletin"))
 					{
@@ -606,16 +643,19 @@ if(isset($_POST['check']))
 						foreach ($aut as $aid)
 						{
 							$query2 = "select * from author where authid=$aid";
-							$result2 = mysql_query($query2);
 
-							$num_rows2 = mysql_num_rows($result2);
+							//~ $result2 = mysql_query($query2);
+							//~ $num_rows2 = mysql_num_rows($result2);
+							
+							$result2 = $db->query($query2); 
+							$num_rows2 = $result2->num_rows;
 
 							if($num_rows2)
 							{
-								$row2=mysql_fetch_assoc($result2);
+								//~ $row2=mysql_fetch_assoc($result2);
+								$row2 = $result2->fetch_assoc();
 
-								$authorname=$row2['authorname'];
-								
+								$authorname=$row2['authorname'];								
 
 								if($fl == 0)
 								{
@@ -627,6 +667,7 @@ if(isset($_POST['check']))
 									echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 								}
 							}
+							$result2->free();
 
 						}
 					}
@@ -684,12 +725,14 @@ if(isset($_POST['check']))
 		echo"<span class=\"titlespan\">No results</span><br />";
 		echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and Search again</a></span>";
 	}	
+	$result->free();
 }
 else
 {
 	echo"<span class=\"titlespan\">Please slect at least one publication</span><br />";
 	echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and Search again</a></span>";
 }
+$db->close();
 ?>
 		
 			</div>
@@ -716,16 +759,19 @@ function print_author($authid)
 		foreach ($aut as $aid)
 		{
 			$query2 = "select * from author where authid=$aid";
-			$result2 = mysql_query($query2);
 
-			$num_rows2 = mysql_num_rows($result2);
+			//~ $result2 = mysql_query($query2);
+			//~ $num_rows2 = mysql_num_rows($result2);
+			
+			$result2 = $db->query($query2); 
+			$num_rows2 = $result2->num_rows;
 
 			if($num_rows2)
 			{
-				$row2=mysql_fetch_assoc($result2);
+				//~ $row2=mysql_fetch_assoc($result2);
+				$row2 = $result2->fetch_assoc();
 
 				$authorname=$row2['authorname'];
-				
 
 				if($fl == 0)
 				{
@@ -737,7 +783,7 @@ function print_author($authid)
 					echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 				}
 			}
-
+			$result2->free();
 		}
 	}
 }

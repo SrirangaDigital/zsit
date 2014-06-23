@@ -96,17 +96,26 @@
 
 include("cas/connect.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 echo "<tr>
 	<td class=\"left\"><label for=\"autocomplete\" class=\"titlespan\">Author</label></td>
 	<td class=\"right\"><input name=\"author\" type=\"text\" class=\"titlespan wide\" id=\"autocomplete\" />";
 	
 $query_ac = "select * from author where type regexp '01|02|03|04|05|06|07|08|09|10|11|12|13' order by authorname";
-$result_ac = mysql_query($query_ac);
 
-$num_rows_ac = mysql_num_rows($result_ac);
+$result_ac = $db->query($query_ac); 
+$num_rows_ac = $result_ac->num_rows;
+
+//~ $result_ac = mysql_query($query_ac);
+//~ $num_rows_ac = mysql_num_rows($result_ac);
 
 echo "<script type=\"text/javascript\">$( \"#autocomplete\" ).autocomplete({source: [ ";
 
@@ -116,7 +125,8 @@ if($num_rows_ac)
 {
 	for($i=1;$i<=$num_rows_ac;$i++)
 	{
-		$row_ac=mysql_fetch_assoc($result_ac);
+		//~ $row_ac=mysql_fetch_assoc($result_ac);
+		$row_ac = $result_ac->fetch_assoc();
 
 		$authorname=$row_ac['authorname'];
 
@@ -132,7 +142,8 @@ echo "</tr>
 	<td class=\"right\"><input name=\"title\" type=\"text\" class=\"titlespan wide\" id=\"textfield2\" /></td>
 </tr>";
 
-
+$result_ac->free();
+$db->close();
 ?>
 					<tr>
 						<td class="left"><span class="titlespan">Words</span></td>

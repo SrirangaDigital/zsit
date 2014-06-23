@@ -1,6 +1,6 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-
+	
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Zoological Survey of India</title>
@@ -62,8 +62,14 @@ if(!(isValidFeature($feat_name) && isValidFeatid($featid)))
 	exit(1);
 }
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
+$db = new mysqli('localhost', "$user", "$password", "$database");
+
+if($db->connect_errno > 0){
+    die('Not connected to database [' . $db->connect_error . ']');
+}
+
+//~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
+//~ $rs = mysql_select_db($database,$db) or die("No Database");
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
@@ -72,15 +78,19 @@ echo "<ul class=\"dot\">";
 
 
 $query1 = "select * from article_records where featid='$featid' order by volume, part, page";
-$result1 = mysql_query($query1);
 
-$num_rows1 = mysql_num_rows($result1);
+$result1 = $db->query($query1); 
+$num_rows1 = $result1->num_rows;
+
+//~ $result1 = mysql_query($query1);
+//~ $num_rows1 = mysql_num_rows($result1);
 
 if($num_rows1)
 {
 	for($i=1;$i<=$num_rows1;$i++)
 	{
-		$row1=mysql_fetch_assoc($result1);
+		//~ $row1=mysql_fetch_assoc($result1);
+		$row1 = $result1->fetch_assoc();
 
 		$titleid=$row1['titleid'];
 		$title=$row1['title'];
@@ -95,9 +105,16 @@ if($num_rows1)
 		$title1=addslashes($title);
 		
 		$query3 = "select feat_name from feature_records where featid='$featid'";
-		$result3 = mysql_query($query3);		
-		$row3=mysql_fetch_assoc($result3);
+		
+		//~ $result3 = mysql_query($query3);		
+		//~ $row3=mysql_fetch_assoc($result3);
+		
+		$result3 = $db->query($query3); 
+		$row3 = $result3->fetch_assoc();
+
 		$feature=$row3['feat_name'];
+		
+		$result3->free();
 		
 		echo "<li>";
 		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../../Volumes/records/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
@@ -117,13 +134,17 @@ if($num_rows1)
 			foreach ($aut as $aid)
 			{
 				$query2 = "select * from author where authid=$aid";
-				$result2 = mysql_query($query2);
 
-				$num_rows2 = mysql_num_rows($result2);
+				$result2 = $db->query($query2); 
+				$num_rows2 = $result2->num_rows;
+				
+				//~ $result2 = mysql_query($query2);
+				//~ $num_rows2 = mysql_num_rows($result2);
 
 				if($num_rows2)
 				{
-					$row2=mysql_fetch_assoc($result2);
+					//~ $row2=mysql_fetch_assoc($result2);
+					$row2 = $result2->fetch_assoc();
 
 					$authorname=$row2['authorname'];
 					
@@ -138,6 +159,7 @@ if($num_rows1)
 						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
+				$result2->free();
 
 			}
 		}
@@ -147,6 +169,8 @@ if($num_rows1)
 	}
 }
 
+$result1->free();
+$db->close();
 ?>
 				</ul>
 			</div>

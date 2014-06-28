@@ -20,7 +20,7 @@ function isValidTitle($title)
 
 function isValidLetter($letter)
 {
-	return preg_match("/^[A-Z]$/", $letter) ? true : false;
+	return preg_match("/^([A-Z]|Special)$/", $letter) ? true : false;
 }
 
 function isValidVolume($vol)

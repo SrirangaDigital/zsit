@@ -173,7 +173,11 @@ if($num_rows)
 				<div class=\"col$col\">";
 				$count = 1;
 			}
-			echo "<li class=\"li_below\"><span class=\"yearspan\"><a href=\"toc.php?vol=$volume&amp;part=$part\">part&nbsp;".$part;
+			
+			$dpart = preg_replace("/^0/", "", $part);
+			$dpart = preg_replace("/\-0/", "-", $dpart);
+			
+			echo "<li class=\"li_below\"><span class=\"yearspan\"><a href=\"toc.php?vol=$volume&amp;part=$part\">part&nbsp;".$dpart;
 			if(intval($month) != 0)
 			{
 				echo "&nbsp;(".$month_name{intval($month)}.")";

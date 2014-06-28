@@ -91,8 +91,11 @@ if($num_rows)
 	
 	$month=$row['month'];
 	$year=$row['year'];
-
-	echo "<div class=\"page_title\"><span class=\"motif bul_motif\"></span>Volume&nbsp;".intval($volume)."&nbsp;- part&nbsp;".$part."&nbsp;&nbsp;:&nbsp;&nbsp;".$month_name{intval($month)}."&nbsp;".$year." <span class=\"it\">(Bulletin)</span></div>";
+	
+	$dpart = preg_replace("/^0/", "", $part);
+	$dpart = preg_replace("/\-0/", "-", $dpart);
+			
+	echo "<div class=\"page_title\"><span class=\"motif bul_motif\"></span>Volume&nbsp;".intval($volume)."&nbsp;- Part&nbsp;".$dpart."&nbsp;&nbsp;:&nbsp;&nbsp;".$month_name{intval($month)}."&nbsp;".$year." <span class=\"it\">(Bulletin)</span></div>";
 	echo "<ul class=\"dot\">";
 }
 

@@ -1,9 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Zoological Survey of India</title>
+<title>Zoological Survey of India | Digital archives of their Publications</title>
 <link href="style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="style/indexstyle.css" media="screen" rel="stylesheet" type="text/css" />
 </head>
@@ -45,7 +45,7 @@
 				<li><a href="tcm_books_list.php">Technical<br />Monographs</a></li>
 				<li><a href="zlg_books_list.php">Zoologiana</a></li>
 				<li class="gap_below"><a href="bulletin/volumes.php">Bulletin</a></li>
-				<li><a title="Click to download DjVu plugin" href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">Get DjVu</a></li>
+				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/" target="_blank">Get DjVu</a></li>
 			</ul>
 		</div>
 		<div class="archive_holder">
@@ -462,7 +462,7 @@ if(isset($_POST['check']))
 					
 					echo "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">$title</a></span>";
 					echo "<br /><span class=\"bookspan\">$book_info</span>";
-					print_author($authid);
+					print_author($authid,$db);
 					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (PDF)</a></span>";
 					$id = $slno;
 					
@@ -562,7 +562,7 @@ if(isset($_POST['check']))
 						echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 					}
 					echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"yearspan\">$stitle</span><br /><span class=\"bookspan\">$book_info</span>";
-					print_author($authid);
+					print_author($authid,$db);
 					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (DjVu)</a>&nbsp;|&nbsp;<a href=\"../Downloads/download_pdf_in_books.php?book_id=$book_id&amp;page_start=$page&amp;type=$type\" target=\"_blank\">Download Article (PDF)</a></span>";
 					$id = $slno;
 					
@@ -744,10 +744,9 @@ $db->close();
 </body>
 
 </html>
-
 <?php
 
-function print_author($authid)
+function print_author($authid,$db)
 {
 	if($authid != 0)
 	{

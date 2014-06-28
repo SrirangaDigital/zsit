@@ -1,6 +1,6 @@
 <div class="foot_box">
 	<div class="left">
-		&copy;2013 Zoological Survey of India, New Alipore, Kolkata. All Rights Reserved
+		&copy;2014 Zoological Survey of India, New Alipore, Kolkata. All Rights Reserved
 	</div>
 	<div class="right">
 		<ul>

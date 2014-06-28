@@ -48,7 +48,7 @@ html, body {
 	float: right;
 	width: 5em;
 	text-align: center;
-	margin: 1em 1em 1em 0;
+	margin: 1em 1em 0.5em 0;
 }
 .header .title{
 	margin: 0em auto 1em auto;

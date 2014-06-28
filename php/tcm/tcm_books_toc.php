@@ -1,9 +1,9 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Zoological Survey of India</title>
+<title>Zoological Survey of India | Digital archives of their Publications</title>
 <link href="../style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="../style/indexstyle.css" media="screen" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="../js/jquery-2.0.0.min.js" charset="UTF-8"></script>
@@ -36,7 +36,7 @@
 				<li><a class="active" href="../tcm_books_list.php">Books</a></li>
 				<li><a href="authors.php">Authors</a></li>
 				<li class="gap_below"><a href="../search.php">Search</a></li>
-				<li><a title="Click to download DjVu plugin" href="http://www.caminova.net/en/downloads/download.aspx?id=1" target="_blank">Get DjVu</a></li>
+				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/" target="_blank">Get DjVu</a></li>
 			</ul>
 		</div>
 		<div class="archive_holder">
@@ -301,4 +301,3 @@ function display_tabs($num)
 </body>
 
 </html>
-

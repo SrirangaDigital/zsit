@@ -169,7 +169,7 @@ if($num_rows)
 	for($i=1;$i<=$num_rows;$i++)
 	{
 		//~ $row=mysql_fetch_assoc($result);
-		$row = $result->fetch_assoc()
+		$row = $result->fetch_assoc();
 		
 		$level = $row['level'];
 		$title = $row['title'];

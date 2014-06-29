@@ -36,7 +36,7 @@
 				<li><a class="active" href="../spb_books_list.php">Books</a></li>
 				<li><a href="authors.php">Authors</a></li>
 				<li class="gap_below"><a href="../search.php">Search</a></li>
-				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/" target="_blank">Get DjVu</a></li>
+				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/?pid=1" target="_blank">Get DjVu</a></li>
 			</ul>
 		</div>
 		<div class="archive_holder">
@@ -45,9 +45,9 @@
 include("connect.php");
 require_once("../common.php");
 
-$book_id = $_GET['book_id'];
-$type = $_GET['type'];
-$book_title = $_GET['book_title'];
+if(isset($_GET['book_id'])){$book_id = $_GET['book_id'];}else{$book_id = '';}
+if(isset($_GET['type'])){$type = $_GET['type'];}else{$type = '';}
+if(isset($_GET['book_title'])){$book_title = $_GET['book_title'];}else{$book_title = '';}
 
 $book_title = entityReferenceReplace($book_title);
 

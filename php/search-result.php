@@ -1,3 +1,10 @@
+<?php
+	// If nothing is posted, redirect to search page
+	if(empty($_POST['author']) && empty($_POST['title']) && empty($_POST['text'])) {
+		header('Location: search.php');
+		exit(1);
+	}
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -45,7 +52,7 @@
 				<li><a href="tcm_books_list.php">Technical<br />Monographs</a></li>
 				<li><a href="zlg_books_list.php">Zoologiana</a></li>
 				<li class="gap_below"><a href="bulletin/volumes.php">Bulletin</a></li>
-				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/" target="_blank">Get DjVu</a></li>
+				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/?pid=1" target="_blank">Get DjVu</a></li>
 			</ul>
 		</div>
 		<div class="archive_holder">
@@ -563,7 +570,7 @@ if(isset($_POST['check']))
 					}
 					echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"yearspan\">$stitle</span><br /><span class=\"bookspan\">$book_info</span>";
 					print_author($authid,$db);
-					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (DjVu)</a>&nbsp;|&nbsp;<a href=\"../Downloads/download_pdf_in_books.php?book_id=$book_id&amp;page_start=$page&amp;type=$type\" target=\"_blank\">Download Article (PDF)</a></span>";
+					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (PDF)</a></span>";
 					$id = $slno;
 					
 					if($text != '')
@@ -674,11 +681,11 @@ if(isset($_POST['check']))
 					
 					if(($type == "records") || ($type == "memoirs") || ($type == "bulletin"))
 					{
-						echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\" target=\"_blank\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"../Downloads/download_pdf_in_journal.php?titleid=$titleid\" target=\"_blank\">Download article (PDF)</a></span>";
+						echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
 					}
 					elseif($type == "occpapers")
 					{
-						echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/occpapers/$paper/index.djvu?djvuopts&amp;page=1&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\" target=\"_blank\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"../Downloads/download_pdf_in_journal.php?titleid=$titleid\" target=\"_blank\">Download article (PDF)</a></span>";
+						echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/occpapers/$paper/index.djvu?djvuopts&amp;page=1&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
 					}
 
 					if($text != '')

@@ -45,7 +45,7 @@
 				<li><a href="tcm_books_list.php">Technical<br />Monographs</a></li>
 				<li><a href="zlg_books_list.php">Zoologiana</a></li>
 				<li class="gap_below"><a href="bulletin/volumes.php">Bulletin</a></li>
-				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/" target="_blank">Get DjVu</a></li>
+				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/?pid=1" target="_blank">Get DjVu</a></li>
 			</ul>
 		</div>
 		<div class="about">

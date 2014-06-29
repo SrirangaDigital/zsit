@@ -35,7 +35,7 @@
 				<li><a href="articles.php">Articles</a></li>
 				<li><a href="authors.php">Authors</a></li>
 				<li class="gap_below"><a href="../search.php">Search</a></li>
-				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/" target="_blank">Get DjVu</a></li>
+				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/?pid=1" target="_blank">Get DjVu</a></li>
 			</ul>
 		</div>
 		<div class="archive_holder">
@@ -44,8 +44,8 @@
 include("connect.php");
 require_once("../common.php");
 
-$volume=$_GET['vol'];
-$part=$_GET['part'];
+if(isset($_GET['vol'])){$volume = $_GET['vol'];}else{$volume = '';}
+if(isset($_GET['part'])){$part = $_GET['part'];}else{$part = '';}
 
 if(!(isValidVolume($volume) && isValidPart($part)))
 {
@@ -182,7 +182,7 @@ if($num_rows1)
 
 			}
 		}
-		echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/bulletin/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\" target=\"_blank\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\" target=\"_blank\">Download article (PDF)</a></span>";
+		echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/bulletin/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
 		echo "</li>\n";
 	}
 }

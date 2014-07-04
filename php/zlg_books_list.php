@@ -45,10 +45,16 @@
 <?php
 include("zlg/connect.php");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
@@ -57,7 +63,7 @@ if($db->connect_errno > 0){
 $query = "select * from zlg_books_list order by slno";
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
 //~ $result = mysql_query($query);
 //~ $num_rows = mysql_num_rows($result);
@@ -75,7 +81,7 @@ $bullet = "<img class=\"bpointer\" src=\"images/bullet_1.gif\" alt=\"Point\" />"
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
-if($num_rows)
+if($num_rows > 0)
 {
 	echo "<div class=\"treeview\">";
 	for($i=1;$i<=$num_rows;$i++)
@@ -207,7 +213,7 @@ else
 	echo "No data in the database";
 }
 
-$result->free();
+if($result){$result->free();}
 $db->close();
 
 function display_stack($stack)

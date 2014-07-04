@@ -105,10 +105,16 @@ else
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo '<li>Not connected to the database [' . $db->connect_errno . ']</li>';
+	echo "</ul></div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
@@ -126,9 +132,9 @@ else
 //~ $num_rows = mysql_num_rows($result);
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
-if($num_rows)
+if($num_rows > 0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
@@ -156,7 +162,7 @@ if($num_rows)
 		$row3 = $result3->fetch_assoc();		
 		$feature=$row3['feat_name'];
 		
-		$result3->free();
+		if($result3){$result3->free();}
 				
 		echo "<li>";
 		echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../../Volumes/records/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
@@ -182,12 +188,12 @@ if($num_rows)
 				$query2 = "select * from author where authid=$aid";
 
 				$result2 = $db->query($query2); 				
-				$num_rows2 = $result2->num_rows;
+				$num_rows2 = $result2 ? $result2->num_rows : 0;
 				
 				//~ $result2 = mysql_query($query2);
 				//~ $num_rows2 = mysql_num_rows($result2);
 
-				if($num_rows2)
+				if($num_rows2 > 0)
 				{
 					//~ $row2=mysql_fetch_assoc($result2);
 					$row2 = $result2->fetch_assoc();		
@@ -205,7 +211,7 @@ if($num_rows)
 						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
-				$result2->free();
+				if($result2){$result2->free();}
 
 			}
 		}
@@ -218,7 +224,7 @@ else
 {
 	echo "No data in the database";
 }
-$result->free();
+if($result){$result->free();}
 $db->close();
 ?>
 			</ul>

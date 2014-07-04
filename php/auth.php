@@ -74,10 +74,16 @@ if(!(isValidAuthid($authid) && isValidAuthor($authorname)))
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
@@ -105,9 +111,9 @@ UNION ALL (select 'type', titleid, title, page from article_bulletin where authi
 //~ $num_rows = mysql_num_rows($result);
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
-if($num_rows)
+if($num_rows > 0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
@@ -137,7 +143,7 @@ if($num_rows)
 			//~ $num_rows_aux = mysql_num_rows($result_aux);
 			
 			$result_aux = $db->query($query_aux); 
-			$num_rows_aux = $result_aux->num_rows;
+			$num_rows_aux = $result_aux ? $result_aux->num_rows : 0;
 
 			//~ $row_aux=mysql_fetch_assoc($result_aux);
 			$row_aux = $result_aux->fetch_assoc();
@@ -155,7 +161,7 @@ if($num_rows)
 			$month=$row_aux['month'];
 			$book_id=$row_aux['book_id'];
 			
-			$result_aux->free();
+			if($result_aux){$result_aux->free();}
 			
 			$book_info = '';
 
@@ -221,7 +227,7 @@ if($num_rows)
 			//~ $row_aux=mysql_fetch_assoc($result_aux);
 
 			$result_aux = $db->query($query_aux); 
-			$num_rows_aux = $result_aux->num_rows;
+			$num_rows_aux = $result_aux ? $result_aux->num_rows : 0;
 			$row_aux = $result_aux->fetch_assoc();
 			
 			$authid=$row_aux['authid'];
@@ -237,7 +243,7 @@ if($num_rows)
 			$month = $row_aux['month'];
 			$year = $row_aux['year'];
 
-			$result_aux->free();
+			if($result_aux){$result_aux->free();}
 
 			if($type == 'sfs')
 			{
@@ -337,7 +343,7 @@ if($num_rows)
 			$year=$row_aux['year'];
 			$month=$row_aux['month'];
 			
-			$result_aux->free();
+			if($result_aux){$result_aux->free();}
 			
 			$paper = $volume;	
 			$title1=addslashes($title);
@@ -352,7 +358,7 @@ if($num_rows)
 			
 			$feature=$row3['feat_name'];
 			
-			$result3->free();
+			if($result3){$result3->free();}
 					
 			if(($type == "records") || ($type == "memoirs") || ($type == "bulletin"))
 			{
@@ -384,7 +390,7 @@ else
 {
 	echo "No data in the database";
 }
-$result->free();
+if($result){$result->free();}
 $db->close();
 ?>
 				</ul>

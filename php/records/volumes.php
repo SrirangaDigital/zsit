@@ -46,10 +46,16 @@
 
 include("connect.php");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo '<li>Not connected to the database [' . $db->connect_errno . ']</li>';
+	echo "</ul></div></div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
@@ -60,7 +66,7 @@ $row_count = 30;
 $query = "select distinct volume from article_records order by volume";
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
 //~ $result = mysql_query($query);
 //~ $num_rows = mysql_num_rows($result);
@@ -68,7 +74,7 @@ $num_rows = $result->num_rows;
 $count = 0;
 $col = 1;
 
-if($num_rows)
+if($num_rows > 0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
@@ -81,9 +87,9 @@ if($num_rows)
 		//~ $result1 = mysql_query($query1);
 		//~ $num_rows1 = mysql_num_rows($result1);
 		$result1 = $db->query($query1); 
-		$num_rows1 = $result1->num_rows;
+		$num_rows1 = $result1 ? $result1->num_rows : 0;
 		
-		if($num_rows1)
+		if($num_rows1 > 0)
 		{
 			for($i1=1;$i1<=$num_rows1;$i1++)
 			{
@@ -112,14 +118,14 @@ if($num_rows)
 			}
 			echo "<li><span class=\"yearspan\"><a href=\"part.php?vol=$volume&amp;year=$year\">Volume $volume_int ($year)</a></span></li>";
 		}
-		$result1->free();
+		if($result1){$result1->free();}
 	}
 }
 else
 {
 	echo "No data in the database";
 }
-$result->free();
+if($result){$result->free();}
 $db->close();
 
 ?>

@@ -58,10 +58,16 @@ if(!(isValidVolume($volume) && isValidYear($year)))
 	exit(1);
 }
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 /*
@@ -88,12 +94,12 @@ $num_rows = mysql_num_rows($result);
 */
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
 $count = 0;
 $col = 1;
 
-if($num_rows)
+if($num_rows > 0)
 {
 /*
 	for($i=1;$i<=$num_rows;$i++)
@@ -113,9 +119,9 @@ if($num_rows)
 */
 
 		$result11 = $db->query($query11); 
-		$num_rows11 = $result11->num_rows;
+		$num_rows11 = $result11 ? $result11->num_rows : 0;
 		
-		if($num_rows11)
+		if($num_rows11 > 0)
 		{
 /*
 			$row11=mysql_fetch_assoc($result11);
@@ -124,7 +130,7 @@ if($num_rows)
 			$page_start = $row11['minpage'];
 			$page_start = intval($page_start);
 		}
-		$result11->free();
+		if($result11){$result11->free();}
 		
 		$query12 = "select max(page_end) as maxpage from article_bulletin where volume='$volume' and part='$part'";
 		
@@ -133,9 +139,9 @@ if($num_rows)
 		$num_rows12 = mysql_num_rows($result12);
 */
 		$result12 = $db->query($query12); 
-		$num_rows12 = $result12->num_rows;
+		$num_rows12 = $result12 ? $result12->num_rows : 0;
 		
-		if($num_rows12)
+		if($num_rows12 > 0)
 		{
 /*
 			$row12=mysql_fetch_assoc($result12);
@@ -144,7 +150,7 @@ if($num_rows)
 			$page_end = $row12['maxpage'];
 			$page_end = intval($page_end);
 		}
-		$result12->free();
+		if($result12){$result12->free();}
 
 
 		$query1 = "select distinct month from article_bulletin where volume='$volume' and part='$part' order by month";
@@ -154,9 +160,9 @@ if($num_rows)
 		$num_rows1 = mysql_num_rows($result1);
 */
 		$result1 = $db->query($query1); 
-		$num_rows1 = $result1->num_rows;
+		$num_rows1 = $result1 ? $result1->num_rows : 0;
 		
-		if($num_rows1)
+		if($num_rows1 > 0)
 		{
 /*
 			$row1=mysql_fetch_assoc($result1);
@@ -184,14 +190,14 @@ if($num_rows)
 			}
 			echo "<br />pp. $page_start-$page_end</a></span></li>";
 		}
-		$result1->free();
+		if($result1){$result1->free();}
 	}
 }
 else
 {
 	echo "No data in the database";
 }
-$result->free();
+if($result){$result->free();}
 $db->close();
 
 ?>

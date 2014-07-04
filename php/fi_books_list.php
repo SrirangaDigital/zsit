@@ -48,10 +48,16 @@ include("fbi/connect.php");
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 $query = "select * from fbi_books_list order by slno";
@@ -60,7 +66,7 @@ $query = "select * from fbi_books_list order by slno";
 //~ $num_rows = mysql_num_rows($result);
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
 $stack = array();
 $p_stack = array();
@@ -73,7 +79,7 @@ $plus_link = "<img class=\"bpointer\" title=\"Expand\" src=\"images/plus.gif\" a
 //$plus_link = "<a href=\"#\" onclick=\"display_block(this)\"><img src=\"plus.gif\" alt=\"\"></a>";
 $bullet = "<img class=\"bpointer\" src=\"images/bullet_1.gif\" alt=\"Point\" />";
 
-if($num_rows)
+if($num_rows > 0)
 {
 	echo "<div class=\"treeview\">";
 	for($i=1;$i<=$num_rows;$i++)
@@ -109,9 +115,9 @@ if($num_rows)
 				//~ $num_rows2 = mysql_num_rows($result2);
 				
 				$result2 = $db->query($query2); 
-				$num_rows2 = $result2->num_rows;
+				$num_rows2 = $result2 ? $result2->num_rows : 0;
 
-				if($num_rows2)
+				if($num_rows2 > 0)
 				{
 					//~ $row2=mysql_fetch_assoc($result2);
 					$row2 = $result2->fetch_assoc();
@@ -128,7 +134,7 @@ if($num_rows)
 						$disp_author = $disp_author .  "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
-				$result2->free();
+				if($result2){$result2->free();}
 			}
 		}
 
@@ -256,7 +262,7 @@ else
 	echo "No data in the database";
 }
 
-$result->free();
+if($result){$result->free();}
 $db->close();
 
 function display_stack($stack)

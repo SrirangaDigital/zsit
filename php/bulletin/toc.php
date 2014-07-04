@@ -64,10 +64,16 @@ $db = mysql_connect("localhost",$user,$password) or die("Not connected to databa
 $rs = mysql_select_db($database,$db) or die("No Database");
 */
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
@@ -80,9 +86,9 @@ $num_rows = mysql_num_rows($result);
 */
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
-if($num_rows)
+if($num_rows > 0)
 {
 /*
 	$row=mysql_fetch_assoc($result);
@@ -99,7 +105,7 @@ if($num_rows)
 	echo "<ul class=\"dot\">";
 }
 
-$result->free();
+if($result){$result->free();}
 
 $query1 = "select * from article_bulletin where volume='$volume' and part='$part' order by page";
 
@@ -109,9 +115,9 @@ $num_rows1 = mysql_num_rows($result1);
 */
 
 $result1 = $db->query($query1); 
-$num_rows1 = $result1->num_rows;
+$num_rows1 = $result1 ? $result1->num_rows : 0;
 
-if($num_rows1)
+if($num_rows1 > 0)
 {
 /*
 	for($i=1;$i<=$num_rows1;$i++)
@@ -156,9 +162,9 @@ if($num_rows1)
 				$num_rows2 = mysql_num_rows($result2);
 */
 				$result2 = $db->query($query2); 
-				$num_rows2 = $result2->num_rows;
+				$num_rows2 = $result2 ? $result2->num_rows : 0;
 
-				if($num_rows2)
+				if($num_rows2 > 0)
 				{
 /*
 					$row2=mysql_fetch_assoc($result2);
@@ -178,7 +184,7 @@ if($num_rows1)
 						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
-				$result2->free();
+				if($result2){$result2->free();}
 
 			}
 		}
@@ -190,7 +196,7 @@ else
 {
 	echo "No data in the database";
 }
-$result1->free();
+if($result1){$result1->free();}
 $db->close();
 ?>
 				</ul>

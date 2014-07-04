@@ -10,6 +10,18 @@ function isValidType($type)
 	return preg_match("/^(rec|mem|occ|fbi|fi|sfs|cas|ess|hpg|spb|sse|tcm|zlg|bul)$/", $type) ? true : false;
 }
 
+function isValidCheck($check)
+{
+	for($i=0;$i<sizeof($check);$i++)
+	{
+		if(!(preg_match("/^(rec|mem|occ|fbi|fi|sfs|cas|ess|hpg|spb|sse|tcm|zlg|bul)$/", $check[$i])))
+		{
+			return false;
+		}
+	}
+	return true;
+}
+
 function isValidTitle($title)
 {
 /*
@@ -83,7 +95,7 @@ function entityReferenceReplace($term)
 	$term = preg_replace("/\(/", "&#40;", $term);
 	$term = preg_replace("/\)/", "&#41;", $term);
 	$term = preg_replace("/\:/", "&#58;", $term);
-	$term = preg_replace("/Drop table|Create table|Alter table|Delete from|Desc table|Show databases/i", "", $term);
+	$term = preg_replace("/Drop table|Create table|Alter table|Delete from|Desc table|Show databases|iframe/i", "", $term);
 	
 	return($term);
 }

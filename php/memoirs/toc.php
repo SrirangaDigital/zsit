@@ -59,10 +59,16 @@ if(!(isValidVolume($volume) && isValidPart($part)))
 	exit(1);
 }
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
@@ -73,12 +79,12 @@ $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"Ap
 $query = "select distinct year,month from article_memoirs where volume='$volume' and part='$part'";
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
 //~ $result = mysql_query($query);
 //~ $num_rows = mysql_num_rows($result);
 
-if($num_rows)
+if($num_rows > 0)
 {
 	//~ $row=mysql_fetch_assoc($result);
 	$row = $result->fetch_assoc();
@@ -92,17 +98,17 @@ if($num_rows)
 	echo "<div class=\"page_title\"><span class=\"motif mem_motif\"></span>Volume&nbsp;".intval($volume)."&nbsp;- Part&nbsp;".$dpart."&nbsp;&nbsp;:&nbsp;&nbsp;".$month_name{intval($month)}."&nbsp;".$year." <span class=\"it\">(Memoirs)</span></div>";
 	echo "<ul class=\"dot\">";
 }
-$result->free();
+if($result){$result->free();}
 
 $query1 = "select * from article_memoirs where volume='$volume' and part='$part' order by page";
 
 $result1 = $db->query($query1); 
-$num_rows1 = $result1->num_rows;
+$num_rows1 = $result1 ? $result1->num_rows : 0;
 
 //~ $result1 = mysql_query($query1);
 //~ $num_rows1 = mysql_num_rows($result1);
 
-if($num_rows1)
+if($num_rows1 > 0)
 {
 	for($i=1;$i<=$num_rows1;$i++)
 	{
@@ -131,7 +137,7 @@ if($num_rows1)
 		$row3 = $result3->fetch_assoc();
 		
 		$feature=$row3['feat_name'];
-		$result3->free();
+		if($result3){$result3->free();}
 		
 		
 		echo "<li>";
@@ -153,12 +159,12 @@ if($num_rows1)
 				$query2 = "select * from author where authid=$aid";
 
 				$result2 = $db->query($query2); 
-				$num_rows2 = $result2->num_rows;
+				$num_rows2 = $result2 ? $result2->num_rows : 0;
 
 				//~ $result2 = mysql_query($query2);
 				//~ $num_rows2 = mysql_num_rows($result2);
 
-				if($num_rows2)
+				if($num_rows2 > 0)
 				{
 					//~ $row2=mysql_fetch_assoc($result2);
 					$row2 = $result2->fetch_assoc();
@@ -175,7 +181,7 @@ if($num_rows1)
 						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
-				$result2->free();
+				if($result2){$result2->free();}
 			}
 		}
 		echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/memoirs/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
@@ -187,7 +193,7 @@ else
 	echo "No data in the database";
 }
 
-$result1->free();
+if($result1){$result1->free();}
 $db->close();
 
 ?>

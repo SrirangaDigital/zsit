@@ -53,6 +53,22 @@
 			</ul>
 		</div>
 		<div class="archive_holder">
+			
+<?php
+
+include("cas/connect.php");
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
+}
+?>
 			<div class="page_title">
 				<p style="float: right;">
 				<span class="motif rec_motif nrmargin"></span>
@@ -71,7 +87,7 @@
 				Search
 			</div>
 			<div class="archive_search">
-				<form method="post" action="search-result.php">
+				<form method="get" action="search-result.php">
 				<table>
 					<tr>
 						<td class="right" colspan="2">
@@ -94,14 +110,6 @@
 					</tr>
 <?php
 
-include("cas/connect.php");
-
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
-}
-
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
 //~ $rs = mysql_select_db($database,$db) or die("No Database");
 
@@ -112,7 +120,7 @@ echo "<tr>
 $query_ac = "select * from author where type regexp '01|02|03|04|05|06|07|08|09|10|11|12|13' order by authorname";
 
 $result_ac = $db->query($query_ac); 
-$num_rows_ac = $result_ac->num_rows;
+$num_rows_ac = $result_ac ? $result_ac->num_rows : 0;
 
 //~ $result_ac = mysql_query($query_ac);
 //~ $num_rows_ac = mysql_num_rows($result_ac);
@@ -121,7 +129,7 @@ echo "<script type=\"text/javascript\">$( \"#autocomplete\" ).autocomplete({sour
 
 $source_ac = '';
 
-if($num_rows_ac)
+if($num_rows_ac > 0)
 {
 	for($i=1;$i<=$num_rows_ac;$i++)
 	{
@@ -142,7 +150,7 @@ echo "</tr>
 	<td class=\"right\"><input name=\"title\" type=\"text\" class=\"titlespan wide\" id=\"textfield2\" maxlength=\"150\"/></td>
 </tr>";
 
-$result_ac->free();
+if($result_ac){$result_ac->free();}
 $db->close();
 ?>
 					<tr>
@@ -152,8 +160,8 @@ $db->close();
 					<tr>
 						<td class="left">&nbsp;</td>
 						<td class="right">
-							<input name="button1" type="submit" class="titlespan med" id="button_search" value="Search"/>
-							<input name="button2" type="reset" class="titlespan med" id="button_reset" value="Reset"/>
+							<input name="searchform" type="submit" class="titlespan med" id="button_search" value="Search"/>
+							<input name="resetform" type="reset" class="titlespan med" id="button_reset" value="Reset"/>
 						</td>
 					</tr>
 				</table>

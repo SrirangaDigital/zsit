@@ -99,10 +99,16 @@ else
 	$letter = 'A';
 }
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo '<li>Not connected to the database [' . $db->connect_errno . ']</li>';
+	echo "</ul></div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
@@ -111,12 +117,12 @@ if($db->connect_errno > 0){
 $query = "select * from author where authorname like '$letter%' and type like '%$type_code%' order by authorname";
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
 //~ $result = mysql_query($query);
 //~ $num_rows = mysql_num_rows($result);
 
-if($num_rows)
+if($num_rows > 0)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
@@ -136,7 +142,7 @@ else
 	echo "<li>Sorry! No author names were found to begin with the letter '$letter' in Occasional Papers</li>";
 }
 
-$result->free();
+if($result){$result->free();}
 $db->close();
 
 ?>

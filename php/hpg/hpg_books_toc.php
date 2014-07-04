@@ -63,10 +63,16 @@ if(!(isValidId($book_id) && isValidType($type) && isValidTitle($book_title)))
 	exit(1);
 }
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
@@ -78,7 +84,7 @@ $query = "select * from hpg_book_toc where book_id=$book_id and type='$type' ord
 //~ $num_rows = mysql_num_rows($result);
 
 $result = $db->query($query); 
-$num_rows = $result->num_rows;
+$num_rows = $result ? $result->num_rows : 0;
 
 $stack = array();
 $p_stack = array();
@@ -103,7 +109,7 @@ $query_aux = "select * from hpg_books_list where book_id=$book_id and type='hpg'
 //~ $num_rows_aux = mysql_num_rows($result_aux);
 
 $result_aux = $db->query($query_aux); 
-$num_rows_aux = $result_aux->num_rows;
+$num_rows_aux = $result_aux ? $result_aux->num_rows : 0;
 
 //~ $row_aux=mysql_fetch_assoc($result_aux);
 $row_aux = $result_aux->fetch_assoc();
@@ -118,7 +124,7 @@ $type = $row_aux['type'];
 $year = $row_aux['year'];
 $month = $row_aux['month'];
 
-$result_aux->free();
+if($result_aux){$result_aux->free();}
 
 $anames = preg_replace("/;/", ",&nbsp;&nbsp;", $authorname);
 $anames = preg_split("/;/", $authorname);
@@ -174,7 +180,7 @@ $book_info = preg_replace("/^\|/", "", $book_info);
 $book_info = preg_replace("/^ /", "", $book_info);
 
 echo "$book_info</div>";
-if($num_rows)
+if($num_rows > 0)
 {
 	echo "<div class=\"treeview\">";
 	for($i=1;$i<=$num_rows;$i++)
@@ -262,7 +268,7 @@ else
 	echo "No data in the database";
 }
 
-$result->free();
+if($result){$result->free();}
 $db->close();
 
 function display_stack($stack)

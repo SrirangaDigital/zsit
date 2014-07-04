@@ -1,6 +1,6 @@
 <?php
-	// If nothing is posted, redirect to search page
-	if(empty($_POST['author']) && empty($_POST['title']) && empty($_POST['text'])) {
+	// If nothing is GETed, redirect to search page
+	if(empty($_GET['author']) && empty($_GET['title']) && empty($_GET['text'])) {
 		header('Location: search.php');
 		exit(1);
 	}
@@ -61,10 +61,16 @@
 include("cas/connect.php");
 require_once("common.php");
 
-$db = new mysqli('localhost', "$user", "$password", "$database");
-
-if($db->connect_errno > 0){
-    die('Not connected to database [' . $db->connect_error . ']');
+$db = @new mysqli('localhost', "$user", "$password", "$database");
+if($db->connect_errno > 0)
+{
+	echo 'Not connected to the database [' . $db->connect_errno . ']';
+	echo "</div></div>";
+	include("include_footer.php");
+	echo "<div class=\"clearfix\"></div></div>";
+	include("include_footer_out.php");
+	echo "</body></html>";
+	exit(1);
 }
 
 //~ $db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
@@ -72,19 +78,29 @@ if($db->connect_errno > 0){
 
 $month_name = array("0"=>"","1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
-if(isset($_POST['check']))
+if(isset($_GET['check']))
 {
+	$check=$_GET['check'];
+	if(!(isValidCheck($check)))
+	{
+		echo "Invalid URL";
+		
+		echo "</div></div>";
+		include("include_footer.php");
+		echo "<div class=\"clearfix\"></div></div>";
+		include("include_footer_out.php");
+		echo "</body></html>";
+		exit(1);
+	}
 
-	$check=$_POST['check'];
+	$author=$_GET['author'];
+	$text=$_GET['text'];
+	$title=$_GET['title'];
 	
-	$author=$_POST['author'];
-	$text=$_POST['text'];
-	$title=$_POST['title'];
-
 	$text = entityReferenceReplace($text);
 	$author = entityReferenceReplace($author);
 	$title = entityReferenceReplace($title);
-	
+
 	$author = preg_replace("/[\t]+/", " ", $author);
 	$author = preg_replace("/[ ]+/", " ", $author);
 	$author = preg_replace("/^ /", "", $author);
@@ -109,7 +125,7 @@ if(isset($_POST['check']))
 	{
 		$author='[a-z]*';
 	}
-	
+
 	$cfl = 0;
 	
 	$author = addslashes($author);
@@ -303,7 +319,7 @@ if(isset($_POST['check']))
 	//~ $num_results = mysql_num_rows($result);
 
 	$result = $db->query($query); 
-	$num_results = $result->num_rows;
+	$num_results = $result ? $result->num_rows : 0;
 
 	if ($num_results > 0)
 	{
@@ -408,7 +424,7 @@ if(isset($_POST['check']))
 					//~ $num_rows_aux = mysql_num_rows($result_aux);
 					
 					$result_aux = $db->query($query_aux); 
-					$num_rows_aux = $result_aux->num_rows;
+					$num_rows_aux = $result_aux ? $result_aux->num_rows : 0;
 					
 					//~ $row_aux=mysql_fetch_assoc($result_aux);
 					$row_aux = $result_aux->fetch_assoc();
@@ -420,7 +436,7 @@ if(isset($_POST['check']))
 					$year = $row_aux['year'];
 					$month = $row_aux['month'];
 					
-					$result_aux->free();
+					if($result_aux){$result_aux->free();}
 					
 					if($type == 'fbi')
 					{
@@ -490,7 +506,7 @@ if(isset($_POST['check']))
 					//~ $num_rows_aux = mysql_num_rows($result_aux);
 
 					$result_aux = $db->query($query_aux); 
-					$num_rows_aux = $result_aux->num_rows;
+					$num_rows_aux = $result_aux ? $result_aux->num_rows : 0;
 
 					//~ $row_aux=mysql_fetch_assoc($result_aux);
 					$row_aux = $result_aux->fetch_assoc();
@@ -505,7 +521,7 @@ if(isset($_POST['check']))
 					$month = $row_aux['month'];
 					$year = $row_aux['year'];
 					
-					$result_aux->free();
+					if($result_aux){$result_aux->free();}
 							
 					$btitle = preg_replace('/!!(.*)!!/', "<i>$1</i>", $btitle);
 					$btitle = preg_replace('/!/', "", $btitle);
@@ -608,7 +624,7 @@ if(isset($_POST['check']))
 					$title = preg_replace('/!/', "", $title);
 					$title1=addslashes($title);
 
-					$result_aux->free();
+					if($result_aux){$result_aux->free();}
 
 					$query3 = "select feat_name from feature_".$type." where featid='$featid'";
 					
@@ -620,7 +636,7 @@ if(isset($_POST['check']))
 					
 					$feature=$row3['feat_name'];
 					
-					$result3->free();
+					if($result3){$result3->free();}
 					
 					if(($type == "records") || ($type == "memoirs") || ($type == "bulletin"))
 					{
@@ -655,9 +671,9 @@ if(isset($_POST['check']))
 							//~ $num_rows2 = mysql_num_rows($result2);
 							
 							$result2 = $db->query($query2); 
-							$num_rows2 = $result2->num_rows;
+							$num_rows2 = $result2 ? $result2->num_rows : 0;
 
-							if($num_rows2)
+							if($num_rows2 > 0)
 							{
 								//~ $row2=mysql_fetch_assoc($result2);
 								$row2 = $result2->fetch_assoc();
@@ -674,7 +690,7 @@ if(isset($_POST['check']))
 									echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 								}
 							}
-							$result2->free();
+							if($result2){$result2->free();}
 
 						}
 					}
@@ -732,7 +748,7 @@ if(isset($_POST['check']))
 		echo"<span class=\"titlespan\">No results</span><br />";
 		echo"<span class=\"authorspan\"><a href=\"search.php\">Go back and Search again</a></span>";
 	}	
-	$result->free();
+	if($result){$result->free();}
 }
 else
 {
@@ -770,9 +786,9 @@ function print_author($authid,$db)
 			//~ $num_rows2 = mysql_num_rows($result2);
 			
 			$result2 = $db->query($query2); 
-			$num_rows2 = $result2->num_rows;
+			$num_rows2 = $result2 ? $result2->num_rows : 0;
 
-			if($num_rows2)
+			if($num_rows2 > 0)
 			{
 				//~ $row2=mysql_fetch_assoc($result2);
 				$row2 = $result2->fetch_assoc();
@@ -789,7 +805,7 @@ function print_author($authid,$db)
 					echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 				}
 			}
-			$result2->free();
+			if($result2){$result2->free();}
 		}
 	}
 }

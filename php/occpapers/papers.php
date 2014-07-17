@@ -39,7 +39,7 @@
 		</div>
 		<div class="archive_holder">
 			<form method="post" action="occ_goto.php">
-				<div class="goto">Go to paper no. <input type="text" class="goto_num" name="goto_num" maxlength="3"/><input class="goto_search" name="goto_submit" type="submit" value="&gt;&gt;"/></div>
+				<div class="goto">Go to paper no. <input type="text" class="goto_num" name="goto_num" maxlength="3" autocomplete="off"/><input class="goto_search" name="goto_submit" type="submit" value="&gt;&gt;"/></div>
 			</form>
 			<div class="page_title"><span class="motif occ_motif"></span>Occasional Papers</div>
 				<ul class="decimal">

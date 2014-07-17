@@ -1,1 +1,3 @@
+ErrorDocument 403 /zsit/403text.html
 ErrorDocument 404 /zsit/404text.html
+ErrorDocument 405 /zsit/405text.html

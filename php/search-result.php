@@ -97,11 +97,13 @@ if(isset($_GET['check']))
 	if(isset($_GET['text'])){$text = $_GET['text'];}else{$text = '';}
 	if(isset($_GET['title'])){$title = $_GET['title'];}else{$title = '';}
 	if(isset($_GET['searchform'])){$searchform = $_GET['searchform'];}else{$searchform = '';}
+	if(isset($_GET['resetform'])){$resetform = $_GET['resetform'];}else{$resetform = '';}
 	
 	$text = entityReferenceReplace($text);
 	$author = entityReferenceReplace($author);
 	$title = entityReferenceReplace($title);
 	$searchform = entityReferenceReplace($searchform);
+	$resetform = entityReferenceReplace($resetform);
 
 	$author = preg_replace("/[\t]+/", " ", $author);
 	$author = preg_replace("/[ ]+/", " ", $author);

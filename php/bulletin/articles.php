@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Zoological Survey of India | Digital archives of their Publications</title>
@@ -193,23 +194,15 @@ if($num_rows > 0)
 			foreach ($aut as $aid)
 			{
 				$query2 = "select * from author where authid=$aid";
+
 				$result2 = $db->query($query2); 
 				$num_rows2 = $result2 ? $result2->num_rows : 0;
 
-/*
-				$result2 = mysql_query($query2);
-				$num_rows2 = mysql_num_rows($result2);
-*/
-
 				if($num_rows2 > 0)
 				{
-/*
-					$row2=mysql_fetch_assoc($result2);
-*/
 					$row2 = $result2->fetch_assoc();
 					
 					$authorname=$row2['authorname'];
-					if($result2){$result2->free();}		
 
 					if($fl == 0)
 					{
@@ -221,7 +214,7 @@ if($num_rows > 0)
 						echo "<span class=\"titlespan\">;&nbsp;</span><span class=\"authorspan\"><a href=\"../auth.php?authid=$aid&amp;author=" . urlencode($authorname) . "\">$authorname</a></span>";
 					}
 				}
-
+				if($result2){$result2->free();}
 			}
 		}
 		echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/bulletin/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
@@ -231,13 +224,13 @@ if($num_rows > 0)
 }
 else
 {
-	echo "No data in the database";
+	echo "<li>Sorry! No articles were found to begin with the letter '$letter' in Bulletin</li>";
 }
 if($result){$result->free();}
 $db->close();
 ?>
-				</ul>
-			</div>
+			</ul>
+		</div>
 	</div>
 <?php include("include_footer.php");?>
 	<div class="clearfix"></div>

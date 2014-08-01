@@ -56,16 +56,16 @@
 				<span class="letter"><a href="authors.php?letter=N">N</a></span>
 				<span class="letter"><a href="authors.php?letter=O">O</a></span>
 				<span class="letter"><a href="authors.php?letter=P">P</a></span>
-				<span class="letter">Q</span>
+				<span class="letter"><a href="authors.php?letter=Q">Q</a></span>
 				<span class="letter"><a href="authors.php?letter=R">R</a></span>
 				<span class="letter"><a href="authors.php?letter=S">S</a></span>
 				<span class="letter"><a href="authors.php?letter=T">T</a></span>
 				<span class="letter"><a href="authors.php?letter=U">U</a></span>
 				<span class="letter"><a href="authors.php?letter=V">V</a></span>
-				<span class="letter">W</span>
-				<span class="letter">X</span>
+				<span class="letter"><a href="authors.php?letter=W">W</a></span>
+				<span class="letter"><a href="authors.php?letter=X">X</a></span>
 				<span class="letter"><a href="authors.php?letter=Y">Y</a></span>
-				<span class="letter">Z</span>
+				<span class="letter"><a href="authors.php?letter=Z">Z</a></span>
 			</div>
 				<ul>
 <?php

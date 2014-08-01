@@ -63,7 +63,7 @@
 				<span class="letter"><a href="authors.php?letter=U">U</a></span>
 				<span class="letter"><a href="authors.php?letter=V">V</a></span>
 				<span class="letter"><a href="authors.php?letter=W">W</a></span>
-				<span class="letter">X</span>
+				<span class="letter"><a href="authors.php?letter=X">X</a></span>
 				<span class="letter"><a href="authors.php?letter=Y">Y</a></span>
 				<span class="letter"><a href="authors.php?letter=Z">Z</a></span>
 			</div>

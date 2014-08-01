@@ -50,24 +50,24 @@
 				<span class="letter"><a href="authors.php?letter=F">F</a></span>
 				<span class="letter"><a href="authors.php?letter=G">G</a></span>
 				<span class="letter"><a href="authors.php?letter=H">H</a></span>
-				<span class="letter">I</span>
+				<span class="letter"><a href="authors.php?letter=I">I</a></span>
 				<span class="letter"><a href="authors.php?letter=J">J</a></span>
 				<span class="letter"><a href="authors.php?letter=K">K</a></span>
 				<span class="letter"><a href="authors.php?letter=L">L</a></span>
 				<span class="letter"><a href="authors.php?letter=M">M</a></span>
-				<span class="letter">N</span>
+				<span class="letter"><a href="authors.php?letter=N">N</a></span>
 				<span class="letter"><a href="authors.php?letter=O">O</a></span>
 				<span class="letter"><a href="authors.php?letter=P">P</a></span>
-				<span class="letter">Q</span>
+				<span class="letter"><a href="authors.php?letter=Q">Q</a></span>
 				<span class="letter"><a href="authors.php?letter=R">R</a></span>
 				<span class="letter"><a href="authors.php?letter=S">S</a></span>
 				<span class="letter"><a href="authors.php?letter=T">T</a></span>
-				<span class="letter">U</span>
+				<span class="letter"><a href="authors.php?letter=U">U</a></span>
 				<span class="letter"><a href="authors.php?letter=V">V</a></span>
 				<span class="letter"><a href="authors.php?letter=W">W</a></span>
-				<span class="letter">X</span>
-				<span class="letter">Y</span>
-				<span class="letter">Z</span>
+				<span class="letter"><a href="authors.php?letter=X">X</a></span>
+				<span class="letter"><a href="authors.php?letter=Y">Y</a></span>
+				<span class="letter"><a href="authors.php?letter=Z">Z</a></span>
 			</div>
 				<ul class="dot">
 <?php

@@ -329,13 +329,13 @@ if(isset($_GET['check']))
 	{
 		echo "<div class=\"count authorspan\">$num_results result(s)</div>";
 	}
-	echo "<div class=\"page_title\"><p style=\"float: right;\">$mtf</p><span>Search Results</span></div>
-					<ul>";
+	echo "<div class=\"page_title\"><p style=\"float: right;\">$mtf</p><span>Search Results</span></div>";
 	$titleid[0]=0;
 	$count = 1;
 	$id = "0";
 	if($num_results > 0)
 	{
+		echo "<ul>";
 		for($i=1;$i<=$num_results;$i++)
 		{
 			//~ $row1 = mysql_fetch_assoc($result);
@@ -762,7 +762,7 @@ else
 $db->close();
 ?>
 		
-			</div>
+		</div>
 	</div>
 <?php include("include_footer.php");?>
 	<div class="clearfix"></div>

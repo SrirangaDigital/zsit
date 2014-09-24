@@ -916,4 +916,15 @@
 		<s1 page="0165" title="Aves" author="Palot, Muhamed Jafer"></s1>
 		<s1 page="0219" title="Mammalia" author="Palot, Muhamed Jafer;Radhakrishnan, C."></s1>
 	</book>
+	<book bid="047">
+		<s1 page="0001" title="Kumbhalgarh Wildlife Sanctuary : An Overview" author="Bohra, Padma"></s1>
+		<s1 page="0007" title="Plant and Soil Nematodes" author="Bohra, Padma;Sultana, Razia"></s1>
+		<s1 page="0031" title="Insecta : Odonata" author="Sharma, Gaurav"></s1>
+		<s1 page="0043" title="Insecta : Lepidoptera" author="Sharma, Gaurav;Dhadeech, Satya Narayan"></s1>
+		<s1 page="0051" title="Insecta : Coleoptera : Scarabaeidae : Coprinae (Dung Beetles)" author="Sewak, Ram"></s1>
+		<s1 page="0067" title="Herpetofauna" author="Gaur, Shalini;Sharma, Gaurav"></s1>
+		<s1 page="0073" title="Aves" author="Kumar, Sanjeev"></s1>
+		<s1 page="0087" title="Mammals" author="Kumar, Sanjeev"></s1>
+		<s1 page="0103" title="Figures and Photographs" author=""></s1>
+	</book>
 </cas>

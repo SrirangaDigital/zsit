@@ -3793,4 +3793,281 @@
 		<s1 page="0521" title="59. Biodiversity Conservation&#8212;the Need of the Era" author="Alagesan, P.;Padmanabhan, A.;Dhanasekaran, S."></s1>
 		<s1 page="0527" title="60. Digitalized (CD-Roms) Animal Alternatives in Learning of Practices : An Approach to Conservation of Animals used in Zoology/Life Sciences/Animal Sciences Practical" author="Sathyanarayana, M. C."></s1>
 	</book>
+	<book bid="054">
+		<s1 page="0001" title="Introduction" author=""></s1>
+		<s1 page="0004" title="Zooplankton" author=""></s1>
+		<s1 page="0005" title="Sponges" author=""></s1>
+		<s1 page="0012" title="Hydroids" author=""></s1>
+		<s1 page="0014" title="Hydrocorals" author=""></s1>
+		<s1 page="0015" title="Soft corals" author=""></s1>
+		<s1 page="0019" title="Sea fans" author=""></s1>
+		<s1 page="0026" title="Sea pens" author=""></s1>
+		<s1 page="0028" title="Sea anemones" author=""></s1>
+		<s1 page="0033" title="Tube Anemones" author=""></s1>
+		<s1 page="0034" title="Zooanthids" author=""></s1>
+		<s1 page="0036" title="Corallimorpharians" author=""></s1>
+		<s1 page="0038" title="Hard corals" author=""></s1>
+		<s1 page="0052" title="Black corals" author=""></s1>
+		<s1 page="0055" title="Jelly fish" author=""></s1>
+		<s1 page="0057" title="Siphonophores" author=""></s1>
+		<s1 page="0058" title="Comb jellies" author=""></s1>
+		<s1 page="0059" title="Flat worms" author=""></s1>
+		<s1 page="0064" title="Ribbon worms" author=""></s1>
+		<s1 page="0066" title="Segmented worms" author=""></s1>
+		<s1 page="0072" title="Peanut worms" author=""></s1>
+		<s1 page="0073" title="Chitons" author=""></s1>
+		<s1 page="0075" title="Snails" author=""></s1>
+		<s1 page="0085" title="Bivalves" author=""></s1>
+		<s1 page="0090" title="Sea slugs" author=""></s1>
+		<s1 page="0100" title="Cephalopods" author=""></s1>
+		<s1 page="0103" title="Barnacles" author=""></s1>
+		<s1 page="0105" title="Mantis shrimps" author=""></s1>
+		<s1 page="0106" title="Shrimps" author=""></s1>
+		<s1 page="0109" title="Crabs" author=""></s1>
+		<s1 page="0113" title="Hermit crabs" author=""></s1>
+		<s1 page="0114" title="Lobsters" author=""></s1>
+		<s1 page="0115" title="Feather stars" author=""></s1>
+		<s1 page="0121" title="Sea stars" author=""></s1>
+		<s1 page="0124" title="Brittle stars" author=""></s1>
+		<s1 page="0125" title="Sand dollars" author=""></s1>
+		<s1 page="0126" title="Sea urchins" author=""></s1>
+		<s1 page="0130" title="Sea cucumbers" author=""></s1>
+		<s1 page="0135" title="Sea squirts" author=""></s1>
+		<s1 page="0138" title="Fishes" author=""></s1>
+		<s1 page="0157" title="Marine Reptiles" author=""></s1>
+		<s1 page="0160" title="Marine Mammals" author=""></s1>
+		<s1 page="0162" title="Phytoplankton" author=""></s1>
+		<s1 page="0163" title="Sea grasses" author=""></s1>
+		<s1 page="0164" title="Sea weeds" author=""></s1>
+		<s1 page="0166" title="Mangroves" author=""></s1>
+	</book>
+	<book bid="055">
+		<s1 page="" title="1. Preface" author=""></s1>
+		<s1 page="0001" title="2. Introduction" author=""></s1>
+		<s1 page="0002" title="3. Amphibians of Western Ghats" author=""></s1>
+		<s1 page="0006" title="4. Conservation Status" author=""></s1>
+		<s1 page="0007" title="5. Methods" author=""></s1>
+		<s1 page="0008" title="6. Results and Disussions" author=""></s1>
+		<s1 page="0014" title="7. Checklist of Amphibians of Western Ghats" author=""></s1>
+		<s1 page="0032" title="8. Species Description" author=""></s1>
+		<s1 page="0032" title="9. IUCN Criteria" author=""></s1>
+		<s1 page="0033" title="10. Species Desriptions" author="">
+			<s2 page="0033" title="Family: Bufonidae" author="">
+				<s3 page="0033" title="1. !!Duttaphrynus beddomii!!" author=""></s3>
+				<s3 page="0034" title="2. !!Duttaphrynus brevirostris!!" author=""></s3>
+				<s3 page="0035" title="3. !!Duttaphrynus silentvalleyensis!!" author=""></s3>
+				<s3 page="0036" title="4. !!Duttaphrynus microtympanum!!" author=""></s3>
+				<s3 page="0037" title="5. !!Ghatophryne ornata!!" author=""></s3>
+				<s3 page="0038" title="6. !!Ghatophryne rubigina!!" author=""></s3>
+				<s3 page="0039" title="7. !!Pedostibes tuberculosus!!" author=""></s3>
+				<s3 page="0040" title="8. !!Xanthophryne koynayensis!!" author=""></s3>
+				<s3 page="0041" title="9. !!Xanthophryne tigerinus!!" author=""></s3>
+			</s2>
+			<s2 page="0042" title="Family: Dicroglossidae" author="">
+				<s3 page="0042" title="10. !!Euphlyctis aloysii!!" author=""></s3>
+				<s3 page="0043" title="11. !!Euphlyctis mudigere!!" author=""></s3>
+				<s3 page="0044" title="12. !!Fejervarya brevipalmata!!" author=""></s3>
+				<s3 page="0045" title="13. !!Fejervarya caperata!!" author=""></s3>
+				<s3 page="0046" title="14. !!Fejervarya granosa!!" author=""></s3>
+				<s3 page="0047" title="15. !!Fejervarya kudremukhensis!!" author=""></s3>
+				<s3 page="0048" title="16. !!Fejervarya mudduraja!!" author=""></s3>
+				<s3 page="0049" title="17. !!Fejervarya murthii!!" author=""></s3>
+				<s3 page="0050" title="18. !!Fejervarya mysorensis!!" author=""></s3>
+				<s3 page="0051" title="19. !!Fejervarya nilagirica!!" author=""></s3>
+				<s3 page="0052" title="20. !!Fejervarya parambikulamana!!" author=""></s3>
+				<s3 page="0053" title="21. !!Fejervarya rufescens!!" author=""></s3>
+				<s3 page="0054" title="22. !!Fejervarya sauriceps!!" author=""></s3>
+				<s3 page="0055" title="23. !!Minervarya sahyadris!!" author=""></s3>
+				<s3 page="0056" title="24. !!Sphaerotheca dobsoni!!" author=""></s3>
+				<s3 page="0057" title="25. !!Sphaerotheca leucorhynchus!!" author=""></s3>
+			</s2>
+			<s2 page="0058" title="Family: Micrixalidae" author="">
+				<s3 page="0058" title="26. !!Micrixalus elegans!!" author=""></s3>
+				<s3 page="0059" title="27. !!Micrixalus fuscus!!" author=""></s3>
+				<s3 page="0060" title="28. !!Micrixalus gadgili!!" author=""></s3>
+				<s3 page="0060" title="29. !!Micrixalus kottigeharensis!!" author=""></s3>
+				<s3 page="0062" title="30. !!Micrixalus narainensis!!" author=""></s3>
+				<s3 page="0063" title="31. !!Micrixalus nudis!!" author=""></s3>
+				<s3 page="0064" title="32. !!Micrixalus phyllophilus!!" author=""></s3>
+				<s3 page="0065" title="33. !!Micrixalus saxicola!!" author=""></s3>
+				<s3 page="0066" title="34. !!Micrixalus silvaticus!!" author=""></s3>
+				<s3 page="0067" title="35. !!Micrixalus swamianus!!" author=""></s3>
+				<s3 page="0068" title="36. !!Micrixalus thampii!!" author=""></s3>
+			</s2>
+			<s2 page="0069" title="Family: Microhylidae" author="">
+				<s3 page="0069" title="37. !!Melanobatrachus indicus!!" author=""></s3>
+				<s3 page="0070" title="38. !!Microhyla sholigari!!" author=""></s3>
+				<s3 page="0071" title="39. !!Ramanella anamalaiensis!!" author=""></s3>
+				<s3 page="0072" title="40. !!Ramanella minor!!" author=""></s3>
+				<s3 page="0073" title="41. !!Ramanella montana!!" author=""></s3>
+				<s3 page="0074" title="42. !!Ramanella mormorata!!" author=""></s3>
+				<s3 page="0075" title="43. !!Ramanella triangularis!!" author=""></s3>
+			</s2>
+			<s2 page="76" title="Family: Nasikabatrachidae" author="">
+				<s3 page="0076" title="44. !!Nasikabatrachus sahyadrensis!!" author=""></s3>
+			</s2>
+			<s2 page="0077" title="Family: Nyctibatrachidae" author="">
+				<s3 page="0077" title="45. !!Nyctibatrachus acanthodermis!!" author=""></s3>
+				<s3 page="0078" title="46. !!Nyctibatrachus aliciae!!" author=""></s3>
+				<s3 page="0079" title="47. !!Nyctibatrachus anamallaiensis!!" author=""></s3>
+				<s3 page="0080" title="48. !!Nyctibatrachus beddomii!!" author=""></s3>
+				<s3 page="0081" title="49. !!Nyctibatrachus danieli!!" author=""></s3>
+				<s3 page="0082" title="50. !!Nyctibatrachus dattatreyaensis!!" author=""></s3>
+				<s3 page="0083" title="51. !!Nyctibatrachus deccanensis!!" author=""></s3>
+				<s3 page="0084" title="52. !!Nyctibatrachus deveni!!" author=""></s3>
+				<s3 page="0085" title="53. !!Nyctibatrachus gavi!!" author=""></s3>
+				<s3 page="0086" title="54. !!Nyctibatrachus grandis!!" author=""></s3>
+				<s3 page="0087" title="55. !!Nyctibatrachus hymayuni!!" author=""></s3>
+				<s3 page="0088" title="56. !!Nyctibatrachus indraneili!!" author=""></s3>
+				<s3 page="0089" title="57. !!Nyctibatrachus jog!!" author=""></s3>
+				<s3 page="0090" title="58. !!Nyctibatrahus karnatakaensis!!" author=""></s3>
+				<s3 page="0091" title="59. !!Nyctibatrachus kempholeyensis!!" author=""></s3>
+				<s3 page="0092" title="60. !!Nyctibatrachus major!!" author=""></s3>
+				<s3 page="0093" title="61. !!Nyctibatrachus minimus!!" author=""></s3>
+				<s3 page="0094" title="62. !!Nyctibatrachus minor!!" author=""></s3>
+				<s3 page="0095" title="63. !!Nyctibatrachus periyar!!" author=""></s3>
+				<s3 page="0096" title="64. !!Nyctibatrachus petraeus!!" author=""></s3>
+				<s3 page="0097" title="65. !!Nyctibatrachus pillaii!!" author=""></s3>
+				<s3 page="0098" title="66. !!Nyctibatrachus poocha!!" author=""></s3>
+				<s3 page="0099" title="67. !!Nyctibatrachus sanctipalustris!!" author=""></s3>
+				<s3 page="0100" title="68. !!Nyctibatrachus shiradi!!" author=""></s3>
+				<s3 page="0101" title="69. !!Nyctibatrachus sylvaticus!!" author=""></s3>
+				<s3 page="0102" title="70. !!Nyctibatrachus vasanthi!!" author=""></s3>
+				<s3 page="0103" title="71. !!Nyctibatrachus vrijeuni!!" author=""></s3>
+			</s2>
+			<s2 page="0104" title="Family: Ranidae" author="">
+				<s3 page="0104" title="72. !!Clinotarsus curtipes!!" author=""></s3>
+			</s2>
+			<s2 page="0105" title="Family: Ranixalidae" author="">
+				<s3 page="0105" title="73. !!Indirana beddomii!!" author=""></s3>
+				<s3 page="0106" title="74. !!Indirana brachytarsus!!" author=""></s3>
+				<s3 page="0107" title="75. !!Indirana diplosticta!!" author=""></s3>
+				<s3 page="0108" title="76. !!Indirana gundia!!" author=""></s3>
+				<s3 page="0109" title="77. !!Indirana leithii!!" author=""></s3>
+				<s3 page="0110" title="78. !!Indirana leptodactyla!!" author=""></s3>
+				<s3 page="0111" title="79. !!Indirana longicrus!!" author=""></s3>
+				<s3 page="0112" title="80. !!Indirana phrynoderma!!" author=""></s3>
+				<s3 page="0113" title="81. !!Indirana semipalmata!!" author=""></s3>
+				<s3 page="0114" title="82. !!Indirana tenuilingua!!" author=""></s3>
+			</s2>
+			<s2 page="0115" title="Family: Rhacophoridae" author="">
+				<s3 page="0115" title="83. !!Ghatixalus asterops!!" author=""></s3>
+				<s3 page="0116" title="84. !!Ghatixalus variabilis!!" author=""></s3>
+				<s3 page="0117" title="85. !!Beddomixalus bijui!!" author=""></s3>
+				<s3 page="0118" title="86. !!Polypedates occidentalis!!" author=""></s3>
+				<s3 page="0119" title="87. !!Polypedates pseudocruciger!!" author=""></s3>
+				<s3 page="0120" title="88. !!Pseudophilautus amboli!!" author=""></s3>
+				<s3 page="0121" title="89. !!Pseudophilautus kani!!" author=""></s3>
+				<s3 page="0122" title="90. !!Pseudophilautus wynaadensis!!" author=""></s3>
+				<s3 page="0123" title="91. !!Raorchestes agasthyaensis!!" author=""></s3>
+				<s3 page="0124" title="92. !!Raorchestes akroparallagi!!" author=""></s3>
+				<s3 page="0125" title="93. !!Raorchestes anili!!" author=""></s3>
+				<s3 page="0126" title="94. !!Raorchestes beddomei!!" author=""></s3>
+				<s3 page="0127" title="95. !!Raorchestes bobingeri!!" author=""></s3>
+				<s3 page="0128" title="96. !!Raorchestes bombayensis!!" author=""></s3>
+				<s3 page="0129" title="97. !!Raorchestes chalazodes!!" author=""></s3>
+				<s3 page="0130" title="98. !!Raorchestes charius!!" author=""></s3>
+				<s3 page="0131" title="99. !!Raorchestes chlorosomma!!" author=""></s3>
+				<s3 page="0132" title="100. !!Raorchestes chotta!!" author=""></s3>
+				<s3 page="0133" title="101. !!Raorchestes chromasynchysi!!" author=""></s3>
+				<s3 page="0134" title="102. !!Raorchestes coonoorensis!!" author=""></s3>
+				<s3 page="0135" title="103. !!Raorchestes crustai!!" author=""></s3>
+				<s3 page="0136" title="104. !!Raorchestes dubois!!" author=""></s3>
+				<s3 page="0137" title="105. !!Raorchestes flaviventris!!" author=""></s3>
+				<s3 page="0138" title="106. !!Raorchestes glandulosus!!" author=""></s3>
+				<s3 page="0139" title="107. !!Raorchestes graminirupes!!" author=""></s3>
+				<s3 page="0140" title="108. !!Raorchestes griet!!" author=""></s3>
+				<s3 page="0141" title="109. !!Raorchestes jayarami!!" author=""></s3>
+				<s3 page="0142" title="110. !!Raorchestes johnceei!!" author=""></s3>
+				<s3 page="0143" title="111. !!Raorchestes kadalarensis!!" author=""></s3>
+				<s3 page="0144" title="112. !!Raorchestes kaikatti!!" author=""></s3>
+				<s3 page="0145" title="113. !!Raorchestes luteolus!!" author=""></s3>
+				<s3 page="0146" title="114. !!Raorchestes manohari!!" author=""></s3>
+				<s3 page="0147" title="115. !!Raorchestes marki!!" author=""></s3>
+				<s3 page="0148" title="116. !!Raorchestes munnarensis!!" author=""></s3>
+				<s3 page="0149" title="117. !!Raorchestes nerostagona!!" author=""></s3>
+				<s3 page="0150" title="118. !!Raorchestes ochlandrae!!" author=""></s3>
+				<s3 page="0151" title="119. !!Raorchestes ponmudi!!" author=""></s3>
+				<s3 page="0152" title="120. !!Raorchestes ravii!!" author=""></s3>
+				<s3 page="0153" title="121. !!Raorchestes resplendens!!" author=""></s3>
+				<s3 page="0154" title="122. !!Raorchestes signatus!!" author=""></s3>
+				<s3 page="0155" title="123. !!Raorchestes sushili!!" author=""></s3>
+				<s3 page="0156" title="124. !!Raorchestes theuerkaufi!!" author=""></s3>
+				<s3 page="0157" title="125. !!Raorchestes thodai!!" author=""></s3>
+				<s3 page="0158" title="126. !!Raorchestes tinniens!!" author=""></s3>
+				<s3 page="0159" title="127. !!Raorchestes travancoricus!!" author=""></s3>
+				<s3 page="0160" title="128. !!Raorchestes tuberohumerus!!" author=""></s3>
+				<s3 page="0161" title="129. !!Raorchestes uthamani!!" author=""></s3>
+				<s3 page="0162" title="130. !!Rhacophorus calcadensis!!" author=""></s3>
+				<s3 page="0163" title="131. !!Rhacophorus lateralis!!" author=""></s3>
+				<s3 page="0164" title="132. !!Rhacophorus malabaricus!!" author=""></s3>
+				<s3 page="0165" title="133. !!Rhacophorus pseudo malabaricu!!" author=""></s3>
+			</s2>
+			<s2 page="0166" title="Family: Indotyphliidae" author="">
+				<s3 page="0166" title="134. !!Gegeneophis carnosus!!" author=""></s3>
+				<s3 page="0167" title="135. !!Gegeneophis danieli!!" author=""></s3>
+				<s3 page="0168" title="136. !!Gegeneophis goaensis!!" author=""></s3>
+				<s3 page="0169" title="137. !!Gegeneophis krishni!!" author=""></s3>
+				<s3 page="0170" title="138. !!Gegeneophis madhavai!!" author=""></s3>
+				<s3 page="0171" title="139. !!Gegeneophis mhadeiensis!!" author=""></s3>
+				<s3 page="0172" title="140. !!Gegeneophis nadakarnii!!" author=""></s3>
+				<s3 page="0173" title="141. !!Gegeneophis pareshi!!" author=""></s3>
+				<s3 page="0174" title="142. !!Gegeneophis ramaswamii!!" author=""></s3>
+				<s3 page="0175" title="143. !!Gegeneophis seshachari!!" author=""></s3>
+				<s3 page="0176" title="144. !!Indotyphlus battersbyi!!" author=""></s3>
+				<s3 page="0177" title="145. !!Indotyphlus maharashtraensis!!" author=""></s3>
+			</s2>
+			<s2 page="0178" title="Family: Ichthyophiidae" author="">
+				<s3 page="0178" title="146. !!Ichthyophis beddomei!!" author=""></s3>
+				<s3 page="0179" title="147. !!Ichthyophis bombayensis!!" author=""></s3>
+				<s3 page="0180" title="148. !!Ichthyophis davidi!!" author=""></s3>
+				<s3 page="0181" title="149. !!Ichthyophis kodaguensis!!" author=""></s3>
+				<s3 page="0182" title="150. !!Ichthyophis longicephalus!!" author=""></s3>
+				<s3 page="0183" title="151. !!Ichthyophis tricolor!!" author=""></s3>
+				<s3 page="0184" title="152. !!Uraeotyphlus gansi!!" author=""></s3>
+				<s3 page="0185" title="153. !!Uraeotyphlus interruptus!!" author=""></s3>
+				<s3 page="0186" title="154. !!Uraeotyphlus malabaricus!!" author=""></s3>
+				<s3 page="0187" title="155. !!Uraeotyphlus menoni!!" author=""></s3>
+				<s3 page="0188" title="156. !!Uraeotyphlus narayani!!" author=""></s3>
+				<s3 page="0189" title="157. !!Uraeotyphlus oommeni!!" author=""></s3>
+				<s3 page="0190" title="158. !!Uraeotyphlus oxyurus!!" author=""></s3>
+			</s2>
+		</s1>
+		<s1 page="0191" title="11. Study Localities of Endemic Amphibians" author=""></s1>
+		<s1 page="0212" title="12. Bioclimatic Distribution of Endemic Amphibians" author=""></s1>
+		<s1 page="0246" title="13. References" author=""></s1>
+	</book>
+	<book bid="056">
+		<s1 page="0005" title="1. Prologue" author="Venkataraman, K."></s1>
+		<s1 page="0007" title="2. Mammalia" author="De, J. K.;Sharma, Gaurav"></s1>
+		<s1 page="0017" title="3. Aves" author="De, J. K.;Maheswaran, G."></s1>
+		<s1 page="0035" title="4. Reptiles" author="Palot, Jafer"></s1>
+		<s1 page="0067" title="5. Amphibia" author="Deuti, K."></s1>
+		<s1 page="0139" title="6. Pisces" author="Mishra, S. S.;Kosygin, Laishram;Rajan, P. T.;Gopi, K. C."></s1>
+	</book>
+	<book bid="057">
+		<s1 page="0004" title="Introduction" author=""></s1>
+		<s1 page="0007" title="Systematic list of Endemic Fauna" author=""></s1>
+		<s1 page="0024" title="Mammals" author=""></s1>
+		<s1 page="0028" title="Birds" author=""></s1>
+		<s1 page="0046" title="Reptiles" author=""></s1>
+		<s1 page="0051" title="Amphibia" author=""></s1>
+		<s1 page="0052" title="Fishes" author=""></s1>
+		<s1 page="0053" title="Molluscas" author=""></s1>
+		<s1 page="0085" title="Earthworms" author=""></s1>
+		<s1 page="0086" title="Crustaceans" author=""></s1>
+		<s1 page="0088" title="Pycnogonida" author=""></s1>
+		<s1 page="0088" title="Insects" author=""></s1>
+		<s1 page="0145" title="Arachnida" author=""></s1>
+		<s1 page="0146" title="Chilopoda" author=""></s1>
+		<s1 page="0147" title="Sponges" author=""></s1>
+		<s1 page="0149" title="Soft &amp; stinging corals" author=""></s1>
+		<s1 page="0151" title="Spiny Crown Worms" author=""></s1>
+		<s1 page="0151" title="Protozoans" author=""></s1>
+		<s1 page="0152" title="Meiofauna" author=""></s1>
+		<s1 page="0156" title="Discussion" author=""></s1>
+		<s1 page="0158" title="Summary" author=""></s1>
+		<s1 page="0158" title="Acknowledgements" author=""></s1>
+		<s1 page="0158" title="References" author=""></s1>
+	</book>
 </spb>

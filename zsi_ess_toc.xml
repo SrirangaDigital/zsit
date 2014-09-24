@@ -417,4 +417,106 @@
 		<s1 page="0117" title="Herpetofauna" author="Srinivasulu, C."></s1>
 		<s1 page="0125" title="Aves" author="Srinivasulu, C."></s1>
 	</book>
-</ess> 
+	<book bid="025">
+		<s1 page="0001" title="Introduction" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0003" title="Materials and Methods" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0006" title="Ichthyofauna" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0061" title="Crustacean fauna" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0077" title="Crabs" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0090" title="Wetland Avifauna" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0092" title="Discussion" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0097" title="Summary" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0098" title="Acknowledgements" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0098" title="Referances" author="Rao, D. V.;Rath, Shibananda"></s1>
+	</book>
+	<book bid="026">
+		<s1 page="0001" title="Introduction" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0003" title="Material and Methods" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0004" title="Systematic Account" author="Rao, D. V.;Rath, Shibananda">
+			<s2 page="0004" title="a. Pisces" author="Rao, D. V.;Rath, Shibananda"></s2>
+			<s2 page="0039" title="b. Brachyuran crabs" author="Rao, D. V.;Rath, Shibananda"></s2>
+		</s1>
+		<s1 page="0048" title="Discussion" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0049" title="Summary" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0049" title="Acknowledgement" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0049" title="References" author="Rao, D. V.;Rath, Shibananda"></s1>
+		<s1 page="0053" title="Colour Plates" author="Rao, D. V.;Rath, Shibananda"></s1>
+	</book>
+	<book bid="027">
+		<s1 page="0001" title="Overview" author="Sharma, Gopal"></s1>
+		<s1 page="0007" title="Zooplankton Diversity" author="Sharma, Gopal;Sinha, Puja;Sinha, Preeti"></s1>
+		<s1 page="0021" title="Molluscan Diversity" author="Sharma, Gopal;Dey, A.;Sardana, Mohita"></s1>
+		<s1 page="0049" title="Fish Diversity" author="Sharma, Gopal;Chand, G. B.;Jaiswal, Deepa;Sharma, Indu"></s1>
+		<s1 page="0093" title="Avian Diversity" author="Sharma, Gopal;Mishra, Arvind;Singh, Ajeet Kumar"></s1>
+	</book>
+	<book bid="028">
+		<s1 page="0001" title="Introduction" author="Kumar, Sanjeev"></s1>
+		<s1 page="0007" title="Study Area" author="Kumar, Sanjeev">
+			<s2 page="0007" title="Khijadiyalake &amp; Bird Sanctuary" author=""></s2>
+			<s2 page="0008" title="History" author=""></s2>
+			<s2 page="0009" title="Climate" author=""></s2>
+			<s2 page="0010" title="Geology" author=""></s2>
+			<s2 page="0012" title="Soil" author=""></s2>
+			<s2 page="0012" title="Catchment &amp; Drainage" author=""></s2>
+			<s2 page="0013" title="Physico-Chemical parameters" author=""></s2>
+		</s1>
+		<s1 page="0013" title="Review of Literature" author="Kumar, Sanjeev"></s1>
+		<s1 page="0014" title="Material &amp; Methods" author="Kumar, Sanjeev"></s1>
+		<s1 page="0015" title="Flora" author="Kumar, Sanjeev"></s1>
+		<s1 page="0016" title="Fauna" author="Kumar, Sanjeev">
+			<s2 page="0017" title="Invertebrate Fauna" author=""></s2>
+			<s2 page="0018" title="Vertebrate Fauna" author="">
+				<s3 page="0018" title="Pisces : Fishes" author=""></s3>
+				<s3 page="0019" title="Amphibia : Frogs and Toads" author=""></s3>
+				<s3 page="0019" title="Reptilia : Turtles, Lizards &amp; Snakes" author=""></s3>
+				<s3 page="0019" title="Aves : Birds" author=""></s3>
+				<s3 page="0164" title="Mammalia : Mammals" author=""></s3>
+			</s2>
+		</s1>
+		<s1 page="0165" title="Threats &amp; Conservation" author="Kumar, Sanjeev"></s1>
+		<s1 page="0168" title="Summary" author="Kumar, Sanjeev"></s1>
+		<s1 page="0170" title="Acknowledgements" author="Kumar, Sanjeev"></s1>
+		<s1 page="0171" title="References" author="Kumar, Sanjeev"></s1>
+		<s1 page="0175" title="Appendices" author="Kumar, Sanjeev">
+			<s2 page="0175" title="Appendix 1 : List of Importent Wetlands Under National Wetland Conservation &amp; Management Programme (NWCMP)" author=""></s2>
+			<s2 page="0176" title="Appendix 2 : List of Important Wetlands Under National Lake Conservation Programme (NLCP)" author=""></s2>
+			<s2 page="0177" title="Appendix 3 : List of Important Bird Areas (IBAs) of Gujarat" author=""></s2>
+			<s2 page="0178" title="Appendix 4 : Flora of Khijadiya Bird Sanctuary, Gujarat" author=""></s2>
+			<s2 page="0190" title="Appendix 5 : List of Fishes of Khijadiya Bird Sanctuary, Gujarat" author=""></s2>
+			<s2 page="0190" title="Appendix 6 : List of Amphibia of Khijadiya Bird Sanctuary, Gujarat" author=""></s2>
+			<s2 page="0191" title="Appendix 7 : List of Reptiles of Khijadiya Bird Sanctuary, Gujarat" author=""></s2>
+			<s2 page="0192" title="Appendix 8 : List of Mammals of Khijadiya Bird Sanctuary, Gujarat" author=""></s2>
+		</s1>
+	</book>
+	<book bid="029">
+		<s1 page="0001" title="1. Introduction" author="Sharma, Sumita;Sharma, B. K."></s1>
+		<s1 page="0002" title="2. Materials and Methods" author="Sharma, Sumita;Sharma, B. K.">
+			<s2 page="0002" title="i. Study site" author=""></s2>
+			<s2 page="0004" title="ii. Methods of Collection" author=""></s2>
+			<s2 page="0004" title="iii. Methods of study and Identification" author=""></s2>
+		</s1>
+		<s1 page="0006" title="Systematic Account" author="Sharma, Sumita;Sharma, B. K.">
+			<s2 page="0007" title="A. Systematic List of the Recorded Species" author=""></s2>
+			<s2 page="0022" title="B. Taxonomic Notes" author="">
+				<s3 page="0022" title="a. Protozoa" author=""></s3>
+				<s3 page="0041" title="b. Rotifera" author=""></s3>
+				<s3 page="0093" title="c. Cladocera" author=""></s3>
+				<s3 page="0126" title="d. Copepoda" author=""></s3>
+				<s3 page="0132" title="e. Ostracoda" author=""></s3>
+				<s3 page="0137" title="f. Gastrotricha" author=""></s3>
+				<s3 page="0138" title="g. Mollusca" author=""></s3>
+				<s3 page="0146" title="h. Aquatic Insects" author="">
+					<s4 page="0146" title="Hemiptera" author=""></s4>
+					<s4 page="0154" title="Plecoptera" author=""></s4>
+					<s4 page="0157" title="Ephemeroptera" author=""></s4>
+					<s4 page="0160" title="Coleoptera" author=""></s4>
+				</s3>
+			</s2>
+		</s1>
+		<s1 page="0163" title="4. Zooplankton Richness" author="Sharma, Sumita;Sharma, B. K."></s1>
+		<s1 page="0185" title="5. Discussion" author="Sharma, Sumita;Sharma, B. K."></s1>
+		<s1 page="0205" title="6. Summary" author="Sharma, Sumita;Sharma, B. K."></s1>
+		<s1 page="0213" title="7. Acknowledgements" author="Sharma, Sumita;Sharma, B. K."></s1>
+		<s1 page="0213" title="8. References" author="Sharma, Sumita;Sharma, B. K."></s1>
+	</book>
+</ess>

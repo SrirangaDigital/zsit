@@ -7626,4 +7626,356 @@
 			</s2>
 		</s1>
 	</book>
+	<book bid="052">
+		<s1 page="0001" title="1. General Introduction"></s1>
+		<s1 page="0011" title="2. Literature Review"></s1>
+		<s1 page="0024" title="3. Characteristics of Extant Classes"></s1>
+		<s1 page="0032" title="4. Study Areas"></s1>
+		<s1 page="0038" title="5. Material and Methods"></s1>
+		<s1 page="0039" title="6. Key Characters"></s1>
+		<s1 page="0059" title="7. Descriptions">
+			<s2 page="0060" title="Class Crinoidea">
+				<s3 page="0060" title="1. !!Comanthus parvicirrus!!"></s3>
+				<s3 page="0061" title="2. !!Comanthina nobilis!!"></s3>
+				<s3 page="0062" title="3. !!Comaster schlegeli!!"></s3>
+				<s3 page="0063" title="4. !!Comaster multibrachiata!!"></s3>
+				<s3 page="0064" title="5. !!Oxycomanthus bennetti!!"></s3>
+				<s3 page="0065" title="6. !!Himerometra robustipinna!!"></s3>
+				<s3 page="0066" title="7. !!Heterometra philiberti!!"></s3>
+				<s3 page="0067" title="8. !!Heterometra crenulata!!"></s3>
+				<s3 page="0068" title="9. !!Amphimetra molleri!!"></s3>
+				<s3 page="0069" title="10. !!Lamprometra palmata!!"></s3>
+				<s3 page="0070" title="11. !!Cenometra bella!!"></s3>
+				<s3 page="0071" title="12. !!Cenometra emendatrix!!"></s3>
+				<s3 page="0072" title="13. !!Oligometra serripinna!!"></s3>
+				<s3 page="0073" title="14. !!Pontimetra andersoni!!"></s3>
+			</s2>
+			<s2 page="0075" title="Class Asteroidea">
+				<s3 page="0075" title="15. !!Asterina sarasini!!"></s3>
+				<s3 page="0076" title="16. !!Stellaster equestris!!"></s3>
+				<s3 page="0077" title="17. !!Culcita novaguineae!!"></s3>
+				<s3 page="0078" title="18. !!Culcita schmideliana!!"></s3>
+				<s3 page="0079" title="19. !!Choriaster granulatus!!"></s3>
+				<s3 page="0080" title="20. !!Anthenea tuberculosa!!"></s3>
+				<s3 page="0081" title="21. !!Protoreaster lincki!!"></s3>
+				<s3 page="0082" title="22. !!Protoreaster nodosus!!"></s3>
+				<s3 page="0083" title="23. !!Pentaceraster regulus!!"></s3>
+				<s3 page="0084" title="24. !!Asteropsis carinifera!!"></s3>
+				<s3 page="0085" title="25. !!Acanthaster planci!!"></s3>
+				<s3 page="0086" title="26. !!Fromia monilis!!"></s3>
+				<s3 page="0087" title="27. !!Fromia indica!!"></s3>
+				<s3 page="0088" title="28. !!Linckia guildingi!!"></s3>
+				<s3 page="0089" title="29. !!Linckia laevigata!!"></s3>
+				<s3 page="0090" title="30. !!Linckia multifora!!"></s3>
+				<s3 page="0091" title="31. !!Echinaster luzonicus!!"></s3>
+				<s3 page="0092" title="32. !!Astropecten indicus!!"></s3>
+				<s3 page="0093" title="33. !!Astropecten monacanthus!!"></s3>
+				<s3 page="0094" title="34. !!Luidia maculata!!"></s3>
+			</s2>
+			<s2 page="0096" title="Class Ophiuroidea">
+				<s3 page="0096" title="35. !!Ophiocoma erinaceus!!"></s3>
+				<s3 page="0097" title="36. !!Ophiocoma dentata!!"></s3>
+				<s3 page="0098" title="37. !!Ophiocoma scolopendrina!!"></s3>
+				<s3 page="0099" title="38. !!Ophiarthrum pictum!!"></s3>
+				<s3 page="0100" title="39. !!Ophiomastix annulosa!!"></s3>
+				<s3 page="0101" title="40. !!MAcrophiothrix propinqua!!"></s3>
+				<s3 page="0102" title="41. !!Macrophiothrix longipeda!!"></s3>
+				<s3 page="0103" title="42. !!Ophiarachna incrassata!!"></s3>
+			</s2>
+			<s2 page="0105" title="Class Echinoidea">
+				<s3 page="0105" title="43. !!Prionocidaris verticillata!!"></s3>
+				<s3 page="0106" title="44. !!Arbacia puntulata!!"></s3>
+				<s3 page="0107" title="45. !!Diadema setosum!!"></s3>
+				<s3 page="0108" title="46. !!Diadema savignyi!!"></s3>
+				<s3 page="0109" title="47. !!Echinothrix calamaris!!"></s3>
+				<s3 page="0110" title="48. !!Echinothrix diadema!!"></s3>
+				<s3 page="0111" title="49. !!Echinometra oblonga!!"></s3>
+				<s3 page="0112" title="50. !!Echinometra mathaei!!"></s3>
+				<s3 page="0113" title="51. !!Heterocentrotus trigonarius!!"></s3>
+				<s3 page="0114" title="52. !!Echinodiscus auritus!!"></s3>
+				<s3 page="0115" title="53. !!Temnopleurus alexendri!!"></s3>
+				<s3 page="0116" title="54. !!Mespilia globulus!!"></s3>
+				<s3 page="0117" title="55. !!Microcyphus ceylanicus!!"></s3>
+				<s3 page="0118" title="56. !!Salmacis belli!!"></s3>
+				<s3 page="0119" title="57. !!Tripneustes gratilla!!"></s3>
+				<s3 page="0120" title="58. !!Stomopneustus variolaris!!"></s3>
+				<s3 page="0121" title="59. !!Clypeaster humilis!!"></s3>
+			</s2>
+			<s2 page="0123" title="Class Holothuroidea">
+				<s3 page="0123" title="60. !!Actinopyga mauritiana!!"></s3>
+				<s3 page="0124" title="61. !!Actinopyga miliaris!!"></s3>
+				<s3 page="0125" title="62. !!Actinopyga lacanora!!"></s3>
+				<s3 page="0126" title="63. !!Actinopyga echinities!!"></s3>
+				<s3 page="0127" title="64. !!Holothuria cinerascens!!"></s3>
+				<s3 page="0129" title="65. !!Holothuria (Thymiosycia) hilla!!"></s3>
+				<s3 page="0131" title="66. !!Holothuria (Thymioscycia) impatiens!!"></s3>
+				<s3 page="0133" title="67. !!Holothuria atra!!"></s3>
+				<s3 page="0134" title="68. !!Holothuria (Acanthotrapeza) pyxis!!"></s3>
+				<s3 page="0136" title="69. !!Holothuria leucospilota!!"></s3>
+				<s3 page="0138" title="70. !!Holothuria (Mertensiothuria) fuscocinerea!!"></s3>
+				<s3 page="0139" title="71. !!Holothuria (Metriatyla) scabra!!"></s3>
+				<s3 page="0141" title="72. !!Holothuria (Halodeima) edulis!!"></s3>
+				<s3 page="0143" title="73. !!Holothuria (Microthele) nobilis!!"></s3>
+				<s3 page="0144" title="74. !!Holothuria coluber!!"></s3>
+				<s3 page="0145" title="75. !!Holothuria (Mertensiothuria) pervicax!!"></s3>
+				<s3 page="0147" title="76. !!Holothuria arenicola!!"></s3>
+				<s3 page="0148" title="77. !!Holothuria marmorata!!"></s3>
+				<s3 page="0149" title="78. !!Bohadschia argus!!"></s3>
+				<s3 page="0150" title="79. !!Bohadschia graeffei!!"></s3>
+				<s3 page="0152" title="80. !!Labidodemas semperianum!!"></s3>
+				<s3 page="0153" title="81. !!Stolus buccalis!!"></s3>
+				<s3 page="0154" title="82. !!Thelenota annas!!"></s3>
+				<s3 page="0155" title="83. !!Stichopus horrens!!"></s3>
+				<s3 page="0156" title="84. !!Stichopus chloronotus!!"></s3>
+				<s3 page="0157" title="85. !!Stichopus hermanni!!"></s3>
+				<s3 page="0158" title="86. !!Stichopus vastus!!"></s3>
+				<s3 page="0159" title="87. !!Synapta maculata!!"></s3>
+				<s3 page="0160" title="88. !!Euapta godreffroyi!!"></s3>
+				<s3 page="0161" title="89. !!Acaudina malpadioides!!"></s3>
+			</s2>
+		</s1>
+		<s1 page="0162" title="Checklist of Echinoderms of India"></s1>
+		<s1 page="0192" title="Acknowledgements"></s1>
+		<s1 page="0192" title="References"></s1>
+	</book>
+	<book bid="053">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0009" title="1. !!Acrida exaltata!! (Walker, 1859)"></s2>
+			<s2 page="0011" title="2. !!Acrida gigantea!! (Herbst, 1794)"></s2>
+			<s2 page="0012" title="3. !!Acrida turrita!! (Linnaeus, 1758)"></s2>
+			<s2 page="0013" title="4. !!Phlaeoba infumata!! Brunner Von Wattenwyl, 1893"></s2>
+			<s2 page="0014" title="5. !!Phlaeoba panteli!! Bolivar, 1902"></s2>
+			<s2 page="0016" title="6. !!Choroedocus illustris!! (Walker, 1870)"></s2>
+			<s2 page="0017" title="7. !!Choroedocus robustus!! (Serville, 1839)"></s2>
+			<s2 page="0018" title="8. !!Pachyacris vinosa!! (Walker, 1870)"></s2>
+			<s2 page="0019" title="9. !!Oxyrrhepes obtusa!! (Haan, 1842)"></s2>
+			<s2 page="0021" title="10. !!Xenocatantops humilis humilis!! (Serville, 1839)"></s2>
+			<s2 page="0023" title="11. !!Xenocatantops karnyi!! (Kirby, 1910)"></s2>
+			<s2 page="0024" title="12. !!Diabolocatantops innotabilis!! (Walker, 1870)"></s2>
+			<s2 page="0026" title="13. !!Stenocatantops splendens!! (Thunberg, 1815)"></s2>
+			<s2 page="0029" title="14. !!Chondracris rosea!! (De Geer, 1773)"></s2>
+			<s2 page="0031" title="15. !!Cyrtacanthacris tatarica!! (Linnaeus, 1758)"></s2>
+			<s2 page="0033" title="16. !!Patanga succincta!! (Johansson, 1763)"></s2>
+			<s2 page="0035" title="17. !!Tylotropidius varicornis!! (Walker, 1870)"></s2>
+			<s2 page="0037" title="18. !!Eyprepocnemis alacris alacris!! (Serville, 1839)"></s2>
+			<s2 page="0039" title="19. !!Eyprepocnemis rosea!! Uvarov, 1942"></s2>
+			<s2 page="0041" title="20. !!Aulacobothrus luteipes luteipes!! (Walker, 1871)"></s2>
+			<s2 page="0043" title="21. !!Hieroglyphus banian!! (Fabricius, 1798)"></s2>
+			<s2 page="0045" title="22. !!Dittopternis venusta!! (Walker, 1870)"></s2>
+			<s2 page="0047" title="23. !!Ceracris striata!! Uvarov, 1925"></s2>
+			<s2 page="0049" title="24. !!Gastrimargus africanus africanus!! (Saussure, 1888)"></s2>
+			<s2 page="0051" title="25. !!Gastrimargus marmoratus!! (Thunberg, 1815)"></s2>
+			<s2 page="0053" title="26. !!Oedaleus abruptus!! (Thunberg, 1815)"></s2>
+			<s2 page="0055" title="27. !!Sphingonotus (Sphingonotus) longipennis!! Saussure, 1884"></s2>
+			<s2 page="0056" title="28. !!Trilophidia annulata!! (Thunberg, 1815)"></s2>
+			<s2 page="0058" title="29. !!Gesonula punctifrons!! Stål, 1860"></s2>
+			<s2 page="0060" title="30. !!Caryanda parvicina!! (Willemse, 1925)"></s2>
+			<s2 page="0061" title="31. !!Oxya fuscovittata!! (Marschall, 1836)"></s2>
+			<s2 page="0063" title="32. !!Spathosternum prasiniferum prasiniferum!! (Walker, 1871)"></s2>
+			<s2 page="0065" title="33. !!Atractomorpha crenulata!! (Fabricius, 1793)"></s2>
+			<s2 page="0067" title="34. !!Chrotogonus (Chrotogonus) trachypterus trachypterus!! (Blanchard, 1836)"></s2>
+			<s2 page="0069" title="35. !!Poekilocerus pictus!! (Fabricius, 1775)"></s2>
+		</s1>
+		<s1 page="0071" title="The List of Species Recorded from Western Himalayas which are not Illustrated and Discussed"></s1>
+		<s1 page="0075" title="Summary"></s1>
+		<s1 page="0075" title="Acknowledgements"></s1>
+		<s1 page="0075" title="References"></s1>
+	</book>
+	<book bid="054">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0007" title="1. !!Orius tantillus!! (Motschulsky)"></s2>
+			<s2 page="0008" title="2. !!Geocoris ochropterus!! (Fieber)"></s2>
+			<s2 page="0009" title="3. !!Geocoris jucundus!! (Fieber)"></s2>
+			<s2 page="0010" title="4. !!Acanthaspis siva!! Distant"></s2>
+			<s2 page="0011" title="5. !!Acanthaspis pedestries!! Stål"></s2>
+			<s2 page="0012" title="6. !!Cydnocoris gilvus!! (Burmester)"></s2>
+			<s2 page="0013" title="7. !!Euagorus plagiatus!! (Burm.)"></s2>
+			<s2 page="0014" title="8. !!Endochus inornatus!! Stål"></s2>
+			<s2 page="0015" title="9. !!Ectomocoris tibialis!! Distant"></s2>
+			<s2 page="0016" title="10. !!Occamus typicus!! Distant"></s2>
+			<s2 page="0017" title="11. !!Rhynocoris costalis!! (Stål)"></s2>
+			<s2 page="0018" title="12. !!Rhynocoris fuscipes!! (Fabricius)"></s2>
+			<s2 page="0019" title="13. !!Rhynocoris marginatus!! (Fabricius)"></s2>
+			<s2 page="0020" title="14. !!Irantha armipes!! (Stål)"></s2>
+			<s2 page="0021" title="15. !!Andrallus spinidens!! (Fabricius)"></s2>
+			<s2 page="0022" title="16. !!Amyotea malabaricus!! (Fabricius)"></s2>
+			<s2 page="0023" title="17. !!Eocanthecona furcellata!! (Wolff.)"></s2>
+			<s2 page="0024" title="18. !!Zicrona caerulea!! (Linnaeus)"></s2>
+			<s2 page="0025" title="19. !!Cyrtorhynus lividepennis!! (Reuter)"></s2>
+			<s2 page="0026" title="20. !!Anisops bouvieri Kirkaldy!!"></s2>
+			<s2 page="0027" title="21. !!Anisops sardeus!! Herrich-Shaffer"></s2>
+			<s2 page="0028" title="22. !!Enithares ciliata!! (Fabricius)"></s2>
+			<s2 page="0029" title="23. !!Plea frontalis!! (Fieber)"></s2>
+			<s2 page="0030" title="24. !!Laccotrephes ruber!! (Linnaeus)"></s2>
+			<s2 page="0031" title="25. !!Laccotrephes griseus!! (Guerin)"></s2>
+			<s2 page="0032" title="26. !!Ranatra elongata!! Fabricius"></s2>
+			<s2 page="0033" title="27. !!Ranatra filiformis!! Fabricius"></s2>
+			<s2 page="0034" title="28. !!Ranatra varipes!! Stål"></s2>
+			<s2 page="0035" title="29. !!Cercotmetus fumosus!! Distant"></s2>
+			<s2 page="0036" title="30. !!Diplonychus annulatus!! (Fabricius)"></s2>
+			<s2 page="0037" title="31. !!Diplonychus rusticus!! (Fabricius)"></s2>
+			<s2 page="0038" title="32. !!Lethocerus indicus!! (Lep. &amp; Serv)"></s2>
+			<s2 page="0039" title="33. !!Aquarius adelaidis!! (Dohrn)"></s2>
+			<s2 page="0040" title="34. !!Linnogonus!! (Linnogonus) !!nitidus!! (Mayr)"></s2>
+			<s2 page="0041" title="35. !!Neogerris parvula!! (Stål)"></s2>
+		</s1>
+		<s1 page="0042" title="Discussion"></s1>
+		<s1 page="0042" title="Acknowledgements"></s1>
+		<s1 page="0042" title="References"></s1>
+	</book>
+	<book bid="055">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0002" title="Coral Reefs in India"></s1>
+		<s1 page="0008" title="Biological Diversity of Corals"></s1>
+		<s1 page="0011" title="Coral Taxonomy"></s1>
+		<s1 page="0014" title="List of Sceratinian Species Recorded in India"></s1>
+		<s1 page="0023" title="Identifying a Hard Coral"></s1>
+		<s1 page="0029" title="Difficulties in Coral Identification"></s1>
+		<s1 page="0033" title="Taxonomic Information of Scleractinian Corals">
+			<s2 page="0033" title="Order Scleractinia Bourne, 1900">
+				<s3 page="0035" title="Family Acroporidae Verrill, 1902"></s3>
+				<s3 page="0056" title="Family Agariciidae Gray, 1847"></s3>
+				<s3 page="0063" title="Family Astrocoeniidae Koby, 1890"></s3>
+				<s3 page="0064" title="Family Caryophyllidae"></s3>
+				<s3 page="0068" title="Family Dendrophylliidae Gray, 1847"></s3>
+				<s3 page="0073" title="Family Euphylliidae Gray, 1847"></s3>
+				<s3 page="0075" title="Family Faviidae Gregory, 1900"></s3>
+				<s3 page="0090" title="Family Flabellidae"></s3>
+				<s3 page="0094" title="Family Fungiidae Dana, 1846"></s3>
+				<s3 page="0102" title="Family Merulinidae Verrill, 1866"></s3>
+				<s3 page="0104" title="Family Mussidae Ortmann, 1890"></s3>
+				<s3 page="0108" title="Family Oculinidae Gray, 1847"></s3>
+				<s3 page="0109" title="Family Pectiniidae Vaughan &amp; Wells, 1943"></s3>
+				<s3 page="0112" title="Family Pocilloporidae Gray, 1842"></s3>
+				<s3 page="0115" title="Family Poritidae Gray, 1842"></s3>
+				<s3 page="0123" title="Family Rhizangiidae"></s3>
+				<s3 page="0124" title="Family Siderastreidae Vaughan &amp; Wells, 1943"></s3>
+				<s3 page="0127" title="Family Trachyphylliidae Verrill, 1901"></s3>
+			</s2>
+		</s1>
+		<s1 page="0128" title="Glossary"></s1>
+		<s1 page="0133" title="Suggested Reading"></s1>
+	</book>
+	<book bid="056">
+		<s1 page="0001" title="Introduction">
+			<s2 page="0003" title="Types of Negative Interaction with marine fauna">
+				<s3 page="0003" title="1. Envenomations"></s3>
+				<s3 page="0004" title="2. Bites"></s3>
+				<s3 page="0004" title="3. Irritations"></s3>
+				<s3 page="0004" title="4. Poisonings"></s3>
+				<s3 page="0005" title="5. Electric shock"></s3>
+			</s2>
+			<s2 page="0005" title="Risk of Marine Animals"></s2>
+			<s2 page="0005" title="Facts and Stats on Marine Hazards"></s2>
+			<s2 page="0006" title="Types of marine ecosystem in India"></s2>
+			<s2 page="0007" title="Coastal ecosystems"></s2>
+			<s2 page="0007" title="Mangrove forest"></s2>
+			<s2 page="0009" title="Sea grass bed"></s2>
+			<s2 page="0010" title="Coral Reef"></s2>
+			<s2 page="0011" title="Pelagic and benthic ecosystems"></s2>
+		</s1>
+		<s1 page="0014" title="2. Dangerous and Venomous Marine Animals">
+			<s2 page="0014" title="1. Porifera"></s2>
+			<s2 page="0017" title="2. Coelenterata">
+				<s3 page="0020" title="2.1. Jellyfish"></s3>
+				<s3 page="0024" title="2.2. Portuguese man-of-war"></s3>
+				<s3 page="0026" title="2.3. Sea Anemones"></s3>
+				<s3 page="0030" title="2.4. Sea ferns"></s3>
+				<s3 page="0032" title="2.5. Corals"></s3>
+			</s2>
+			<s2 page="0035" title="3. Bryozoa"></s2>
+			<s2 page="0036" title="4. Annelida">
+				<s3 page="0036" title="4.1. Bristle worms"></s3>
+			</s2>
+			<s2 page="0040" title="5. Mollusca">
+				<s3 page="0040" title="5.1. Squids, octopuses and cuttle fishes"></s3>
+				<s3 page="0043" title="5.2. Cone shells"></s3>
+				<s3 page="0048" title="5.3. Nudibranchs or Seaslugs"></s3>
+				<s3 page="0050" title="5.4. Pteropods"></s3>
+			</s2>
+			<s2 page="0052" title="6. Echinodermata">
+				<s3 page="0053" title="6.1. Sea stars and brittle stars"></s3>
+				<s3 page="0059" title="6.2. Sea urchins"></s3>
+				<s3 page="0061" title="6.3. Sea cucumbers"></s3>
+			</s2>
+			<s2 page="0064" title="7. Chordata">
+				<s3 page="0064" title="7.1. Fishes (Dangerous-Those which bite or attack)">
+					<s4 page="0064" title="7.1.1. Sharks"></s4>
+					<s4 page="0069" title="7.1.2. Barracuda"></s4>
+					<s4 page="0071" title="7.1.3. Trigger fishes"></s4>
+					<s4 page="0074" title="7.1.4. Moray eels"></s4>
+				</s3>
+				<s3 page="0076" title="7.2. Fishes (Venomous- Those which sting)">
+					<s4 page="0076" title="7.2.1. Scorpaenidae"></s4>
+					<s4 page="0079" title="7.2.2. Rabbit fishes"></s4>
+					<s4 page="0082" title="7.2.3. Surgeons fishes"></s4>
+					<s4 page="0085" title="7.2.4. Sting rays"></s4>
+					<s4 page="0087" title="7.2.5. Electric rays"></s4>
+					<s4 page="0089" title="7.2.6. Striped cat fish"></s4>
+					<s4 page="0091" title="7.2.7. Puffer fishes"></s4>
+				</s3>
+				<s3 page="0094" title="7.3. Sea snakes"></s3>
+				<s3 page="0097" title="7.4. Crocodile"></s3>
+			</s2>
+		</s1>
+		<s1 page="0099" title="Appendices">
+			<s2 page="0099" title="1. Pressure bandage + Immobilization technique"></s2>
+			<s2 page="0099" title="2. First Aid Materials"></s2>
+		</s1>
+		<s1 page="0103" title="4. Acknowledgments"></s1>
+		<s1 page="0103" title="5. References"></s1>
+	</book>
+	<book bid="057">
+		<s1 page="0001" title="Introduction"></s1>
+		<s1 page="0007" title="National Emblem of India">
+			<s2 page="0007" title="The Symbol of Biodiversity"></s2>
+		</s1>
+		<s1 page="0009" title="Animal Icons of India">
+			<s2 page="0011" title="National Animal"></s2>
+			<s2 page="0013" title="National Bird"></s2>
+			<s2 page="0015" title="National Aquatic Animal"></s2>
+			<s2 page="0017" title="National Heritage Animal"></s2>
+		</s1>
+		<s1 page="0019" title="Animal Icons of Indian States">
+			<s2 page="0021" title="Andhra Pradesh"></s2>
+			<s2 page="0024" title="Arunachal Pradesh"></s2>
+			<s2 page="0027" title="Assam"></s2>
+			<s2 page="0030" title="Bihar"></s2>
+			<s2 page="0033" title="Chhattisgarh"></s2>
+			<s2 page="0036" title="Goa"></s2>
+			<s2 page="0039" title="Gujarat"></s2>
+			<s2 page="0042" title="Haryana"></s2>
+			<s2 page="0045" title="Himachal Pradesh"></s2>
+			<s2 page="0048" title="Jammu and Kashmir"></s2>
+			<s2 page="0051" title="Jharkhand"></s2>
+			<s2 page="0054" title="Karnataka"></s2>
+			<s2 page="0057" title="Kerala"></s2>
+			<s2 page="0060" title="Madhya Pradesh"></s2>
+			<s2 page="0063" title="Maharashtra"></s2>
+			<s2 page="0065" title="Manipur"></s2>
+			<s2 page="0068" title="Meghalaya"></s2>
+			<s2 page="0071" title="Mizoram"></s2>
+			<s2 page="0074" title="Nagaland"></s2>
+			<s2 page="0077" title="Odisha"></s2>
+			<s2 page="0080" title="Punjab"></s2>
+			<s2 page="0083" title="Rajasthan"></s2>
+			<s2 page="0086" title="Sikkim"></s2>
+			<s2 page="0089" title="Tamil Nadu"></s2>
+			<s2 page="0092" title="Tripura"></s2>
+			<s2 page="0094" title="Uttarakhand"></s2>
+			<s2 page="0097" title="Uttar Pradesh"></s2>
+			<s2 page="0100" title="West Bengal"></s2>
+		</s1>
+		<s1 page="0103" title="Animal Icons of Union Territories of India">
+			<s2 page="0105" title="Andaman and Nicobar Islands"></s2>
+			<s2 page="0109" title="Chandigarh"></s2>
+			<s2 page="0110" title="Dadra and Nagar Haveli"></s2>
+			<s2 page="0113" title="Daman and Diu"></s2>
+			<s2 page="0114" title="Lakshadweep"></s2>
+			<s2 page="0117" title="National Capital Territory of Delhi"></s2>
+			<s2 page="0121" title="Puducherry"></s2>
+		</s1>
+		<s1 page="0124" title="Bibliography"></s1>
+		<s1 page="0127" title="Relevant Notifications"></s1>
+	</book>
 </hpg>

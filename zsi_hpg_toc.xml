@@ -7978,4 +7978,54 @@
 		<s1 page="0124" title="Bibliography"></s1>
 		<s1 page="0127" title="Relevant Notifications"></s1>
 	</book>
+	<book bid="058">
+        <s1 page="0000ae" title="Foreword"></s1>
+        <s1 page="0000ag" title="Editor's Preface"></s1>
+        <s1 page="0000ai" title="Author's Preface"></s1>
+        <s1 page="0000ak" title="Acknowledgements"></s1>
+        <s1 page="0000aq" title="Systematic Contents"></s1>
+        <s1 page="0002" title="Introduction">
+            <s2 page="0002" title="History"></s2>
+            <s2 page="0003" title="Habits and habitats"></s2>
+            <s2 page="0004" title="Techniques"></s2>
+            <s2 page="0009" title="General morphology"></s2>
+            <s2 page="0017" title="Biology"></s2>
+            <s2 page="0021" title="Feeding habits"></s2>
+            <s2 page="0022" title="Host-mite relationship"></s2>
+            <s2 page="0022" title="Sampling of mites"></s2>
+            <s2 page="0024" title="Seasonal occurrence"></s2>
+            <s2 page="0025" title="Economic importance"></s2>
+            <s2 page="0028" title="Control of mites"></s2>
+            <s2 page="0032" title="Classification"></s2>
+        </s1>
+        <s1 page="0039" title="Phytophagous Mites">
+            <s2 page="0039" title="Fam. Tetranychidae"></s2>
+            <s2 page="0115" title="Fam. Tuckerellidae"></s2>
+            <s2 page="0118" title="Fam. Tenuipalpidae"></s2>
+            <s2 page="0155" title="Fam. Nalepellidae"></s2>
+            <s2 page="0160" title="Fam. Eriophyidae"></s2>
+            <s2 page="0280" title="Fam. Rhyncaphytoptidae"></s2>
+            <s2 page="0290" title="Fam. Tarsonemidae"></s2>
+        </s1>
+        <s1 page="0297" title="Predatory Mites">
+            <s2 page="0297" title="Fam. Cheyletidae"></s2>
+            <s2 page="0301" title="Fam. Stigmaeidae"></s2>
+            <s2 page="0305" title="Fam. Tydeidae"></s2>
+            <s2 page="0311" title="Fam. Bdellidae"></s2>
+            <s2 page="0313" title="Fam. Cunaxidae"></s2>
+            <s2 page="0320" title="Fam. Erythraeidae"></s2>
+            <s2 page="0326" title="Fam. Ameroseiidae"></s2>
+            <s2 page="0329" title="Fam. Ascidae"></s2>
+            <s2 page="0331" title="Fam. Phytoseiidae"></s2>
+        </s1>
+        <s1 page="0407" title="Mites of Uncertain Economic Importance">
+            <s2 page="0407" title="Fam. Acaridae"></s2>
+            <s2 page="0409" title="Fam. Oribatulidae"></s2>
+        </s1>
+        <s1 page="0411" title="Plant-Mite Catalogue"></s1>
+        <s1 page="0441" title="Statewise Distribution of Mites"></s1>
+        <s1 page="0455" title="References"></s1>
+        <s1 page="0495" title="Glossary"></s1>
+        <s1 page="0507" title="Index of Scientific Names"></s1>
+	</book>
 </hpg>

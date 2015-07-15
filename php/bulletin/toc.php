@@ -64,7 +64,7 @@ $db = mysql_connect("localhost",$user,$password) or die("Not connected to databa
 $rs = mysql_select_db($database,$db) or die("No Database");
 */
 
-$db = @new mysqli('localhost', "$user", "$password", "$database");
+$db = @new mysqli("$host", "$user", "$password", "$database", "$port");
 if($db->connect_errno > 0)
 {
 	echo 'Not connected to the database [' . $db->connect_errno . ']';

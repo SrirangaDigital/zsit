@@ -63,7 +63,7 @@ if(!(isValidId($book_id) && isValidType($type) && isValidTitle($book_title)))
 	exit(1);
 }
 
-$db = @new mysqli('localhost', "$user", "$password", "$database");
+$db = @new mysqli("$host", "$user", "$password", "$database", "$port");
 if($db->connect_errno > 0)
 {
 	echo 'Not connected to the database [' . $db->connect_errno . ']';

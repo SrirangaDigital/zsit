@@ -75,7 +75,7 @@
 include("connect.php");
 require_once("../common.php");
 
-$db = @new mysqli('localhost', "$user", "$password", "$database");
+$db = @new mysqli("$host", "$user", "$password", "$database", "$port");
 if($db->connect_errno > 0)
 {
 	echo '<li>Not connected to the database [' . $db->connect_errno . ']</li>';

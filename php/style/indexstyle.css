@@ -385,6 +385,32 @@ html, body {
 	color: #000000;
 	text-decoration:none;
 }
+.downloadBook{
+	/*float: right;*/
+	color: #483D8B; 
+}
+.downloadBook a{
+	color: #483D8B; 
+	text-decoration: none;
+}
+.downloadBook a:hover{
+	color: #483D8B; 
+	text-decoration: underline;
+}
+.downloadBookInList{
+	/*float: right;*/
+	margin-left: 1.5em;
+	font-size: 0.9em;
+	color: #483D8B; 
+}
+.downloadBookInList a{
+	color: #483D8B; 
+	text-decoration: none;
+}
+.downloadBookInList a:hover{
+	color: #483D8B; 
+	text-decoration: underline;
+}
 .mainpage .archive_holder ul{
 	margin-left: 2em;
 }
@@ -870,7 +896,7 @@ html, body {
 }
 .space_left{
 	margin-left: 4em;
-	font-size: 0.9em;
+	/*font-size: 0.9em;*/
 }
 .book_cover{
 	float: right;

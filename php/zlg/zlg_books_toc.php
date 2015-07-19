@@ -168,6 +168,8 @@ $book_info = preg_replace("/^ /", "", $book_info);
 $book_info = preg_replace("/^\|/", "", $book_info);
 $book_info = preg_replace("/^ /", "", $book_info);
 
+$PDFUrl = '../../PDFVolumes/' . $type . '/' . $book_id . '/index.pdf';
+if (file_exists($PDFUrl)) $book_info .= '<br /><span class="downloadBook"><a target="_blank" href="' . $PDFUrl . '">Download Book (PDF)</a></span>';
 echo "$book_info</div>";
 if($num_rows > 0)
 {

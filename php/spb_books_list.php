@@ -147,6 +147,9 @@ if($num_rows > 0)
 		{
 			$title = "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">$title</a></span>";
 		}
+
+		$PDFUrl = '../PDFVolumes/' . $type . '/' . $book_id . '/index.pdf';
+		if (file_exists($PDFUrl)) $title .= '<br /><span class="downloadBookInList"><a target="_blank" href="' . $PDFUrl . '">Download Book (PDF)</a></span>';
 				
 		$title = preg_replace('/!!(.*)!!/', "<i>$1</i>", $title);
 		$title = preg_replace('/---/', "&mdash;", $title);

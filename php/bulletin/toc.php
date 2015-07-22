@@ -102,6 +102,10 @@ if($num_rows > 0)
 	$dpart = preg_replace("/\-0/", "-", $dpart);
 			
 	echo "<div class=\"page_title\"><span class=\"motif bul_motif\"></span>Volume&nbsp;".intval($volume)."&nbsp;- Part&nbsp;".$dpart."&nbsp;&nbsp;:&nbsp;&nbsp;".$month_name{intval($month)}."&nbsp;".$year." <span class=\"it\">(Bulletin)</span></div>";
+	
+	$PDFUrl = '../../PDFVolumes/bulletin/' . $volume . '/' . $part . '/index.pdf';
+	if (file_exists($PDFUrl)) echo '<div class="page_other"><span class="downloadBook"><a target="_blank" href="' . $PDFUrl . '">Download entire issue (PDF)</a></span></div>';
+
 	echo "<ul class=\"dot\">";
 }
 
@@ -188,7 +192,10 @@ if($num_rows1 > 0)
 
 			}
 		}
-		echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/bulletin/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
+		echo "<br /><span class=\"downloadspan\">";
+		$ArticlePDFUrl = '../../PDFVolumes/bulletin/' . $volume . '/' . $part . '/' . $page . '-' . $row1['page_end'] . '.pdf';
+		if (file_exists($ArticlePDFUrl)) echo '<a target="_blank" href="' . $ArticlePDFUrl . '">Download article (PDF)</a> &nbsp;|&nbsp; ';
+		echo "<a href=\"../../Volumes/bulletin/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article (DjVu)</a></span>";
 		echo "</li>\n";
 	}
 }

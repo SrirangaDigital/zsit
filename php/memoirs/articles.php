@@ -209,7 +209,10 @@ if($num_rows > 0)
 				if($result2){$result2->free();}
 			}
 		}
-		echo "<br /><span class=\"downloadspan\"><a href=\"../../Volumes/memoirs/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
+		echo "<br /><span class=\"downloadspan\">";
+		$ArticlePDFUrl = '../../PDFVolumes/memoirs/' . $volume . '/' . $part . '/' . $page . '-' . $row['page_end'] . '.pdf';
+		if (file_exists($ArticlePDFUrl)) echo '<a target="_blank" href="' . $ArticlePDFUrl . '">Download article (PDF)</a> &nbsp;|&nbsp; ';
+		echo "<a href=\"../../Volumes/memoirs/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article (DjVu)</a></span>";
 
 		echo "</li>\n";
 	}

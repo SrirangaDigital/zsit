@@ -34,7 +34,7 @@
 				<li><a href="volumes.php">Volumes</a></li>
 				<li><a href="articles.php" class="active">Articles</a></li>
 				<li><a href="authors.php">Authors</a></li>
-				<li><a href="features.php">Categories</a></li>
+				<!-- <li><a href="features.php">Categories</a></li> -->
 				<li class="gap_below"><a href="../search.php">Search</a></li>
 				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/?pid=1" target="_blank">Get DjVu</a></li>
 			</ul>

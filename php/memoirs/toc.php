@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Zoological Survey of India | Digital archives of their Publications</title>
@@ -33,7 +34,7 @@
 				<li><a href="volumes.php" class="active">Volumes</a></li>
 				<li><a href="articles.php">Articles</a></li>
 				<li><a href="authors.php">Authors</a></li>
-				<li><a href="features.php">Categories</a></li>
+				<!-- <li><a href="features.php">Categories</a></li> -->
 				<li class="gap_below"><a href="../search.php">Search</a></li>
 				<li><a title="Click to download DjVu plugin" href="https://www.cuminas.jp/en/downloads/download_en/?pid=1" target="_blank">Get DjVu</a></li>
 			</ul>

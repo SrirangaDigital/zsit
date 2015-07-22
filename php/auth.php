@@ -213,7 +213,14 @@ if($num_rows > 0)
 			echo "<li><span class=\"motif ".$type."_motif\"></span>";
 			echo "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">$title</a></span>";
 			echo "<br /><span class=\"bookspan\">$book_info</span>";
-			echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book</a>&nbsp;|&nbsp;<a href=\"\" target=\"_blank\">Download Book (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (PDF)</a></span>";
+			echo "<br /><span class=\"downloadspan\">";
+				echo "<a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">View TOC</a>&nbsp;|&nbsp;";
+
+				$PDFUrl = '../PDFVolumes/' . $type . '/' . $book_id . '/index.pdf';
+				if (file_exists($PDFUrl)) echo '<a target="_blank" href="' . $PDFUrl . '">Download Book (PDF)</a>&nbsp;|&nbsp;';
+
+				echo "<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
+			echo "</span>";
 			echo "</li>\n";
 		}
 		elseif(($type == "sfs") || ($type == "cas") || ($type == "ess") || ($type == "spb") || ($type == "zlg"))
@@ -298,7 +305,14 @@ if($num_rows > 0)
 			echo "<li><span class=\"motif ".$type."_motif\"></span>";
 			echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\">$title</a></span>";
 			echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"yearspan\">$stitle</span><br /><span class=\"bookspan\">$book_info</span>";
-			echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;<a href=\"\" target=\"_blank\">Download Article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (PDF)</a></span>";
+			echo "<br /><span class=\"downloadspan\">";
+				echo "<a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;";
+				
+				$PDFUrl = '../PDFVolumes/' . $type . '/' . $book_id . '/index.pdf';
+				if (file_exists($PDFUrl)) echo '<a target="_blank" href="' . $PDFUrl . '">Download Book (PDF)</a>&nbsp;|&nbsp;';
+
+				echo "<a href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View Article (DjVu)</a>";
+			echo "</span>";
 			echo "</li>\n";
 		}
 		elseif(($type == "type"))
@@ -372,7 +386,11 @@ if($num_rows > 0)
 					echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"featurespan\"><a href=\"$type/feat.php?feature=" . urlencode($feature) . "&amp;featid=$featid\">$feature</a></span>";
 				}
 				
-				echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
+				echo "<br /><span class=\"downloadspan\">";
+				$ArticlePDFUrl = '../PDFVolumes/' . $type . '/' . $volume . '/' . $part . '/' . $page . '-' . $row_aux['page_end'] . '.pdf';
+				if (file_exists($ArticlePDFUrl)) echo '<a target="_blank" href="' . $ArticlePDFUrl . '">Download article (PDF)</a> &nbsp;|&nbsp; ';
+				echo "<a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article (DjVu)</a></span>";
+
 				echo "</li>\n";
 			}
 			elseif($type == "occpapers")
@@ -380,7 +398,12 @@ if($num_rows > 0)
 				echo "<li><span class=\"motif ".$type."_motif\"></span>";
 				echo "<span class=\"titlespan\"><a target=\"_blank\" href=\"../Volumes/occpapers/$paper/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">$title</a></span>";
 				echo "<span class=\"featurespan\"><br />Occ. paper no.&nbsp;".intval($paper)."&nbsp;($year)</span>";
-				echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/occpapers/$paper/index.djvu?djvuopts&amp;page=1&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
+	
+				echo "<br /><span class=\"downloadspan\">";
+				$ArticlePDFUrl = '../PDFVolumes/occpapers/' . $paper . '/index.pdf';
+				if (file_exists($ArticlePDFUrl)) echo '<a target="_blank" href="' . $ArticlePDFUrl . '">Download article (PDF)</a> &nbsp;|&nbsp; ';
+				echo "<a href=\"../Volumes/occpapers/$paper/index.djvu?djvuopts&amp;page=1&amp;zoom=page\" target=\"_blank\">View article (DjVu)</a></span>";
+	
 				echo "</li>\n";
 			}
 		}

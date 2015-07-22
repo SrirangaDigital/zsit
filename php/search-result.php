@@ -490,7 +490,16 @@ if(isset($_GET['check']))
 					echo "<span class=\"titlespan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">$title</a></span>";
 					echo "<br /><span class=\"bookspan\">$book_info</span>";
 					print_author($authid,$db);
-					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">View TOC</a>&nbsp;|&nbsp;<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Book (PDF)</a></span>";
+					
+					echo "<br /><span class=\"downloadspan\">";
+						echo "<a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($title) . "\">View TOC</a>&nbsp;|&nbsp;";
+
+						$PDFUrl = '../PDFVolumes/' . $type . '/' . $book_id . '/index.pdf';
+						if (file_exists($PDFUrl)) echo '<a target="_blank" href="' . $PDFUrl . '">Download Book (PDF)</a>&nbsp;|&nbsp;';
+
+						echo "<a target=\"_blank\" href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=1&amp;zoom=page\">Read Book (DjVu)</a>";
+					echo "</span>";
+
 					$id = $slno;
 					
 					if($text != '')
@@ -590,7 +599,16 @@ if(isset($_GET['check']))
 					}
 					echo "<span class=\"titlespan\">&nbsp;&nbsp;|&nbsp;&nbsp;</span><span class=\"yearspan\">$stitle</span><br /><span class=\"bookspan\">$book_info</span>";
 					print_author($authid,$db);
-					echo "<br /><span class=\"downloadspan\"><a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download Article (PDF)</a></span>";
+					
+					echo "<br /><span class=\"downloadspan\">";
+						echo "<a href=\"".$type."/".$type."_books_toc.php?book_id=$book_id&amp;type=$type&amp;book_title=" . urlencode($btitle) . "\">View TOC</a>&nbsp;|&nbsp;";
+
+						$PDFUrl = '../PDFVolumes/' . $type . '/' . $book_id . '/index.pdf';
+						if (file_exists($PDFUrl)) echo '<a target="_blank" href="' . $PDFUrl . '">Download Book (PDF)</a>&nbsp;|&nbsp;';
+
+						echo "<a href=\"../Volumes/$type/$book_id/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View Article (DjVu)</a>";
+					echo "</span>";
+
 					$id = $slno;
 					
 					if($text != '')
@@ -701,11 +719,18 @@ if(isset($_GET['check']))
 					
 					if(($type == "records") || ($type == "memoirs") || ($type == "bulletin"))
 					{
-						echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
+						echo "<br /><span class=\"downloadspan\">";
+						$ArticlePDFUrl = '../PDFVolumes/' . $type . '/' . $volume . '/' . $part . '/' . $page . '-' . $row_aux['page_end'] . '.pdf';
+						if (file_exists($ArticlePDFUrl)) echo '<a target="_blank" href="' . $ArticlePDFUrl . '">Download article (PDF)</a> &nbsp;|&nbsp; ';
+						echo "<a href=\"../Volumes/$type/$volume/$part/index.djvu?djvuopts&amp;page=$page.djvu&amp;zoom=page\" target=\"_blank\">View article (DjVu)</a></span>";
+
 					}
 					elseif($type == "occpapers")
 					{
-						echo "<br /><span class=\"downloadspan\"><a href=\"../Volumes/occpapers/$paper/index.djvu?djvuopts&amp;page=1&amp;zoom=page\" target=\"_blank\">View article</a>&nbsp;|&nbsp;<a href=\"#\">Download article (DjVu)</a>&nbsp;|&nbsp;<a href=\"#\">Download article (PDF)</a></span>";
+						echo "<br /><span class=\"downloadspan\">";
+						$ArticlePDFUrl = '../PDFVolumes/occpapers/' . $paper . '/index.pdf';
+						if (file_exists($ArticlePDFUrl)) echo '<a target="_blank" href="' . $ArticlePDFUrl . '">Download article (PDF)</a> &nbsp;|&nbsp; ';
+						echo "<a href=\"../Volumes/occpapers/$paper/index.djvu?djvuopts&amp;page=1&amp;zoom=page\" target=\"_blank\">View article (DjVu)</a></span>";
 					}
 
 					if($text != '')

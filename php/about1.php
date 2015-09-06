@@ -16,9 +16,9 @@
 		<div class="title">
 			<p class="eng">
 				<span class="big">भारत सरकार</span><br />
-				पर्यावरण एवं वन मंत्रालय<br />
+				पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय<br />
 				<span class="big">Government of India</span><br />
-				Ministry of Environment and Forests
+				Ministry of Environment, Forest and<br />Climate Change
 			</p>
 			<div class="full">
 				<p class="small">भारतीय प्राणी सर्वेक्षण</p>
@@ -83,7 +83,7 @@
 			<p>Secondary Objectives:</p>
 			<ul class="lower_roman">
 				<li>Maintenance of Museums at Headquarters and Regional Centres;</li>
-				<li>Environmental Impact assessment Studies wherever specially asked for by the ministry of Environment &amp; Forests.</li>
+				<li>Environmental Impact assessment Studies wherever specially asked for by the ministry of Environment, Forest and Climate Change.</li>
 			</ul>
 			<p>One exciting achievement during the recent years was the inclusion of a scientist from Zoological Survey of India in the teams for the expeditions to Antarctica from 1989 onwards. ZSI also streamlined the procedure for the participation of ZSI scientific workers at National and international Conferences which had helped in projecting its best talents. The institution also encouraged its scientists in dissemination of knowledge by setting up new trends in training programs, holding scholarly scientific lectures. A clear-cut publication policy, with priorities defined, was also initiated. All the scientific assignments of the Survey are now being closely monitored at phased intervals, by various committees, envisioned with a focus on realistic progress and significant achievements.</p>
 			<p>Efforts have been made in recent times towards an integrated approach to zoological investigations so as to have a more purpose-oriented research incorporating biological, ecological and ethological aspects. Despite the inclusion of other areas of research in the institution’s programme, taxonomy continues to occupy a prominent role.  However, the morphology-based classical taxonomy, the crux of scientific research of the Survey, has further been supported with the high-end, modern tools of molecular taxonomy, viz., DNA Fingerprinting Techniques, for improving the quality and scope of the taxonomic research of the institution.</p>

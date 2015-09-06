@@ -15,9 +15,9 @@
 		<div class="title">
 			<p class="eng">
 				<span class="big">भारत सरकार</span><br />
-				पर्यावरण एवं वन मंत्रालय<br />
+				पर्यावरण, वन और जलवायु परिवर्तन मंत्रालय<br />
 				<span class="big">Government of India</span><br />
-				Ministry of Environment and Forests
+				Ministry of Environment, Forest and<br />Climate Change
 			</p>
 			<div class="full">
 				<p class="small">भारतीय प्राणी सर्वेक्षण</p>

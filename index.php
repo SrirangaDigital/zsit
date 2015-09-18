@@ -6,6 +6,8 @@
 <title>Zoological Survey of India | Digital archives of their Publications</title>
 <link href="php/style/reset.css" media="screen" rel="stylesheet" type="text/css" />
 <link href="php/style/indexstyle.css" media="screen" rel="stylesheet" type="text/css" />
+<link rel="stylesheet" type="text/css" href="php/js/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="php/js/slick/slick-theme.css"/>
 </head>
 
 <body>
@@ -85,6 +87,31 @@
 		</div>
 	</div>
 	<div class="mainpage">
+		<div class="carousel slider single-item">
+<?php
+			$carouselSlides = array('<div><p>Paragomphus lineatus</p><img src="php/images/slides/DSC_0110.jpg" alt="fauna of india"></div>',
+			'<div><p>Velvet mite</p><img src="php/images/slides/DSC_0129.jpg" alt="fauna of india"></div>',
+			'<div><p>Loop worm</p><img src="php/images/slides/DSC_0184.jpg" alt="fauna of india"></div>',
+			'<div><p>Lime Butterfly caterpillar</p><img src="php/images/slides/DSC_0256.jpg" alt="fauna of india"></div>',
+			'<div><p>Nilssonia leithii</p><img src="php/images/slides/DSC_1047.JPG" alt="fauna of india"></div>',
+			'<div><p>Common Jazebel</p><img src="php/images/slides/DSC_1922.jpg" alt="fauna of india"></div>',
+			'<div><p>Paris Peacock</p><img src="php/images/slides/DSCF8133.JPG" alt="fauna of india"></div>',
+			'<div><!-- <p></p> --><img src="php/images/slides/DSCF9262.JPG" alt="fauna of india"></div>',
+			'<div><!-- <p></p> --><img src="php/images/slides/IMG_1418.JPG" alt="fauna of india"></div>',
+			'<div><!-- <p></p> --><img src="php/images/slides/IMG_1440.JPG" alt="fauna of india"></div>',
+			'<div><p>Ahaetulla nasuta (Green Vine Snake)</p><img src="php/images/slides/IMG_1857.JPG" alt="fauna of india"></div>',
+			'<div><!-- <p></p> --><img src="php/images/slides/IMG_4276.JPG" alt="fauna of india"></div>',
+			'<div><p>Three Spot Grass Yellow</p><img src="php/images/slides/IMG_6350.JPG" alt="fauna of india"></div>',
+			'<div><p>Libellago lineata</p><img src="php/images/slides/IMG_7935.JPG" alt="fauna of india"></div>',
+			'<div><p>Ictinogomphus rapax</p><img src="php/images/slides/IMG_8063.JPG" alt="fauna of india"></div>');
+	
+	shuffle($carouselSlides);
+	foreach ($carouselSlides as $slide) {
+		
+		echo $slide;
+	}	
+?>
+		</div>
 		<div class="nav">
 			<ul class="menu">
 				<li class="gap_below"><a href="php/search.php">Advanced Search</a></li>
@@ -199,6 +226,9 @@
 		</ul>
 	</div>
 </div>
+<script type="text/javascript" src="php/js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="php/js/slick/slick.min.js"></script>
+<script type="text/javascript" src="php/js/slick/scripts.js"></script>
 </body>
 
 </html>

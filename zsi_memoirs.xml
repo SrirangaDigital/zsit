@@ -1311,5 +1311,18 @@
 				</entry>
 			</part>
 		</volume>
+		<volume vnum="022">
+			<part pnum="01" month="04" year="2014">
+				<entry>
+					<title>A Systematic Inventory of Scelioninae and Teleasinae (Hymenoptera : Platygastridae) in the Rice Ecosystems of North-central Kerala</title>
+					<feature></feature>
+					<page>0001-0072</page>
+					<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</plates>
+					<allauthors>
+						<author>Rajmohana, K.</author>
+					</allauthors>
+				</entry>
+			</part>
+		</volume>
 	</memoirs>
 </zsi>

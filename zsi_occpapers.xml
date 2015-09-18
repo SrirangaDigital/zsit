@@ -4171,7 +4171,7 @@
 				<title>Aquatic Insects of Lakes in and around Hyderabad (Hempitera and Coleoptera)</title>
 				<feature></feature>
 				<page>0001-0051</page>
-				<plates></plates>
+				<plates>1,2,3,4,5,6,7</plates>
 				<allauthors>
 					<author>Jaiswal, Deepa</author>
 				</allauthors>
@@ -4187,6 +4187,195 @@
 					<author>Pal, T. K.</author>
 					<author>Talukder, B.</author>
 					<author>Baraik, B.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="352" month="00" year="2013">
+			<entry>
+				<title>Diversity, Abundance and Seasonal Fluctuation of Zooplankton from few Wetlands in and around Kolkata</title>
+				<feature></feature>
+				<page>0001-0047</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12</plates>
+				<allauthors>
+					<author>Chitra, J.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="353" month="00" year="2014">
+			<entry>
+				<title>Studies on Odonata and Lepidoptera fauna of foothills of Aravalli Range, Rajasthan</title>
+				<feature></feature>
+				<page>0001-0104</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21</plates>
+				<allauthors>
+					<author>Sharma, Gaurav</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="354" month="00" year="2014">
+			<entry>
+				<title>A Study on the Threatened and Endemic Fishes of North Bengal, India with a discussion on the potential impact of climate change on them</title>
+				<feature></feature>
+				<page>0001-0056</page>
+				<plates></plates>
+				<allauthors>
+					<author>Barman, R. P.</author>
+					<author>Das, A.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="355" month="00" year="2014">
+			<entry>
+				<title>Studies on the Helminth Parasites of district Dehradun</title>
+				<feature></feature>
+				<page>0001-0039</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27</plates>
+				<allauthors>
+					<author>Rizvi, N. Anjum</author>
+					<author>Bhutia, P. T.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="356" month="00" year="2014">
+			<entry>
+				<title>Macrodeteriogens of Wood at Visakhapatnam Harbour East Coast of India</title>
+				<feature></feature>
+				<page>0001-0039</page>
+				<plates>1,2,3,4</plates>
+				<allauthors>
+					<author>Pati, S. K.</author>
+					<author>Rao, M. V.</author>
+					<author>Balaji, M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="357" month="00" year="2014">
+			<entry>
+				<title>Catalogue of Mammalia in the Collection of the Zoological Survey of India, Western Regional Centre, Pune</title>
+				<feature></feature>
+				<page>0001-0187</page>
+				<plates>1</plates>
+				<allauthors>
+					<author>Talmale, S. S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="358" month="00" year="2014">
+			<entry>
+				<title>Taxonomic Study on Nemacheiline Loaches of North East India</title>
+				<feature></feature>
+				<page>0001-0034</page>
+				<plates>1,2,3</plates>
+				<allauthors>
+					<author>Khynriam, Dimos</author>
+					<author>Sen, Nibedita</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="359" month="00" year="2014">
+			<entry>
+				<title>Taxonomic Studies of Lepidoptera (Insecta) of Dalma Wildlife Sanctuary, Jharkhand (India)</title>
+				<feature></feature>
+				<page>0001-0103</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23</plates>
+				<allauthors>
+					<author>Sambath, S.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="360" month="00" year="2014">
+			<entry>
+				<title>Faunal Resources in the Ritchie's Archipleago, Andaman and Nicobar Islands</title>
+				<feature></feature>
+				<page>0001-0079</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11</plates>
+				<allauthors>
+					<author>Sivaperuman, C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="361" month="00" year="2014">
+			<entry>
+				<title>Faunal Resources and Assessment of the Impact of Mining Activities on Fauna of Chhotonagpur Coalfield Areas Jharkhand, India</title>
+				<feature></feature>
+				<page>0001-0047</page>
+				<plates></plates>
+				<allauthors>
+					<author>Sanyal, A. K.</author>
+					<author>Chattapadhyay, S. K.</author>
+					<author>Pal, T. K.</author>
+					<author>Karmakar, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="363" month="00" year="2014">
+			<entry>
+				<title>Freshwater Crabs (Crustacea: Decapoda: Brachyura: Gecarcinucidae) in the Collection of the Western Regional Centre, Pune</title>
+				<feature></feature>
+				<page>0001-0044</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11</plates>
+				<allauthors>
+					<author>Pati, S. K.</author>
+					<author>Sharma, R. M.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="364" month="00" year="2014">
+			<entry>
+				<title>A Study of Diversity of Collembola (Insecta) Fauna of Darjeeling Himalayas, West Bengal, India</title>
+				<feature></feature>
+				<page>0001-0139</page>
+				<plates></plates>
+				<allauthors>
+					<author>Pahari, Dhrubajyoti</author>
+					<author>Mandal, Gurupada</author>
+					<author>Hazra, Ashis Kumar</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="367" month="00" year="2014">
+			<entry>
+				<title>A Checklist of Subfamily Arctiinae (Erebidae : Noctuoidea : Lepidoptera) from India</title>
+				<feature></feature>
+				<page>0001-0076</page>
+				<plates></plates>
+				<allauthors>
+					<author>Singh, Jagbir</author>
+					<author>Singh, Navneet</author>
+					<author>Joshi, Rahul</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="368" month="00" year="2015">
+			<entry>
+				<title>A Review on Paronellinae (Collembola : Paronellidae) of India</title>
+				<feature></feature>
+				<page>0001-0063</page>
+				<plates></plates>
+				<allauthors>
+					<author>Hazra, A. K.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="369" month="00" year="2015">
+			<entry>
+				<title>Littoral Faunal Diversity of Great Nicobar Island</title>
+				<feature></feature>
+				<page>0001-0144</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28</plates>
+				<allauthors>
+					<author>Raghunathan, C.</author>
+				</allauthors>
+			</entry>
+		</paper>
+		<paper pnum="370" month="00" year="2015">
+			<entry>
+				<title>Diversity of Reef Associated Macrofauna of Rutland Island, Andaman and Nicobar Islands</title>
+				<feature></feature>
+				<page>0001-0127</page>
+				<plates>1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25</plates>
+				<allauthors>
+					<author>Raghunathan, C.</author>
 				</allauthors>
 			</entry>
 		</paper>

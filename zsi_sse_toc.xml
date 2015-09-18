@@ -353,4 +353,86 @@
 		<s1 page="0009" title="7. Acknowledgements"></s1>
 		<s1 page="0009" title="8. Reference"></s1>
 	</book>
-</sses>
+	<book bid="011">
+        <s1 page="0001" title="1. General Introduction">
+			<s2 page="0001" title="Ecological distribution"></s2>
+			<s2 page="0002" title="Bêche-de-mer"></s2>
+			<s2 page="0002" title="Economic importance"></s2>
+			<s2 page="0003" title="Trade and export potential"></s2>
+			<s2 page="0004" title="Indian scenario"></s2>
+			<s2 page="0005" title="Bêche-de-mer industry"></s2>
+			<s2 page="0005" title="Legislation on Holothurians"></s2>
+			<s2 page="0006" title="Holothurians diversity"></s2>
+        </s1>
+        <s1 page="0015" title="2. Objectives of the Study">
+			<s2 page="0015" title="Rationale"></s2>
+			<s2 page="0015" title="Period of study"></s2>
+			<s2 page="0015" title="Aim and objectives"></s2>
+        </s1>
+        <s1 page="0016" title="3. Study Area"></s1>
+        <s1 page="0027" title="4. Material and Methods">
+			<s2 page="0027" title="Assessment of Holothurians"></s2>
+        </s1>
+        <s1 page="0028" title="5. Results and Discussion">
+			<s2 page="0028" title="Holothurians">
+				<s3 page="0028" title="1. Status of Holothurians"></s3>
+				<s3 page="0028" title="2. Diversity and distribution of Holothurians"></s3>
+				<s3 page="0031" title="3. Key characters and diagnostic features of Holothurians">
+					<s4 page="0031" title="1. Actninopyga mauritiana (Quoy and Gaimard, 1833)"></s4>
+					<s4 page="0031" title="2. Actinopyga miliaris (Quoy and Gaimard, 1833)"></s4>
+					<s4 page="0031" title="3. Actinopyga lecanora (Jaeger, 1833)"></s4>
+					<s4 page="0032" title="4. Actinopyga echinites (Jaeger, 1833)"></s4>
+					<s4 page="0033" title="5. Holothuria cinerascens (Brandt 1835)"></s4>
+					<s4 page="0034" title="6. Holothuria (Thymiosycia) hilla (Lesson, 1830)"></s4>
+					<s4 page="0035" title="7. Holothuria (Thymiosycia) impatiens (Forskal, 1775)"></s4>
+					<s4 page="0036" title="8. Holothuria atra (Jaeger, 1833)"></s4>
+					<s4 page="0037" title="9. Holothuria (Acanthotrapeza) pyxis (Selenka, 1867)"></s4>
+					<s4 page="0037" title="10. Holothuria leucospilota (Brandt, 1835)"></s4>
+					<s4 page="0038" title="11. Holothuria (Mertensiothuria) fuscocinerea (Jaeger, 1833)"></s4>
+					<s4 page="0039" title="12. Holothuria (Metriatyla) scabra (Jaeger, 1833)"></s4>
+					<s4 page="0040" title="13. Holothuria (Halodeima) edulis (Lesson, 1830)"></s4>
+					<s4 page="0040" title="14. Holothuria (Microthele) nobilis (Selenka, 1867)"></s4>
+					<s4 page="0041" title="15. Holothuria coluber (Semper, 1868)"></s4>
+					<s4 page="0042" title="16. Holothuria (Mertensiothuria) pervicax (Selenka, 1867)"></s4>
+					<s4 page="0043" title="17. Holothuria arenicola (Semper, 1868)"></s4>
+					<s4 page="0044" title="18. Bohadschia marmorata (Jaeger, 1833)"></s4>
+					<s4 page="0044" title="19. Bohadschia argus (Jaeger, 1833)"></s4>
+					<s4 page="0045" title="20. Bohadschia graeffei (Semper, 1868)"></s4>
+					<s4 page="0046" title="21. Labidodemas semperianum (Selenka, 1867)"></s4>
+					<s4 page="0047" title="22. Stolus buccalis (Stimpson, 1856)"></s4>
+					<s4 page="0047" title="23. Thelenota ananas (Jaeger, 1833)"></s4>
+					<s4 page="0048" title="24. Stichopus horrens (Selenka, 1867)"></s4>
+					<s4 page="0049" title="25. Stichopus chloronotus (Brandt, 1835)"></s4>
+					<s4 page="0050" title="26. Stichopus hermanni (Semper, 1868)"></s4>
+					<s4 page="0050" title="27. Stichopus vastus (Sluiter, 1887)"></s4>
+					<s4 page="0051" title="28. Synapta maculata (Chamisso and Eysenhardt, 1821)"></s4>
+					<s4 page="0052" title="29. Euapta godreffroyi (Semper, 1868)"></s4>
+					<s4 page="0053" title="30. Acaudina molpadioides (Semper, 1868)"></s4>
+				</s3>
+				<s3 page="0054" title="4. Density of holothurians"></s3>
+				<s3 page="0056" title="5. Density of economically important holothurians">
+					<s4 page="0056" title="1. Actinopyga mauritiana (Quoy and Gaimard, 1833)"></s4>
+					<s4 page="0057" title="2. Actinopyga miliaris (Quoy and Gaimard, 1833)"></s4>
+					<s4 page="0058" title="3. Actinopyga lecanora (Jaeger, 1833)"></s4>
+					<s4 page="0058" title="4. Actinopyga echinites (Jaeger, 1833)"></s4>
+					<s4 page="0059" title="5. Holothuria atra (Jaeger, 1833)"></s4>
+					<s4 page="0059" title="6. Holothuria (Metriatyla) scabra (Jaeger, 1833)"></s4>
+					<s4 page="0060" title="7. Holothuria (Halodeima) edulis (Lesson, 1830)"></s4>
+					<s4 page="0061" title="8. Holothuria (Microthele) nobilis (Selenka, 1867)"></s4>
+					<s4 page="0061" title="9. Bohadschia marmorata (Jaeger, 1833)"></s4>
+					<s4 page="0062" title="10. Bohadschia argus (Jaeger, 1833)"></s4>
+					<s4 page="0062" title="11. Thelenota ananas (Jaeger, 1833)"></s4>
+					<s4 page="0063" title="12. Stichopus horrens (Selenka, 1867)"></s4>
+					<s4 page="0063" title="13. Stichopus chloronotus (Brandt, 1835)"></s4>
+					<s4 page="0064" title="14. Stichopus hermanni (Semper, 1868)"></s4>
+				</s3>
+				<s3 page="0065" title="6. Total length of economically important holothurians"></s3>
+				<s3 page="0065" title="7. Total wet weight of economically important holothurians"></s3>
+			</s2>
+        </s1>
+        <s1 page="0085" title="6. Summary"></s1>
+        <s1 page="0087" title="7. Illegal Fishing and Poaching"></s1>
+        <s1 page="0089" title="8. Acknowledgements"></s1>
+        <s1 page="0090" title="9. References"></s1>
+	</book>
+</sse>

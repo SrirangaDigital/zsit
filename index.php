@@ -89,21 +89,27 @@
 	<div class="mainpage">
 		<div class="carousel slider single-item">
 <?php
-			$carouselSlides = array('<div><p>Paragomphus lineatus</p><img src="php/images/slides/DSC_0110.jpg" alt="fauna of india"></div>',
-			'<div><p>Velvet mite</p><img src="php/images/slides/DSC_0129.jpg" alt="fauna of india"></div>',
-			'<div><p>Loop worm</p><img src="php/images/slides/DSC_0184.jpg" alt="fauna of india"></div>',
-			'<div><p>Lime Butterfly caterpillar</p><img src="php/images/slides/DSC_0256.jpg" alt="fauna of india"></div>',
-			'<div><p>Nilssonia leithii</p><img src="php/images/slides/DSC_1047.JPG" alt="fauna of india"></div>',
-			'<div><p>Common Jazebel</p><img src="php/images/slides/DSC_1922.jpg" alt="fauna of india"></div>',
-			'<div><p>Paris Peacock</p><img src="php/images/slides/DSCF8133.JPG" alt="fauna of india"></div>',
-			'<div><!-- <p></p> --><img src="php/images/slides/DSCF9262.JPG" alt="fauna of india"></div>',
-			'<div><!-- <p></p> --><img src="php/images/slides/IMG_1418.JPG" alt="fauna of india"></div>',
-			'<div><!-- <p></p> --><img src="php/images/slides/IMG_1440.JPG" alt="fauna of india"></div>',
-			'<div><p>Ahaetulla nasuta (Green Vine Snake)</p><img src="php/images/slides/IMG_1857.JPG" alt="fauna of india"></div>',
-			'<div><!-- <p></p> --><img src="php/images/slides/IMG_4276.JPG" alt="fauna of india"></div>',
-			'<div><p>Three Spot Grass Yellow</p><img src="php/images/slides/IMG_6350.JPG" alt="fauna of india"></div>',
-			'<div><p>Libellago lineata</p><img src="php/images/slides/IMG_7935.JPG" alt="fauna of india"></div>',
-			'<div><p>Ictinogomphus rapax</p><img src="php/images/slides/IMG_8063.JPG" alt="fauna of india"></div>');
+			$carouselSlides = array(
+				'<div><p>Barheaded Gheese</p><img src="php/images/slides/Barheaded_Gheese.JPG" alt="Barheaded Gheese"></div>',
+				'<div><p>Blossomhead Parkeet</p><img src="php/images/slides/Blossomhead_Parkeet.JPG" alt="Blossomhead Parkeet"></div>',
+				'<div><p>Chital</p><img src="php/images/slides/Chital.jpg" alt="Chital"></div>',
+				'<div><p>Euphaea cardinalis</p><img src="php/images/slides/Euphaea_cardinalis.JPG" alt="Euphaea cardinalis"></div>',
+				'<div><p>Eurasian Griffon</p><img src="php/images/slides/Eurasian_Griffon.jpg" alt="Eurasian Griffon"></div>',
+				'<div><p>Indian Fritilery</p><img src="php/images/slides/Indian_Fritilery.JPG" alt="Indian Fritilery"></div>',
+				'<div><p>Jumping Ant (Harpegnathos saltator)</p><img src="php/images/slides/Jumping Ant (Harpegnathos_ saltator).jpg" alt="Jumping Ant (Harpegnathos saltator)"></div>',
+				'<div><p>Long Billed Vultures</p><img src="php/images/slides/Long_Billed_Vultures.JPG" alt="Long Billed Vultures"></div>',
+				'<div><p>Neurobasis chinensis</p><img src="php/images/slides/Neurobasis_chinensis.JPG" alt="Neurobasis chinensis"></div>',
+				'<div><p>Nilgai</p><img src="php/images/slides/Nilgai.JPG" alt="Nilgai"></div>',
+				'<div><p>Orbweb spider (Argiope sp.)</p><img src="php/images/slides/Orbweb_spider (Argiope sp.).JPG" alt="Orbweb spider (Argiope sp.)"></div>',
+				'<div><p>Paris Peacock</p><img src="php/images/slides/Paris_Peacock.JPG" alt="Paris Peacock"></div>',
+				'<div><p>Rhacophorus rhodopus</p><img src="php/images/slides/Rhacophorus_ rhodopus.JPG" alt="Rhacophorus rhodopus"></div>',
+				'<div><p>Rhinocypha trifasicata</p><img src="php/images/slides/Rhinocypha_trifasicata.jpg" alt="Rhinocypha trifasicata"></div>',
+				'<div><p>Sambar</p><img src="php/images/slides/Sambar.JPG" alt="Sambar"></div>',
+				'<div><p>Steppe Eagle</p><img src="php/images/slides/Steppe_Eagle.JPG" alt="Steppe Eagle"></div>',
+				'<div><p>Tiger Centipede (Scolopendra hardwickei)</p><img src="php/images/slides/Tiger_Centipede (Scolopendra_hardwickei).jpg" alt="Tiger Centipede (Scolopendra hardwickei)"></div>',
+				'<div><p>Trithemis aurora</p><img src="php/images/slides/Trithemis_aurora.JPG" alt="Trithemis aurora"></div>',
+				'<div><p>Urothemis signata</p><img src="php/images/slides/Urothemis_signata.JPG" alt="Urothemis signata"></div>'
+			);
 	
 	shuffle($carouselSlides);
 	foreach ($carouselSlides as $slide) {

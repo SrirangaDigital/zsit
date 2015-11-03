@@ -95,7 +95,7 @@
 				'<div><p>Chital</p><img src="php/images/slides/Chital.jpg" alt="Chital"></div>',
 				'<div><p>Euphaea cardinalis</p><img src="php/images/slides/Euphaea_cardinalis.JPG" alt="Euphaea cardinalis"></div>',
 				'<div><p>Eurasian Griffon</p><img src="php/images/slides/Eurasian_Griffon.jpg" alt="Eurasian Griffon"></div>',
-				'<div><p>Indian Fritilery</p><img src="php/images/slides/Indian_Fritilery.JPG" alt="Indian Fritilery"></div>',
+				'<div><p>Indian Fritillary</p><img src="php/images/slides/Indian_Fritillary.JPG" alt="Indian Fritillary"></div>',
 				'<div><p>Jumping Ant (Harpegnathos saltator)</p><img src="php/images/slides/Jumping Ant (Harpegnathos_ saltator).jpg" alt="Jumping Ant (Harpegnathos saltator)"></div>',
 				'<div><p>Long Billed Vultures</p><img src="php/images/slides/Long_Billed_Vultures.JPG" alt="Long Billed Vultures"></div>',
 				'<div><p>Neurobasis chinensis</p><img src="php/images/slides/Neurobasis_chinensis.JPG" alt="Neurobasis chinensis"></div>',
